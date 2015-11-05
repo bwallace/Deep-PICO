@@ -61,12 +61,13 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts"):
                 group_len = len(group_tokenized)
                 sent_lbls[start_index:start_index+group_len] = [1]*group_len
             
-        doc_sentence_lbls.append(sent_lbls)
-        doc_sentence_tokens.append(sent_tokenized)
+            doc_sentence_lbls.append(sent_lbls)
+            doc_sentence_tokens.append(sent_tokenized)
 
 
         docs.extend(doc_sentence_tokens)
         lbls.extend(doc_sentence_lbls)
+        #b.set_trace()
         pmids.extend([pmid]*len(doc_sentence_lbls))
 
     
