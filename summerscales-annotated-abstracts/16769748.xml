@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16769748">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">
+        clomifene  citrate  plus
+        <short>metformin</short>
+      </group>
+      and
+      <group id="1">
+        clomifene  citrate  plus
+        <short>placebo</short>
+      </group>
+      on
+      <outcome id="0">induction  of  ovulation</outcome>
+      in women with newly diagnosed polycystic ovary syndrome : randomised double blind clinical trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Multicentre trial in 20 Dutch hospitals .</s>
+    <s id="4" section="participants">
+      <ps>228</ps>
+      women with polycystic ovary syndrome .
+    </s>
+    <s id="8" section="results">
+      <gs group="0">111</gs>
+      women were allocated to
+      <group id="0">
+        clomifene  citrate  plus
+        <short>metformin</short>
+      </group>
+      (
+      <group id="0">metformin  group</group>
+      ) and
+      <gs group="1">114</gs>
+      women were allocated to
+      <group id="1">
+        clomifene  citrate  plus
+        <short>placebo</short>
+      </group>
+      (
+      <group id="1">placebo  group</group>
+      ) .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="0">ovulation  rate</outcome>
+      in the
+      <group id="0">metformin  group</group>
+      was 64 % compared with 72 % in the
+      <group id="1">placebo  group</group>
+      , a non - significant difference ( risk difference - 8 % , 95 % confidence interval - 20 % to 4 % ) .
+    </s>
+    <s id="10" section="results">
+      There were no significant differences in either
+      <outcome id="1">
+        rate  of
+        <short>ongoing  pregnancy</short>
+      </outcome>
+      ( 40 % v 46 % ; - 6 % , - 20 % to 7 % ) or
+      <outcome id="2">
+        rate  of
+        <short>spontaneous  abortion</short>
+      </outcome>
+      ( 12 % v 11 % ; 1 % , - 7 % to 10 % ) .
+    </s>
+    <s id="11" section="results">
+      A significantly larger proportion of women in the
+      <group id="0">metformin  group</group>
+      <outcome id="4">discontinued  treatment</outcome>
+      because of side effects ( 16 % v 5 % ; 11 % , 5 % to 16 % ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of clomifene citrate plus metformin and clomifene citrate plus placebo on induction of ovulation in women with newly diagnosed polycystic ovary syndrome : randomised double blind clinical trial . To compare the effectiveness of clomifene citrate plus metformin and clomifene citrate plus placebo in women with newly diagnosed polycystic ovary syndrome . Randomised clinical trial . Multicentre trial in 20 Dutch hospitals . 228 women with polycystic ovary syndrome . Clomifene citrate plus metformin or clomifene citrate plus placebo . The primary outcome measure was ovulation . Secondary outcome measures were ongoing pregnancy , spontaneous abortion , and clomifene resistance . 111 women were allocated to clomifene citrate plus metformin ( metformin group ) and 114 women were allocated to clomifene citrate plus placebo ( placebo group ) . The ovulation rate in the metformin group was 64 % compared with 72 % in the placebo group , a non - significant difference ( risk difference - 8 % , 95 % confidence interval - 20 % to 4 % ) . There were no significant differences in either rate of ongoing pregnancy ( 40 % v 46 % ; - 6 % , - 20 % to 7 % ) or rate of spontaneous abortion ( 12 % v 11 % ; 1 % , - 7 % to 10 % ) . A significantly larger proportion of women in the metformin group discontinued treatment because of side effects ( 16 % v 5 % ; 11 % , 5 % to 16 % ) . Metformin is not an effective addition to clomifene citrate as the primary method of inducing ovulation in women with polycystic ovary syndrome . Current Controlled Trials ISRCTN55906981 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the effectiveness of
+      <group id="0">
+        clomifene  citrate  plus
+        <short>metformin</short>
+      </group>
+      and
+      <group id="1">
+        clomifene  citrate  plus
+        <short>placebo</short>
+      </group>
+      in women with newly diagnosed polycystic ovary syndrome .
+    </s>
+    <s id="2" section="design">Randomised clinical trial .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Clomifene  citrate  plus
+        <short>metformin</short>
+      </group>
+      or
+      <group id="1">
+        clomifene  citrate  plus
+        <short>placebo</short>
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      The primary outcome measure was
+      <outcome id="0">ovulation</outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      Secondary outcome measures were
+      <outcome id="1">ongoing  pregnancy</outcome>
+      ,
+      <outcome id="2">spontaneous  abortion</outcome>
+      , and
+      <outcome id="3">clomifene  resistance</outcome>
+      .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="0">Metformin</group>
+      is not an effective addition to clomifene citrate as the primary method of
+      <outcome id="0">inducing  ovulation</outcome>
+      in women with polycystic ovary syndrome .
+    </s>
+    <s id="13" section="trial_registration">Current Controlled Trials ISRCTN55906981 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

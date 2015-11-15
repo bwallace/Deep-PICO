@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17762000">
+  <title>
+    <s id="0">Patients' experiences of screening for type 2 diabetes: prospective qualitative study embedded in the ADDITION (Cambridge) randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To provide insight into factors that contribute to the anxiety reported in a quantitative study of the psychological effect of screening for type 2 diabetes.</s>
+    <s id="3" section="design">Prospective qualitative interview study of patients attending a screening programme for type 2 diabetes.</s>
+    <s id="5" section="participants">23 participants (aged 50-69) attending different stages in the screening process.</s>
+    <s id="8" section="results">By the final diagnostic test, type 2 diabetes was considered a strong possibility, albeit a "mild" form.</s>
+    <s id="9" section="results">After diagnosis, people with screen detected type 2 diabetes <outcome id="0" type="good">tended to downplay its importance and <short>talked confidently</short> about their plans to control it</outcome>.</s>
+    <s id="11" section="conclusions">This study helps in understanding the limited psychological impact of screening for type 2 diabetes quantified previously, in particular by the quantitative substudy of ADDITION (Cambridge).</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To provide insight into factors that contribute to the anxiety reported in a quantitative study of the psychological effect of screening for type 2 diabetes. 
+To explore expectations of and reactions to the screening experience of patients with positive, negative, and intermediate results. 
+DESIGN: Prospective qualitative interview study of patients attending a screening programme for type 2 diabetes. 
+SETTING: Seven general practices in the ADDITION (Cambridge) trial in the east of England. 
+PARTICIPANTS: 23 participants (aged 50-69) attending different stages in the screening process. 
+RESULTS: Participants' perceptions changed as they progressed through the screening programme; the stepwise process seemed to help them adjust psychologically. 
+The first screening test was typically considered unimportant and was attended with no thought about its implications. 
+By the final diagnostic test, type 2 diabetes was considered a strong possibility, albeit a "mild" form. 
+After diagnosis, people with screen detected type 2 diabetes tended to downplay its importance and talked confidently about their plans to control it. 
+Participants with intermediate results seemed uncertain about their diagnosis, and those who screened negative were largely unaware of their remaining high risk. 
+CONCLUSIONS: This study helps in understanding the limited psychological impact of screening for type 2 diabetes quantified previously, in particular by the quantitative substudy of ADDITION (Cambridge). 
+The findings have implications for implementing such a screening programme in terms of timing and content.</fulltext>
+  <ignored>
+    <s id="2" section="objectives">To explore expectations of and reactions to the screening experience of patients with positive, negative, and intermediate results.</s>
+    <s id="4" section="setting">Seven general practices in the ADDITION (Cambridge) trial in the east of England.</s>
+    <s id="6" section="results">Participants' perceptions changed as they progressed through the screening programme; the stepwise process seemed to help them adjust psychologically.</s>
+    <s id="7" section="results">The first screening test was typically considered unimportant and was attended with no thought about its implications.</s>
+    <s id="10" section="results">Participants with intermediate results seemed uncertain about their diagnosis, and those who screened negative were largely unaware of their remaining high risk.</s>
+    <s id="12" section="conclusions">The findings have implications for implementing such a screening programme in terms of timing and content.</s>
+  </ignored>
+</abstract>
+

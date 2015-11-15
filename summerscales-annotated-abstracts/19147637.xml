@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19147637">
+  <title>
+    <s id="0">Effect of peer support on prevention of postnatal depression among high risk women: multisite randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 health regions across Ontario , Canada .</s>
+    <s id="4" section="participants">701 women in the first 2 weeks postpartum identified as high risk for postnatal depression with the Edinburgh postnatal depression scale and randomised with an internet based randomisation service .</s>
+    <s id="5" section="intervention">Proactive individualised telephone based peer ( mother to mother ) support , initiated within 48-72 hours of randomisation , provided by a volunteer recruited from the community who had previously experienced and recovered from self reported postnatal depression and attended a 4 hour training session .</s>
+    <s id="7" section="results">After web based screening of 21470 women, 701 (72%) eligible mothers were recruited.</s>
+    <s id="8" section="results">A blinded research nurse followed up more than 85% by telephone, including 613 at <time id="0">12 weeks</time> and 600 at <time id="1">24 weeks</time> postpartum.</s>
+    <s id="9" section="results">At <time id="0">12 weeks</time>, 14% (<on group="0" outcome="0" time="0">40</on>/<gs group="0">297</gs>) of women in the <group id="0" role="experiment">intervention group</group> and 25% (<on group="1" outcome="0" time="0">78</on>/<gs group="1">315</gs>) in the <group id="1" role="control">control group</group> had an <outcome id="0" type="bad">Edinburgh postnatal depression scale score &gt;12</outcome> (chi(2)=12.5,P&lt;0.001; number need to treat 8.8, 95% confidence interval 5.9 to 19.6; relative risk reduction 0.46, 95% confidence interval 0.24 to 0.62).</s>
+    <s id="11" section="results">For ethical reasons, participants identified with clinical depression at <time id="0">12 weeks</time> were referred for treatment, resulting in no differences between groups at <time id="1">24 weeks</time>.</s>
+    <s id="12" section="results">Of the 221 women in the <group id="0" role="experiment">intervention group</group> who received and evaluated their experience of peer support, over 80% were <outcome id="1" type="good"><short>satisfied</short> and would recommend this support to a friend</outcome>.</s>   
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of telephone based peer support in the prevention of postnatal depression. 
+DESIGN: Multisite randomised controlled trial. 
+SETTING: Seven health regions across Ontario, Canada. 
+PARTICIPANTS: 701 women in the first two weeks postpartum identified as high risk for postnatal depression with the Edinburgh postnatal depression scale and randomised with an internet based randomisation service. 
+INTERVENTION: Proactive individualised telephone based peer (mother to mother) support, initiated within 48-72 hours of randomisation, provided by a volunteer recruited from the community who had previously experienced and recovered from self reported postnatal depression and attended a four hour training session. 
+MAIN OUTCOME MEASURES: Edinburgh postnatal depression scale, structured clinical interview-depression, state-trait anxiety inventory, UCLA loneliness scale, and use of health services. 
+RESULTS: After web based screening of 21 470 women, 701 (72%) eligible mothers were recruited. 
+A blinded research nurse followed up more than 85% by telephone, including 613 at 12 weeks and 600 at 24 weeks postpartum. 
+At 12 weeks, 14% (40/297) of women in the intervention group and 25% (78/315) in the control group had an Edinburgh postnatal depression scale score &gt;12 (chi(2)=12.5, 
+P&lt;0.001; number need to treat 8.8, 95% confidence interval 5.9 to 19.6; relative risk reduction 0.46, 95% confidence interval 0.24 to 0.62). 
+There was a positive trend in favour of the intervention group for maternal anxiety but not loneliness or use of health services. 
+For ethical reasons, participants identified with clinical depression at 12 weeks were referred for treatment, resulting in no differences between groups at 24 weeks. 
+Of the 221 women in the intervention group who received and evaluated their experience of peer support, over 80% were satisfied and would recommend this support to a friend. 
+CONCLUSION: Telephone based peer support can be effective in preventing postnatal depression among women at high risk. 
+TRIAL REGISTRATION: ISRCTN 68337727.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of telephone based peer support in the prevention of postnatal depression.</s>
+    <s id="2" section="design">Multisite randomised controlled trial.</s>
+    <s id="6" section="main outcome measures">Edinburgh postnatal depression scale, structured clinical interview-depression, state-trait anxiety inventory, UCLA loneliness scale, and use of health services.</s>
+    <s id="10" section="results">There was a positive trend in favour of the intervention group for maternal anxiety but not loneliness or use of health services.</s>
+    <s id="13" section="conclusion">Telephone based peer support can be effective in preventing postnatal depression among women at high risk.</s>
+    <s id="14" section="trial registration">ISRCTN 68337727.</s>
+  </ignored>
+</abstract>
+

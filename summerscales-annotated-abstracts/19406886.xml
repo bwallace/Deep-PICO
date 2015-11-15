@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19406886">
+  <title>
+    <s id="0">Long term monitoring in patients receiving treatment to lower blood pressure: analysis of data from placebo controlled randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Randomised placebo controlled trial carried out in 172 centres in Asia, Australasia, and Europe.</s>
+    <s id="4" section="participants">1709 patients with history of stroke or transient ischaemic attack randomised to fixed doses of perindopril and indapamide.</s>
+    <s id="5" section="participants">Measurements Mean of 2 blood pressure measurements in patients receiving treatment recorded to the nearest 2 mm Hg with a standard mercury sphygmomanometer at baseline and then at 3 months , 6 months , 9 months , and 15 months and then every 6 months to 33 months .</s>
+    <s id="6" section="results">There was no change in the <outcome id="0" type="bad">mean <short>blood pressure</short> of the cohort</outcome> during the 33 month follow-up.</s>
+    <s id="7" section="results">6 months after <outcome id="0" type="bad">blood pressure</outcome> was stabilised on treatment , if systolic blood pressure was measured as having increased by &gt; 10 mm Hg , 6 of those measurements would be false positives for every true increase of &gt; or = 10 mm Hg .</s>
+    <s id="8" section="results">The corresponding value for an increase of 20 mm Hg was over 200.</s>
+    <s id="9" section="results">Values for 5 mm Hg and 10 mm Hg increases in diastolic blood pressure were 3.5 and 39, respectively.</s>
+    <s id="10" section="results">The likelihood that observed increases in blood pressure reflected true increases rose with the time between measurements such that the ratio of true positives to false positives reached parity at 21 months.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the value of monitoring blood pressure by quantifying the probability that observed changes in blood pressure reflect true changes. 
+DESIGN: Analysis of blood pressure measurements of patients in the perindopril protection against recurrent stroke study (PROGRESS). 
+SETTING: Randomised placebo controlled trial carried out in 172 centres in Asia, Australasia, and Europe. 
+PARTICIPANTS: 1709 patients with history of stroke or transient ischaemic attack randomised to fixed doses of perindopril and indapamide. 
+Measurements Mean of two blood pressure measurements in patients receiving treatment recorded to the nearest 2 mm Hg with a standard mercury sphygmomanometer at baseline and then at three months, six months, nine months, and 15 months and then every six months to 33 months. 
+RESULTS: There was no change in the mean blood pressure of the cohort during the 33 month follow-up. 
+Six months after blood pressure was stabilised on treatment, if systolic blood pressure was measured as having increased by &gt;10 mm Hg, six of those measurements would be false positives for every true increase of &gt;or=10 mm Hg. 
+The corresponding value for an increase of 20 mm Hg was over 200. 
+Values for 5 mm Hg and 10 mm Hg increases in diastolic blood pressure were 3.5 and 39, respectively. 
+The likelihood that observed increases in blood pressure reflected true increases rose with the time between measurements such that the ratio of true positives to false positives reached parity at 21 months. 
+CONCLUSIONS: Usual clinical approaches to the monitoring of patients taking drugs to lower blood pressure have a low probability of yielding reliable information about true changes in blood pressure. 
+Evidence based guidelines for monitoring treatment response are urgently required to guide clinical practice. 
+Trial registration Australia and New Zealand Clinical Trial Registry.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the value of monitoring blood pressure by quantifying the probability that observed changes in blood pressure reflect true changes.</s>
+    <s id="2" section="design">Analysis of blood pressure measurements of patients in the perindopril protection against recurrent stroke study (PROGRESS).</s>
+    <s id="11" section="conclusions">Usual clinical approaches to the monitoring of patients taking drugs to lower blood pressure have a low probability of yielding reliable information about true changes in blood pressure.</s>
+    <s id="12" section="conclusions">Evidence based guidelines for monitoring treatment response are urgently required to guide clinical practice.</s>
+    <s id="13" section="conclusions">Trial registration Australia and New Zealand Clinical Trial Registry.</s>
+  </ignored>
+</abstract>
+

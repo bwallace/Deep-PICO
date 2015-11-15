@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19549996">
+  <title>
+    <s id="0">Value of routine monitoring of bone mineral density after starting bisphosphonate treatment: secondary analysis of trial data.</s>
+  </title>
+  <annotated>
+    <s id="3" section="design">Data source The Fracture Intervention Trial, a randomised controlled trial that compared the effects of <group id="0" role="experiment">alendronate</group> and <group id="1" role="control">placebo</group> in 6459 postmenopausal women with low bone mineral density recruited between May 1992 and May 1993.</s>
+    <s id="4" section="design">Bone density measurements of hip and spine were obtained at <time id="0">baseline</time> and at <time id="1" units="years">1</time> , <time id="2" units="years">2</time>, and <time id="3">3 years</time> after randomisation .</s>
+    <s id="6" section="results">The mean effect of 3 years ' treatment with <group id="0" role="experiment">alendronate</group> was to increase <outcome id="0" type="good">hip bone mineral density</outcome> by 0.030 g / cm(2) .</s>
+    <s id="10" section="conclusions">Monitoring bone mineral density in postmenopausal women in the first 3 years after starting treatment with a potent bisphosphonate is unnecessary and may be misleading .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the value of monitoring response to bisphosphonate treatment by means of measuring bone mineral density. 
+DESIGN: Secondary analysis of trial data using mixed models. 
+Data source The Fracture Intervention Trial, a randomised controlled trial that compared the effects of alendronate and placebo in 6459 postmenopausal women with low bone mineral density recruited between May 1992 and May 1993. 
+Bone density measurements of hip and spine were obtained at baseline and at one, two, and three years after randomisation. 
+MAIN OUTCOME MEASURES: Between-person (treatment related) variation and within-person (measurement related) variation in hip and spine bone mineral density. 
+RESULTS: The mean effect of three years' treatment with alendronate was to increase hip bone mineral density by 0.030 g/cm(2). 
+There was some between-person variation in the effects of alendronate, but this was small in size compared with within-person variation. 
+Alendronate treatment is estimated to result in increases in hip bone density &gt;or=0.019 
+g/cm(2) in 97.5% of patients. 
+CONCLUSIONS: Monitoring bone mineral density in postmenopausal women in the first three years after starting treatment with a potent bisphosphonate is unnecessary and may be misleading. 
+Routine monitoring should be avoided in this early period after bisphosphonate treatment is commenced.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the value of monitoring response to bisphosphonate treatment by means of measuring bone mineral density.</s>
+    <s id="2" section="design">Secondary analysis of trial data using mixed models.</s>
+    <s id="5" section="main outcome measures">Between-person (treatment related) variation and within-person (measurement related) variation in hip and spine bone mineral density.</s>
+    <s id="7" section="results">There was some between-person variation in the effects of alendronate, but this was small in size compared with within-person variation.</s>
+    <s id="8" section="results">Alendronate treatment is estimated to result in increases in hip bone density &gt;or=0.019</s>
+    <s id="9" section="results">g/cm(2) in 97.5% of patients.</s>
+    <s id="11" section="conclusions">Routine monitoring should be avoided in this early period after bisphosphonate treatment is commenced.</s>
+  </ignored>
+</abstract>
+

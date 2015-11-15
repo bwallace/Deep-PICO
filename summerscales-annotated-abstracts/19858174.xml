@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19858174">
+  <title>
+    <s id="0">Food incentives to improve completion of tuberculosis treatment: randomised controlled trial in Dili, Timor-Leste.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 primary care clinics in Dili , Timor-Leste .</s>
+    <s id="4" section="participants">270 adults aged &gt;or=18 with previously untreated newly diagnosed pulmonary tuberculosis.</s>
+    <s id="8" section="interventions">Participants started standard tuberculosis treatment and were randomly assigned to <group id="0" role="experiment">intervention</group> (nutritious, culturally appropriate daily meal (weeks 1-8) and food package (weeks 9-32) (n=<gs group="0">137</gs>) or <group id="1" role="control">control</group> (nutritional advice, n=<gs group="1">133</gs>) groups.</s>
+    <s id="10" section="results">Most patients with tuberculosis were poor, malnourished men living close to the clinics; 265/270 (98%) contributed to the analysis.</s>
+    <s id="11" section="results">The <group id="0" role="experiment">intervention</group> had no significant beneficial or harmful impact on the outcome of treatment (76% v 78% <outcome id="0" type="good">completion</outcome>, P=0.7) or <outcome id="1" type="good">adherence</outcome> (93% for both groups, P=0.7) but did lead to improved <outcome id="2" type="good">weight gain</outcome> at the end of treatment (10.1% v 7.5% improvement, P=0.04).</s>
+    <s id="12" section="results"><outcome id="3" type="bad">Itch</outcome> was more common in the<group id="0" role="experiment"> intervention group</group> (21% v 9%, P&lt;0.01).</s>
+    <s id="13" section="results">In a subgroup analysis of patients with positive results on sputum smears , there were clinically important improvements in 1 month sputum clearance ( 85 % v 67 % , P = 0.13 ) and completion of treatment ( 78 % v 68 % , P = 0.3 ) .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effectiveness of the provision of whole food to enhance completion of treatment for tuberculosis. 
+DESIGN: Parallel group randomised controlled trial. 
+SETTING: Three primary care clinics in Dili, Timor-Leste. 
+PARTICIPANTS: 270 adults aged &gt;or=18 with previously untreated newly diagnosed pulmonary tuberculosis. 
+MAIN OUTCOME MEASURES: Completion of treatment (including cure). 
+Secondary outcomes included adherence to treatment, weight gain, and clearance of sputum smears. 
+Outcomes were assessed remotely, blinded to allocation status. 
+Interventions Participants started standard tuberculosis treatment and were randomly assigned to intervention (nutritious, culturally appropriate daily meal (weeks 1-8) and food package (weeks 9-32) (n=137) or control (nutritional advice, n=133) groups. 
+Randomisation sequence was computer generated with allocation concealment by sequentially numbered, opaque, sealed envelopes. 
+RESULTS: Most patients with tuberculosis were poor, malnourished men living close to the clinics; 265/270 (98%) contributed to the analysis. 
+The intervention had no significant beneficial or harmful impact on the outcome of treatment (76% v 78% completion, P=0.7) or adherence (93% for both groups, P=0.7) but did lead to improved weight gain at the end of treatment (10.1% v 7.5% improvement, P=0.04). 
+Itch was more common in the intervention group (21% v 9%, P&lt;0.01). 
+In a subgroup analysis of patients with positive results on sputum smears, there were clinically important improvements in one month sputum clearance (85% v 67%, P=0.13) and completion of treatment (78% v 68%, P=0.3). 
+CONCLUSION: Provision of food did not improve outcomes with tuberculosis treatment in these patients in Timor-Leste. 
+Further studies in different settings and measuring different outcomes are required. 
+TRIAL REGISTRATION: Clinical Trials NCT0019256.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effectiveness of the provision of whole food to enhance completion of treatment for tuberculosis.</s>
+    <s id="2" section="design">Parallel group randomised controlled trial.</s>
+    <s id="5" section="main outcome measures">Completion of treatment (including cure).</s>
+    <s id="6" section="main outcome measures">Secondary outcomes included adherence to treatment, weight gain, and clearance of sputum smears.</s>
+    <s id="7" section="main outcome measures">Outcomes were assessed remotely, blinded to allocation status.</s>
+    <s id="9" section="main outcome measures">Randomisation sequence was computer generated with allocation concealment by sequentially numbered, opaque, sealed envelopes.</s>
+    <s id="14" section="conclusion">Provision of food did not improve outcomes with tuberculosis treatment in these patients in Timor-Leste.</s>
+    <s id="15" section="conclusion">Further studies in different settings and measuring different outcomes are required.</s>
+    <s id="16" section="trial registration">Clinical Trials NCT0019256.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17604300">
+  <title>
+    <s id="0">Use of probiotic Lactobacillus preparation to prevent diarrhoea associated with antibiotics: randomised double blind placebo controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="participants">135 hospital patients (mean age 74) taking antibiotics.</s>
+    <s id="4" section="participants">Exclusions included diarrhoea on admission, bowel pathology that could result in diarrhoea, antibiotic use in the previous 4 weeks, severe illness, immunosuppression, bowel surgery, artificial heart valves, and history of rheumatic heart disease or infective endocarditis.</s>
+    <s id="5" section="intervention">Consumption of a 100 g (97 ml) drink containing Lactobacillus casei, L bulgaricus, and Streptococcus thermophilus twice a day during a course of antibiotics and for 1 week after the course finished.</s>
+    <s id="9" section="results"><on group="0" outcome="0">7</on>/<gs group="0">57</gs> (12%) of the <group id="0" role="experiment"><short>probiotic</short> group</group> <outcome id="0" type="bad">developed <short>diarrhoea associated with antibiotic</short> use</outcome> compared with <on group="1" outcome="0">19</on>/<gs group="1">56</gs> (34%) in the <group id="1" role="control"><short>placebo</short> group</group> (P=0.007).</s>
+    <s id="11" section="results">The <outcome id="2" type="bad">absolute risk</outcome> reduction was 21.6% (6.6% to 36.6%), and the number needed to treat was 5 (3 to 15).</s>
+    <s id="12" section="results">No one in the <group id="0" role="experiment"><short>probiotic</short> group</group> and <on group="1" outcome="1">9</on>/<gs group="1">53</gs> (17%) in the <group id="1" role="control"><short>placebo</short> group</group> had <outcome id="1" type="bad">diarrhoea caused by C difficile</outcome> (P=0.001).</s>
+    <s id="13" section="results">The <outcome id="2" type="bad">absolute risk</outcome> reduction was 17% (7% to 27%), and the number needed to treat was 6 (4 to 14).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the efficacy of a probiotic drink containing Lactobacillus for the prevention of any diarrhoea associated with antibiotic use and that caused by Clostridium difficile. 
+DESIGN: Randomised double blind placebo controlled study. 
+PARTICIPANTS: 135 hospital patients (mean age 74) taking antibiotics. 
+Exclusions included diarrhoea on admission, bowel pathology that could result in diarrhoea, antibiotic use in the previous four weeks, severe illness, immunosuppression, bowel surgery, artificial heart valves, and history of rheumatic heart disease or infective endocarditis. 
+INTERVENTION: Consumption of a 100 g (97 ml) drink containing Lactobacillus casei, L bulgaricus, and Streptococcus thermophilus twice a day during a course of antibiotics and for one week after the course finished. 
+The placebo group received a longlife sterile milkshake. 
+MAIN OUTCOME MEASURES: Primary outcome: occurrence of antibiotic associated diarrhoea. 
+Secondary outcome: presence of C difficile toxin and diarrhoea. 
+RESULTS: 7/57 (12%) of the probiotic group developed diarrhoea associated with antibiotic use compared with 19/56 (34%) in the placebo group (P=0.007). 
+Logistic regression to control for other factors gave an odds ratio 0.25 (95% confidence interval 0.07 to 0.85) for use of the probiotic, with low albumin and sodium also increasing the risk of diarrhoea. 
+The absolute risk reduction was 21.6% (6.6% to 36.6%), and the number needed to treat was 5 (3 to 15). 
+No one in the probiotic group and 9/53 (17%) in the placebo group had diarrhoea caused by C difficile (P=0.001). 
+The absolute risk reduction was 17% (7% to 27%), and the number needed to treat was 6 (4 to 14). 
+CONCLUSION: Consumption of a probiotic drink containing L casei, L bulgaricus, and S thermophilus can reduce the incidence of antibiotic associated diarrhoea and C difficile associated diarrhoea. 
+This has the potential to decrease morbidity, healthcare costs, and mortality if used routinely in patients aged over 50. TRIAL REGISTRATION: National Research Register N0016106821.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the efficacy of a probiotic drink containing Lactobacillus for the prevention of any diarrhoea associated with antibiotic use and that caused by Clostridium difficile.</s>
+    <s id="2" section="design">Randomised double blind placebo controlled study.</s>
+    <s id="6" section="intervention">The placebo group received a longlife sterile milkshake.</s>
+    <s id="7" section="main outcome measures">Primary outcome: occurrence of antibiotic associated diarrhoea.</s>
+    <s id="8" section="main outcome measures">Secondary outcome: presence of C difficile toxin and diarrhoea.</s>
+    <s id="10" section="results">Logistic regression to control for other factors gave an odds ratio 0.25 (95% confidence interval 0.07 to 0.85) for use of the probiotic, with low albumin and sodium also increasing the risk of diarrhoea.</s>
+    <s id="14" section="conclusion">Consumption of a probiotic drink containing L casei, L bulgaricus, and S thermophilus can reduce the incidence of antibiotic associated diarrhoea and C difficile associated diarrhoea.</s>
+    <s id="15" section="trial registration">National Research Register N0016106821.</s>
+  </ignored>
+</abstract>
+

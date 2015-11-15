@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19208714">
+  <title>
+    <s id="0">Effectiveness of nurse delivered endoscopy: findings from randomised multi-institution nurse endoscopy trial (MINuET).</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">23 hospitals in the United Kingdom.</s>
+    <s id="4" section="setting">In 6 hospitals , nurses undertook both upper and lower gastrointestinal endoscopy , yielding a total of 29 centres .</s>
+    <s id="5" section="participants">67 doctors and 30 nurses.</s>
+    <s id="6" section="participants">Of 4964 potentially eligible patients, we randomised 4128 (83%) and recruited 1888 (38%) from July 2002 to June 2003.</s>
+    <s id="9" section="main outcome measures"><outcome id="0" type="bad"><short>Gastrointestinal symptom</short> rating questionnaire</outcome> ( primary outcome ) , <outcome id="1" type="good"><short>gastrointestinal endoscopy satisfaction</short> questionnaire</outcome> and <outcome id="2" type="bad"><short>state - trait anxiety</short> inventory</outcome> ( all analysed by intention to treat ) ; <outcome id="3" type="bad">immediate and delayed <short>complications</short></outcome> ; <outcome id="4" type="good"><short>quality of examination</short> and corresponding report</outcome> ; <outcome id="5" type="good"><short>patients ' preferences</short> for operator</outcome> ; and <outcome id="6" type="good"><short>new diagnoses</short> at 1 year</outcome> ( all analysed according to who carried out the procedure ) .</s>
+    <s id="10" section="results">There was no significant difference between groups in outcome at <time id="0">1 day</time> , <time id="1">1 month</time> , or <time id="2">1 year</time> after endoscopy , except that patients were more satisfied with nurses after 1 day .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the clinical effectiveness of doctors and nurses in undertaking upper and lower gastrointestinal endoscopy. 
+DESIGN: Pragmatic trial with Zelen's randomisation before consent to minimise distortion of existing practice. 
+SETTING: 23 hospitals in the United Kingdom. 
+In six hospitals, nurses undertook both upper and lower gastrointestinal endoscopy, yielding a total of 29 centres. 
+PARTICIPANTS: 67 doctors and 30 nurses. 
+Of 4964 potentially eligible patients, we randomised 4128 (83%) and recruited 1888 (38%) from July 2002 to June 2003. 
+INTERVENTIONS: Diagnostic upper gastrointestinal endoscopy and flexible sigmoidoscopy, undertaken with or without sedation, with the standard preparation, techniques, and protocols of participating hospitals. 
+After referral for either procedure, patients were randomised between doctors and nurses. 
+MAIN OUTCOME MEASURES: Gastrointestinal symptom rating questionnaire (primary outcome), gastrointestinal endoscopy satisfaction questionnaire and state-trait anxiety inventory (all analysed by intention to treat); immediate and delayed complications; quality of examination and corresponding report; patients' preferences for operator; and new diagnoses at one year (all analysed according to who carried out the procedure). 
+RESULTS: There was no significant difference between groups in outcome at one day, one month, or one year after endoscopy, except that patients were more satisfied with nurses after one day. 
+Nurses were also more thorough than doctors in examining the stomach and oesophagus. 
+While quality of life scores were slightly better in patients the doctor group, this was not statistically significant. 
+CONCLUSIONS: Diagnostic endoscopy can be undertaken safely and effectively by nurses. 
+TRIAL REGISTRATION: International standard RCT 82765705.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the clinical effectiveness of doctors and nurses in undertaking upper and lower gastrointestinal endoscopy.</s>
+    <s id="2" section="design">Pragmatic trial with Zelen's randomisation before consent to minimise distortion of existing practice.</s>
+    <s id="7" section="interventions">Diagnostic upper gastrointestinal endoscopy and flexible sigmoidoscopy, undertaken with or without sedation, with the standard preparation, techniques, and protocols of participating hospitals.</s>
+    <s id="8" section="interventions">After referral for either procedure, patients were randomised between doctors and nurses.</s>
+    <s id="11" section="results">Nurses were also more thorough than doctors in examining the stomach and oesophagus.</s>
+    <s id="12" section="results">While quality of life scores were slightly better in patients the doctor group, this was not statistically significant.</s>
+    <s id="13" section="conclusions">Diagnostic endoscopy can be undertaken safely and effectively by nurses.</s>
+    <s id="14" section="trial registration">International standard RCT 82765705.</s>
+  </ignored>
+</abstract>
+

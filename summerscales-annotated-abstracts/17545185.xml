@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17545185">
+  <title>
+    <s id="0">Long term results of compression therapy alone versus compression plus surgery in chronic venous ulceration (ESCHAR): randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Specialist nurse led leg ulcer clinics in 3 UK vascular centres.</s>
+    <s id="4" section="participants">500 patients (500 legs) with open or recently healed leg ulcers and superficial venous reflux.</s>
+    <s id="8" section="results"><outcome id="0" type="good">Ulcer healing rates</outcome> at <time id="0">three years</time> were 89% for the <group id="0" role="control"><short>compression</short> group</group> and 93% for the <group id="1" role="experiment">compression plus surgery group</group> (P=0.73, log rank test).</s>
+    <s id="9" section="results"><outcome id="0" type="bad">Rates of ulcer recurrence</outcome> at four years were 56% for <group id="0" role="control">the compression group</group> and 31% for <group id="1" role="experiment">the compression plus <short>surgery</short> group</group> (P&lt;0.01).</s>
+    <s id="10" section="results">For patients with isolated superficial reflux, recurrence rates at <time id="1">four years</time> were 51% for the <group id="0" role="control">compression group</group> and 27% for the <group id="0" role="experiment">compress plus <short>surgery</short> group</group> (P&lt;0.01).</s>
+    <s id="11" section="results">For patients who had superficial with segmental deep reflux, recurrence rates at three years were 52% for the <group id="0" role="control"><short>compression</short> group</group> and 24% for the <group id="0" role="experiment">compression plus <short>surgery</short> group</group> (P=0.04).</s>
+    <s id="12" section="results">For patients with superficial and total deep reflux, <outcome id="1" type="bad">recurrence rates</outcome> at <time id="0">three years</time> were 46% for the <group id="0" role="control"><short>compression</short> group</group> and 32% for the <group id="0" role="experiment">compression plus surgery group</group> (P=0.33).</s>
+    <s id="13" section="results">Patients in the <group id="0" role="experiment">compression plus <short>surgery</short> group</group> experienced a greater <outcome id="2" type="good">proportion of <short>ulcer free time</short></outcome> after three years compared with patients in the <group id="0" role="control"><short>compression</short> group</group> (78% v 71%; P=0.007, Mann-Whitney U test).</s>
+    <s id="14" section="conclusion">Surgical correction of superficial venous reflux in addition to compression bandaging does not improve ulcer healing but reduces the recurrence of ulcers at 4 years and results in a greater proportion of ulcer free time.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether recurrence of leg ulcers may be prevented by surgical correction of superficial venous reflux in addition to compression. 
+DESIGN: Randomised controlled trial. 
+SETTING: Specialist nurse led leg ulcer clinics in three UK vascular centres. 
+PARTICIPANTS: 500 patients (500 legs) with open or recently healed leg ulcers and superficial venous reflux. 
+INTERVENTIONS: Compression alone or compression plus saphenous surgery. 
+MAIN OUTCOME MEASURES: Primary outcomes were ulcer healing and ulcer recurrence. 
+The secondary outcome was ulcer free time. 
+RESULTS: Ulcer healing rates at three years were 89% for the compression group and 93% for the compression plus surgery group (P=0.73, log rank test). 
+Rates of ulcer recurrence at four years were 56% for the compression group and 31% for the compression plus surgery group (P&lt;0.01). 
+For patients with isolated superficial reflux, recurrence rates at four years were 51% for the compression group and 27% for the compress plus surgery group (P&lt;0.01). 
+For patients who had superficial with segmental deep reflux, recurrence rates at three years were 52% for the compression group and 24% for the compression plus surgery group (P=0.04). 
+For patients with superficial and total deep reflux, recurrence rates at three years were 46% for the compression group and 32% for the compression plus surgery group (P=0.33). 
+Patients in the compression plus surgery group experienced a greater proportion of ulcer free time after three years compared with patients in the compression group (78% v 71%; P=0.007, Mann-Whitney U test). 
+CONCLUSION: Surgical correction of superficial venous reflux in addition to compression bandaging does not improve ulcer healing but reduces the recurrence of ulcers at four years and results in a greater proportion of ulcer free time. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN07549334 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether recurrence of leg ulcers may be prevented by surgical correction of superficial venous reflux in addition to compression.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="5" section="interventions">Compression alone or compression plus saphenous surgery.</s>
+    <s id="6" section="main outcome measures">Primary outcomes were ulcer healing and ulcer recurrence.</s>
+    <s id="7" section="main outcome measures">The secondary outcome was ulcer free time.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN07549334 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

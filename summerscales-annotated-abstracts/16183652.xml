@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16183652">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of
+      <outcome id="0">prevention  of  falls</outcome>
+      in people aged &gt; or = 75 with severe visual impairment : the VIP trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>391</ps>
+      women and men aged &gt; or = 75 with visual acuity of 6/ 24 or worse who were living in the community ; 92 % ( 361 of 391 ) completed
+      <time id="0">1  year  of  follow  -  up</time>
+      .
+    </s>
+    <s id="5" section="interventions">
+      Participants received a
+      <group id="0">
+        <short>home  safety  assessment  and  modification  programme</short>
+        delivered  by  an  occupational  therapist
+      </group>
+      ( n =
+      <gs group="0">100</gs>
+      ) , an
+      <group id="1">
+        <short>exercise  programme</short>
+        prescribed  at  home  by  a  physiotherapist  plus  vitamin  D  supplementation
+      </group>
+      ( n =
+      <gs group="1">97</gs>
+      ) ,
+      <group id="2">both  interventions</group>
+      ( n =
+      <gs group="2">98</gs>
+      ) , or
+      <group id="3">social  visits</group>
+      ( n =
+      <gs group="3">96</gs>
+      ) .
+    </s>
+    <s id="7" section="results">
+      Fewer
+      <outcome id="0">falls</outcome>
+      occurred in the
+      <group id="0">group  randomised  to  the  home  safety  programme</group>
+      but not in the
+      <group id="1">exercise  programme</group>
+      ( incidence rate ratios 0.59 ( 95 % confidence interval 0.42 to 0.83 ) and 1.15 ( 0.82 to 1.61 ) , respectively ) .
+    </s>
+    <s id="10" section="results">
+      Delivering the
+      <group id="0">home  safety  programme</group>
+      <outcome id="2">cost</outcome>
+      NZ650 dollars ( 234 pounds sterling , 344 euros , US432 dollars ) ( at 2004 prices )
+      <outcome id="2">per  fall  prevented</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of prevention of falls in people aged &gt; or = 75 with severe visual impairment : the VIP trial . To assess the efficacy and cost effectiveness of a home safety programme and a home exercise programme to reduce falls and injuries in older people with low vision . Randomised controlled trial . Dunedin and Auckland , New Zealand . 391 women and men aged &gt; or = 75 with visual acuity of 6/ 24 or worse who were living in the community ; 92 % ( 361 of 391 ) completed 1 year of follow - up . Participants received a home safety assessment and modification programme delivered by an occupational therapist ( n = 100 ) , an exercise programme prescribed at home by a physiotherapist plus vitamin D supplementation ( n = 97 ) , both interventions ( n = 98 ) , or social visits ( n = 96 ) . Numbers of falls and injuries resulting from falls , costs of implementing the home safety programme . Fewer falls occurred in the group randomised to the home safety programme but not in the exercise programme ( incidence rate ratios 0.59 ( 95 % confidence interval 0.42 to 0.83 ) and 1.15 ( 0.82 to 1.61 ) , respectively ) . However , within the exercise programme , stricter adherence was associated with fewer falls ( P = 0.001 ) . A conservative analysis showed neither intervention was effective in reducing injuries from falls . Delivering the home safety programme cost NZ650 dollars ( 234 pounds sterling , 344 euros , US432 dollars ) ( at 2004 prices ) per fall prevented . The home safety programme reduced falls and was more cost effective than an exercise programme in this group of elderly people with poor vision . The Otago exercise programme with vitamin D supplementation was not effective in reducing falls or injuries in this group , possibly due to low levels of adherence . Trial registration number ISRCTN15342873 .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To assess the efficacy and cost effectiveness of a
+      <group id="0">home  safety  programme</group>
+      and a
+      <group id="1">home  exercise  programme</group>
+      to reduce
+      <outcome id="0">falls</outcome>
+      and
+      <outcome id="1">injuries</outcome>
+      in older people with low vision .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">Dunedin and Auckland , New Zealand .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Numbers  of  falls</outcome>
+      and
+      <outcome id="1">
+        <short>injuries</short>
+        resulting  from  falls
+      </outcome>
+      ,
+      <outcome id="2">
+        <short>costs</short>
+        of  implementing  the  home  safety  programme
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      However , within the
+      <group id="1">exercise  programme</group>
+      , stricter adherence was associated with fewer
+      <outcome id="0">falls</outcome>
+      ( P = 0.001 ) .
+    </s>
+    <s id="9" section="results">
+      A conservative analysis showed neither intervention was effective in reducing
+      <outcome id="1">
+        <short>injuries</short>
+        from  falls
+      </outcome>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      The
+      <group id="0">home  safety  programme</group>
+      reduced
+      <outcome id="0">falls</outcome>
+      and was more
+      <outcome id="2">cost  effective</outcome>
+      than an
+      <group id="1">exercise  programme</group>
+      in this group of elderly people with poor vision .
+    </s>
+    <s id="12" section="conclusion">
+      The
+      <group id="1">
+        Otago
+        <short>exercise  programme</short>
+        with  vitamin  D  supplementation
+      </group>
+      was not effective in reducing
+      <outcome id="0">falls</outcome>
+      or
+      <outcome id="1">injuries</outcome>
+      in this group , possibly due to low levels of adherence .
+    </s>
+    <s id="13" section="conclusion">Trial registration number ISRCTN15342873 .</s>
+  </ignored>
+</abstract>
+

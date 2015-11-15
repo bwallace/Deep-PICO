@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15967762">
+  <title>
+    <s id="0" section="title">Should treatment of ( sub)acute low back pain be aimed at psychosocial prognostic factors ?</s>
+    <s id="1" section="title">Cluster randomised clinical trial in general practice .</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">60 general practitioners in 41 general practices .</s>
+    <s id="5" section="participants">
+      <ps>314</ps>
+      patients with non - specific low back pain of less than 12 weeks ' duration , recruited by their general practitioner .
+    </s>
+    <s id="7" section="interventions">The consultation took about 20 minutes .</s>
+    <s id="9" section="main_outcome_measures">
+      <outcome id="0:0">
+        <short>Functional  disability</short>
+        (  Roland-Morris  disability  questionnaire  )
+      </outcome>
+      ,
+      <outcome id="0:1">perceived  recovery</outcome>
+      , and
+      <outcome id="0:2">
+        <short>sick  leave</short>
+        because  of  low  back  pain
+      </outcome>
+      assessed at
+      <time id="0">baseline</time>
+      and after
+      <time id="1">6</time>
+      ,
+      <time id="2">13</time>
+      ,
+      <time id="3">26</time>
+      , and
+      <time id="4">52  weeks</time>
+      .
+    </s>
+    <s id="10" section="results">
+      The dropout rate was 8 % in the
+      <group id="0">minimal  intervention  strategy  group</group>
+      and 9 % in the
+      <group id="1">usual  care  group</group>
+      .
+    </s>
+    <s id="11" section="results">
+      Multilevel analyses showed no significant differences between the groups on
+      <outcome id="0">any  outcome  measure</outcome>
+      during
+      <time id="4">12  months</time>
+      of follow - up in the whole group or in relevant subgroups ( patients with high scores on psychosocial measures at
+      <time id="0">baseline</time>
+      or a history of frequent or prolonged low back pain ) .
+    </s>
+  </annotated>
+  <fulltext>Should treatment of ( sub)acute low back pain be aimed at psychosocial prognostic factors ? Cluster randomised clinical trial in general practice . To compare the effects of a minimal intervention strategy aimed at assessment and modification of psychosocial prognostic factors and usual care for treatment of ( sub)acute low back pain in general practice . Cluster randomised clinical trial . 60 general practitioners in 41 general practices . 314 patients with non - specific low back pain of less than 12 weeks ' duration , recruited by their general practitioner . In the minimal intervention strategy group the general practitioner explored the presence of psychosocial prognostic factors , discussed these factors , set specific goals for reactivation , and provided an educational booklet . The consultation took about 20 minutes . Usual care was not standardised . Functional disability ( Roland-Morris disability questionnaire ) , perceived recovery , and sick leave because of low back pain assessed at baseline and after 6 , 13 , 26 , and 52 weeks . The dropout rate was 8 % in the minimal intervention strategy group and 9 % in the usual care group . Multilevel analyses showed no significant differences between the groups on any outcome measure during 12 months of follow - up in the whole group or in relevant subgroups ( patients with high scores on psychosocial measures at baseline or a history of frequent or prolonged low back pain ) . This study provides no evidence that ( Dutch ) general practitioners should adopt our new treatment strategy aimed at psychosocial prognostic factors in patients with ( sub)acute low back pain . Further research should examine why our new strategy was not more effective than usual care .</fulltext>
+  <ignored>
+    <s id="2" section="objective">
+      To compare the effects of a
+      <group id="0">
+        <short>minimal  intervention  strategy</short>
+        aimed  at  assessment  and  modification  of  psychosocial  prognostic  factors
+      </group>
+      and
+      <group id="1">usual  care</group>
+      for treatment of ( sub)acute low back pain in general practice .
+    </s>
+    <s id="3" section="design">Cluster randomised clinical trial .</s>
+    <s id="6" section="interventions">
+      In the
+      <group id="0">minimal  intervention  strategy  group</group>
+      the general practitioner explored the presence of psychosocial prognostic factors , discussed these factors , set specific goals for reactivation , and provided an educational booklet .
+    </s>
+    <s id="8" section="interventions">
+      <group id="1">Usual  care</group>
+      was not standardised .
+    </s>
+    <s id="12" section="conclusion">
+      This study provides no evidence that ( Dutch ) general practitioners should adopt
+      <group id="0">
+        our
+        <short>new  treatment  strategy</short>
+      </group>
+      aimed at psychosocial prognostic factors in patients with ( sub)acute low back pain .
+    </s>
+    <s id="13" section="conclusion">
+      Further research should examine why
+      <group id="0">
+        our
+        <short>new  strategy</short>
+      </group>
+      was not more effective than
+      <group id="1">usual  care</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

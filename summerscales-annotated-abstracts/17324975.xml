@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17324975">
+  <title>
+    <s id="0">Effect of insulating existing houses on health inequality: cluster randomised study in the community.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">1350 households containing 4407 participants.</s>
+    <s id="7" section="results">Insulation was associated with a small increase in <outcome id="0" type="good"><short>bedroom temperatures</short> during the winter</outcome> (0.5 degrees C) and decreased <outcome id="1" type="good">relative humidity</outcome> (-2.3%), despite <outcome id="2" type="bad">energy consumption</outcome> in <group id="0" role="experiment"><short>insulated</short> houses</group> being 81% of that in <group id="1" role="control"><short>uninsulated houses</short></group>.</s>    
+    <s id="8" section="results"><outcome id="0" type="good">Bedroom temperatures</outcome> were below 10 degrees C for 1.7 fewer hours each day in insulated homes than in uninsulated ones.</s>
+      </annotated>
+  <fulltext>OBJECTIVE: To determine whether insulating existing houses increases indoor temperatures and improves occupants' health and wellbeing. 
+DESIGN: Community based, cluster, single blinded randomised study. 
+SETTING: Seven low income communities in New Zealand. 
+PARTICIPANTS: 1350 households containing 4407 participants. 
+INTERVENTION: Installation of a standard retrofit insulation package. 
+MAIN OUTCOME MEASURES: Indoor temperature and relative humidity, energy consumption, self reported health, wheezing, days off school and work, visits to general practitioners, and admissions to hospital. 
+RESULTS: Insulation was associated with a small increase in bedroom temperatures during the winter (0.5 degrees C) and decreased relative humidity (-2.3%), despite energy consumption in insulated houses being 81% of that in uninsulated houses. 
+Bedroom temperatures were below 10 degrees C for 1.7 fewer hours each day in insulated homes than in uninsulated ones. 
+These changes were associated with reduced odds in the insulated homes of fair or poor self rated health (adjusted odds ratio 0.50, 95% confidence interval 0.38 to 0.68), self reports of wheezing in the past three months (0.57, 0.47 to 0.70), self reports of children taking a day off school (0.49, 0.31 to 0.80), and self reports of adults taking a day off work (0.62, 0.46 to 0.83). 
+Visits to general practitioners were less often reported by occupants of insulated homes (0.73, 0.62 to 0.87). 
+Hospital admissions for respiratory conditions were also reduced (0.53, 0.22 to 1.29), but this reduction was not statistically significant (P=0.16). 
+CONCLUSION: Insulating existing houses led to a significantly warmer, drier indoor environment and resulted in improved self rated health, self reported wheezing, days off school and work, and visits to general practitioners as well as a trend for fewer hospital admissions for respiratory conditions.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether insulating existing houses increases indoor temperatures and improves occupants' health and wellbeing.</s>
+    <s id="2" section="design">Community based, cluster, single blinded randomised study.</s>
+    <s id="3" section="setting">Seven low income communities in New Zealand.</s>
+    <s id="5" section="intervention">Installation of a standard retrofit insulation package.</s>
+    <s id="6" section="main outcome measures">Indoor temperature and relative humidity, energy consumption, self reported health, wheezing, days off school and work, visits to general practitioners, and admissions to hospital.</s>
+    <s id="9" section="results">These changes were associated with reduced odds in the insulated homes of fair or poor self rated health (adjusted odds ratio 0.50, 95% confidence interval 0.38 to 0.68), self reports of <outcome id="4" type="bad">wheezing in the past three months</outcome> (0.57, 0.47 to 0.70), self reports of children <outcome id="5" type="bad">taking a day off school</outcome> (0.49, 0.31 to 0.80), and self reports of adults <outcome id="6" type="bad">taking a day off work</outcome> (0.62, 0.46 to 0.83).</s>
+    <s id="10" section="results">Visits to general practitioners were less often reported by occupants of insulated homes (0.73, 0.62 to 0.87).</s>
+    <s id="11" section="results">Hospital admissions for respiratory conditions were also reduced (0.53, 0.22 to 1.29), but this reduction was not statistically significant (P=0.16).</s>
+    <s id="12" section="conclusion">Insulating existing houses led to a significantly warmer, drier indoor environment and resulted in improved self rated health, self reported wheezing, days off school and work, and visits to general practitioners as well as a trend for fewer hospital admissions for respiratory conditions.</s>
+  </ignored>
+</abstract>
+

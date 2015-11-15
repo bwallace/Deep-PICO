@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17591623">
+  <title>
+    <s id="0">Impact of self monitoring of blood glucose in the management of patients with non-insulin treated diabetes: open parallel group randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To determine whether self monitoring, alone or with instruction in incorporating the results into self care, is more effective than usual care in improving glycaemic control in non-insulin treated patients with type 2 diabetes.</s>
+    <s id="3" section="setting">48 general practices in Oxfordshire and South Yorkshire.</s>
+    <s id="4" section="participants">453 patients with non-insulin treated type 2 diabetes (mean age 65.7 years) for a median duration of 3 years and a mean haemoglobin A1c level of 7.5%.</s>
+    <s id="5" section="interventions"><group id="0" role="control">Standardised <short>usual care</short> with measurements of HbA1c every 3 months</group> as the control group (n=<gs group="0">152</gs>), <group id="1" role="experiment">blood glucose <short>self monitoring with advice</short> for patients to contact their doctor for interpretation of results, in addition to usual care</group> (n=<gs group="1">150</gs>), and <group id="2" role="experiment">blood glucose <short>self monitoring with additional training</short> of patients in interpretation and application of the results to enhance motivation and maintain adherence to a healthy lifestyle</group> (n=<gs group="2">151</gs>).</s>
+    <s id="6" section="main outcome measure"><outcome id="0" type="bad">HbA1c level</outcome> measured at <time id="0">12 months</time>.</s>
+    <s id="7" section="results">At <time id="0">12 months</time> the differences in <outcome id="0" type="bad">HbA1c level</outcome> between the 3 groups (adjusted for baseline HbA1c level) were not statistically significant (P=0.12).</s>
+    <s id="8" section="results">The difference in unadjusted mean change in <outcome id="0" type="bad">HbA1c level</outcome> from baseline to <time id="0">12 months</time> between the control and less intensive self monitoring groups was -0.14% (95% confidence interval -0.35% to 0.07%) and between the control and more intensive self monitoring groups was -0.17% (-0.37% to 0.03%).</s>
+    <s id="9" section="conclusions">Evidence is not convincing of an effect of self monitoring blood glucose, with or without instruction in incorporating findings into self care, in improving glycaemic control compared with usual care in reasonably well controlled non-insulin treated patients with type 2 diabetes.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether self monitoring, alone or with instruction in incorporating the results into self care, is more effective than usual care in improving glycaemic control in non-insulin treated patients with type 2 diabetes. 
+DESIGN: Three arm, open, parallel group randomised trial. 
+SETTING: 48 general practices in Oxfordshire and South Yorkshire. 
+PARTICIPANTS: 453 patients with non-insulin treated type 2 diabetes (mean age 65.7 years) for a median duration of three years and a mean haemoglobin A1c level of 7.5%. 
+INTERVENTIONS: Standardised usual care with measurements of HbA1c every three months as the control group (n=152), blood glucose self monitoring with advice for patients to contact their doctor for interpretation of results, in addition to usual care (n=150), and blood glucose self monitoring with additional training of patients in interpretation and application of the results to enhance motivation and maintain adherence to a healthy lifestyle (n=151). 
+MAIN OUTCOME MEASURE: HbA1c level measured at 12 months. 
+RESULTS: At 12 months the differences in HbA1c level between the three groups (adjusted for baseline HbA1c level) were not statistically significant (P=0.12). 
+The difference in unadjusted mean change in HbA1c level from baseline to 12 months between the control and less intensive self monitoring groups was -0.14% (95% confidence interval -0.35% to 0.07%) and between the control and more intensive self monitoring groups was -0.17% (-0.37% to 0.03%). 
+CONCLUSIONS: Evidence is not convincing of an effect of self monitoring blood glucose, with or without instruction in incorporating findings into self care, in improving glycaemic control compared with usual care in reasonably well controlled non-insulin treated patients with type 2 diabetes. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN47464659.</fulltext>
+  <ignored>
+    <s id="2" section="design">Three arm, open, parallel group randomised trial.</s>
+    <s id="10" section="trial registration">Current Controlled Trials ISRCTN47464659.</s>
+  </ignored>
+</abstract>
+

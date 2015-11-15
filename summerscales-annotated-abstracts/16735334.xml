@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16735334">
+  <title>
+    <s id="0" section="title">Effective control of dengue vectors with curtains and water container covers treated with insecticide in Mexico and Venezuela : cluster randomised trials .</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">18 urban sectors in Veracruz ( Mexico ) and 18 in Trujillo ( Venezuela ) .</s>
+    <s id="5" section="participants">4743 inhabitants ( 1095 houses ) in Veracruz and 5306 inhabitants ( 1122 houses ) in Trujillo .</s>
+    <s id="6" section="intervention">Sectors were paired according to entomological indices , and 1 sector in each pair was randomly allocated to receive treatment .</s>
+    <s id="9" section="intervention">
+      Follow - up surveys were conducted at intervals , with the final survey after
+      <time id="0">12  months</time>
+      in Veracruz and
+      <time id="1">9  months</time>
+      in Trujillo .
+    </s>
+    <s id="12" section="results">
+      The
+      <outcome id="0:0">mean  Breteau  index</outcome>
+      dropped from 60 % ( intervention clusters ) and 113 % (
+      <group id="1">control</group>
+      ) to 7 % (
+      <group id="0">intervention</group>
+      ) and 12 % (
+      <group id="1">control</group>
+      ) in Veracruz and from 38 % to 11 % (
+      <group id="2">intervention</group>
+      ) and from 34 % to 17 % (
+      <group id="3">control</group>
+      ) in Trujillo .
+    </s>
+  </annotated>
+  <fulltext>Effective control of dengue vectors with curtains and water container covers treated with insecticide in Mexico and Venezuela : cluster randomised trials . To measure the impact on the dengue vector population ( Aedes aegypti ) and disease transmission of window curtains and water container covers treated with insecticide . Cluster randomised controlled trial based on entomological surveys and , for Trujillo only , serological survey . In addition , each site had a non - randomised external control . 18 urban sectors in Veracruz ( Mexico ) and 18 in Trujillo ( Venezuela ) . 4743 inhabitants ( 1095 houses ) in Veracruz and 5306 inhabitants ( 1122 houses ) in Trujillo . Sectors were paired according to entomological indices , and 1 sector in each pair was randomly allocated to receive treatment . In Veracruz , the intervention comprised curtains treated with lambdacyhalothrin and water treatment with pyriproxyfen chips ( an insect growth regulation ) . In Trujillo , the intervention comprised curtains treated with longlasting deltamethrin ( PermaNet ) plus water jar covers of the same material . Follow - up surveys were conducted at intervals , with the final survey after 12 months in Veracruz and 9 months in Trujillo . Reduction in entomological indices , specifically the Breteau and house indices . In both study sites , indices at the end of the trial were significantly lower than those at baseline , though with no significant differences between control and intervention arms . The mean Breteau index dropped from 60 % ( intervention clusters ) and 113 % ( control ) to 7 % ( intervention ) and 12 % ( control ) in Veracruz and from 38 % to 11 % ( intervention ) and from 34 % to 17 % ( control ) in Trujillo . The pupae per person and container indices showed similar patterns . In contrast , in nearby communities not in the trial the entomological indices followed the rainfall pattern . The intervention reduced mosquito populations in neighbouring control clusters ( spill -over effect ) ; and houses closer to treated houses were less likely to have infestations than those further away . This created a community effect whereby mosquito numbers were reduced throughout the study site . The observed effects were probably associated with the use of materials treated with insecticide at both sites because in Veracruz , people did not accept and use the pyriproxyfen chips . Window curtains and domestic water container covers treated with insecticide can reduce densities of dengue vectors to low levels and potentially affect dengue transmission .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To measure the impact on the dengue vector population ( Aedes aegypti ) and disease transmission of window curtains and water container covers treated with insecticide .</s>
+    <s id="2" section="design">Cluster randomised controlled trial based on entomological surveys and , for Trujillo only , serological survey .</s>
+    <s id="3" section="design">In addition , each site had a non - randomised external control .</s>
+    <s id="7" section="intervention">
+      In Veracruz , the intervention comprised
+      <group id="0">
+        <short>curtains  treated  with  lambdacyhalothrin  and  water  treatment  with  pyriproxyfen  chips</short>
+        (  an  insect  growth  regulation  )
+      </group>
+      .
+    </s>
+    <s id="8" section="intervention">
+      In Trujillo , the intervention comprised
+      <group id="2">
+        <short>curtains  treated  with  longlasting  deltamethrin</short>
+        (  PermaNet  )  plus  water  jar  covers  of  the  same  material
+      </group>
+      .
+    </s>
+    <s id="10" section="main_outcome_measures">
+      <outcome id="0">
+        Reduction  in
+        <short>entomological  indices</short>
+      </outcome>
+      , specifically the
+      <outcome id="0:0">Breteau</outcome>
+      and
+      <outcome id="0:4">house  indices</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      In both study sites , indices at the end of the trial were significantly lower than those at
+      <time id="2">baseline</time>
+      , though with no significant differences between control and intervention arms .
+    </s>
+    <s id="13" section="results">
+      The
+      <outcome id="0:1">pupae  per  person</outcome>
+      and
+      <outcome id="0:2">container  indices</outcome>
+      showed similar patterns .
+    </s>
+    <s id="14" section="results">
+      In contrast , in nearby communities not in the trial the
+      <outcome id="0">entomological  indices</outcome>
+      followed the rainfall pattern .
+    </s>
+    <s id="15" section="results">
+      The intervention reduced
+      <outcome id="0:3">mosquito  populations</outcome>
+      in neighbouring control clusters ( spill -over effect ) ; and houses closer to treated houses were less likely to have infestations than those further away .
+    </s>
+    <s id="16" section="results">
+      This created a community effect whereby
+      <outcome id="0:3">mosquito  numbers</outcome>
+      were reduced throughout the study site .
+    </s>
+    <s id="17" section="results">
+      The observed effects were probably associated with the use of materials treated with insecticide at both sites because in Veracruz , people did not accept and use the
+      <group id="0">pyriproxyfen  chips</group>
+      .
+    </s>
+    <s id="18" section="conclusion">
+      Window curtains and domestic water container covers treated with insecticide can reduce
+      <outcome id="0:3">densities  of  dengue  vectors</outcome>
+      to low levels and potentially affect dengue transmission .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16195293">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">
+        <short>educational  outreach</short>
+        to  nurses
+      </group>
+      on
+      <outcome id="1">tuberculosis  case  detection</outcome>
+      and
+      <outcome id="5">primary  care  of  respiratory  illness</outcome>
+      : pragmatic cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">40 primary care clinics , staffed by nurse practitioners , in the Free State province , South Africa .</s>
+    <s id="4" section="participants">
+      <ps>1999</ps>
+      patients aged 15 or over with cough or difficult breathing (
+      <gs group="0">1000</gs>
+      in
+      <group id="0">intervention  clinics</group>
+      ,
+      <gs group="1">999</gs>
+      in
+      <group id="1">control  clinics</group>
+      ) .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Between  2  and  6
+        <short>educational  outreach  sessions</short>
+      </group>
+      delivered to nurse practitioners by usual trainers from the health department .
+    </s>
+    <s id="8" section="results">
+      All clinics and almost all patients ( 92.8 % , 1856 /
+      <ps>1999</ps>
+      ) completed the trial .
+    </s>
+    <s id="9" section="results">
+      Although
+      <outcome id="0">sputum  testing  for  tuberculosis</outcome>
+      was similar between the groups ( 22.6 % in
+      <group id="0">outreach  group</group>
+      v 19.3 % in
+      <group id="1">control  group</group>
+      ; odds ratio 1.22 , 95 % confidence interval 0.83 to 1.80 ) , the
+      <outcome id="1">case  detection  of  tuberculosis</outcome>
+      was higher in the
+      <group id="0">outreach  group</group>
+      ( 6.4 % v 3.8 % ; 1.72 , 1.04 to 2.85 ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of educational outreach to nurses on tuberculosis case detection and primary care of respiratory illness : pragmatic cluster randomised controlled trial . To develop and implement an educational outreach programme for the integrated case management of priority respiratory diseases ( practical approach to lung health in South Africa ; PALSA ) and to evaluate its effects on respiratory care and detection of tuberculosis among adults attending primary care clinics . Pragmatic cluster randomised controlled trial , with clinics as the unit of randomisation . 40 primary care clinics , staffed by nurse practitioners , in the Free State province , South Africa . 1999 patients aged 15 or over with cough or difficult breathing ( 1000 in intervention clinics , 999 in control clinics ) . Between 2 and 6 educational outreach sessions delivered to nurse practitioners by usual trainers from the health department . The emphasis was on key messages drawn from the customised clinical practice guideline for the outreach programme , with illustrative support materials . Sputum screening for tuberculosis , tuberculosis case detection , inhaled corticosteroid prescriptions for obstructive lung disease , and antibiotic prescriptions for respiratory tract infections . All clinics and almost all patients ( 92.8 % , 1856 / 1999 ) completed the trial . Although sputum testing for tuberculosis was similar between the groups ( 22.6 % in outreach group v 19.3 % in control group ; odds ratio 1.22 , 95 % confidence interval 0.83 to 1.80 ) , the case detection of tuberculosis was higher in the outreach group ( 6.4 % v 3.8 % ; 1.72 , 1.04 to 2.85 ) . Prescriptions for inhaled corticosteroids were also higher ( 13.7 % v 7.7 % ; 1.90 , 1.14 to 3.18 ) but the number of antibiotic prescriptions was similar ( 39.7 % v 39.4 % ; 1.01 , 0.74 to 1.38 ) . Combining educational outreach with integrated case management provides a promising model for improving quality of care and control of priority respiratory diseases , without extra staff , in resource poor settings . Current controlled trials ISRCTN13438073 .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To develop and implement an
+      <group id="0">educational  outreach  programme</group>
+      for the integrated case management of priority respiratory diseases ( practical approach to lung health in South Africa ; PALSA ) and to evaluate its effects on
+      <outcome id="5">respiratory  care</outcome>
+      and
+      <outcome id="1">detection  of  tuberculosis</outcome>
+      among adults attending primary care clinics .
+    </s>
+    <s id="2" section="design">Pragmatic cluster randomised controlled trial , with clinics as the unit of randomisation .</s>
+    <s id="6" section="intervention">The emphasis was on key messages drawn from the customised clinical practice guideline for the outreach programme , with illustrative support materials .</s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">Sputum  screening  for  tuberculosis</outcome>
+      ,
+      <outcome id="1">tuberculosis  case  detection</outcome>
+      ,
+      <outcome id="2">
+        <short>inhaled  corticosteroid  prescriptions</short>
+        for  obstructive  lung  disease
+      </outcome>
+      , and
+      <outcome id="3">
+        <short>antibiotic  prescriptions</short>
+        for  respiratory  tract  infections
+      </outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      <outcome id="2">Prescriptions  for  inhaled  corticosteroids</outcome>
+      were also higher ( 13.7 % v 7.7 % ; 1.90 , 1.14 to 3.18 ) but the
+      <outcome id="3">
+        number  of
+        <short>antibiotic  prescriptions</short>
+      </outcome>
+      was similar ( 39.7 % v 39.4 % ; 1.01 , 0.74 to 1.38 ) .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">
+        Combining
+        <short>educational  outreach</short>
+        with  integrated  case  management
+      </group>
+      provides a promising model for improving
+      <outcome id="4">quality  of  care</outcome>
+      and
+      <outcome id="5">control  of  priority  respiratory  diseases</outcome>
+      , without extra staff , in resource poor settings .
+    </s>
+    <s id="12" section="trial_registration">Current controlled trials ISRCTN13438073 .</s>
+  </ignored>
+</abstract>
+

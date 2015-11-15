@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19304577">
+  <title>
+    <s id="0">Larval therapy for leg ulcers (VenUS II): randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Pragmatic , 3 armed randomised controlled trial .</s>
+    <s id="4" section="participants">267 patients with at least 1 venous or mixed venous and arterial ulcer with at least 25 % coverage of slough or necrotic tissue , and an ankle brachial pressure index of 0.6 or more .</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were <outcome id="4" type="bad">time to debridement</outcome>, <outcome id="3">health related quality of life (<short>SF-12</short>)</outcome>, <outcome id="4" type="bad">bacterial load</outcome>, <outcome id="5" type="bad">presence of meticillin resistant Staphylococcus aureus</outcome>, <outcome id="6" type="bad">adverse events</outcome>, and <outcome id="2" type="bad">ulcer related pain</outcome> (visual analogue scale, from 0 mm for no pain to 150 mm for worst pain imaginable).</s>
+    <s id="8" section="results"><outcome id="0" type="good">Time to healing</outcome> was not significantly different between the <group id="0" role="experiment">loose or bagged <short>larvae</short> group</group> and the <group id="1" role="control"><short>hydrogel</short> group</group> (hazard ratio for healing using larvae v hydrogel 1.13, 95% confidence interval 0.76 to 1.68; P=0.54).</s>
+    <s id="12" section="results">No difference was found between <group id="0" role="experiment">larval therapy</group> and <group id="1" role="control">hydrogel</group> in their <outcome id="1" type="good">ability to eradicate MRSA</outcome> by the end of the debridement phase (75% (9/12) v 50% (3/6); P=0.34), although this comparison was underpowered.</s>
+    <s id="13" section="results"><outcome id="2" type="bad">Mean <short>ulcer related pain</short> scores</outcome> were higher in either <group id="0" role="experiment">larvae group</group> compared with <group id="1" role="control">hydrogel</group> (mean difference in pain score: loose larvaev v hydrogel 46.74 (95% confidence interval 32.44 to 61.04), P&lt;0.001; bagged larvae v hydrogel 38.58 (23.46 to 53.70), P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the clinical effectiveness of larval therapy with a standard debridement technique (hydrogel) for sloughy or necrotic leg ulcers. 
+DESIGN: Pragmatic, three armed randomised controlled trial. 
+SETTING: Community nurse led services, hospital wards, and hospital outpatient leg ulcer clinics in urban and rural settings, United Kingdom. 
+PARTICIPANTS: 267 patients with at least one venous or mixed venous and arterial ulcer with at least 25% coverage of slough or necrotic tissue, and an ankle brachial pressure index of 0.6 or more. 
+INTERVENTIONS: Loose larvae, bagged larvae, and hydrogel. 
+MAIN OUTCOME MEASURES: The primary outcome was time to healing of the largest eligible ulcer. 
+Secondary outcomes were time to debridement, health related quality of life (SF-12), bacterial load, presence of meticillin resistant Staphylococcus aureus, adverse events, and ulcer related pain (visual analogue scale, from 0 mm for no pain to 150 mm for worst pain imaginable). 
+RESULTS: Time to healing was not significantly different between the loose or bagged larvae group and the hydrogel group (hazard ratio for healing using larvae v hydrogel 1.13, 95% confidence interval 0.76 to 1.68; P=0.54). 
+Larval therapy significantly reduced the time to debridement (2.31, 1.65 to 3.2; P&lt;0.001). 
+Health related quality of life and change in bacterial load over time were not significantly different between the groups. 
+6.7% of participants had MRSA at baseline. 
+No difference was found between larval therapy and hydrogel in their ability to eradicate MRSA by the end of the debridement phase (75% (9/12) v 50% (3/6); P=0.34), although this comparison was underpowered. 
+Mean ulcer related pain scores were higher in either larvae group compared with hydrogel (mean difference in pain score: loose larvae v hydrogel 46.74 (95% confidence interval 32.44 to 61.04), P&lt;0.001; bagged larvae v hydrogel 38.58 (23.46 to 53.70), P&lt;0.001). 
+CONCLUSIONS: Larval therapy did not improve the rate of healing of sloughy or necrotic leg ulcers or reduce bacterial load compared with hydrogel but did significantly reduce the time to debridement and increase ulcer pain. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN55114812 and National Research Register N0484123692.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the clinical effectiveness of larval therapy with a standard debridement technique (hydrogel) for sloughy or necrotic leg ulcers.</s>
+    <s id="3" section="setting">Community nurse led services, hospital wards, and hospital outpatient leg ulcer clinics in urban and rural settings, United Kingdom.</s>
+    <s id="5" section="interventions">Loose larvae, bagged larvae, and hydrogel.</s>
+    <s id="6" section="main outcome measures">The primary outcome was time to healing of the largest eligible ulcer.</s>
+    <s id="9" section="results">Larval therapy significantly reduced the time to debridement (2.31, 1.65 to 3.2; P&lt;0.001).</s>
+    <s id="10" section="results">Health related quality of life and change in bacterial load over time were not significantly different between the groups.</s>
+    <s id="11" section="results">6.7% of participants had MRSA at baseline.</s>
+    <s id="14" section="conclusions">Larval therapy did not improve the rate of healing of sloughy or necrotic leg ulcers or reduce bacterial load compared with hydrogel but did significantly reduce the time to debridement and increase ulcer pain.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN55114812 and National Research Register N0484123692.</s>
+  </ignored>
+</abstract>
+

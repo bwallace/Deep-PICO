@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16597660">
+  <title>
+    <s id="0" section="title">
+      Effect of different forms of information produced for cancer patients on their
+      <outcome id="1">use  of  the  information</outcome>
+      ,
+      <outcome id="2">social  support</outcome>
+      , and
+      <outcome id="3">anxiety</outcome>
+      : randomised trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Randomised trial with 8 groups ( 3 factors , 2x2x2 ) .</s>
+    <s id="3" section="design">
+      Data collected at
+      <time id="0">recruitment</time>
+      and
+      <time id="1">3  month  follow  -  up</time>
+      .
+    </s>
+    <s id="4" section="participants">
+      <ps>400</ps>
+      patients starting radiotherapy , of whom 325 with breast or prostate cancer and complete anxiety and depression data were included in the analysis .
+    </s>
+  </annotated>
+  <fulltext>Effect of different forms of information produced for cancer patients on their use of the information , social support , and anxiety : randomised trial . To explore the hypothesis that different methods of selecting and printing information for cancer patients could improve emotional support by affecting interaction with others , and so lead to improved psychological wellbeing . Randomised trial with 8 groups ( 3 factors , 2x2x2 ) . Data collected at recruitment and 3 month follow - up . 400 patients starting radiotherapy , of whom 325 with breast or prostate cancer and complete anxiety and depression data were included in the analysis . Printed booklets : half had only general information from CancerBACUP about each patient 's cancer and half had personalised information from the patient 's medical record plus selected general information ; half were composed of information chosen interactively by the patient and half were produced automatically with a larger volume of material ; and half had additional advice on anxiety management and half did not . Patients ' views of the information , use of their booklets with others ; change in reported social support ; change in anxiety and depression . The larger booklets produced automatically were more likely to be found useful and to tell patients something new and less likely to be seen as too limited than the booklets produced interactively , but they were also more likely to overwhelm some patients . Personalised booklets were more likely than general booklets to tell patients something new . There was no difference in patients ' perceived understanding of their cancer by any of the intervention factors . Patients with personalised information were more likely to show their booklets to others and to think it helped in discussing their cancer or its treatment . There were no major differences in social support , anxiety , or depression by any intervention factors . Patients were more likely to show personalised information to their confidants than general information . Further research is needed into the effects of sharing information on patients ' social support and anxiety . Trial registration US Government Clinical Trials Database NCT00127465 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To explore the hypothesis that different methods of selecting and printing information for cancer patients could improve
+      <outcome id="0">emotional  support</outcome>
+      by affecting interaction with others , and so lead to
+      <outcome id="5">improved  psychological  wellbeing</outcome>
+      .
+    </s>
+    <s id="5" section="interventions">
+      Printed booklets : half had
+      <group id="0">only  general  information  from  CancerBACUP  about  each  patient  's  cancer</group>
+      and half had
+      <group id="1">personalised  information  from  the  patient  's  medical  record  plus  selected  general  information</group>
+      ; half were composed of
+      <group id="2">information  chosen  interactively  by  the  patient</group>
+      and half were
+      <group id="3">produced  automatically  with  a  larger  volume  of  material</group>
+      ; and half had
+      <group id="4">additional  advice  on  anxiety  management</group>
+      and half did not .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Patients  '  views  of  the  information</outcome>
+      ,
+      <outcome id="1">use  of  their  booklets  with  others</outcome>
+      ;
+      <outcome id="2">change  in  reported  social  support</outcome>
+      ;
+      <outcome id="3">change  in  anxiety</outcome>
+      and
+      <outcome id="4">depression</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <group id="3">larger  booklets  produced  automatically</group>
+      were more likely to be
+      <outcome id="0">found  useful</outcome>
+      and
+      <outcome id="0">to  tell  patients  something  new</outcome>
+      and less likely to be
+      <outcome id="0">seen  as  too  limited</outcome>
+      than the
+      <group id="2">booklets  produced  interactively</group>
+      , but they were also more likely to
+      <outcome id="0">overwhelm  some  patients</outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <group id="1">Personalised  booklets</group>
+      were more likely than
+      <group id="0">general  booklets</group>
+      <outcome id="0">to  tell  patients  something  new</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      There was no difference in
+      <outcome id="0">patients  '  perceived  understanding  of  their  cancer</outcome>
+      by any of the intervention factors .
+    </s>
+    <s id="10" section="results">
+      <group id="1">Patients  with  personalised  information</group>
+      were more likely to
+      <outcome id="1">show  their  booklets  to  others</outcome>
+      and to
+      <outcome id="1">think  it  helped  in  discussing  their  cancer  or  its  treatment</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      There were no major differences in
+      <outcome id="2">social  support</outcome>
+      ,
+      <outcome id="3">anxiety</outcome>
+      , or
+      <outcome id="4">depression</outcome>
+      by any intervention factors .
+    </s>
+    <s id="12" section="conclusions">
+      Patients were more likely to
+      <outcome id="1">show</outcome>
+      <group id="1">personalised  information</group>
+      <outcome id="1">to  their  confidants</outcome>
+      than
+      <group id="0">general  information</group>
+      .
+    </s>
+    <s id="13" section="conclusions">
+      Further research is needed into the effects of sharing information on
+      <outcome id="2">patients  '  social  support</outcome>
+      and
+      <outcome id="3">anxiety</outcome>
+      .
+    </s>
+    <s id="14" section="conclusions">Trial registration US Government Clinical Trials Database NCT00127465 .</s>
+  </ignored>
+</abstract>
+

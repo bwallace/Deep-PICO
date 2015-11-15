@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15972728">
+  <title>
+    <s id="0" section="title">
+      Response to
+      <group id="0">antibiotics</group>
+      of women with symptoms of urinary tract infection but negative dipstick urine test results : double blind randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>59</ps>
+      women aged 16-50 years presenting with a history of dysuria and frequency in whom a dipstick test of midstream urine was negative for both nitrites and leucocytes .
+    </s>
+    <s id="6" section="intervention">
+      <group id="0">
+        <short>Trimethoprim</short>
+        300  mg  daily  for  3  days
+      </group>
+      or
+      <group id="1">placebo</group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Self reported diary of symptoms for
+      <time id="1">7  days</time>
+      , recording the presence or absence of individual symptoms each day , followed by a structured telephone questionnaire after
+      <time id="1">7  days</time>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      The main clinical outcome was
+      <outcome id="0" type="bad">resolution  of  dysuria</outcome>
+      at
+      <time id="0">3</time>
+      and
+      <time id="1">7  days</time>
+      and median time to resolution .
+    </s>
+    <s id="10" section="results">
+      The
+      <outcome id="0" type="bad">
+        median  time  for  resolution  of
+        <short>dysuria</short>
+      </outcome>
+      was 3 days for
+      <group id="0">trimethoprim</group>
+      compared with 5 days for
+      <group id="1">placebo</group>
+      ( P = 0.002 ) .
+    </s>
+    <s id="11" section="results">
+      At
+      <time id="0">day  3</time>
+      ,
+      <on group="0" outcome="0">5</on>
+      ( 24 % ) of patients in the
+      <group id="0">treatment  group</group>
+      had
+      <outcome id="0" type="bad">ongoing  dysuria</outcome>
+      compared with
+      <on group="1" outcome="0">20</on>
+      ( 74 % ) in the
+      <group id="1">placebo  group</group>
+      ( P = 0.005 ) .
+    </s>
+    <s id="12" section="results">
+      This difference persisted until
+      <time id="1">day  7</time>
+      :
+      <on group="0" outcome="0">2</on>
+      patients ( 10 % ) in the
+      <group id="0">treatment  group</group>
+      v
+      <on group="1" outcome="0">11</on>
+      ( 41 % ) in the
+      <group id="1">placebo  group</group>
+      ; P = 0.02 ) .
+    </s>
+    <s id="13" section="results">The number needed to treat was 4 .</s>
+    <s id="14" section="results">
+      The
+      <outcome id="1">
+        median  duration  of
+        <short>constitutional  symptoms</short>
+        (  feverishness  ,  shivers  )
+      </outcome>
+      was reduced by 4 days .
+    </s>
+    <s id="15" section="conclusions">Although a negative dipstick test for leucocytes and nitrites accurately predicted absence of infection when standard microbiological definitions were used ( negative predictive value 92 % ) , it did not predict response to antibiotic treatment .</s>
+    <s id="16" section="conclusions">
+      <group id="0">
+        3  days  '  treatment  with
+        <short>trimethoprim</short>
+      </group>
+      significantly reduced dysuria in women whose urine dipstick test was negative .
+    </s>
+  </annotated>
+  <fulltext>Response to antibiotics of women with symptoms of urinary tract infection but negative dipstick urine test results : double blind randomised controlled trial . To assess the effectiveness of antibiotic treatment of women with symptoms of urinary tract infection but negative urine dipstick testing . Prospective , double blind , randomised , placebo controlled trial . Primary care , among a randomly selected group of general practitioners in Christchurch , New Zealand . 59 women aged 16-50 years presenting with a history of dysuria and frequency in whom a dipstick test of midstream urine was negative for both nitrites and leucocytes . Participants with complicated urinary tract infection were excluded . Trimethoprim 300 mg daily for 3 days or placebo . Self reported diary of symptoms for 7 days , recording the presence or absence of individual symptoms each day , followed by a structured telephone questionnaire after 7 days . The main clinical outcome was resolution of dysuria at 3 and 7 days and median time to resolution . Secondary outcomes were resolution of other symptoms . The median time for resolution of dysuria was 3 days for trimethoprim compared with 5 days for placebo ( P = 0.002 ) . At day 3 , 5 ( 24 % ) of patients in the treatment group had ongoing dysuria compared with 20 ( 74 % ) in the placebo group ( P = 0.005 ) . This difference persisted until day 7 : 2 patients ( 10 % ) in the treatment group v 11 ( 41 % ) in the placebo group ; P = 0.02 ) . The number needed to treat was 4 . The median duration of constitutional symptoms ( feverishness , shivers ) was reduced by 4 days . Although a negative dipstick test for leucocytes and nitrites accurately predicted absence of infection when standard microbiological definitions were used ( negative predictive value 92 % ) , it did not predict response to antibiotic treatment . 3 days ' treatment with trimethoprim significantly reduced dysuria in women whose urine dipstick test was negative . These results support the practice of empirical antibiotic use guided by symptoms . Balancing the competing interests of symptom relief and the minimisation of antibiotic use remains a dilemma - further research is needed to determine clinical predictors of response to antibiotics .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effectiveness of
+      <group id="0">antibiotic  treatment</group>
+      of women with symptoms of urinary tract infection but negative urine dipstick testing .
+    </s>
+    <s id="2" section="design">Prospective , double blind , randomised , placebo controlled trial .</s>
+    <s id="3" section="setting">Primary care , among a randomly selected group of general practitioners in Christchurch , New Zealand .</s>
+    <s id="5" section="participants">Participants with complicated urinary tract infection were excluded .</s>
+    <s id="9" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">resolution  of  other  symptoms</outcome>
+      .
+    </s>
+    <s id="17" section="conclusions">These results support the practice of empirical antibiotic use guided by symptoms .</s>
+    <s id="18" section="conclusions">Balancing the competing interests of symptom relief and the minimisation of antibiotic use remains a dilemma - further research is needed to determine clinical predictors of response to antibiotics .</s>
+  </ignored>
+</abstract>
+

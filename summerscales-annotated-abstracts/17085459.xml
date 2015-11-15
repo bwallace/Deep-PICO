@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17085459">
+  <title>
+    <s id="0">Effect of isoniazid prophylaxis on mortality and incidence of tuberculosis in children with HIV: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="interventions"><group id="1" role="experiment">Isoniazid</group> or <group id="0" type="control">placebo</group> given with co-trimoxazole either daily or 3 times a week.</s>
+    <s id="7" section="results">Data on 263 children (median age 24.7 months) were available when the data safety monitoring board recommended discontinuing the <group id="0" type="control">placebo arm</group>; <gs group="1">132</gs> (50%) were <group id="1" role="experiment">taking <short>isoniazid</short></group>.</s>
+    <s id="9" section="results"><outcome id="0" type="bad">Mortality</outcome> was lower in the <group id="1" role="experiment">isoniazid group</group> than in the <group id="0" type="control">placebo group</group> (<on group="1" outcome="0"> 11</on> (8%) v <on group="0" outcome="0">21</on> (16%), hazard ratio 0.46, 95% confidence interval 0.22 to 0.95, P=0.015) by intention to treat analysis.</s>
+    <s id="11" section="results">The reduction in <outcome id="0" type="bad">mortality</outcome> was similar in children on <group id="1" role="experiment">3 times a week or daily <short>isoniazid</short></group>.</s>
+    <s id="12" section="results"><outcome id="1" type="bad">The incidence of <short>tuberculosis</short></outcome> was lower in <group id="1" role="experiment">the isoniazid group</group> (<on group="1" outcome="1">5</on> cases, 3.8%) than in <group id="0" type="control">the placebo group</group> (<on group="0" outcome="1">13</on> cases, 9.9%) (hazard ratio 0.28, 0.10 to 0.78, P=0.005).</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To investigate the impact of isoniazid prophylaxis on mortality and incidence of tuberculosis in children with HIV. 
+DESIGN: Two centre prospective double blind placebo controlled trial. 
+PARTICIPANTS: Children aged &gt; or =8 weeks with HIV. 
+INTERVENTIONS: Isoniazid or placebo given with co-trimoxazole either daily or three times a week. 
+SETTING: Two tertiary healthcare centres in South Africa. 
+MAIN OUTCOME MEASURES: Mortality, incidence of tuberculosis, and adverse events. 
+RESULTS: Data on 263 children (median age 24.7 months) were available when the data safety monitoring board recommended discontinuing the placebo arm; 132 (50%) were taking isoniazid. 
+Median follow-up was 5.7 (interquartile range 2.0-9.7) months. 
+Mortality was lower in the isoniazid group than in the placebo group (11 (8%) v 21 (16%), hazard ratio 0.46, 95% confidence interval 0.22 to 0.95, P=0.015) by intention to treat analysis. 
+The benefit applied across Centers for Disease Control clinical categories and in all ages. 
+The reduction in mortality was similar in children on three times a week or daily isoniazid. 
+The incidence of tuberculosis was lower in the isoniazid group (5 cases, 3.8%) than in the placebo group (13 cases, 9.9%) (hazard ratio 0.28, 0.10 to 0.78, P=0.005). 
+All cases of tuberculosis confirmed by culture were in children in the placebo group. 
+CONCLUSIONS: Prophylaxis with isoniazid has an early survival benefit and reduces incidence of tuberculosis in children with HIV. 
+Prophylaxis may offer an effective public health intervention to reduce mortality in such children in settings with a high prevalence of tuberculosis. 
+TRIAL REGISTRATION: Clinical Trials NCT00330304.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To investigate the impact of isoniazid prophylaxis on mortality and incidence of tuberculosis in children with HIV.</s>
+    <s id="2" section="design">Two centre prospective double blind placebo controlled trial.</s>
+    <s id="3" section="participants">Children aged &gt; or =8 weeks with HIV.</s>
+    <s id="5" section="setting">Two tertiary healthcare centres in South Africa.</s>
+    <s id="6" section="main outcome measures">Mortality, incidence of tuberculosis, and adverse events.</s>
+    <s id="8" section="results">Median follow-up was 5.7 (interquartile range 2.0-9.7) months.</s>
+    <s id="10" section="results">The benefit applied across Centers for Disease Control clinical categories and in all ages.</s>
+    <s id="13" section="results">All cases of tuberculosis confirmed by culture were in children in the placebo group.</s>
+    <s id="14" section="conclusions">Prophylaxis with isoniazid has an early survival benefit and reduces incidence of tuberculosis in children with HIV.</s>
+    <s id="15" section="conclusions">Prophylaxis may offer an effective public health intervention to reduce mortality in such children in settings with a high prevalence of tuberculosis.</s>
+    <s id="17" section="trial registration">Clinical Trials NCT00330304.</s>
+  </ignored>
+</abstract>
+

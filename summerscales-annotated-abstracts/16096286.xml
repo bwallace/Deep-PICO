@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16096286">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of the
+      <group id="0">
+        <short>Lidcombe  programme</short>
+        of  early  stuttering  intervention
+      </group>
+      .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 public speech clinics in New Zealand .</s>
+    <s id="5" section="participants">Inclusion criteria were age 3-6 years and frequency of stuttering of at least 2 % syllables stuttered .</s>
+    <s id="6" section="participants">Exclusion criteria were onset of stuttering during the 6 months before recruitment and treatment for stuttering during the previous 12 months .</s>
+    <s id="7" section="participants">
+      <ps>54</ps>
+      participants were randomised :
+      <gs group="0">29</gs>
+      to the
+      <group id="0">Lidcombe  programme  arm</group>
+      and
+      <gs group="1">25</gs>
+      to the
+      <group id="1">control  arm</group>
+      .
+    </s>
+    <s id="8" section="participants">12 of the participants were girls .</s>
+    <s id="11" section="main_outcome_measures">Parents in both arms of the trial collected speech samples in 3 different speaking situations before randomisation and at 3 , 6 , and 9 months after randomisation .</s>
+    <s id="12" section="results">
+      Analysis showed a highly significant difference ( P = 0.003 ) at
+      <time id="0">9  months  after  randomisation</time>
+      .
+    </s>
+    <s id="13" section="results">
+      The
+      <outcome id="0">mean  proportion  of  syllables  stuttered</outcome>
+      at
+      <time id="0">9  months  after  randomisation</time>
+      was 1.5 % ( SD 1.4 ) for the
+      <group id="0">treatment  arm</group>
+      and 3.9 % ( SD 3.5 ) for the
+      <group id="1">control  arm</group>
+      , giving an effect size of 2.3 % of syllables stuttered ( 95 % confidence interval 0.8 to 3.9 ) .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of the Lidcombe programme of early stuttering intervention . To evaluate the efficacy of the Lidcombe programme of early stuttering intervention by comparison to a control group . A pragmatic , open plan , parallel group , randomised controlled trial with blinded outcome assessment . 2 public speech clinics in New Zealand . Stuttering preschool children who presented to the speech clinics for treatment . Inclusion criteria were age 3-6 years and frequency of stuttering of at least 2 % syllables stuttered . Exclusion criteria were onset of stuttering during the 6 months before recruitment and treatment for stuttering during the previous 12 months . 54 participants were randomised : 29 to the Lidcombe programme arm and 25 to the control arm . 12 of the participants were girls . Lidcombe programme of early stuttering intervention . Frequency of stuttering was measured as the proportion of syllables stuttered , from audiotaped recordings of participants ' conversational speech outside the clinic . Parents in both arms of the trial collected speech samples in 3 different speaking situations before randomisation and at 3 , 6 , and 9 months after randomisation . Analysis showed a highly significant difference ( P = 0.003 ) at 9 months after randomisation . The mean proportion of syllables stuttered at 9 months after randomisation was 1.5 % ( SD 1.4 ) for the treatment arm and 3.9 % ( SD 3.5 ) for the control arm , giving an effect size of 2.3 % of syllables stuttered ( 95 % confidence interval 0.8 to 3.9 ) . This effect size was more than double the minimum clinically worthwhile difference specified in the trial protocol . The results provide evidence from a randomised controlled trial to support early intervention for stuttering . The Lidcombe programme is an efficacious treatment for stuttering in children of preschool age .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To evaluate the efficacy of the
+      <group id="0">
+        <short>Lidcombe  programme</short>
+        of  early  stuttering  intervention
+      </group>
+      by comparison to a
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="2" section="design">A pragmatic , open plan , parallel group , randomised controlled trial with blinded outcome assessment .</s>
+    <s id="4" section="participants">Stuttering preschool children who presented to the speech clinics for treatment .</s>
+    <s id="9" section="intervention">
+      <group id="0">
+        <short>Lidcombe  programme</short>
+        of  early  stuttering  intervention
+      </group>
+      .
+    </s>
+    <s id="10" section="main_outcome_measures">
+      <outcome id="0">Frequency  of  stuttering</outcome>
+      was measured as the
+      <outcome id="0">proportion  of  syllables  stuttered</outcome>
+      , from audiotaped recordings of participants ' conversational speech outside the clinic .
+    </s>
+    <s id="14" section="results">This effect size was more than double the minimum clinically worthwhile difference specified in the trial protocol .</s>
+    <s id="15" section="conclusions">
+      The results provide evidence from a randomised controlled trial to support
+      <group id="0">early  intervention</group>
+      for stuttering .
+    </s>
+    <s id="16" section="conclusions">
+      The
+      <group id="0">Lidcombe  programme</group>
+      is an efficacious treatment for stuttering in children of preschool age .
+    </s>
+  </ignored>
+</abstract>
+

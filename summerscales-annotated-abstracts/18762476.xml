@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18762476">
+  <title>
+    <s id="0">Low dose aspirin and cognitive function in middle aged to elderly adults: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">3350 men and women aged over 50 participating in the aspirin for asymptomatic atherosclerosis trial.</s>
+    <s id="5" section="intervention"><group id="0" role="experiment">Low dose aspirin ( 100 mg daily )</group> or <group id="1" role="control">placebo</group> for <time id="0">5 years</time>.</s>
+    <s id="6" section="main outcome measures">Tests of memory , executive function , non - verbal reasoning , mental flexibility , and information processing <time id="0">5 years</time> after randomisation , with scores used to create a summary cognitive score ( general factor ) .</s>
+    <s id="8" section="results">In the primary intention to treat analysis, there was no significant difference at follow-up between the groups in the <outcome id="0" type="good">proportion achieving over the median general factor cognitive score</outcome> (32.7% and 34.8% respectively, odds ratio 0.91, 95% confidence interval 0.79 to 1.05, P=0.20) or in mean scores on the individual cognitive tests.</s>
+    <s id="9" section="results">There were also no significant differences in <outcome id="1" type="good">change in cognitive ability</outcome> over the 5 years in a subset of 504 who underwent detailed cognitive testing at baseline .</s>    
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effects of low dose aspirin on cognitive function in middle aged to elderly men and women at moderately increased cardiovascular risk. 
+DESIGN: Randomised double blind placebo controlled trial. 
+SETTING: Central Scotland. 
+PARTICIPANTS: 3350 men and women aged over 50 participating in the aspirin for asymptomatic atherosclerosis trial. 
+INTERVENTION: Low dose aspirin (100 mg daily) or placebo for five years. 
+MAIN OUTCOME MEASURES: Tests of memory, executive function, non-verbal reasoning, mental flexibility, and information processing five years after randomisation, with scores used to create a summary cognitive score (general factor). 
+RESULTS: At baseline, mean vocabulary scores (an indicator of previous cognitive ability) were similar in the aspirin (30.9, SD 4.7) and placebo (31.1, SD 4.7) groups. 
+In the primary intention to treat analysis, there was no significant difference at follow-up between the groups in the proportion achieving over the median general factor cognitive score (32.7% and 34.8% respectively, odds ratio 0.91, 95% confidence interval 0.79 to 1.05, P=0.20) or in mean scores on the individual cognitive tests. 
+There were also no significant differences in change in cognitive ability over the five years in a subset of 504 who underwent detailed cognitive testing at baseline. 
+CONCLUSION: Low dose aspirin does not affect cognitive function in middle aged to elderly people at increased cardiovascular risk. 
+TRIAL REGISTRATION: ISRCTN 66587262.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effects of low dose aspirin on cognitive function in middle aged to elderly men and women at moderately increased cardiovascular risk.</s>
+    <s id="2" section="design">Randomised double blind placebo controlled trial.</s>
+    <s id="3" section="setting">Central Scotland.</s>
+    <s id="7" section="results">At baseline, mean vocabulary scores (an indicator of previous cognitive ability) were similar in the aspirin (30.9, SD 4.7) and placebo (31.1, SD 4.7) groups.</s>
+    <s id="10" section="conclusion">Low dose aspirin does not affect cognitive function in middle aged to elderly people at increased cardiovascular risk.</s>
+    <s id="11" section="trial registration">ISRCTN 66587262.</s>
+  </ignored>
+</abstract>
+

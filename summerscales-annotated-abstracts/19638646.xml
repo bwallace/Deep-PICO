@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19638646">
+  <title>
+    <s id="0">Cytological surveillance compared with immediate referral for colposcopy in management of women with low grade cervical abnormalities: multicentre randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">4439 women, aged 20-59, with a cytology result showing borderline nuclear abnormalities or mild dyskaryosis, October 1999-October 2002.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">Cytological screening every 6 months in primary care</group> ( n = <gs group="0">2223</gs> ) or <group id="1" role="experiment">referral for colposcopy and related interventions</group> ( n = <gs group="1">2216</gs> ) .</s>
+    <s id="6" section="interventions">All women were followed for 3 years , concluding with an exit appointment at which colposcopic examination was undertaken .</s>
+    <s id="11" section="results">The cumulative incidence of <outcome id="0" type="bad">cervical intraepithelial neoplasia grade II or worse</outcome> was 79 per 1000 person years in the <group id="1" role="experiment">colposcopy arm</group> and 58 per 1000 person years in the <group id="0" role="experiment">cytological surveillance arm</group> (relative risk 1.37, 95% confidence interval 1.19 to 1.57).</s>
+    <s id="13" section="results">Among women randomised to <group id="1" role="experiment">immediate colposcopy</group>, 79% (74.9% to 82.5%) of cases of <outcome id="0" type="good">cervical intraepithelial neoplasia grade II or worse</outcome> were diagnosed at the time of the immediate colposcopy, while among women randomised to <group id="0" role="experiment">cytological surveillance</group>, 77% (72.1% to 81.2%) of cases were <outcome id="1" type="good"><short>detected</short> by surveillance cytology and related interventions</outcome>.</s>
+    <s id="14" section="results">Similar proportions of women were <outcome id="2" type="bad">anxious or depressed</outcome> in the 2 arms .</s>    
+  </annotated>
+  <fulltext>OBJECTIVES: To examine the effectiveness of cytological surveillance in primary care compared with immediate referral for colposcopic examination in women with low grade abnormal results on cervical cytology tests. 
+DESIGN: Multicentre individually randomised controlled trial. 
+SETTING: NHS cervical screening programmes in Grampian, Tayside, and Nottingham. 
+PARTICIPANTS: 4439 women, aged 20-59, with a cytology result showing borderline nuclear abnormalities or mild dyskaryosis, October 1999-October 2002. 
+INTERVENTIONS: Cytological screening every six months in primary care (n=2223) or referral for colposcopy and related interventions (n=2216). 
+All women were followed for three years, concluding with an exit appointment at which colposcopic examination was undertaken. 
+Colposcopists assessing outcome at this appointment were blinded to randomisation. 
+MAIN OUTCOME MEASURES: Primary end point: cumulative incidence of cervical intraepithelial neoplasia grade II or more severe disease. 
+Other end points: cervical intraepithelial neoplasia grade III or worse, clinically significant anxiety and depression, other self reported after effects, and rates of non-attendance. 
+Analysis was by intention to treat; all those randomised were included. 
+RESULTS: The cumulative incidence of cervical intraepithelial neoplasia grade II or worse was 79 per 1000 person years in the colposcopy arm and 58 per 1000 person years in the cytological surveillance arm (relative risk 1.37, 95% confidence interval 1.19 to 1.57). 
+This difference was less marked for cervical intraepithelial neoplasia grade III or more severe disease, but the incidence was still higher in the colposcopy arm (relative risk 1.26, 1.04 to 1.53). 
+Among women randomised to immediate colposcopy, 79% (74.9% to 82.5%) of cases of cervical intraepithelial neoplasia grade II or worse were diagnosed at the time of the immediate colposcopy, while among women randomised to cytological surveillance, 77% (72.1% to 81.2%) of cases were detected by surveillance cytology and related interventions. 
+Similar proportions of women were anxious or depressed in the two arms. 
+A higher proportion of women in the colposcopy arm reported after effects, and these were of longer duration and more severe. 
+Non-attendance was low in both arms. 
+CONCLUSION: The more marked difference between the arms in the occurrence of cervical intraepithelial neoplasia grade II or worse than in the occurrence of grade III or worse can probably be accounted for by the spontaneous regression of some cases of grade II neoplasia. 
+Compared with cytological surveillance, a policy of immediate colposcopy detects more cervical intraepithelial neoplasia grade II or worse, and some more grade III or worse, but might lead to overtreatment. 
+Such a policy is associated with a higher rate of reported after effects, which are more severe and of longer duration than those associated with cytological surveillance. 
+TRIAL REGISTRATION: ISRCTN 34841617.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To examine the effectiveness of cytological surveillance in primary care compared with immediate referral for colposcopic examination in women with low grade abnormal results on cervical cytology tests.</s>
+    <s id="2" section="design">Multicentre individually randomised controlled trial.</s>
+    <s id="3" section="setting">NHS cervical screening programmes in Grampian, Tayside, and Nottingham.</s>
+    <s id="7" section="interventions">Colposcopists assessing outcome at this appointment were blinded to randomisation.</s>
+    <s id="8" section="main outcome measures">Primary end point: cumulative incidence of cervical intraepithelial neoplasia grade II or more severe disease.</s>
+    <s id="9" section="main outcome measures">Other end points: cervical intraepithelial neoplasia grade III or worse, clinically significant anxiety and depression, other self reported after effects, and rates of non-attendance.</s>
+    <s id="10" section="main outcome measures">Analysis was by intention to treat; all those randomised were included.</s>
+    <s id="12" section="results">This difference was less marked for cervical intraepithelial neoplasia grade III or more severe disease, but the incidence was still higher in the colposcopy arm (relative risk 1.26, 1.04 to 1.53).</s>
+    <s id="15" section="results">A higher proportion of women in the colposcopy arm reported after effects, and these were of longer duration and more severe.</s>
+    <s id="16" section="results">Non-attendance was low in both arms.</s>
+    <s id="17" section="conclusion">The more marked difference between the arms in the occurrence of cervical intraepithelial neoplasia grade II or worse than in the occurrence of grade III or worse can probably be accounted for by the spontaneous regression of some cases of grade II neoplasia.</s>
+    <s id="18" section="conclusion">Compared with cytological surveillance, a policy of immediate colposcopy detects more cervical intraepithelial neoplasia grade II or worse, and some more grade III or worse, but might lead to overtreatment.</s>
+    <s id="19" section="conclusion">Such a policy is associated with a higher rate of reported after effects, which are more severe and of longer duration than those associated with cytological surveillance.</s>
+    <s id="20" section="trial registration">ISRCTN 34841617.</s>
+  </ignored>
+</abstract>
+

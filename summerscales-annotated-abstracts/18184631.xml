@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18184631">
+  <title>
+    <s id="0">Zinc supplementation in children with cholera in Bangladesh: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">179 children aged 3-14 years with watery diarrhoea and stool dark field examination positive for Vibrio cholerae and confirmed by stool culture.</s>
+    <s id="5" section="intervention">Children were randomised to receive <group id="0" role="experiment">30 mg elemental <short>zinc</short> per day</group> (n=<gs group="0">90</gs>) or <group id="1" role="control">placebo</group> (n=<gs group="1">89</gs>) until recovery.</s>
+    <s id="6" section="intervention">All children received erythromycin suspension orally in a dose of 12.5 mg / kg every 6 hours for 3 days .</s>
+    <s id="8" section="main outcome measures">Results 82 children in each group completed the study.</s>
+    <s id="9" section="main outcome measures">More patients in the <group id="0" role="experiment"><short>zinc</short> group</group> than in the <group id="1" role="control">control group</group> recovered by 2 days ( 49 % v 32 % , P = 0.032 ) and by 3 days ( 81 % v 68 % , P = 0.03 ) .</s>
+    <s id="10" section="main outcome measures"><group id="0" role="experiment"><short>Zinc</short> supplemented patients</group> had 12% shorter <outcome id="0" type="bad">duration of diarrhoea</outcome> than <group id="1" role="control">control patients</group> (64.1 v 72.8 h, P=0.028) and 11% less stool output (1.6 v 1.8 kg/day, P=0.039).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the impact of zinc supplementation in children with cholera. 
+DESIGN: Double blind, randomised, placebo controlled trial. 
+SETTING: Dhaka Hospital, Bangladesh. 
+PARTICIPANTS: 179 children aged 3-14 years with watery diarrhoea and stool dark field examination positive for Vibrio cholerae and confirmed by stool culture. 
+INTERVENTION: Children were randomised to receive 30 mg elemental zinc per day (n=90) or placebo (n=89) until recovery. 
+All children received erythromycin suspension orally in a dose of 12.5 mg/kg every six hours for three days. 
+MAIN OUTCOME MEASURES: Duration of diarrhoea and stool output. 
+Results 82 children in each group completed the study. 
+More patients in the zinc group than in the control group recovered by two days (49% v 32%, P=0.032) and by three days (81% v 68%, P=0.03). 
+Zinc supplemented patients had 12% shorter duration of diarrhoea than control patients (64.1 v 72.8 h, P=0.028) and 11% less stool output (1.6 v 1.8 kg/day, P=0.039). 
+CONCLUSION: Zinc supplementation significantly reduced the duration of diarrhoea and stool output in children with cholera. 
+Children with cholera should be supplemented with zinc to reduce its duration and severity. 
+TRIAL REGISTRATION: Clinical trials NCT00226616.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate the impact of zinc supplementation in children with cholera.</s>
+    <s id="2" section="design">Double blind, randomised, placebo controlled trial.</s>
+    <s id="3" section="setting">Dhaka Hospital, Bangladesh.</s>
+    <s id="7" section="main outcome measures">Duration of diarrhoea and stool output.</s>
+    <s id="11" section="conclusion">Zinc supplementation significantly reduced the duration of diarrhoea and stool output in children with cholera.</s>
+    <s id="12" section="conclusion">Children with cholera should be supplemented with zinc to reduce its duration and severity.</s>
+    <s id="13" section="trial registration">Clinical trials NCT00226616.</s>
+  </ignored>
+</abstract>
+

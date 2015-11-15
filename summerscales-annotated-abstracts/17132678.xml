@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17132678">
+  <title>
+    <s id="0">Effects of fortified milk on morbidity in young children in north India: community based, randomised, double masked placebo controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Children (n=633) aged 1-3 randomly allocated to receive <group id="0" role="experiment">fortified milk</group> (n=<gs group="0">316</gs>) or <group id="1" role="control">control milk</group> (n=<gs group="1">317</gs>).</s>
+    <s id="5" section="intervention">One year of fortified milk providing additional 7.8 mg zinc, 9.6 mg iron, 4.2 microg selenium, 0.27 mg copper, 156 microg vitamin A, 40.2 mg vitamin C, 7.5 mg vitamin E per day (three feeds).</s>
+    <s id="13" section="conclusion">Consumption of milk fortified with specific micronutrients can significantly reduce the <outcome id="0" type="bad">burden of common <short>morbidities</short> among preschool children</outcome>, especially in the first 2 years of life.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the efficacy of milk fortified with specific multiple micronutrients on morbidity in children compared with the same milk without fortification. 
+DESIGN: Community based, double masked, individually randomised trial. 
+SETTING: Peri-urban settlement in north India. 
+
+INTERVENTION: One year of fortified milk providing additional 7.8 mg zinc, 9.6 mg iron, 4.2 microg selenium, 0.27 mg copper, 156 microg vitamin A, 40.2 mg vitamin C, 7.5 mg vitamin E per day (three feeds). 
+MAIN OUTCOME MEASURES: Days with severe illnesses, incidence and prevalence of diarrhoea, and acute lower respiratory illness. 
+RESULTS: Study groups were comparable at baseline; compliance in the groups was similar. 
+Mean number of episodes of diarrhoea per child was 4.46 (SD 3.8) in the intervention (fortified milk) group and 5.36 (SD 4.1) in the control group. 
+Mean number of episodes of acute lower respiratory illness was 0.62 (SD 1.1) and 0.83 (SD 1.4), respectively. 
+The fortified milk reduced the odds for days with severe illnesses by 15% (95% confidence interval 5% to 24%), the incidence of diarrhoea by 18% (7% to 27%), and the incidence of acute lower respiratory illness by 26% (3% to 43%). 
+Consistently greater beneficial effects were observed in children aged &lt; or =24 months than in older children. 
+CONCLUSION: Milk is well accepted as a means of delivery of micronutrients. 
+Consumption of milk fortified with specific micronutrients can significantly reduce the burden of common morbidities among preschool children, especially in the first two years of life. 
+TRIAL REGISTRATION: NCT00255385 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the efficacy of milk fortified with specific multiple micronutrients on morbidity in children compared with the same milk without fortification.</s>
+    <s id="2" section="design">Community based, double masked, individually randomised trial.</s>
+    <s id="3" section="setting">Peri-urban settlement in north India.</s>
+    <s id="6" section="main outcome measures">Days with severe illnesses, incidence and prevalence of diarrhoea, and acute lower respiratory illness.</s>
+    <s id="7" section="results">Study groups were comparable at baseline; compliance in the groups was similar.</s>
+    <s id="8" section="results">Mean number of episodes of diarrhoea per child was 4.46 (SD 3.8) in the intervention (fortified milk) group and 5.36 (SD 4.1) in the control group.</s>
+    <s id="9" section="results">Mean number of episodes of acute lower respiratory illness was 0.62 (SD 1.1) and 0.83 (SD 1.4), respectively.</s>
+    <s id="10" section="results">The fortified milk reduced the odds for days with severe illnesses by 15% (95% confidence interval 5% to 24%), the incidence of diarrhoea by 18% (7% to 27%), and the incidence of acute lower respiratory illness by 26% (3% to 43%).</s>
+    <s id="11" section="results">Consistently greater beneficial effects were observed in children aged &lt; or =24 months than in older children.</s>
+    <s id="12" section="conclusion">Milk is well accepted as a means of delivery of micronutrients.</s>
+    <s id="14" section="trial registration">NCT00255385 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

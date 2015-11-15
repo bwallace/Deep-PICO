@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16439370">
+  <title>
+    <s id="0" section="title">
+      Efficacy and safety of
+      <group id="0">fondaparinux</group>
+      for the prevention of
+      <outcome id="0">venous  thromboembolism</outcome>
+      in older acute medical patients : randomised placebo controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">35 centres in 8 countries .</s>
+    <s id="4" section="participants">
+      <ps>849</ps>
+      medical patients aged 60 or more admitted to hospital for congestive heart failure , acute respiratory illness in the presence of chronic lung disease , or acute infectious or inflammatory disease and expected to remain in bed for at least 4 days .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        2.5  mg
+        <short>fondaparinux</short>
+      </group>
+      or
+      <group id="1">
+        <short>placebo</short>
+        subcutaneously  once  daily  for  6  to  14  days
+      </group>
+      .
+    </s>
+    <s id="6" section="outcome_measure">
+      The primary efficacy outcome was
+      <outcome id="0:0" type="bad">
+        <short>venous  thromboembolism</short>
+        detected  by  routine  bilateral  venography
+      </outcome>
+      along with
+      <outcome id="0:1" type="bad">
+        <short>symptomatic  venous  thromboembolism</short>
+        up  to  day  15
+      </outcome>
+      . Secondary outcomes were
+      <outcome id="1" type="bad">bleeding</outcome>
+      and
+      <outcome id="2" type="bad">death</outcome>
+      .
+    </s>
+    <s id="7" section="outcome_measure">
+      Patients were followed up at
+      <time id="1">1  month</time>
+      .
+    </s>
+    <s id="8" section="results">
+      <gs group="0" time="0">425</gs>
+      patients in the
+      <group id="0">fondaparinux  group</group>
+      and
+      <gs group="1" time="0">414</gs>
+      patients in the
+      <group id="1">placebo  group</group>
+      were evaluable for safety analysis ( 10 were not treated ) .
+    </s>
+    <s id="9" section="results">644 patients ( 75.9 % ) were available for the primary efficacy analysis .</s>
+    <s id="10" section="results">
+      <outcome id="0:0" type="bad">Venous  thrombembolism</outcome>
+      was detected in 5.6 % (
+      <on group="0" outcome="0:0" time="1">18</on>
+      /
+      <gs group="0" time="1">321</gs>
+      ) of
+      <group id="0" time="1">patients  treated  with  <short>fondaparinux</short></group>
+      and 10.5 % (
+      <on group="1" outcome="0:0" time="1">34</on>
+      /
+      <gs group="1" time="1">323</gs>
+      ) of
+      <group id="1">patients  given  <short>placebo</short></group>
+      , a relative risk reduction of 46.7 % ( 95 % confidence interval 7.7 % to 69.3 % ) .
+    </s>
+    <s id="11" section="results">
+      <outcome id="0:1" type="bad">Symptomatic  venous  thromboembolism</outcome>
+      occurred in
+      <on group="1" outcome="0:1" time="1">5</on>
+      patients in the
+      <group id="1">placebo  group</group>
+      and
+      <on group="0" outcome="0:1" time="1">none</on>
+      in the
+      <group id="0">fondaparinux  group</group>
+      ( P = 0.029 ) .
+    </s>
+    <s id="12" section="results">
+      <outcome id="1" type="bad">
+        Major
+        <short>bleeding</short>
+      </outcome>
+      occurred in
+      <on group="all" outcome="1" time="1">1</on>
+      patient ( 0.2 % ) in each group .
+    </s>
+    <s id="13" section="results">
+      At the end of follow - up ,
+      <on group="0" outcome="2" time="1">14</on>
+      patients in the
+      <group id="0">fondaparinux  group</group>
+      ( 3.3 % ) and
+      <on group="1" outcome="2" time="1">25</on>
+      in the
+      <group id="1">placebo  group</group>
+      ( 6.0 % ) had
+      <outcome id="2" type="bad">died</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Efficacy and safety of fondaparinux for the prevention of venous thromboembolism in older acute medical patients : randomised placebo controlled trial . To determine the efficacy and safety of the anticoagulant fondaparinux in older acute medical inpatients at moderate to high risk of venous thromboembolism . Double blind randomised placebo controlled trial . 35 centres in 8 countries . 849 medical patients aged 60 or more admitted to hospital for congestive heart failure , acute respiratory illness in the presence of chronic lung disease , or acute infectious or inflammatory disease and expected to remain in bed for at least 4 days . 2.5 mg fondaparinux or placebo subcutaneously once daily for 6 to 14 days . The primary efficacy outcome was venous thromboembolism detected by routine bilateral venography along with symptomatic venous thromboembolism up to day 15 . Secondary outcomes were bleeding and death . Patients were followed up at 1 month . 425 patients in the fondaparinux group and 414 patients in the placebo group were evaluable for safety analysis ( 10 were not treated ) . 644 patients ( 75.9 % ) were available for the primary efficacy analysis . Venous thrombembolism was detected in 5.6 % ( 18 / 321 ) of patients treated with fondaparinux and 10.5 % ( 34 / 323 ) of patients given placebo , a relative risk reduction of 46.7 % ( 95 % confidence interval 7.7 % to 69.3 % ) . Symptomatic venous thromboembolism occurred in 5 patients in the placebo group and none in the fondaparinux group ( P = 0.029 ) . Major bleeding occurred in 1 patient ( 0.2 % ) in each group . At the end of follow - up , 14 patients in the fondaparinux group ( 3.3 % ) and 25 in the placebo group ( 6.0 % ) had died . Fondaparinux is effective in the prevention of asymptomatic and symptomatic venous thromboembolic events in older acute medical patients . The frequency of major bleeding was similar for both fondaparinux and placebo treated patients .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the efficacy and safety of the
+      <group id="0">anticoagulant  fondaparinux</group>
+      in older acute medical inpatients at moderate to high risk of venous thromboembolism .
+    </s>
+    <s id="2" section="design">Double blind randomised placebo controlled trial .</s>
+    <s id="14" section="conclusion">
+      <group id="0">Fondaparinux</group>
+      is effective in the prevention of
+      <outcome id="0:0" type="bad">asymptomatic</outcome>
+      and
+      <outcome id="0:1" type="bad">symptomatic  venous  thromboembolic</outcome>
+      events in older acute medical patients .
+    </s>
+    <s id="15" section="conclusion">
+      The frequency of
+      <outcome id="1" type="bad">
+        major
+        <short>bleeding</short>
+      </outcome>
+      was similar for both
+      <group id="0">
+        <short>fondaparinux</short>
+      </group>
+      and
+      <group id="1">placebo  treated  patients</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16115831">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Antenatal  betamethasone</group>
+      and incidence of
+      <outcome id="0" type="bad">neonatal  respiratory  distress</outcome>
+      after elective caesarean section : pragmatic randomised trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">10 maternity units .</s>
+    <s id="4" section="participants">
+      <ps>998</ps>
+      consenting women randomised at decision to deliver by elective caesarean section ;
+      <gs group="0">503</gs>
+      randomised to
+      <group id="0">treatment  group</group>
+      .
+    </s>
+    <s id="5" section="interventions">
+      The
+      <group id="0">treatment  group</group>
+      received
+      <group id="0">
+        2  intramuscular  doses  of  12  mg
+        <short>betamethasone</short>
+        in  the  48  hours  before  delivery
+      </group>
+      .
+    </s>
+    <s id="9" section="results">Sex , birth weight , and gestation were not different between the 2 groups .</s>
+    <s id="10" section="results">
+      Of the 35 babies admitted to special baby units with respiratory distress ,
+      <on group="1" outcome="0">24</on>
+      were in the
+      <group id="1">control  group</group>
+      and
+      <on group="0" outcome="0">11</on>
+      in the
+      <group id="0">intervention  group</group>
+      ( P = 0.02 ) .
+    </s>
+    <s id="11" section="results">
+      The incidence of
+      <outcome id="0" type="bad">admission  with  respiratory  distress</outcome>
+      was 0.051 in the
+      <group id="1">control  group</group>
+      and 0.024 in the
+      <group id="0">treatment  group</group>
+      ( relative risk 0.46 , 95 % confidence interval 0.23 to 0.93 ) .
+    </s>
+    <s id="14" section="conclusions">
+      <group id="0">Antenatal  betamethasone</group>
+      and
+      <group id="2">delaying  delivery  until  39  weeks</group>
+      both reduce
+      <outcome id="0" type="bad">admissions  to  special  care  baby  units  with  respiratory  distress</outcome>
+      after elective caesarean section at term .
+    </s>
+  </annotated>
+  <fulltext>Antenatal betamethasone and incidence of neonatal respiratory distress after elective caesarean section : pragmatic randomised trial . To test whether steroids reduce respiratory distress in babies born by elective caesarean section at term . Multicentre pragmatic randomised trial . 10 maternity units . 998 consenting women randomised at decision to deliver by elective caesarean section ; 503 randomised to treatment group . The treatment group received 2 intramuscular doses of 12 mg betamethasone in the 48 hours before delivery . The control group received treatment as usual . The primary outcome was admission to special care baby unit with respiratory distress . Secondary outcomes were severity of respiratory distress and level of care in response . Sex , birth weight , and gestation were not different between the 2 groups . Of the 35 babies admitted to special baby units with respiratory distress , 24 were in the control group and 11 in the intervention group ( P = 0.02 ) . The incidence of admission with respiratory distress was 0.051 in the control group and 0.024 in the treatment group ( relative risk 0.46 , 95 % confidence interval 0.23 to 0.93 ) . The incidence of transient tachypnoea of the newborn was 0.040 in the control group and 0.021 in the treatment group ( 0.54 , 0.26 to 1.12 ) . The incidence of respiratory distress syndrome was 0.011 in the control group and 0.002 in the treatment group ( 0.21 , 0.03 to 1.32 ) . Antenatal betamethasone and delaying delivery until 39 weeks both reduce admissions to special care baby units with respiratory distress after elective caesarean section at term .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To test whether
+      <group id="0">steroids</group>
+      reduce
+      <outcome id="0" type="bad">respiratory  distress</outcome>
+      in babies born by elective caesarean section at term .
+    </s>
+    <s id="2" section="design">Multicentre pragmatic randomised trial .</s>
+    <s id="6" section="interventions">
+      The
+      <group id="1">control  group</group>
+      received
+      <group id="1">treatment  as  usual</group>
+      .
+    </s>
+    <s id="7" section="outcome_measures">
+      The primary outcome was
+      <outcome id="0" type="bad">admission  to  special  care  baby  unit  with  respiratory  distress</outcome>
+      .
+    </s>
+    <s id="8" section="outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">severity  of  respiratory  distress</outcome>
+      and
+      <outcome id="2">
+        <short>level  of  care</short>
+        in  response
+      </outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      The incidence of
+      <outcome id="3">transient  tachypnoea  of  the  newborn</outcome>
+      was 0.040 in the
+      <group id="1">control  group</group>
+      and 0.021 in the
+      <group id="0">treatment  group</group>
+      ( 0.54 , 0.26 to 1.12 ) .
+    </s>
+    <s id="13" section="results">
+      The incidence of
+      <outcome id="1">respiratory  distress  syndrome</outcome>
+      was 0.011 in the
+      <group id="1">control  group</group>
+      and 0.002 in the
+      <group id="0">treatment  group</group>
+      ( 0.21 , 0.03 to 1.32 ) .
+    </s>
+  </ignored>
+</abstract>
+

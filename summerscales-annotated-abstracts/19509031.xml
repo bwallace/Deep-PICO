@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19509031">
+  <title>
+    <s id="0">Community involvement in dengue vector control: cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">32 circumscriptions (around 2000 inhabitants each).</s>
+    <s id="5" section="interventions">The circumscriptions were randomly allocated to <group id="0" role="control">control clusters</group> (n=16) comprising routine Aedes control programme (entomological surveillance, source reduction, selective adulticiding, and health education) and to <group id="1" role="experiment">intervention clusters</group> (n=16) comprising the routine Aedes control programme combined with a community based environmental management approach.</s>
+    <s id="6" section="main outcome measures">The primary outcome was levels of Aedes infestation : <outcome id="0" type="good">house index</outcome> ( number of houses positive for at least 1 container with immature stages of Ae aegypti per 100 inspected houses ) , <outcome id="2" type="good">Breteau index</outcome> ( number of containers positive for immature stages of Ae aegypti per 100 inspected houses ) , and the <outcome id="1" type="bad">pupae per inhabitant statistic</outcome> ( number of Ae aegypti pupae per inhabitant ) .</s>
+    <s id="7" section="results">All clusters were subjected to the intended intervention; all completed the study protocol up to February 2006 and all were included in the analysis.</s>
+    <s id="9" section="results">At the end of the intervention these indices were significantly lower in the intervention clusters: rate ratio for <outcome id="0" type="good">house indices</outcome> 0.49 (95% confidence interval 0.27 to 0.88) and rate ratio for <outcome id="1" type="bad">pupae per inhabitant</outcome> 0.27 (0.09 to 0.76).</s>   
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effectiveness of an integrated community based environmental management strategy to control Aedes aegypti, the vector of dengue, compared with a routine strategy. 
+DESIGN: Cluster randomised trial. 
+SETTING: Guantanamo, Cuba. 
+PARTICIPANTS: 32 circumscriptions (around 2000 inhabitants each). 
+INTERVENTIONS: The circumscriptions were randomly allocated to control clusters (n=16) comprising routine Aedes control programme (entomological surveillance, source reduction, selective adulticiding, and health education) and to intervention clusters (n=16) comprising the routine Aedes control programme combined with a community based environmental management approach. 
+MAIN OUTCOME MEASURES: The primary outcome was levels of Aedes infestation: house index (number of houses positive for at least one container with immature stages of Ae aegypti per 100 inspected houses), Breteau index (number of containers positive for immature stages of Ae aegypti per 100 inspected houses), and the pupae per inhabitant statistic (number of Ae aegypti pupae per inhabitant). 
+RESULTS: All clusters were subjected to the intended intervention; all completed the study protocol up to February 2006 and all were included in the analysis. 
+At baseline the Aedes infestation levels were comparable between intervention and control clusters: house index 0.25% v 0.20%, pupae per inhabitant 0.44x10(-3) v 0.29x10(-3). 
+At the end of the intervention these indices were significantly lower in the intervention clusters: rate ratio for house indices 0.49 (95% confidence interval 0.27 to 0.88) and rate ratio for pupae per inhabitant 0.27 (0.09 to 0.76). 
+CONCLUSION: A community based environmental management embedded in a routine control programme was effective at reducing levels of Aedes infestation. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN88405796.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effectiveness of an integrated community based environmental management strategy to control Aedes aegypti, the vector of dengue, compared with a routine strategy.</s>
+    <s id="2" section="design">Cluster randomised trial.</s>
+    <s id="3" section="setting">Guantanamo, Cuba.</s>
+    <s id="8" section="results">At baseline the Aedes infestation levels were comparable between intervention and control clusters: house index 0.25% v 0.20%, pupae per inhabitant 0.44x10(-3) v 0.29x10(-3).</s>
+    <s id="10" section="conclusion">A community based environmental management embedded in a routine control programme was effective at reducing levels of Aedes infestation.</s>
+    <s id="11" section="trial registration">Current Controlled Trials ISRCTN88405796.</s>
+  </ignored>
+</abstract>
+

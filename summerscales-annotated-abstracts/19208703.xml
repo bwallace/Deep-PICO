@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19208703">
+  <title>
+    <s id="0">Effect of topical alkane vapocoolant spray on pain with intravenous cannulation in patients in emergency departments: randomised double blind placebo controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">201 adult patients (54% male), mean (SD) age 58.2 (19.5) years, who required intravenous cannulation.</s>
+    <s id="5" section="interventions">Less than 15 seconds before cannulation, the skin area was sprayed with either <group id="0" role="control">water</group> (<group id="0" role="control">control</group>, n=<gs group="0">98</gs>) or <group id="1" role="experiment">vapocoolant</group> (<group id="1" role="experiment">intervention</group>, n=<gs group="1">103</gs>), from a distance of 12 cm for 2 seconds.</s>
+    <s id="7" section="main outcome measures">Pain with cannulation and discomfort with spray, measured with a 100 mm visual analogue scale.</s>
+    <s id="9" section="results">Median (interquartile range) <outcome id="0" type="bad"><short>pain</short> scores for cannulation</outcome> in the <group id="0" role="control">control</group> and <group id="1" role="experiment">intervention groups</group> were <on group="0" outcome="0">36</on> (19-51) and <on group="1" outcome="0">12</on> (5-40) mm, respectively (P&lt;0.001), and <on group="0" outcome="1">59</on> (60%) and <on group="1" outcome="1">33</on> (32%) reported <outcome id="1" type="bad">pain scores &gt;or=30 mm</outcome> (P&lt;0.001).</s>
+    <s id="11" section="results">The <outcome id="4" type="bad">median discomfort scores</outcome>, however, were 0 mm in both groups.</s>
+    <s id="13" section="results"><on group="0" outcome="2">34</on> ( 39 % ) and <on group="1" outcome="2">62</on> ( 62 % ) patients said they would <outcome id="2" type="good">choose the spray they received for analgesia in the future</outcome> ( P = 0.002 ) .</s>
+    <s id="14" section="results">At follow - up at <time id="0">5 days</time> , <on group="1" outcome="3" time="0">2</on> patients in the intervention group reported <outcome id="3" type="bad">transient <short>skin redness</short></outcome>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the efficacy, acceptability, and safety of a topical alkane vapocoolant in reducing pain during intravenous cannulation in adults. 
+DESIGN: Randomised double blind placebo controlled trial. 
+SETTING: Emergency department of a metropolitan teaching hospital. 
+PARTICIPANTS: 201 adult patients (54% male), mean (SD) age 58.2 (19.5) years, who required intravenous cannulation. 
+INTERVENTIONS: Less than 15 seconds before cannulation, the skin area was sprayed with either water (control, n=98) or vapocoolant (intervention, n=103), from a distance of 12 cm for 2 seconds. 
+The intervention spray was a blend of propane, butane, and pentane. 
+MAIN OUTCOME MEASURES: Pain with cannulation and discomfort with spray, measured with a 100 mm visual analogue scale. 
+RESULTS: Groups did not differ significantly in age, sex, indication for or site of cannulation, cannula size, or who cannulated the patient (P&gt;0.05). 
+Median (interquartile range) pain scores for cannulation in the control and intervention groups were 36 (19-51) and 12 (5-40) mm, respectively (P&lt;0.001), and 59 (60%) and 33 (32%) reported pain scores &gt;or=30 mm (P&lt;0.001). 
+Scores for spray discomfort also differed significantly (P&lt;0.001) because of skewing to the right within the intervention group. 
+The median discomfort scores, however, were 0 mm in both groups. 
+Success rates for first cannulation attempt did not differ between groups (P=0.39). 
+Thirty four (39%) and 62 (62%) patients said they would choose the spray they received for analgesia in the future (P=0.002). 
+At follow-up at five days, two patients in the intervention group reported transient skin redness. 
+CONCLUSIONS: Topical alkane vapocoolant spray is effective, acceptable, and safe in reducing pain with peripheral intravenous cannulation in adults in the emergency department. 
+TRIAL REGISTRATION: Australian Clinical Trials ACTRN12607000470493.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the efficacy, acceptability, and safety of a topical alkane vapocoolant in reducing pain during intravenous cannulation in adults.</s>
+    <s id="2" section="design">Randomised double blind placebo controlled trial.</s>
+    <s id="3" section="setting">Emergency department of a metropolitan teaching hospital.</s>
+    <s id="6" section="interventions">The intervention spray was a blend of propane, butane, and pentane.</s>
+    <s id="8" section="results">Groups did not differ significantly in age, sex, indication for or site of cannulation, cannula size, or who cannulated the patient (P&gt;0.05).</s>
+    <s id="10" section="results">Scores for spray discomfort also differed significantly (P&lt;0.001) because of skewing to the right within the intervention group.</s>
+    <s id="12" section="results">Success rates for first cannulation attempt did not differ between groups (P=0.39).</s>
+    <s id="15" section="conclusions">Topical alkane vapocoolant spray is effective, acceptable, and safe in reducing pain with peripheral intravenous cannulation in adults in the emergency department.</s>
+    <s id="16" section="trial registration">Australian Clinical Trials ACTRN12607000470493.</s>
+  </ignored>
+</abstract>
+

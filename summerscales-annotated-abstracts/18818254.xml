@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18818254">
+  <title>
+    <s id="0">Effectiveness of continuous glucose monitoring in pregnant women with diabetes: randomised clinical trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate the effectiveness of continuous glucose monitoring during pregnancy on maternal glycaemic control, infant birth weight, and risk of macrosomia in women with type 1 and type 2 diabetes.</s>
+    <s id="3" section="setting">2 secondary care multidisciplinary obstetric clinics for diabetes in the United Kingdom .</s>
+    <s id="4" section="participants">71 women with type 1 diabetes (n=46) or type 2 diabetes (n=25) allocated to <group id="0" role="experiment">antenatal care plus continuous glucose monitoring</group> (n=<gs group="0">38</gs>) or to <group id="1" role="control">standard antenatal care</group> (n=<gs group="1">33</gs>).</s>
+    <s id="7" section="main outcome measures">The primary outcome was maternal glycaemic control during the second and third trimesters from measurements of HbA( 1c ) levels every 4 weeks .</s>
+    <s id="10" section="results">Women randomised to <group id="0" role="experiment">continuous glucose monitoring</group> had lower mean <outcome id="0" type="bad">HbA(1c) levels</outcome> from 32 to 36 weeks' gestation compared with women randomised to <group id="1" role="control">standard antenatal care</group>: 5.8% (SD 0.6) v 6.4% (SD 0.7).</s>
+    <s id="11" section="results">Compared with infants of mothers in the control arm those of mothers in the intervention arm had decreased mean <outcome id="1" type="bad">birthweight standard deviation scores</outcome> (<on group="0" outcome="0">0.9</on> v <on group="1" outcome="0">1.6</on>; effect size 0.7 SD, 95% confidence interval 0.0 to 1.3), decreased median <outcome id="2" type="bad">customised birthweight centiles</outcome> (69% v 93%), and a reduced <outcome id="3" type="bad">risk of macrosomia</outcome> (odds ratio 0.36, 95% confidence interval 0.13 to 0.98).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of continuous glucose monitoring during pregnancy on maternal glycaemic control, infant birth weight, and risk of macrosomia in women with type 1 and type 2 diabetes. 
+DESIGN: Prospective, open label randomised controlled trial. 
+SETTING: Two secondary care multidisciplinary obstetric clinics for diabetes in the United Kingdom. 
+PARTICIPANTS: 71 women with type 1 diabetes (n=46) or type 2 diabetes (n=25) allocated to antenatal care plus continuous glucose monitoring (n=38) or to standard antenatal care (n=33). 
+INTERVENTION: Continuous glucose monitoring was used as an educational tool to inform shared decision making and future therapeutic changes at intervals of 4-6 weeks during pregnancy. 
+All other aspects of antenatal care were equal between the groups. 
+MAIN OUTCOME MEASURES: The primary outcome was maternal glycaemic control during the second and third trimesters from measurements of HbA(1c) levels every four weeks. 
+Secondary outcomes were birth weight and risk of macrosomia using birthweight standard deviation scores and customised birthweight centiles. 
+Statistical analyses were done on an intention to treat basis. 
+RESULTS: Women randomised to continuous glucose monitoring had lower mean HbA(1c) levels from 32 to 36 weeks' gestation compared with women randomised to standard antenatal care: 5.8% (SD 0.6) v 6.4% (SD 0.7). 
+Compared with infants of mothers in the control arm those of mothers in the intervention arm had decreased mean birthweight standard deviation scores (0.9 v 1.6; effect size 0.7 SD, 95% confidence interval 0.0 to 1.3), decreased median customised birthweight centiles (69% v 93%), and a reduced risk of macrosomia (odds ratio 0.36, 95% confidence interval 0.13 to 0.98). 
+CONCLUSION: Continuous glucose monitoring during pregnancy is associated with improved glycaemic control in the third trimester, lower birth weight, and reduced risk of macrosomia. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN84461581.</fulltext>
+  <ignored>
+    <s id="2" section="design">Prospective, open label randomised controlled trial.</s>
+    <s id="5" section="intervention">Continuous glucose monitoring was used as an educational tool to inform shared decision making and future therapeutic changes at intervals of 4-6 weeks during pregnancy.</s>
+    <s id="6" section="intervention">All other aspects of antenatal care were equal between the groups.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were birth weight and risk of macrosomia using birthweight standard deviation scores and customised birthweight centiles.</s>
+    <s id="9" section="main outcome measures">Statistical analyses were done on an intention to treat basis.</s>
+    <s id="12" section="conclusion">Continuous glucose monitoring during pregnancy is associated with improved glycaemic control in the third trimester, lower birth weight, and reduced risk of macrosomia.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN84461581.</s>
+  </ignored>
+</abstract>
+

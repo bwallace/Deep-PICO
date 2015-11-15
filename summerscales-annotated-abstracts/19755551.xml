@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19755551">
+  <title>
+    <s id="0">Radial extracorporeal shockwave treatment compared with supervised exercises in patients with subacromial pain syndrome: single blind randomised study.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">104 patients with subacromial shoulder pain lasting at least 3 months .</s>
+    <s id="5" section="interventions">Radial extracorporeal shockwave treatment : 1 session weekly for 4 to 6 weeks .</s>
+    <s id="6" section="interventions">Supervised exercises : 2 45 minute sessions weekly for up to 12 weeks .</s>
+    <s id="8" section="results">A <outcome id="0" type="good">treatment effect</outcome> in favour of <group id="1" role="control">supervised exercises</group> at <time id="0" units="weeks">6</time>, <time id="1" units="weeks">12</time>, and <time id="2">18 weeks</time> was found.</s>
+    <s id="9" section="results">The adjusted treatment effect was -8.4 (95% confidence interval -16.5 to -0.6) points.</s>
+    <s id="11" section="results">More patients in the <group id="0" role="experiment"><short>shockwave</short> treatment group</group> had additional treatment between 12 and 18 weeks-odds ratio 5.5 (1.3 to 26.4).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the effectiveness of radial extracorporeal shockwave treatment with that of supervised exercises in patients with shoulder pain. 
+DESIGN: Single blind randomised study. 
+SETTING: Outpatient clinic of physical medicine and rehabilitation department in Oslo, Norway. 
+PARTICIPANTS: 104 patients with subacromial shoulder pain lasting at least three months. 
+INTERVENTIONS: Radial extracorporeal shockwave treatment: one session weekly for four to six weeks. 
+Supervised exercises: two 45 minute sessions weekly for up to 12 weeks. 
+Primary outcome measure Shoulder pain and disability index. 
+RESULTS: A treatment effect in favour of supervised exercises at 6, 12, and 18 weeks was found. 
+The adjusted treatment effect was -8.4 (95% confidence interval -16.5 to -0.6) points. 
+A significantly higher proportion of patients in the group treated with supervised exercises improved-odds ratio 3.2 (1.3 to 7.8). 
+More patients in the shockwave treatment group had additional treatment between 12 and 18 weeks-odds ratio 5.5 (1.3 to 26.4). 
+CONCLUSION: Supervised exercises were more effective than radial extracorporeal shockwave treatment for short term improvement in patients with subacromial shoulder pain. 
+TRIAL REGISTRATION: Clinical trials NCT00653081.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the effectiveness of radial extracorporeal shockwave treatment with that of supervised exercises in patients with shoulder pain.</s>
+    <s id="2" section="design">Single blind randomised study.</s>
+    <s id="3" section="setting">Outpatient clinic of physical medicine and rehabilitation department in Oslo, Norway.</s>
+    <s id="7" section="interventions">Primary outcome measure Shoulder pain and disability index.</s>
+    <s id="10" section="results">A significantly higher proportion of patients in the group treated with supervised exercises improved-odds ratio 3.2 (1.3 to 7.8).</s>
+    <s id="12" section="conclusion">Supervised exercises were more effective than radial extracorporeal shockwave treatment for short term improvement in patients with subacromial shoulder pain.</s>
+    <s id="13" section="trial registration">Clinical trials NCT00653081.</s>
+  </ignored>
+</abstract>
+

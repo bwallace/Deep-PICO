@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16377643">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Didgeridoo</short>
+        playing
+      </group>
+      as alternative treatment for obstructive sleep apnoea syndrome : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>25</ps>
+      patients aged &gt; 18 years with an apnoea-hypopnoea index between 15 and 30 and who complained about snoring .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        <short>Didgeridoo</short>
+        lessons  and  daily  practice  at  home  with  standardised  instruments
+      </group>
+      for
+      <time id="0">4  months</time>
+      .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      <outcome id="0">
+        <short>Daytime  sleepiness</short>
+        (  Epworth  scale  from  0  (  no  daytime  sleepiness  )  to  24  )
+      </outcome>
+      ,
+      <outcome id="1:0">
+        <short>sleep  quality</short>
+        (  Pittsburgh  quality  of  sleep  index  from  0  (  excellent  sleep  quality  )  to  21  )
+      </outcome>
+      ,
+      <outcome id="1:1">
+        <short>partner  rating  of  sleep  disturbance</short>
+        (  visual  analogue  scale  from  0  (  not  disturbed  )  to  10  )
+      </outcome>
+      ,
+      <outcome id="1:2">apnoea-hypopnoea  index</outcome>
+      , and
+      <outcome id="2">
+        health  related
+        <short>quality  of  life</short>
+        (  SF-36  )
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      Compared with the
+      <group id="1">control  group</group>
+      in the
+      <group id="0">didgeridoo  group</group>
+      <outcome id="0">daytime  sleepiness</outcome>
+      ( difference - 3.0 , 95 % confidence interval - 5.7 to - 0.3 , P = 0.03 ) and
+      <outcome id="1:2">apnoea-hypopnoea  index</outcome>
+      ( difference - 6.2 , - 12.3 to - 0.1 , P = 0.05 ) improved significantly and partners reported less
+      <outcome id="1:1">sleep  disturbance</outcome>
+      ( difference - 2.8 , - 4.7 to - 0.9 , P &lt; 0.01 ) .
+    </s>
+    <s id="14" section="n_isrctn">31571714 .</s>
+  </annotated>
+  <fulltext>Didgeridoo playing as alternative treatment for obstructive sleep apnoea syndrome : randomised controlled trial . To assess the effects of didgeridoo playing on daytime sleepiness and other outcomes related to sleep by reducing collapsibility of the upper airways in patients with moderate obstructive sleep apnoea syndrome and snoring . Randomised controlled trial . Private practice of a didgeridoo instructor and a single centre for sleep medicine . 25 patients aged &gt; 18 years with an apnoea-hypopnoea index between 15 and 30 and who complained about snoring . Didgeridoo lessons and daily practice at home with standardised instruments for 4 months . Participants in the control group remained on the waiting list for lessons . Daytime sleepiness ( Epworth scale from 0 ( no daytime sleepiness ) to 24 ) , sleep quality ( Pittsburgh quality of sleep index from 0 ( excellent sleep quality ) to 21 ) , partner rating of sleep disturbance ( visual analogue scale from 0 ( not disturbed ) to 10 ) , apnoea-hypopnoea index , and health related quality of life ( SF-36 ) . Participants in the didgeridoo group practised an average of 5.9 days a week ( SD 0.86 ) for 25.3 minutes ( SD 3.4 ) . Compared with the control group in the didgeridoo group daytime sleepiness ( difference - 3.0 , 95 % confidence interval - 5.7 to - 0.3 , P = 0.03 ) and apnoea-hypopnoea index ( difference - 6.2 , - 12.3 to - 0.1 , P = 0.05 ) improved significantly and partners reported less sleep disturbance ( difference - 2.8 , - 4.7 to - 0.9 , P &lt; 0.01 ) . There was no effect on the quality of sleep ( difference - 0.7 , - 2.1 to 0.6 , P = 0.27 ) . The combined analysis of sleep related outcomes showed a moderate to large effect of didgeridoo playing ( difference between summary z scores - 0.78 SD units , - 1.27 to - 0.28 , P &lt; 0.01 ) . Changes in health related quality of life did not differ between groups . Regular didgeridoo playing is an effective treatment alternative well accepted by patients with moderate obstructive sleep apnoea syndrome . 31571714 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effects of
+      <group id="0">
+        <short>didgeridoo</short>
+        playing
+      </group>
+      on
+      <outcome id="0">daytime  sleepiness</outcome>
+      and
+      <outcome id="1">
+        <short>other  outcomes</short>
+        related  to  sleep
+      </outcome>
+      by reducing collapsibility of the upper airways in patients with moderate obstructive sleep apnoea syndrome and snoring .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">Private practice of a didgeridoo instructor and a single centre for sleep medicine .</s>
+    <s id="6" section="interventions">
+      Participants in the
+      <group id="1">
+        control  group  remained  on  the
+        <short>waiting  list</short>
+        for  lessons
+      </group>
+      .
+    </s>
+    <s id="8" section="results">
+      Participants in the
+      <group id="0">didgeridoo  group</group>
+      practised an average of 5.9 days a week ( SD 0.86 ) for 25.3 minutes ( SD 3.4 ) .
+    </s>
+    <s id="10" section="results">
+      There was no effect on the
+      <outcome id="1:0">quality  of  sleep</outcome>
+      ( difference - 0.7 , - 2.1 to 0.6 , P = 0.27 ) .
+    </s>
+    <s id="11" section="results">
+      The combined analysis of
+      <outcome id="1">sleep  related  outcomes</outcome>
+      showed a moderate to large effect of
+      <group id="0">
+        <short>didgeridoo</short>
+        playing
+      </group>
+      ( difference between summary z scores - 0.78 SD units , - 1.27 to - 0.28 , P &lt; 0.01 ) .
+    </s>
+    <s id="12" section="results">
+      Changes in
+      <outcome id="2">
+        health  related
+        <short>quality  of  life</short>
+      </outcome>
+      did not differ between groups .
+    </s>
+    <s id="13" section="conclusion">
+      <group id="0">
+        Regular
+        <short>didgeridoo</short>
+        playing
+      </group>
+      is an effective treatment alternative well accepted by patients with moderate obstructive sleep apnoea syndrome .
+    </s>
+  </ignored>
+</abstract>
+

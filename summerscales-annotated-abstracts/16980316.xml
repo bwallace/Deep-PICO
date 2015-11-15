@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16980316">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of a
+      <group id="0">
+        short  course  of  traditional
+        <short>acupuncture</short>
+      </group>
+      compared with
+      <group id="1">usual  care</group>
+      for persistent non - specific low back pain .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 private acupuncture clinics and 18 general practices in York , England .</s>
+    <s id="4" section="participants">
+      <ps>241</ps>
+      adults aged 18 - 65 with non - specific low back pain of 4-52 weeks ' duration .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        10  individualised
+        <short>acupuncture</short>
+        treatments  from  1  of  6  qualified  acupuncturists
+      </group>
+      (
+      <gs group="0">160</gs>
+      patients ) or
+      <group id="1">
+        <short>usual  care</short>
+        only
+      </group>
+      (
+      <gs group="1">81</gs>
+      patients ) .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      The primary outcome was
+      <outcome id="0">
+        SF-36  bodily
+        <short>pain</short>
+      </outcome>
+      , measured at
+      <time id="0">12</time>
+      and
+      <time id="1">24  months</time>
+      .
+    </s>
+    <s id="8" section="results">
+      39 general practitioners referred 289 patients of whom
+      <ps>241</ps>
+      were randomised .
+    </s>
+    <s id="9" section="results">
+      At
+      <time id="0">12  months</time>
+      <outcome id="0">
+        average  SF-36
+        <short>pain  scores</short>
+      </outcome>
+      increased by 33.2 to 64.0 in the
+      <group id="0">acupuncture  group</group>
+      and by 27.9 to 58.3 in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="10" section="results">
+      Adjusting for baseline score and for any clustering by acupuncturist , the
+      <outcome id="5">
+        estimated
+        <short>intervention  effect</short>
+      </outcome>
+      was 5.6 points ( 95 % confidence interval - 0.2 to 11.4 ) at
+      <time id="0">12  months</time>
+      ( n = 213 ) and 8.0 points ( 2.8 to 13.2 ) at
+      <time id="2">24  months</time>
+      ( n = 182 ) .
+    </s>
+    <s id="11" section="results">
+      The magnitude of the difference between the groups was about 10 % - 15 % of the final pain score in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="14" section="conclusions">
+      Weak evidence was found of an effect of
+      <group id="0">acupuncture</group>
+      on persistent non - specific low back pain at
+      <time id="0">12  months</time>
+      , but stronger evidence of a small benefit at
+      <time id="1">24  months</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of a short course of traditional acupuncture compared with usual care for persistent non - specific low back pain . To determine whether a short course of traditional acupuncture improves longer term outcomes for patients with persistent non - specific low back pain in primary care . Pragmatic , open , randomised controlled trial . 3 private acupuncture clinics and 18 general practices in York , England . 241 adults aged 18 - 65 with non - specific low back pain of 4-52 weeks ' duration . 10 individualised acupuncture treatments from 1 of 6 qualified acupuncturists ( 160 patients ) or usual care only ( 81 patients ) . The primary outcome was SF-36 bodily pain , measured at 12 and 24 months . Other outcomes included reported use of analgesics , scores on the Oswestry pain disability index , safety , and patient satisfaction . 39 general practitioners referred 289 patients of whom 241 were randomised . At 12 months average SF-36 pain scores increased by 33.2 to 64.0 in the acupuncture group and by 27.9 to 58.3 in the control group . Adjusting for baseline score and for any clustering by acupuncturist , the estimated intervention effect was 5.6 points ( 95 % confidence interval - 0.2 to 11.4 ) at 12 months ( n = 213 ) and 8.0 points ( 2.8 to 13.2 ) at 24 months ( n = 182 ) . The magnitude of the difference between the groups was about 10 % - 15 % of the final pain score in the control group . Functional disability was not improved . No serious or life threatening events were reported . Weak evidence was found of an effect of acupuncture on persistent non - specific low back pain at 12 months , but stronger evidence of a small benefit at 24 months . Referral to a qualified traditional acupuncturist for a short course of treatment seems safe and acceptable to patients with low back pain . ISRCTN80764175 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether a
+      <group id="0">
+        short  course  of  traditional
+        <short>acupuncture</short>
+      </group>
+      improves longer term outcomes for patients with persistent non - specific low back pain in primary care .
+    </s>
+    <s id="2" section="design">Pragmatic , open , randomised controlled trial .</s>
+    <s id="7" section="main_outcome_measures">
+      Other outcomes included
+      <outcome id="1">reported  use  of  analgesics</outcome>
+      ,
+      <outcome id="2">
+        scores  on  the  Oswestry  pain
+        <short>disability</short>
+        index
+      </outcome>
+      ,
+      <outcome id="3">safety</outcome>
+      , and
+      <outcome id="4">patient  satisfaction</outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      <outcome id="6">Functional  disability</outcome>
+      was not improved .
+    </s>
+    <s id="13" section="results">
+      No
+      <outcome id="3">serious  or  life  threatening  events</outcome>
+      were reported .
+    </s>
+    <s id="15" section="conclusions">
+      <group id="0">
+        Referral  to  a  qualified  traditional
+        <short>acupuncturist</short>
+        for  a  short  course  of  treatment
+      </group>
+      seems safe and acceptable to patients with low back pain .
+    </s>
+    <s id="16" section="trial_registration">ISRCTN80764175 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

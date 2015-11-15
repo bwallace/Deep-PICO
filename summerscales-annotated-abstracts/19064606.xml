@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19064606">
+  <title>
+    <s id="0">Effects of algorithm for diagnosis of active labour: cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Maternity units in Scotland with at least 800 annual births.</s>
+    <s id="4" section="participants">4503 women giving birth for the first time, in 14 maternity units.</s>
+    <s id="5" section="participants">7 experimental clusters collected data from a baseline sample of 1029 women and a post - implementation sample of 896 women .</s>
+    <s id="6" section="participants">The 7 control clusters had a baseline sample of 1291 women and a post - implementation sample of 1287 women .</s>
+    <s id="11" section="results">95% confidence interval -9.2 to 9.8; P=0.9) or in the use of medical interventions in labour.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the effectiveness of an algorithm for diagnosis of active labour in primiparous women with standard care in terms of maternal and neonatal outcomes. 
+DESIGN: Cluster randomised trial. 
+SETTING: Maternity units in Scotland with at least 800 annual births. 
+PARTICIPANTS: 4503 women giving birth for the first time, in 14 maternity units. 
+Seven experimental clusters collected data from a baseline sample of 1029 women and a post-implementation sample of 896 women. 
+The seven control clusters had a baseline sample of 1291 women and a post-implementation sample of 1287 women. 
+INTERVENTION: Use of an algorithm by midwives to assist their diagnosis of active labour, compared with standard care. 
+Main outcomes Primary outcome: use of oxytocin for augmentation of labour. 
+Secondary outcomes: medical interventions in labour, admission management, and birth outcome. 
+RESULTS: No significant difference was found between groups in percentage use of oxytocin for augmentation of labour (experimental minus control, difference=0.3, 
+95% confidence interval -9.2 to 9.8; P=0.9) or in the use of medical interventions in labour. 
+Women in the algorithm group were more likely to be discharged from the labour suite after their first labour assessment (difference=-19.2, -29.9 to -8.6; P=0.002) and to have more pre-labour admissions (0.29, 0.04 to 0.55; P=0.03). 
+CONCLUSIONS: Use of an algorithm to assist midwives with the diagnosis of active labour in primiparous women did not result in a reduction in oxytocin use or in medical intervention in spontaneous labour. 
+Significantly more women in the experimental group were discharged home after their first labour ward assessment. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN00522952.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the effectiveness of an algorithm for diagnosis of active labour in primiparous women with standard care in terms of maternal and neonatal outcomes.</s>
+    <s id="2" section="design">Cluster randomised trial.</s>
+    <s id="7" section="intervention">Use of an algorithm by midwives to assist their diagnosis of active labour, compared with standard care.</s>
+    <s id="8" section="intervention">Main outcomes Primary outcome: use of oxytocin for augmentation of labour.</s>
+    <s id="9" section="intervention">Secondary outcomes: medical interventions in labour, admission management, and birth outcome.</s>
+    <s id="10" section="results">No significant difference was found between groups in percentage use of oxytocin for augmentation of labour (experimental minus control, difference=0.3,</s>
+    <s id="12" section="results">Women in the algorithm group were more likely to be discharged from the labour suite after their first labour assessment (difference=-19.2, -29.9 to -8.6; P=0.002) and to have more pre-labour admissions (0.29, 0.04 to 0.55; P=0.03).</s>
+    <s id="13" section="conclusions">Use of an algorithm to assist midwives with the diagnosis of active labour in primiparous women did not result in a reduction in oxytocin use or in medical intervention in spontaneous labour.</s>
+    <s id="14" section="conclusions">Significantly more women in the experimental group were discharged home after their first labour ward assessment.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN00522952.</s>
+  </ignored>
+</abstract>
+

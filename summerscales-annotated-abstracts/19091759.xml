@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19091759">
+  <title>
+    <s id="0">Appointments timed in proximity to annual milestones and compliance with screening: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">12,960 screened adults (64.7% of those invited).</s>
+    <s id="8" section="results">In a multivariable logistic regression model, <outcome id="0" type="good">attendance</outcome> improved in those who received an invitation in the week of their birthday or were assigned to screening in the first or second week after their birthday (odds ratio 1.15, 95% confidence interval 1.03 to 1.28) and those who were assigned to screening in December (odds ratio 1.45, 1.16 to 1.82).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether appointments for screening timed in proximity to annual milestones (birthdays, Christmas and New Year) may be used as a strategy to improve attendance for screening for colorectal cancer. 
+DESIGN: Randomised controlled trial. 
+SETTING: City of Oslo (urban) and Telemark county (urban and rural), Norway. 
+PARTICIPANTS: 12,960 screened adults (64.7% of those invited). 
+MAIN OUTCOME MEASURE: Attendance rates for each week and month of assigned appointment. 
+RESULTS: Attendance rates were significantly higher in December than the rest of the year (72.3% v 64.6%, P&lt;0.001) in adults who received an invitation in the week of their birthday or were assigned to screening in the first or second week after their birthday (67.9% v 64.5%, P=0.007). 
+This effect was most pronounced in the urban population of Oslo. 
+In a multivariable logistic regression model, attendance improved in those who received an invitation in the week of their birthday or were assigned to screening in the first or second week after their birthday (odds ratio 1.15, 95% confidence interval 1.03 to 1.28) and those who were assigned to screening in December (odds ratio 1.45, 1.16 to 1.82). 
+CONCLUSION: Attendance rates for screening for colorectal cancer were higher in December and around attendees' birthdays, the latter particularly in an urban population. 
+Compliance with screening programmes may therefore be improved by timing invitations in proximity to annual milestones. 
+TRIAL REGISTRATION: Clinical Trials NCT00119912.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate whether appointments for screening timed in proximity to annual milestones (birthdays, Christmas and New Year) may be used as a strategy to improve attendance for screening for colorectal cancer.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">City of Oslo (urban) and Telemark county (urban and rural), Norway.</s>
+    <s id="5" section="main outcome measure">Attendance rates for each week and month of assigned appointment.</s>
+    <s id="6" section="results">Attendance rates were significantly higher in December than the rest of the year (72.3% v 64.6%, P&lt;0.001) in adults who received an invitation in the week of their birthday or were assigned to screening in the first or second week after their birthday (67.9% v 64.5%, P=0.007).</s>
+    <s id="7" section="results">This effect was most pronounced in the urban population of Oslo.</s>
+    <s id="9" section="conclusion">Attendance rates for screening for colorectal cancer were higher in December and around attendees' birthdays, the latter particularly in an urban population.</s>
+    <s id="10" section="conclusion">Compliance with screening programmes may therefore be improved by timing invitations in proximity to annual milestones.</s>
+    <s id="11" section="trial registration">Clinical Trials NCT00119912.</s>
+  </ignored>
+</abstract>
+

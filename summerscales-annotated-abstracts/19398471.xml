@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19398471">
+  <title>
+    <s id="0">Effect of guideline based computerised decision support on decision making of multidisciplinary teams: cluster randomised trial in cardiac rehabilitation.</s>
+  </title>
+  <annotated>
+    <s id="5" section="main outcome measures"><outcome id="0" type="good">Concordance with guideline recommendations</outcome> assessed for 2 standard rehabilitation treatments - exercise and education therapy - and for 2 new but evidence based rehabilitation treatments - relaxation and lifestyle change therapy ; generalised estimating equations were used to account for intra -cluster correlation and were adjusted for patient 's age , sex , and indication for cardiac rehabilitation and for type and volume of centre .</s>
+    <s id="6" section="results">Data from 21 centres, including 2787 patients, were analysed.</s>
+    <s id="7" section="results">Computerised decision support increased <outcome id="0" type="good">concordance with guideline recommended therapeutic decisions</outcome> for exercise therapy by 7.9% (control 84.7%; adjusted difference 3.5%, 95% confidence 0.1% to 5.2%), for education therapy by 25.7% (control 63.9%; adjusted difference 23.7%, 15.5% to 29.4%), and for relaxation therapy by 25.5% (control 34.1%; adjusted difference 41.6%, 25.2% to 51.3%).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the extent to which computerised decision support can improve concordance of multidisciplinary teams with therapeutic decisions recommended by guidelines. 
+DESIGN: Multicentre cluster randomised trial. 
+PARTICIPANTS: Multidisciplinary cardiac rehabilitation teams in Dutch centres and their cardiac rehabilitation patients. 
+INTERVENTIONS: Teams received an electronic patient record system with or without additional guideline based decision support. 
+MAIN OUTCOME MEASURES: Concordance with guideline recommendations assessed for two standard rehabilitation treatments-exercise and education therapy-and for two new but evidence based rehabilitation treatments-relaxation and lifestyle change therapy; generalised estimating equations were used to account for intra-cluster correlation and were adjusted for patient's age, sex, and indication for cardiac rehabilitation and for type and volume of centre. 
+RESULTS: Data from 21 centres, including 2787 patients, were analysed. 
+Computerised decision support increased concordance with guideline recommended therapeutic decisions for exercise therapy by 7.9% (control 84.7%; adjusted difference 3.5%, 95% confidence 0.1% to 5.2%), for education therapy by 25.7% (control 63.9%; adjusted difference 23.7%, 15.5% to 29.4%), and for relaxation therapy by 25.5% (control 34.1%; adjusted difference 41.6%, 25.2% to 51.3%). 
+The concordance for lifestyle change therapy increased by 3.2% (control 54.1%; adjusted difference 7.1%, -2.9% to 18.3%). 
+Computerised decision support reduced cases of both overtreatment and undertreatment. 
+CONCLUSIONS: In a multidisciplinary team motivated to adopt a computerised decision support aid that assists in formulating guideline based care plans, computerised decision support can be effective in improving the team's concordance with guidelines. 
+Therefore, computerised decision support may also be considered to improve implementation of guidelines in such settings. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN36656997.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the extent to which computerised decision support can improve concordance of multidisciplinary teams with therapeutic decisions recommended by guidelines.</s>
+    <s id="2" section="design">Multicentre cluster randomised trial.</s>
+    <s id="3" section="participants">Multidisciplinary cardiac rehabilitation teams in Dutch centres and their cardiac rehabilitation patients.</s>
+    <s id="4" section="interventions">Teams received an electronic patient record system with or without additional guideline based decision support.</s>
+    <s id="8" section="results">The concordance for lifestyle change therapy increased by 3.2% (control 54.1%; adjusted difference 7.1%, -2.9% to 18.3%).</s>
+    <s id="9" section="results">Computerised decision support reduced cases of both overtreatment and undertreatment.</s>
+    <s id="10" section="conclusions">In a multidisciplinary team motivated to adopt a computerised decision support aid that assists in formulating guideline based care plans, computerised decision support can be effective in improving the team's concordance with guidelines.</s>
+    <s id="11" section="conclusions">Therefore, computerised decision support may also be considered to improve implementation of guidelines in such settings.</s>
+    <s id="12" section="trial registration">Current Controlled Trials ISRCTN36656997.</s>
+  </ignored>
+</abstract>
+

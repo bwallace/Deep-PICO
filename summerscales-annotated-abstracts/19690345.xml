@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19690345">
+  <title>
+    <s id="0">Effects of dietary intervention and quadriceps strengthening exercises on pain and function in overweight people with knee pain: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">5 general practices in Nottingham .</s>
+    <s id="4" section="participants">389 men and women aged 45 and over with a body mass index (BMI) of &gt; or = 28.0 and self reported knee pain.</s>
+    <s id="6" section="interventions">Dietary intervention consisted of individualised healthy eating advice that would reduce normal intake by 2.5 MJ (600 kcal) a day.</s>
+    <s id="7" section="interventions">Interventions were delivered at home visits over a 2 year period .</s>
+    <s id="8" section="main outcome measures">The primary outcome was severity of knee pain scored with the Western Ontario McMaster (WOMAC) osteoarthritis index at <time id="0">6</time>, <time id="1">12</time>, and <time id="2">24 months</time>.</s>
+    <s id="9" section="main outcome measures">Secondary outcomes (all at <time id="2">24 months</time>) included WOMAC knee physical function and stiffness scores and selected domains on the SF-36 and the hospital anxiety and depression index.</s>
+    <s id="10" section="results">289 (74%) participants completed the trial.</s>
+    <s id="11" section="results">There was a significant reduction in <outcome id="0" type="bad">knee pain</outcome> in the <group id="0" role="experiment">knee <short>exercise</short> groups</group> compared with those in the <group id="1" role="control"><short>non-exercise</short> groups</group> at <time id="2">24 months</time> (percentage risk difference 11.61, 95% confidence interval 1.81% to 21.41%).</s>
+    <s id="13" section="results">The number needed to treat to benefit from a &gt; or = 30% improvement in <outcome id="0" type="bad">knee pain</outcome> at <time id="2">24 months</time> was 9 (5 to 55).</s>
+    <s id="14" section="results">In those randomised to <group id="0" role="experiment">knee exercise</group> improvement in function was evident at <time id="2">24 months</time> (mean difference -3.64, -6.01 to -1.27).</s>
+    <s id="15" section="results">The mean difference in <outcome id="1" type="good">weight loss</outcome> at <time id="2">24 months</time> in the <group id="2" role="experiment">dietary intervention group</group> compared with <group id="3" role="control">no dietary intervention</group> was 2.95 kg (1.44 to 4.46); for exercise versus no exercise the difference was 0.43 kg (-0.82 to 1.68).</s>
+    <s id="17" section="conclusions">A home based , self managed programme of simple knee strengthening exercises over a 2 year period can significantly reduce <outcome id="0" type="bad">knee pain</outcome> and improve <outcome id="2" type="good">knee function</outcome> in overweight and obese people with knee pain .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether dietary intervention or knee strengthening exercise, or both, can reduce knee pain and improve knee function in overweight and obese adults in the community. 
+DESIGN: Pragmatic factorial randomised controlled trial. 
+SETTING: Five general practices in Nottingham. 
+PARTICIPANTS: 389 men and women aged 45 and over with a body mass index (BMI) of &gt; or = 28.0 and self reported knee pain. 
+INTERVENTIONS: Participants were randomised to dietary intervention plus quadriceps strengthening exercises; dietary intervention alone; quadriceps strengthening exercises alone; advice leaflet only (control group). 
+Dietary intervention consisted of individualised healthy eating advice that would reduce normal intake by 2.5 MJ (600 kcal) a day. 
+Interventions were delivered at home visits over a two year period. 
+MAIN OUTCOME MEASURES: The primary outcome was severity of knee pain scored with the Western Ontario McMaster (WOMAC) osteoarthritis index at 6, 12, and 24 months. 
+Secondary outcomes (all at 24 months) included WOMAC knee physical function and stiffness scores and selected domains on the SF-36 and the hospital anxiety and depression index. 
+RESULTS: 289 (74%) participants completed the trial. 
+There was a significant reduction in knee pain in the knee exercise groups compared with those in the non-exercise groups at 24 months (percentage risk difference 11.61, 95% confidence interval 1.81% to 21.41%). 
+The absolute effect size (0.25) was moderate. 
+The number needed to treat to benefit from a &gt; or = 30% improvement in knee pain at 24 months was 9 (5 to 55). 
+In those randomised to knee exercise improvement in function was evident at 24 months (mean difference -3.64, -6.01 to -1.27). 
+The mean difference in weight loss at 24 months in the dietary intervention group compared with no dietary intervention was 2.95 kg (1.44 to 4.46); for exercise versus no exercise the difference was 0.43 kg (-0.82 to 1.68). 
+This difference in weight loss was not associated with improvement in knee pain or function but was associated with a reduction in depression (absolute effect size 0.19). 
+CONCLUSIONS: A home based, self managed programme of simple knee strengthening exercises over a two year period can significantly reduce knee pain and improve knee function in overweight and obese people with knee pain. 
+A moderate sustained weight loss is achievable with dietary intervention and is associated with reduced depression but is without apparent influence on pain or function. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN93206785.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether dietary intervention or knee strengthening exercise, or both, can reduce knee pain and improve knee function in overweight and obese adults in the community.</s>
+    <s id="2" section="design">Pragmatic factorial randomised controlled trial.</s>
+    <s id="5" section="interventions">Participants were randomised to dietary intervention plus quadriceps strengthening exercises; dietary intervention alone; quadriceps strengthening exercises alone; advice leaflet only (control group).</s>
+    <s id="12" section="results">The absolute effect size (0.25) was moderate.</s>
+    <s id="16" section="results">This difference in weight loss was not associated with improvement in knee pain or function but was associated with a reduction in depression (absolute effect size 0.19).</s>
+    <s id="18" section="conclusions">A moderate sustained weight loss is achievable with dietary intervention and is associated with reduced depression but is without apparent influence on pain or function.</s>
+    <s id="19" section="trial registration">Current Controlled Trials ISRCTN93206785.</s>
+  </ignored>
+</abstract>
+

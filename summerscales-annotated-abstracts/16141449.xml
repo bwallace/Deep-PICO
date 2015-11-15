@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16141449">
+  <title>
+    <s id="0" section="title">
+      A randomised multicentre trial of
+      <group id="0">integrated</group>
+      versus
+      <group id="1">standard  treatment</group>
+      for patients with a first episode of psychotic illness .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>547</ps>
+      patients with first episode of schizophrenia spectrum disorder .
+    </s>
+    <s id="6" section="interventions">
+      The
+      <group id="0">integrated  treatment</group>
+      lasted for 2 years and consisted of
+      <group id="0">
+        <short>assertive  community  treatment</short>
+        with  programmes  for  family  involvement  and  social  skills  training
+      </group>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      <outcome id="0">Psychotic</outcome>
+      and
+      <outcome id="1">negative  symptoms</outcome>
+      ( each scored from 0 to a maximum of 5 ) at
+      <time id="0">1</time>
+      and
+      <time id="1">2  years  '  follow  -  up</time>
+      .
+    </s>
+    <s id="9" section="results">
+      At
+      <time id="0">1  year  's  follow  -  up</time>
+      ,
+      <outcome id="0">psychotic  symptoms</outcome>
+      changed favourably to a mean of 1.09 ( standard deviation 1.27 ) with an estimated mean difference between groups of - 0.31 ( 95 % confidence interval - 0.55 to - 0.07 , P = 0.02 ) in favour of
+      <group id="0">integrated  treatment</group>
+      .
+    </s>
+    <s id="11" section="results">
+      At
+      <time id="0">2  years  '  follow  -  up</time>
+      the estimated mean difference between groups in
+      <outcome id="0">psychotic  symptoms</outcome>
+      was - 0.32 ( - 0.58 to - 0.06 , P = 0.02 ) and in
+      <outcome id="1">negative  symptoms</outcome>
+      was - 0.45 ( - 0.67 to - 0.22 , P &lt; 0.001 ) , both in favour of
+      <group id="0">integrated  treatment</group>
+      .
+    </s>
+    <s id="14" section="conclusion">
+      The improvement in
+      <outcome id="5">clinical  outcome</outcome>
+      was consistent at
+      <time id="0">1  year</time>
+      and
+      <time id="1">2  year  follow  -  ups</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>A randomised multicentre trial of integrated versus standard treatment for patients with a first episode of psychotic illness . To evaluate the effects of integrated treatment for patients with a first episode of psychotic illness . Randomised clinical trial . Copenhagen Hospital Corporation and Psychiatric Hospital Aarhus , Denmark . 547 patients with first episode of schizophrenia spectrum disorder . Integrated treatment and standard treatment . The integrated treatment lasted for 2 years and consisted of assertive community treatment with programmes for family involvement and social skills training . Standard treatment offered contact with a community mental health centre . Psychotic and negative symptoms ( each scored from 0 to a maximum of 5 ) at 1 and 2 years ' follow - up . At 1 year 's follow - up , psychotic symptoms changed favourably to a mean of 1.09 ( standard deviation 1.27 ) with an estimated mean difference between groups of - 0.31 ( 95 % confidence interval - 0.55 to - 0.07 , P = 0.02 ) in favour of integrated treatment . Negative symptoms changed favourably with an estimated difference between groups of - 0.36 ( - 0.54 to - 0.17 , P &lt; 0.001 ) in favour of integrated treatment . At 2 years ' follow - up the estimated mean difference between groups in psychotic symptoms was - 0.32 ( - 0.58 to - 0.06 , P = 0.02 ) and in negative symptoms was - 0.45 ( - 0.67 to - 0.22 , P &lt; 0.001 ) , both in favour of integrated treatment . Patients who received integrated treatment had significantly less comorbid substance misuse , better adherence to treatment , and more satisfaction with treatment . Integrated treatment improved clinical outcome and adherence to treatment . The improvement in clinical outcome was consistent at 1 year and 2 year follow - ups .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To evaluate the effects of
+      <group id="0">integrated  treatment</group>
+      for patients with a first episode of psychotic illness .
+    </s>
+    <s id="2" section="design">Randomised clinical trial .</s>
+    <s id="3" section="setting">Copenhagen Hospital Corporation and Psychiatric Hospital Aarhus , Denmark .</s>
+    <s id="5" section="interventions">
+      <group id="0">Integrated  treatment</group>
+      and
+      <group id="1">standard  treatment</group>
+      .
+    </s>
+    <s id="7" section="interventions">
+      <group id="1">Standard  treatment</group>
+      offered
+      <group id="1">contact  with  a  community  mental  health  centre</group>
+      .
+    </s>
+    <s id="10" section="results">
+      <outcome id="1">Negative  symptoms</outcome>
+      changed favourably with an estimated difference between groups of - 0.36 ( - 0.54 to - 0.17 , P &lt; 0.001 ) in favour of
+      <group id="0">integrated  treatment</group>
+      .
+    </s>
+    <s id="12" section="results">
+      <group id="0">Patients  who  received  integrated  treatment</group>
+      had significantly less
+      <outcome id="2">comorbid  substance  misuse</outcome>
+      , better
+      <outcome id="3">adherence  to  treatment</outcome>
+      , and more
+      <outcome id="4">satisfaction  with  treatment</outcome>
+      .
+    </s>
+    <s id="13" section="conclusion">
+      <group id="0">Integrated  treatment</group>
+      improved
+      <outcome id="5">clinical  outcome</outcome>
+      and
+      <outcome id="3">adherence  to  treatment</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16675812">
+  <title>
+    <s id="0" section="title">
+      Safety and efficacy of
+      <group id="0">rectal</group>
+      compared with
+      <group id="1">intramuscular  quinine</group>
+      for the early treatment of moderately severe malaria in children : randomised clinical trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>898</ps>
+      children with moderately severe P falciparum malaria who were unable to take oral treatment .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        <short>Rectal  quinine</short>
+        (  20  mg  /  kg  diluted  to  30  mg  /  ml  in  water  solution  )
+      </group>
+      or
+      <group id="1">
+        <short>intramuscular  quinine</short>
+        (  12.5  mg  /  kg  )  every  12  hours  until  oral  quinine  could  be  taken
+      </group>
+      .
+    </s>
+    <s id="8" section="results">
+      <outcome id="0">Blood  in  stools</outcome>
+      and
+      <outcome id="1">diarrhoea</outcome>
+      were more common in
+      <group id="0">children  given  quinine  by  the  rectal  route</group>
+      than by the
+      <group id="1">intramuscular  route</group>
+      (
+      <outcome id="0">blood  in  stools</outcome>
+      : 5 % v 1 % , absolute difference 3.9 % , 95 % confidence interval 1.8 % to 6.1 % ;
+      <outcome id="1">diarrhoea</outcome>
+      : 5 % v 1 % , 3.5 % , 1.3 % to 5.7 % ) .
+    </s>
+    <s id="9" section="results">
+      On anoscopy , inflammatory lesions ( 9 / 248 , 3 % ) were associated with
+      <outcome id="0">bloody  striations  in  stools</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      <outcome id="7">Local  pain</outcome>
+      ( 90 % ) ,
+      <outcome id="8">inflammation</outcome>
+      ( 79 % ) , and
+      <outcome id="9">transient  impairment  of  mobility</outcome>
+      ( 15 % ) were observed with
+      <group id="1">intramuscular  quinine</group>
+      .
+    </s>
+    <s id="12" section="results">
+      <outcome id="2">Early  treatment  failure</outcome>
+      was higher in the
+      <group id="0">rectal  group</group>
+      ( 6 % v 3 % , absolute difference 3.0 % , 95 % confidence interval 0.2 % to 5.9 % ) .
+    </s>
+    <s id="13" section="results">
+      All except 2 children in each group had
+      <outcome id="10">negative  blood  slide  results</outcome>
+      at
+      <time id="0">day  5</time>
+      .
+      <outcome id="11" type="bad">Fever  recurrence</outcome>
+      at
+      <time id="1">day  7</time>
+      was higher in the
+      <group id="1">intramuscular  group</group>
+      (
+      <on group="1" outcome="11">37</on>
+      /
+      <gs group="1">375</gs>
+      v
+      <on group="0" outcome="11">18</on>
+      /
+      <gs group="0">395</gs>
+      , absolute difference 5.3 % , 1.6 % to 8.9 % ) .
+    </s>
+  </annotated>
+  <fulltext>Safety and efficacy of rectal compared with intramuscular quinine for the early treatment of moderately severe malaria in children : randomised clinical trial . To compare the safety and efficacy of quinine given by the rectal route with quinine given by the intramuscular route in children with moderately severe Plasmodium falciparum malaria . Randomised , open , clinical trial . Health centre in Burkina Faso . 898 children with moderately severe P falciparum malaria who were unable to take oral treatment . Rectal quinine ( 20 mg / kg diluted to 30 mg / ml in water solution ) or intramuscular quinine ( 12.5 mg / kg ) every 12 hours until oral quinine could be taken . Primary safety outcome was the presence of blood in stools and secondary safety outcome was diarrhoea . Primary efficacy outcome was early treatment failure and secondary efficacy outcomes were late clinical and parasitological failures , fever clearance time , and time to oral intake . Blood in stools and diarrhoea were more common in children given quinine by the rectal route than by the intramuscular route ( blood in stools : 5 % v 1 % , absolute difference 3.9 % , 95 % confidence interval 1.8 % to 6.1 % ; diarrhoea : 5 % v 1 % , 3.5 % , 1.3 % to 5.7 % ) . On anoscopy , inflammatory lesions ( 9 / 248 , 3 % ) were associated with bloody striations in stools . Side effects of rectal quinine were rare and transitory . Local pain ( 90 % ) , inflammation ( 79 % ) , and transient impairment of mobility ( 15 % ) were observed with intramuscular quinine . Early treatment failure was higher in the rectal group ( 6 % v 3 % , absolute difference 3.0 % , 95 % confidence interval 0.2 % to 5.9 % ) . All except 2 children in each group had negative blood slide results at day 5 . Fever recurrence at day 7 was higher in the intramuscular group ( 37 / 375 v 18 / 395 , absolute difference 5.3 % , 1.6 % to 8.9 % ) . Other efficacy outcomes ( late clinical failure , late parasitological failure , fever clearance time , time to starting oral intake and rate of deterioration to severe malaria ) did not differ . Quinine given by the rectal route has an acceptable safety profile and could be used in the early management of moderately severe malaria in children in sub- Saharan Africa , halting progression to severe disease .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the safety and efficacy of
+      <group id="0">
+        quinine  given  by  the
+        <short>rectal</short>
+        route
+      </group>
+      with
+      <group id="1">
+        quinine  given  by  the
+        <short>intramuscular</short>
+        route
+      </group>
+      in children with moderately severe Plasmodium falciparum malaria .
+    </s>
+    <s id="2" section="design">Randomised , open , clinical trial .</s>
+    <s id="3" section="setting">Health centre in Burkina Faso .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary safety outcome was the
+      <outcome id="0">
+        presence  of
+        <short>blood  in  stools</short>
+      </outcome>
+      and secondary safety outcome was
+      <outcome id="1">diarrhoea</outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Primary efficacy outcome was
+      <outcome id="2">early  treatment  failure</outcome>
+      and secondary efficacy outcomes were
+      <outcome id="3">late  clinical</outcome>
+      and
+      <outcome id="4">parasitological  failures</outcome>
+      ,
+      <outcome id="5">fever  clearance  time</outcome>
+      , and
+      <outcome id="6">time  to  oral  intake</outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      Side effects of
+      <group id="0">rectal  quinine</group>
+      were rare and transitory .
+    </s>
+    <s id="14" section="results">
+      Other efficacy outcomes (
+      <outcome id="3">late  clinical  failure</outcome>
+      ,
+      <outcome id="4">late  parasitological  failure</outcome>
+      ,
+      <outcome id="5">fever  clearance  time</outcome>
+      ,
+      <outcome id="6">time  to  starting  oral  intake</outcome>
+      and
+      <outcome id="12">rate  of  deterioration  to  severe  malaria</outcome>
+      ) did not differ .
+    </s>
+    <s id="15" section="conclusion">
+      <group id="0">
+        Quinine  given  by  the
+        <short>rectal  route</short>
+      </group>
+      has an acceptable safety profile and could be used in the early management of moderately severe malaria in children in sub- Saharan Africa , halting progression to severe disease .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16740529">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">off  -  pump  coronary  artery  bypass  surgery</group>
+      on
+      <outcome id="0">clinical</outcome>
+      ,
+      <outcome id="1">angiographic</outcome>
+      ,
+      <outcome id="2">neurocognitive</outcome>
+      , and
+      <outcome id="3">quality  of  life  outcomes</outcome>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>168</ps>
+      patients ( 27 women ) requiring primary isolated coronary artery bypass grafting surgery .
+    </s>
+    <s id="5" section="interventions">
+      Patients were randomised to
+      <group id="1">
+        conventional  coronary  artery  bypass  grafting  surgery
+        <short>using  cardiopulmonary  bypass</short>
+      </group>
+      ( n =
+      <gs group="1">84</gs>
+      ) or
+      <group id="0">
+        <short>off  -  pump</short>
+        coronary  artery  bypass  surgery
+      </group>
+      ( n =
+      <gs group="0">84</gs>
+      ) , carried out by 1 surgeon .
+    </s>
+    <s id="6" section="interventions">
+      Angiographic examination was carried out at
+      <time id="0">3  months</time>
+      postoperatively .
+    </s>
+    <s id="7" section="interventions">
+      Neurocognitive tests were carried out at
+      <time id="1">baseline</time>
+      and at
+      <time id="2">6  weeks</time>
+      and
+      <time id="3">6  months</time>
+      postoperatively .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      <outcome id="0">Clinical  outcome</outcome>
+      ,
+      <outcome id="1">graft  patency</outcome>
+      at
+      <time id="0">3  months</time>
+      ,
+      <outcome id="2">neurocognitive  function</outcome>
+      at
+      <time id="2">6  weeks</time>
+      and
+      <time id="3">6  months</time>
+      , and
+      <outcome id="3">health  related  quality  of  life</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="1">Graft  patency</outcome>
+      was evaluated by angiography in 151 ( 89.9 % ) patients and was similar between the
+      <group id="1">cardiopulmonary  bypass</group>
+      and
+      <group id="0">off  -  pump</group>
+      groups ( risk difference - 1 % , 95 % confidence interval - 5 % to 4 % ) , with the
+      <group id="0">off  -  pump  group</group>
+      considered the
+      <group id="0">treatment  group</group>
+      .
+    </s>
+    <s id="11" section="results">
+      Scores for
+      <outcome id="2">neurocognitive  function</outcome>
+      showed a significant difference in 3 memory subtests at
+      <time id="2">6  weeks</time>
+      and 2 memory subtests at
+      <time id="3">6  months</time>
+      in favour of the
+      <group id="0">off  -  pump  group</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Effect of off - pump coronary artery bypass surgery on clinical , angiographic , neurocognitive , and quality of life outcomes : randomised controlled trial . To compare the clinical , angiographic , neurocognitive , and quality of life outcomes of off - pump coronary artery bypass surgery with conventional coronary artery bypass grafting surgery using cardiopulmonary bypass . Randomised controlled clinical trial . Tertiary cardiothoracic centre in Middlesex , England . 168 patients ( 27 women ) requiring primary isolated coronary artery bypass grafting surgery . Patients were randomised to conventional coronary artery bypass grafting surgery using cardiopulmonary bypass ( n = 84 ) or off - pump coronary artery bypass surgery ( n = 84 ) , carried out by 1 surgeon . Angiographic examination was carried out at 3 months postoperatively . Neurocognitive tests were carried out at baseline and at 6 weeks and 6 months postoperatively . Clinical outcome , graft patency at 3 months , neurocognitive function at 6 weeks and 6 months , and health related quality of life . Graft patency was evaluated by angiography in 151 ( 89.9 % ) patients and was similar between the cardiopulmonary bypass and off - pump groups ( risk difference - 1 % , 95 % confidence interval - 5 % to 4 % ) , with the off - pump group considered the treatment group . Patients in the off - pump group required fewer blood transfusions ( 1.7 units v 1.0 unit , P = 0.02 ) , shorter duration of mechanical ventilation ( 7.7 hours v 3.9 hours , P = 0.03 ) , and shorter hospital stay ( 10.8 days v 8.9 days ) . Scores for neurocognitive function showed a significant difference in 3 memory subtests at 6 weeks and 2 memory subtests at 6 months in favour of the off - pump group . Patients who underwent off - pump coronary artery bypass surgery showed similar patency of grafts , better clinical outcome , shorter hospital stay , and better neurocognitive function than patients who underwent conventional coronary artery bypass grafting surgery using cardiopulmonary bypass .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the
+      <outcome id="0">clinical</outcome>
+      ,
+      <outcome id="1">angiographic</outcome>
+      ,
+      <outcome id="2">neurocognitive</outcome>
+      , and
+      <outcome id="3">quality  of  life  outcomes</outcome>
+      of
+      <group id="0">
+        <short>off  -  pump</short>
+        coronary  artery  bypass  surgery
+      </group>
+      with
+      <group id="1">
+        conventional  coronary  artery  bypass  grafting  surgery  using
+        <short>cardiopulmonary  bypass</short>
+      </group>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled clinical trial .</s>
+    <s id="3" section="setting">Tertiary cardiothoracic centre in Middlesex , England .</s>
+    <s id="10" section="results">
+      Patients in the
+      <group id="0">off  -  pump  group</group>
+      required fewer
+      <outcome id="4">blood  transfusions</outcome>
+      ( 1.7 units v 1.0 unit , P = 0.02 ) , shorter
+      <outcome id="5">duration  of  mechanical  ventilation</outcome>
+      ( 7.7 hours v 3.9 hours , P = 0.03 ) , and shorter
+      <outcome id="6">hospital  stay</outcome>
+      ( 10.8 days v 8.9 days ) .
+    </s>
+    <s id="12" section="conclusions">
+      <group id="0">
+        Patients  who  underwent
+        <short>off  -  pump</short>
+        coronary  artery  bypass  surgery
+      </group>
+      showed similar
+      <outcome id="1">patency  of  grafts</outcome>
+      , better
+      <outcome id="0">clinical  outcome</outcome>
+      , shorter
+      <outcome id="6">hospital  stay</outcome>
+      , and better
+      <outcome id="2">neurocognitive  function</outcome>
+      than
+      <group id="1">
+        patients  who  underwent  conventional  coronary  artery  bypass  grafting  surgery  using
+        <short>cardiopulmonary  bypass</short>
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

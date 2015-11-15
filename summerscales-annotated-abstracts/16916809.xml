@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16916809">
+  <title>
+    <s id="0" section="title">
+      Effectiveness of
+      <group id="0">
+        <short>telephone  counselling</short>
+        by  a  pharmacist
+      </group>
+      in reducing
+      <outcome id="0" type="bad">mortality</outcome>
+      in patients receiving polypharmacy : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">2 year randomised controlled trial .</s>
+    <s id="4" section="participants">
+      502 of 1011 patients receiving 5 or more drugs for chronic disease found to be non - compliant at the screening visit were invited for randomisation to either the
+      <group id="0">telephone  counselling  group</group>
+      ( n =
+      <gs group="0">219</gs>
+      ) or
+      <group id="1">control  group</group>
+      ( n =
+      <gs group="1">223</gs>
+      ) at enrollment 12-16 weeks later .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Associations between
+      <outcome id="3">compliance</outcome>
+      and
+      <outcome id="0" type="bad">mortality</outcome>
+      in the entire cohort of 1011 patients were also examined .
+    </s>
+    <s id="7" section="main_outcome_measures">Patients were defined as compliant with a drug if they took 80 -120 % of the prescribed daily dose .</s>
+    <s id="9" section="main_outcome_measures">Only patients who complied with all recommended drugs were considered compliant ( 100 % score ) .</s>
+    <s id="10" section="results">
+      60 of the 502 eligible patients defaulted and only
+      <ps>442</ps>
+      patients were randomised .
+    </s>
+    <s id="11" section="results">
+      After
+      <time id="1">2  years</time>
+      ,
+      <on group="2" outcome="0">31</on>
+      ( 52 % ) of the
+      <group id="2">defaulters</group>
+      had
+      <outcome id="0" type="bad">died</outcome>
+      ,
+      <on group="1" outcome="0">38</on>
+      ( 17 % ) of the
+      <group id="1">control  group</group>
+      had
+      <outcome id="0" type="bad">died</outcome>
+      , and
+      <on group="0" outcome="0">25</on>
+      ( 11 % ) of the
+      <group id="0">intervention  group</group>
+      had
+      <outcome id="0" type="bad">died</outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      After adjustment for confounders ,
+      <group id="0">telephone  counselling</group>
+      was associated with a 41 % reduction in the
+      <outcome id="0" type="bad">
+        risk  of
+        <short>death</short>
+      </outcome>
+      ( relative risk 0.59 , 95 % confidence interval 0.35 to 0.97 ; P = 0.039 ) .
+    </s>
+    <s id="13" section="results">
+      The number needed to treat to prevent 1 death at
+      <time id="1">2  years</time>
+      was 16 .
+    </s>
+    <s id="15" section="results">
+      In the cohort of 1011 patients , the
+      <outcome id="0" type="bad">
+        adjusted  relative  risk  for
+        <short>death</short>
+      </outcome>
+      was 1.61 ( 1.05 to 2.48 ; P = 0.029 ) and 2.87 ( 1.80 to 2.57 ; P &lt; 0.001 ) in patients with
+      <outcome id="3">compliance  scores</outcome>
+      of 34 -66 % and 0- 33 % , respectively , compared with those who had a
+      <outcome id="3">compliance  score</outcome>
+      of 67 % or more .
+    </s>
+  </annotated>
+  <fulltext>Effectiveness of telephone counselling by a pharmacist in reducing mortality in patients receiving polypharmacy : randomised controlled trial . To investigate the effects of compliance and periodic telephone counselling by a pharmacist on mortality in patients receiving polypharmacy . 2 year randomised controlled trial . Hospital medical clinic . 502 of 1011 patients receiving 5 or more drugs for chronic disease found to be non - compliant at the screening visit were invited for randomisation to either the telephone counselling group ( n = 219 ) or control group ( n = 223 ) at enrollment 12-16 weeks later . Primary outcome was all cause mortality in randomised patients . Associations between compliance and mortality in the entire cohort of 1011 patients were also examined . Patients were defined as compliant with a drug if they took 80 -120 % of the prescribed daily dose . To calculate a compliance score for the whole treatment regimen , the number of drugs that the patient was fully compliant with was divided by the total number of prescribed drugs and expressed as a percentage . Only patients who complied with all recommended drugs were considered compliant ( 100 % score ) . 60 of the 502 eligible patients defaulted and only 442 patients were randomised . After 2 years , 31 ( 52 % ) of the defaulters had died , 38 ( 17 % ) of the control group had died , and 25 ( 11 % ) of the intervention group had died . After adjustment for confounders , telephone counselling was associated with a 41 % reduction in the risk of death ( relative risk 0.59 , 95 % confidence interval 0.35 to 0.97 ; P = 0.039 ) . The number needed to treat to prevent 1 death at 2 years was 16 . Other predictors included old age , living alone , rate of admission to hospital , compliance score , number of drugs for chronic disease , and non - treatment with lipid lowering drugs at screening visit . In the cohort of 1011 patients , the adjusted relative risk for death was 1.61 ( 1.05 to 2.48 ; P = 0.029 ) and 2.87 ( 1.80 to 2.57 ; P &lt; 0.001 ) in patients with compliance scores of 34 -66 % and 0- 33 % , respectively , compared with those who had a compliance score of 67 % or more . In patients receiving polypharmacy , poor compliance was associated with increased mortality . Periodic telephone counselling by a pharmacist improved compliance and reduced mortality . International Standard Randomised Controlled Trial Number Register : SRCTN48076318 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate the effects of compliance and
+      <group id="0">
+        periodic
+        <short>telephone  counselling</short>
+        by  a  pharmacist
+      </group>
+      on
+      <outcome id="0" type="bad">mortality</outcome>
+      in patients receiving polypharmacy .
+    </s>
+    <s id="3" section="setting">Hospital medical clinic .</s>
+    <s id="5" section="main_outcome_measures">
+      Primary outcome was
+      <outcome id="0" type="bad">all  cause  mortality</outcome>
+      in randomised patients .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      To calculate a
+      <outcome id="3">
+        <short>compliance  score</short>
+        for  the  whole  treatment  regimen
+      </outcome>
+      , the number of drugs that the patient was fully compliant with was divided by the total number of prescribed drugs and expressed as a percentage .
+    </s>
+    <s id="14" section="results">Other predictors included old age , living alone , rate of admission to hospital , compliance score , number of drugs for chronic disease , and non - treatment with lipid lowering drugs at screening visit .</s>
+    <s id="16" section="conclusion">
+      In patients receiving polypharmacy , poor compliance was associated with increased
+      <outcome id="0" type="bad">mortality</outcome>
+      .
+    </s>
+    <s id="17" section="conclusion">
+      <group id="0">
+        Periodic
+        <short>telephone  counselling</short>
+        by  a  pharmacist
+      </group>
+      improved
+      <outcome id="3">compliance</outcome>
+      and reduced
+      <outcome id="0" type="bad">mortality</outcome>
+      .
+    </s>
+    <s id="18" section="trial_registration">International Standard Randomised Controlled Trial Number Register : SRCTN48076318 .</s>
+  </ignored>
+</abstract>
+

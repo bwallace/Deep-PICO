@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16455695">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Oral  misoprostol</group>
+      for
+      <outcome id="0:0" type="bad">
+        induction  of  labour  at
+        <time id="0">term</time>
+      </outcome>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Maternity departments in 3 hospitals in Australia .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        20  mug  oral
+        <short>misoprostol</short>
+        solution  at  ourly  intervals  and  placebo  vaginal  gel
+      </group>
+      or
+      <group id="1">
+        vaginal
+        <short>dinoprostone</short>
+        gel  at  6  hourly  intervals  and  placebo  oral  solution
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome__measures">
+      <outcome id="0:0" type="bad">
+        <short>Vaginal  birth</short>
+        within  24  hours
+      </outcome>
+      ;
+      <outcome id="0:1" type="bad">
+        <short>uterine  hyperstimulation</short>
+        with  associated  changes  in  fetal  heart  rate
+      </outcome>
+      ;
+      <outcome id="0:2" type="bad">
+        <short>caesarean  section</short>
+        (  all  )
+      </outcome>
+      ; and
+      <outcome id="0:3" type="bad">caesarean  section  for  fetal  distress</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      <ps>741</ps>
+      women were randomised ,
+      <gs group="0">365</gs>
+      to the
+      <group id="0">misoprostol  group</group>
+      and
+      <gs group="1">376</gs>
+      to the
+      <group id="1">vaginal  dinoprostone  group</group>
+      .
+    </s>
+    <s id="8" section="results">
+      There were no significant differences between the 2 treatment groups in the primary outcomes :
+      <outcome id="0:0" type="bad">
+        <short>vaginal  birth</short>
+        not  achieved  in  24  hours
+      </outcome>
+      (
+      <group id="0">misoprostol</group>
+      <on group="0" outcome="0:0">168</on>
+      /
+      <gs group="0">365</gs>
+      ( 46.0 % ) v
+      <group id="1">dinoprostone</group>
+      <on group="1" outcome="0:0">155</on>
+      /
+      <gs group="1">376</gs>
+      ( 41.2 % ) ; relative risk 1.12 , 95 % confidence interval 0.95 to 1.32 ; P = 0.134 ) ,
+      <outcome id="0:2" type="bad">caesarean  section</outcome>
+      (
+      <on group="0" outcome="0:2">83</on>
+      /
+      <gs group="0">365</gs>
+      ( 22.7 % ) v
+      <on group="1" outcome="0:2">100</on>
+      /
+      <gs group="1">376</gs>
+      ( 26.6 % ) ; 0.82 , 0.64 to 1.06 ; P = 0.127 ) ,
+      <outcome id="0:3" type="bad">caesarean  section  for  fetal  distress</outcome>
+      (
+      <on group="0" outcome="0:3">32</on>
+      /
+      <gs group="0">365</gs>
+      ( 8.8 % ) v
+      <on group="1" outcome="0:3">35</on>
+      /
+      <gs group="1">376</gs>
+      ( 9.3 % ) ; 0.91 , 0.57 to 1.44 ; P = 0.679 ) , or
+      <outcome id="0:1" type="bad">
+        <short>uterine  hyperstimulation</short>
+        with  changes  in  fetal  heart  rate
+      </outcome>
+      (
+      <on group="0" outcome="0:1">3</on>
+      /
+      <gs group="0">365</gs>
+      ( 0.8 % ) v
+      <on group="1" outcome="0:1">6</on>
+      /
+      <gs group="1">376</gs>
+      ( 1.6 % ) ; 0.55 , 0.14 to 2.21 ; P = 0.401 ) .
+    </s>
+  </annotated>
+  <fulltext>Oral misoprostol for induction of labour at term : randomised controlled trial . To compare oral misoprostol solution with vaginal prostaglandin gel ( dinoprostone ) for induction of labour at term to determine whether misoprostol is superior . Randomised double blind placebo controlled trial . Maternity departments in 3 hospitals in Australia . Population Pregnant women with a singleton cephalic presentation at &gt; or = 36+6 weeks ' gestation , with an indication for prostaglandin induction of labour . 20 mug oral misoprostol solution at ourly intervals and placebo vaginal gel or vaginal dinoprostone gel at 6 hourly intervals and placebo oral solution . Vaginal birth within 24 hours ; uterine hyperstimulation with associated changes in fetal heart rate ; caesarean section ( all ) ; and caesarean section for fetal distress . 741 women were randomised , 365 to the misoprostol group and 376 to the vaginal dinoprostone group . There were no significant differences between the 2 treatment groups in the primary outcomes : vaginal birth not achieved in 24 hours ( misoprostol 168 / 365 ( 46.0 % ) v dinoprostone 155 / 376 ( 41.2 % ) ; relative risk 1.12 , 95 % confidence interval 0.95 to 1.32 ; P = 0.134 ) , caesarean section ( 83 / 365 ( 22.7 % ) v 100 / 376 ( 26.6 % ) ; 0.82 , 0.64 to 1.06 ; P = 0.127 ) , caesarean section for fetal distress ( 32 / 365 ( 8.8 % ) v 35 / 376 ( 9.3 % ) ; 0.91 , 0.57 to 1.44 ; P = 0.679 ) , or uterine hyperstimulation with changes in fetal heart rate ( 3 / 365 ( 0.8 % ) v 6 / 376 ( 1.6 % ) ; 0.55 , 0.14 to 2.21 ; P = 0.401 ) . Although there were differences in the process of labour induction , there were no significant differences in adverse maternal or neonatal outcomes . This trial shows no evidence that oral misoprostol is superior to vaginal dinoprostone for induction of labour . However , it does not lead to poorer health outcomes for women or their infants , and oral treatment is preferred by women . National Health and Medical Research Council , Perinatal Trials , PT0361 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare
+      <group id="0">
+        oral
+        <short>misoprostol</short>
+        solution
+      </group>
+      with
+      <group id="1">
+        vaginal  prostaglandin  gel  (
+        <short>dinoprostone</short>
+        )
+      </group>
+      for
+      <outcome id="0:0" type="bad">
+        induction  of  labour  at
+        <time id="0">term</time>
+      </outcome>
+      to determine whether
+      <group id="0">misoprostol</group>
+      is superior .
+    </s>
+    <s id="2" section="design">Randomised double blind placebo controlled trial .</s>
+    <s id="4" section="setting">Population Pregnant women with a singleton cephalic presentation at &gt; or = 36+6 weeks ' gestation , with an indication for prostaglandin induction of labour .</s>
+    <s id="9" section="results">
+      Although there were differences in the process of labour induction , there were no significant differences in
+      <outcome id="1">adverse  maternal</outcome>
+      or
+      <outcome id="2">neonatal  outcomes</outcome>
+      .
+    </s>
+    <s id="10" section="conclusions">
+      This trial shows no evidence that
+      <group id="0">oral  misoprostol</group>
+      is superior to
+      <group id="1">vaginal  dinoprostone</group>
+      for
+      <outcome id="0:0" type="bad">induction  of  labour</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      However , it does not lead to poorer health outcomes for women or their infants , and
+      <group id="0">oral  treatment</group>
+      is preferred by women .
+    </s>
+    <s id="12" section="trial_registration">National Health and Medical Research Council , Perinatal Trials , PT0361 .</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16543298">
+  <title>
+    <s id="0" section="title">
+      The REACT study : randomised evaluation of
+      <group id="0">assertive  community  treatment</group>
+      in north London .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 inner London boroughs .</s>
+    <s id="4" section="participants">
+      <ps>251</ps>
+      men and women under the care of adult secondary mental health services with recent high use of inpatient care and difficulties engaging with community services .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Treatment  from
+        <short>assertive  community  treatment  team</short>
+      </group>
+      (
+      <gs group="0">127</gs>
+      participants ) or
+      <group id="1">
+        continuation  of  care  from
+        <short>community  mental  health  team</short>
+      </group>
+      (
+      <gs group="1">124</gs>
+      participants ) .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome was
+      <outcome id="0">
+        <short>inpatient  bed  use</short>
+        <time id="0">18  months  after  randomisation</time>
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      No significant differences were found in
+      <outcome id="0">inpatient  bed  use</outcome>
+      ( median difference 1 , 95 % confidence interval - 16 to 38 ) or in
+      <outcome id="5">clinical</outcome>
+      or
+      <outcome id="6">social  outcomes</outcome>
+      for the 2 treatment groups .
+    </s>
+  </annotated>
+  <fulltext>The REACT study : randomised evaluation of assertive community treatment in north London . To compare outcomes of care from assertive community treatment teams with care by community mental health teams for people with serious mental illnesses . Non - blind randomised controlled trial . 2 inner London boroughs . 251 men and women under the care of adult secondary mental health services with recent high use of inpatient care and difficulties engaging with community services . Treatment from assertive community treatment team ( 127 participants ) or continuation of care from community mental health team ( 124 participants ) . Primary outcome was inpatient bed use 18 months after randomisation . Secondary outcomes included symptoms , social function , client satisfaction , and engagement with services . No significant differences were found in inpatient bed use ( median difference 1 , 95 % confidence interval - 16 to 38 ) or in clinical or social outcomes for the 2 treatment groups . Clients who received care from the assertive community treatment team seemed better engaged ( adapted homeless engagement acceptance schedule : difference in means 1.1 , 1.0 to 1.9 ) , and those who agreed to be interviewed were more satisfied with service ( adapted client satisfaction questionnaire : difference in means 7.14 , 0.9 to 13.4 ) . Community mental health teams are able to support people with serious mental illnesses as effectively as assertive community treatment teams , but assertive community treatment may be better at engaging clients and may lead to greater satisfaction with services .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare outcomes of
+      <group id="0">
+        care  from
+        <short>assertive  community  treatment  teams</short>
+      </group>
+      with
+      <group id="1">
+        care  by
+        <short>community  mental  health  teams</short>
+      </group>
+      for people with serious mental illnesses .
+    </s>
+    <s id="2" section="design">Non - blind randomised controlled trial .</s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes included
+      <outcome id="1">symptoms</outcome>
+      ,
+      <outcome id="2">social  function</outcome>
+      ,
+      <outcome id="3">client  satisfaction</outcome>
+      , and
+      <outcome id="4">engagement  with  services</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <group id="0">Clients  who  received  care  from  the  assertive  community  treatment  team</group>
+      seemed better
+      <outcome id="4">engaged</outcome>
+      (
+      <outcome id="4">adapted  homeless  engagement  acceptance  schedule</outcome>
+      : difference in means 1.1 , 1.0 to 1.9 ) , and those who agreed to be interviewed were more
+      <outcome id="3">satisfied  with  service</outcome>
+      (
+      <outcome id="3">adapted  client  satisfaction  questionnaire</outcome>
+      : difference in means 7.14 , 0.9 to 13.4 ) .
+    </s>
+    <s id="10" section="conclusions">
+      <group id="1">Community  mental  health  teams</group>
+      are able to support people with serious mental illnesses as effectively as
+      <group id="0">assertive  community  treatment  teams</group>
+      , but
+      <group id="0">assertive  community  treatment</group>
+      may be better at
+      <outcome id="4">engaging  clients</outcome>
+      and may lead to
+      <outcome id="3">greater  satisfaction  with  services</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

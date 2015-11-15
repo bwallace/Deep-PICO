@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17495988">
+  <title>
+    <s id="0">Post-traumatic stress disorder in the context of terrorism and other civil conflict in Northern Ireland: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">58 consecutive patients with chronic post-traumatic stress disorder (median 5.2 years, range 3 months to 32 years) mostly resulting from multiple traumas linked to terrorism and other civil conflict.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment"><short>Immediate</short> cognitive therapy</group> compared with <group id="1" role="control">a <short>waiting list</short> control condition</group> for <time id="0">12 weeks</time> followed by treatment.</s>
+    <s id="6" section="interventions">Treatment comprised a mean of 5.9 sessions during 12 weeks and 2.0 sessions thereafter.</s>
+    <s id="9" section="results">At <time id="0">12 weeks</time> after randomisation, <group id="0" role="experiment"><short>immediate</short> cognitive therapy</group> was associated with significantly greater improvement than the <group id="1" role="control">waiting list control group</group> in the <outcome id="0" type="bad">symptoms of post-traumatic <short>stress disorder</short></outcome> (mean difference 9.6, 95% confidence interval 3.6 to 15.6), <outcome id="1" type="bad">depression</outcome> (mean difference 10.1, 4.8 to 15.3), and <outcome id="2" type="bad">self reported occupational and social <short>functioning</short></outcome> (mean difference 1.3, 0.3 to 2.5).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of cognitive therapy for post-traumatic stress disorder related to terrorism and other civil conflict in Northern Ireland. 
+DESIGN: Randomised controlled trial. 
+SETTING: Community treatment centre, Northern Ireland. 
+PARTICIPANTS: 58 consecutive patients with chronic post-traumatic stress disorder (median 5.2 years, range 3 months to 32 years) mostly resulting from multiple traumas linked to terrorism and other civil conflict. 
+INTERVENTIONS: Immediate cognitive therapy compared with a waiting list control condition for 12 weeks followed by treatment. 
+Treatment comprised a mean of 5.9 sessions during 12 weeks and 2.0 sessions thereafter. 
+MAIN OUTCOME MEASURES: Primary outcome measures were patients' scores for post-traumatic stress disorder (post-traumatic stress diagnostic scale) and depression (Beck depression inventory). 
+The secondary outcome measure was scores for occupational and social functioning (work related disability, social disability, and family related disability) on the Sheehan disability scale. 
+RESULTS: At 12 weeks after randomisation, immediate cognitive therapy was associated with significantly greater improvement than the waiting list control group in the symptoms of post-traumatic stress disorder (mean difference 9.6, 95% confidence interval 3.6 to 15.6), depression (mean difference 10.1, 4.8 to 15.3), and self reported occupational and social functioning (mean difference 1.3, 0.3 to 2.5). 
+Effect sizes from before to after treatment were large: post-traumatic stress disorder 1.25, depression 1.05, and occupational and social functioning 1.17. 
+No change was observed in the control group. 
+CONCLUSION: Cognitive therapy is an effective treatment for post-traumatic stress disorder related to terrorism and other civil conflict. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN16228473 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of cognitive therapy for post-traumatic stress disorder related to terrorism and other civil conflict in Northern Ireland.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Community treatment centre, Northern Ireland.</s>
+    <s id="7" section="main outcome measures">Primary outcome measures were patients' scores for post-traumatic stress disorder (post-traumatic stress diagnostic scale) and depression (Beck depression inventory).</s>
+    <s id="8" section="main outcome measures">The secondary outcome measure was scores for occupational and social functioning (work related disability, social disability, and family related disability) on the Sheehan disability scale.</s>
+    <s id="10" section="results">Effect sizes from before to after treatment were large: post-traumatic stress disorder 1.25, depression 1.05, and occupational and social functioning 1.17.</s>
+    <s id="11" section="results">No change was observed in the control group.</s>
+    <s id="12" section="conclusion">Cognitive therapy is an effective treatment for post-traumatic stress disorder related to terrorism and other civil conflict.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN16228473 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

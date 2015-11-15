@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18713809">
+  <title>
+    <s id="0">Randomised controlled trial of Alexander technique lessons, exercise, and massage (ATEAM) for chronic and recurrent back pain.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">64 general practices in England.</s>
+    <s id="4" section="participants">579 patients with chronic or recurrent low back pain ; <gs group="0">144</gs> were randomised to <group id="0" role="control">normal care</group> , <gs group="1">147</gs> to <group id="1" role="experiment">massage</group> , <gs group="2">144</gs> to <group id="2" role="experiment">6 Alexander technique lessons</group>, and <gs group="3">144</gs> to <group id="3" role="experiment">24 Alexander technique lessons</group>; half of each of these groups were randomised to exercise prescription .</s>
+    <s id="5" section="interventions"><group id="0" role="control"><short>Normal care</short> ( control )</group> , 6 sessions of massage , 6 or 24 lessons on the Alexander technique , and prescription for exercise from a doctor with nurse delivered behavioural counselling .</s>
+    <s id="7" section="results">Exercise and lessons in the Alexander technique , but not massage , remained effective at 1 year ( compared with control <outcome id="0" type="good">Roland disability score 8.1</outcome> : massage - 0.58 , 95 % confidence interval - 1.94 to 0.77 , 6 lessons - 1.40 , - 2.77 to - 0.03 , 24 lessons - 3.4 , - 4.76 to - 2.03 , and exercise - 1.29 , - 2.25 to - 0.34 ) .</s>
+    <s id="8" section="results">Exercise after 6 lessons achieved 72 % of the effect of 24 lessons alone ( Roland disability score - 2.98 and - 4.14 , respectively ) .</s>
+    <s id="9" section="results"><outcome id="1" type="bad">Number of days with back pain</outcome> in the past 4 weeks was lower after lessons ( compared with control median 21 days : 24 lessons - 18 , 6 lessons - 10 , massage -7) and <outcome id="2" type="good">quality of life</outcome> improved significantly .</s>
+    <s id="11" section="conclusions">1 to 1 lessons in the Alexander technique from registered teachers have long term benefits for patients with chronic back pain .</s>
+    <s id="12" section="conclusions">6 lessons followed by exercise prescription were nearly as effective as 24 lessons .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effectiveness of lessons in the Alexander technique, massage therapy, and advice from a doctor to take exercise (exercise prescription) along with nurse delivered behavioural counselling for patients with chronic or recurrent back pain. 
+DESIGN: Factorial randomised trial. 
+SETTING: 64 general practices in England. 
+PARTICIPANTS: 579 patients with chronic or recurrent low back pain; 144 were randomised to normal care, 147 to massage, 144 to six Alexander technique lessons, and 144 to 24 Alexander technique lessons; half of each of these groups were randomised to exercise prescription. 
+INTERVENTIONS: Normal care (control), six sessions of massage, six or 24 lessons on the Alexander technique, and prescription for exercise from a doctor with nurse delivered behavioural counselling. 
+MAIN OUTCOME MEASURES: Roland Morris disability score (number of activities impaired by pain) and number of days in pain. 
+RESULTS: Exercise and lessons in the Alexander technique, but not massage, remained effective at one year (compared with control Roland disability score 8.1: massage -0.58, 95% confidence interval -1.94 to 0.77, six lessons -1.40, -2.77 to -0.03, 24 lessons -3.4, -4.76 to -2.03, and exercise -1.29, -2.25 to -0.34). 
+Exercise after six lessons achieved 72% of the effect of 24 lessons alone (Roland disability score -2.98 and -4.14, respectively). 
+Number of days with back pain in the past four weeks was lower after lessons (compared with control median 21 days: 24 lessons -18, six lessons -10, massage -7) and quality of life improved significantly. 
+No significant harms were reported. 
+CONCLUSIONS: One to one lessons in the Alexander technique from registered teachers have long term benefits for patients with chronic back pain. 
+Six lessons followed by exercise prescription were nearly as effective as 24 lessons. 
+Trial registration: National Research Register N0028108728.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effectiveness of lessons in the Alexander technique, massage therapy, and advice from a doctor to take exercise (exercise prescription) along with nurse delivered behavioural counselling for patients with chronic or recurrent back pain.</s>
+    <s id="2" section="design">Factorial randomised trial.</s>
+    <s id="6" section="main outcome measures">Roland Morris disability score (number of activities impaired by pain) and number of days in pain.</s>
+    <s id="10" section="results">No significant harms were reported.</s>
+    <s id="13" section="conclusions">Trial registration: National Research Register N0028108728.</s>
+  </ignored>
+</abstract>
+

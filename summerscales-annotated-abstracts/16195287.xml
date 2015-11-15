@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16195287">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">sublingual  misoprostol</group>
+      on
+      <outcome id="0">
+        severe
+        <short>postpartum  haemorrhage</short>
+      </outcome>
+      in a primary health centre in Guinea-Bissau : randomised double blind clinical trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To evaluate whether
+      <group id="0">
+        routine  administration  of  sublingual
+        <short>misoprostol</short>
+        600  microg  after  delivery
+      </group>
+      reduces
+      <outcome id="0">postpartum  haemorrhage</outcome>
+      .
+    </s>
+    <s id="4" section="participants">
+      <ps>661</ps>
+      women undergoing vaginal delivery .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        <short>Misoprostol</short>
+        600  mug
+      </group>
+      or
+      <group id="1">placebo</group>
+      administered sublingually immediately after delivery .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Postpartum  haemorrhage</short>
+        ,  defined  as  a  loss  of  &gt;  or  =  500  ml
+      </outcome>
+      and decrease in
+      <outcome id="1">
+        <short>haemoglobin  concentration</short>
+        <time id="0">after  delivery</time>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0">
+        incidence  of
+        <short>postpartum  haemorrhage</short>
+      </outcome>
+      was not significantly different between the 2 groups , the relative risk being 0.89 ( 95 % confidence interval 0.76 to 1.04 ) in the
+      <group id="0">misoprostol  group</group>
+      compared with the
+      <group id="1">placebo  group</group>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="0">
+        Severe
+        <short>postpartum  haemorrhage</short>
+        of  &gt;  or  =  1000  ml  or  &gt;  or  =  1500  ml
+      </outcome>
+      occurred in 17 % ( 56 ) and 8 % ( 25 ) in the
+      <group id="1">placebo  group</group>
+      and 11 % ( 37 ) and 2 % ( 7 ) in the
+      <group id="0">misoprostol  group</group>
+      .
+    </s>
+    <s id="10" section="results">
+      Significantly fewer women in the
+      <group id="0">misoprostol  group</group>
+      experienced a
+      <outcome id="0">
+        <short>loss</short>
+        of  &gt;  or  =  1000  ml  (  0.66  ,  0.45  to  0.98  )  or  &gt;  or  =  1500  ml  (  0.28  ,  0.12  to  0.64  )
+      </outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      The decrease in
+      <outcome id="1">haemoglobin  concentration</outcome>
+      tended to be less in the
+      <group id="0">misoprostol  group</group>
+      , the mean difference between the 2 groups being 0.16 mmol / l ( - 0.01 mmol / l to 0.32 mmol / l ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of sublingual misoprostol on severe postpartum haemorrhage in a primary health centre in Guinea-Bissau : randomised double blind clinical trial . To evaluate whether routine administration of sublingual misoprostol 600 microg after delivery reduces postpartum haemorrhage . Randomised double blind placebo controlled trial . Primary health centre in Bissau , Guinea-Bissau , West Africa . 661 women undergoing vaginal delivery . Misoprostol 600 mug or placebo administered sublingually immediately after delivery . Postpartum haemorrhage , defined as a loss of &gt; or = 500 ml and decrease in haemoglobin concentration after delivery . The incidence of postpartum haemorrhage was not significantly different between the 2 groups , the relative risk being 0.89 ( 95 % confidence interval 0.76 to 1.04 ) in the misoprostol group compared with the placebo group . Mean blood loss was 10.5 % ( - 0.5 % to 20.4 % ) lower in the misoprostol group than in the control group . Severe postpartum haemorrhage of &gt; or = 1000 ml or &gt; or = 1500 ml occurred in 17 % ( 56 ) and 8 % ( 25 ) in the placebo group and 11 % ( 37 ) and 2 % ( 7 ) in the misoprostol group . Significantly fewer women in the misoprostol group experienced a loss of &gt; or = 1000 ml ( 0.66 , 0.45 to 0.98 ) or &gt; or = 1500 ml ( 0.28 , 0.12 to 0.64 ) . The decrease in haemoglobin concentration tended to be less in the misoprostol group , the mean difference between the 2 groups being 0.16 mmol / l ( - 0.01 mmol / l to 0.32 mmol / l ) . Sublingual misoprostol reduces the frequency of severe postpartum haemorrhage .</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised double blind placebo controlled trial .</s>
+    <s id="3" section="setting">Primary health centre in Bissau , Guinea-Bissau , West Africa .</s>
+    <s id="8" section="results">
+      <outcome id="2">Mean  blood  loss</outcome>
+      was 10.5 % ( - 0.5 % to 20.4 % ) lower in the
+      <group id="0">misoprostol  group</group>
+      than in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="0">Sublingual  misoprostol</group>
+      reduces the frequency of
+      <outcome id="0">
+        severe
+        <short>postpartum  haemorrhage</short>
+      </outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

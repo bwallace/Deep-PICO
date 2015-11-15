@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16150765">
+  <title>
+    <s id="0" section="title">
+      Cost effectiveness of
+      <group id="0">treatment</group>
+      for alcohol problems : findings of the randomised UK alcohol treatment trial ( UKATT ) .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 treatment sites around Birmingham , Cardiff , and Leeds .</s>
+    <s id="4" section="participants">
+      <ps>742</ps>
+      clients with alcohol problems ; 617 ( 83.2 % ) were interviewed at
+      <time id="0">12  months</time>
+      and full economic data were obtained on 608 ( 98.5 % of 617 ) .
+    </s>
+    <s id="6" section="results">
+      Both therapies saved about 5 times as much in
+      <outcome id="2:0">expenditure  on  health</outcome>
+      ,
+      <outcome id="2:2">social</outcome>
+      , and
+      <outcome id="2:3">criminal  justice  services</outcome>
+      as they cost .
+    </s>
+    <s id="7" section="results">
+      Neither
+      <outcome id="3">net  savings</outcome>
+      nor
+      <outcome id="4">cost  effectiveness</outcome>
+      differed significantly between the therapies , despite the
+      <outcome id="1">average  cost</outcome>
+      of
+      <group id="0">social  behaviour  and  network  therapy</group>
+      ( 221 pounds sterling ; 385 dollars ; 320 euros ) being significantly more than that of
+      <group id="1">motivational  enhancement  therapy</group>
+      ( 129 pounds sterling ) .
+    </s>
+    <s id="8" section="results">
+      If a
+      <outcome id="0">QALY</outcome>
+      were worth 30,000 pounds sterling , then the
+      <group id="1">motivational  therapy</group>
+      would have 58 % chance of being more cost effective than the
+      <group id="0">social  therapy</group>
+      , and the
+      <group id="0">social  therapy</group>
+      would have 42 % chance of being more cost effective than the
+      <group id="1">motivational  therapy</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Cost effectiveness of treatment for alcohol problems : findings of the randomised UK alcohol treatment trial ( UKATT ) . To compare the cost effectiveness of social behaviour and network therapy , a new treatment for alcohol problems &gt; , with that of the proved motivational enhancement therapy . Cost effectiveness analysis alongside a pragmatic randomised trial . 7 treatment sites around Birmingham , Cardiff , and Leeds . 742 clients with alcohol problems ; 617 ( 83.2 % ) were interviewed at 12 months and full economic data were obtained on 608 ( 98.5 % of 617 ) . Main economic measures Quality adjusted life years ( QALYs ) , costs of trial treatments , and consequences for public sector resources ( health care , other alcohol treatment , social services , and criminal justice services ) . Both therapies saved about 5 times as much in expenditure on health , social , and criminal justice services as they cost . Neither net savings nor cost effectiveness differed significantly between the therapies , despite the average cost of social behaviour and network therapy ( 221 pounds sterling ; 385 dollars ; 320 euros ) being significantly more than that of motivational enhancement therapy ( 129 pounds sterling ) . If a QALY were worth 30,000 pounds sterling , then the motivational therapy would have 58 % chance of being more cost effective than the social therapy , and the social therapy would have 42 % chance of being more cost effective than the motivational therapy . Participants reported highly significant reductions in drinking and associated problems and costs . The novel social behaviour and network therapy did not differ significantly in cost effectiveness from the proved motivational enhancement therapy .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the cost effectiveness of
+      <group id="0">
+        <short>social  behaviour  and  network  therapy</short>
+        ,  a  new  treatment  for  alcohol  problems
+      </group>
+      &gt; , with that of the
+      <group id="1">
+        proved
+        <short>motivational  enhancement  therapy</short>
+      </group>
+      .
+    </s>
+    <s id="2" section="design">Cost effectiveness analysis alongside a pragmatic randomised trial .</s>
+    <s id="5" section="participants">
+      Main economic measures
+      <outcome id="0">
+        <short>Quality  adjusted  life  years</short>
+        (  QALYs  )
+      </outcome>
+      ,
+      <outcome id="1">costs  of  trial  treatments</outcome>
+      , and
+      <outcome id="2">consequences  for  public  sector  resources</outcome>
+      (
+      <outcome id="2:0">health  care</outcome>
+      ,
+      <outcome id="2:1">other  alcohol  treatment</outcome>
+      ,
+      <outcome id="2:2">social  services</outcome>
+      , and
+      <outcome id="2:3">criminal  justice  services</outcome>
+      ) .
+    </s>
+    <s id="9" section="conclusion">
+      Participants reported highly significant reductions in
+      <outcome id="5">drinking</outcome>
+      and
+      <outcome id="2">associated  problems</outcome>
+      and
+      <outcome id="1">costs</outcome>
+      .
+    </s>
+    <s id="10" section="conclusion">
+      The
+      <group id="0">novel  social  behaviour  and  network  therapy</group>
+      did not differ significantly in
+      <outcome id="4">cost  effectiveness</outcome>
+      from the
+      <group id="1">
+        proved
+        <short>motivational  enhancement  therapy</short>
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

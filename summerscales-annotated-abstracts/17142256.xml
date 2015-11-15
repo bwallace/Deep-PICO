@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17142256">
+  <title>
+    <s id="0">Provision of taped conversations with neonatologists to mothers of babies in intensive care: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">200 mothers of babies in a neonatal intensive care unit.</s>
+    <s id="5" section="interventions">Mothers given (n=<gs group="0">102</gs>) or <group id="1">not given (n=<gs group="1">98</gs>) audiotapes of their conversations with a neonatologist</group>.</s>   
+    <s id="6" section="main outcome measures">Recall of information, attitudes to and use of the tape, satisfaction with conversations, postnatal depression, anxiety, general health, and stress about parenting, at 10 days and 4 and 12 months.</s>
+    <s id="7" section="results">91% (n=93) of mothers in the <group id="0" role="experiment">tape group</group> listened to the tape (once by <time id="0">day 10</time>, twice by <time id="1">four months</time>, and three times by <time id="2">12 months</time>; range 1-10).</s>
+    <s id="8" section="results">At <time id="0">10 days</time> and <time id="1">four months</time>, mothers in the <group id="0" role="experiment">tape group</group> <outcome id="0" type="good"><short>recalled</short> significantly more information about diagnosis, treatment, and outcome</outcome> than mothers in the <group id="1" role="control">control group</group>.</s>
+    <s id="9" section="results">At <time id="1">four months</time> mothers in the <group id="0" role="experiment">tape group</group> were 75% more likely to <outcome id="0" type="good"><short>recall</short> all of the information about treatment</outcome> than mothers in the control group (59% v 34%; risk ratio 1.75, 95% confidence interval 1.27 to 2.4).</s>
+    <s id="10" section="results"><on group="1" outcome="0">Six</on> mothers, all in the control group, <outcome id="1" type="bad"><short>could not recall</short> their conversations</outcome>.</s>    
+    <s id="11" section="results">No statistically significant differences were found between the groups in <outcome id="2" type="good">satisfaction with conversations</outcome> (<time id="0">10 days</time>), <outcome id="3" type="bad">postnatal depression</outcome> and <outcome id="4" type="bad">anxiety scores</outcome> (<time id="0">10 days</time>, four and <time id="2">12 months</time>), and <outcome id="5" type="bad"><short>stress</short> about parenting</outcome> (<time id="2">12 months</time>).</s>
+    <s id="12" section="conclusion">Providing the mothers of babies in neonatal intensive care units with audiotapes of conversations with a neonatologist enhanced their recall of information (up to 4 months).</s>
+    </annotated>
+  <fulltext>OBJECTIVE: To determine whether providing mothers of babies in neonatal intensive care units with audiotapes of their conversations with a neonatologist improves recall of information and psychological wellbeing. 
+DESIGN: Randomised, single blinded trial. 
+SETTING: Neonatal intensive care unit, North Queensland, Australia. 
+PARTICIPANTS: 200 mothers of babies in a neonatal intensive care unit. 
+INTERVENTIONS: Mothers given (n=102) or not given (n=98) audiotapes of their conversations with a neonatologist. 
+MAIN OUTCOME MEASURES: Recall of information, attitudes to and use of the tape, satisfaction with conversations, postnatal depression, anxiety, general health, and stress about parenting, at 10 days and four and 12 months. 
+RESULTS: 91% (n=93) of mothers in the tape group listened to the tape (once by day 10, twice by four months, and three times by 12 months; range 1-10). 
+At 10 days and four months, mothers in the tape group recalled significantly more information about diagnosis, treatment, and outcome than mothers in the control group. 
+At four months mothers in the tape group were 75% more likely to recall all of the information about treatment than mothers in the control group (59% v 34%; risk ratio 1.75, 95% confidence interval 1.27 to 2.4). 
+Six mothers, all in the control group, could not recall their conversations. 
+No statistically significant differences were found between the groups in satisfaction with conversations (10 days), postnatal depression and anxiety scores (10 days, four and 12 months), and stress about parenting (12 months). 
+CONCLUSION: Providing the mothers of babies in neonatal intensive care units with audiotapes of conversations with a neonatologist enhanced their recall of information (up to four months). 
+The taped conversations did not affect the mothers' wellbeing or satisfaction with the neonatologist. 
+TRIAL REGISTRATION: Australian Clinical Trials Registry 12606000478516.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether providing mothers of babies in neonatal intensive care units with audiotapes of their conversations with a neonatologist improves recall of information and psychological wellbeing.</s>
+    <s id="2" section="design">Randomised, single blinded trial.</s>
+    <s id="3" section="setting">Neonatal intensive care unit, North Queensland, Australia.</s>
+    <s id="13" section="conclusion">The taped conversations did not affect the mothers' wellbeing or satisfaction with the neonatologist.</s>
+    <s id="14" section="trial registration">Australian Clinical Trials Registry 12606000478516.</s>
+  </ignored>
+</abstract>
+

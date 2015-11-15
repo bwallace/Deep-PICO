@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18614482">
+  <title>
+    <s id="0">Routine care of peripheral intravenous catheters versus clinically indicated replacement: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">755 medical and surgical patients: <gs group="0">379</gs> allocated to <group id="0" role="experiment">catheter replacement</group> only when clinically indicated and <gs group="1">376</gs> allocated to <group id="1" role="control"><short>routine care of catheter</short> (control group)</group>.</s>
+    <s id="6" section="results"><outcome id="0" type="bad">Catheters were removed</outcome> because of phlebitis or infiltration from <on group="1" outcome="0">123</on> of <gs group="1">376</gs> (33%) patients in the  <group id="1" role="control">control group</group> compared with <on group="0" outcome="0">143</on> of <gs group="0">379</gs> (38%) patients in the <group id="0" role="experiment">intervention group</group>; the difference was not significant (relative risk 1.15, 95% confidence interval 0.95 to 1.40).</s>
+    <s id="7" section="results">When the analysis was based on failure per 1000 device days (number of failures divided by number of days catheterised, divided by 1000), no difference could be detected between the groups (relative risk 0.98, 0.78 to 1.24).</s>
+    <s id="9" section="results">The <outcome id="1" type="bad">rate of phlebitis</outcome> in both groups was low (4% in  <group id="0" role="experiment">intervention group</group>, 3% in  <group id="1" role="control">control group</group>).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare routine replacement of intravenous peripheral catheters with replacement only when clinically indicated. 
+DESIGN: Randomised controlled trial. 
+SETTING: Tertiary hospital in Australia. 
+PARTICIPANTS: 755 medical and surgical patients: 379 allocated to catheter replacement only when clinically indicated and 376 allocated to routine care of catheter (control group). 
+MAIN OUTCOME MEASURE: A composite measure of catheter failure resulting from phlebitis or infiltration. 
+RESULTS: Catheters were removed because of phlebitis or infiltration from 123 of 376 (33%) patients in the control group compared with 143 of 379 (38%) patients in the intervention group; the difference was not significant (relative risk 1.15, 95% confidence interval 0.95 to 1.40). 
+When the analysis was based on failure per 1000 device days (number of failures divided by number of days catheterised, divided by 1000), no difference could be detected between the groups (relative risk 0.98, 0.78 to 1.24). 
+Infusion related costs were higher in the control group (mean $A41.02; pound19.71; 
+euro24.80; 
+$38.55) than intervention group ($A36.40). 
+The rate of phlebitis in both groups was low (4% in intervention group, 3% in control group). 
+CONCLUSION: Replacing peripheral intravenous catheters when clinically indicated has no effect on the incidence of failure, based on a composite measure of phlebitis or infiltration. 
+Larger trials are needed to test this finding using phlebitis alone as a more clinically meaningful outcome. 
+REGISTRATION NUMBER: Australian New Zealand Clinical Trials Registry ACTRN12605000147684.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare routine replacement of intravenous peripheral catheters with replacement only when clinically indicated.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Tertiary hospital in Australia.</s>
+    <s id="5" section="main outcome measure">A composite measure of catheter failure resulting from phlebitis or infiltration.</s>
+    <s id="8" section="results">Infusion related costs were higher in the control group (mean $A41.02; pound19.71; euro24.80; $38.55) than intervention group ($A36.40).</s>
+    <s id="10" section="conclusion">Replacing peripheral intravenous catheters when clinically indicated has no effect on the incidence of failure, based on a composite measure of phlebitis or infiltration.</s>
+    <s id="11" section="conclusion">Larger trials are needed to test this finding using phlebitis alone as a more clinically meaningful outcome.</s>
+    <s id="12" section="registration number">Australian New Zealand Clinical Trials Registry ACTRN12605000147684.</s>
+  </ignored>
+</abstract>
+

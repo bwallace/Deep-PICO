@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19074218">
+  <title>
+    <s id="0">Exercise on prescription for women aged 40-74 recruited through primary care: two year randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To assess the effectiveness of a primary care based programme of exercise on prescription among relatively inactive women over a <time id="0">2 year periodM</time>.</s>
+    <s id="3" section="setting">17 primary care practices in Wellington , New Zealand PARTICIPANTS : 1089 women aged 40 - 74 not undertaking 30 minutes of moderate intensity physical activity on at least 5 days of the week.</s> 
+    <s id="4" section="intervention">Brief physical activity intervention led by nurse with 6 month follow - up visit and monthly telephone support over 9 months.</s>
+    <s id="4" section="main outcome measure">Physical activity assessed at <time id="1">baseline</time> and <time id="2" units="months">12</time> and <time id="0">24 months</time>.</s>
+    <s id="6" section="results">Mean age was 58.9 (SD 7) years.</s>
+    <s id="7" section="results"><outcome id="0" type="bad">Trial retention rates</outcome> were 93% and 89% at 12 and 24 months, respectively.</s>
+    <s id="8" section="results">At baseline, 10% of intervention participants and 11% of control participants were <outcome id="1" type="good">achieving 150 minutes of at least moderate intensity <short>physical activity</short> a week</outcome>.</s>
+    <s id="9" section="results">At <time id="2">12 months</time> rates increased to 43% and 30% and at <time id="0">24 months</time> to 39.3% and 32.8% (P&lt;0.001),</s>
+    <s id="15" section="conclusions">This <group id="0" role="experiment">programme of <short>exercise on prescription</short></group> increased <outcome id="1" type="good">physical activity</outcome> and <outcome id="5" type="good">quality of life over 2 years</outcome> , although <outcome id="6" type="bad">falls and injuries</outcome> also increased .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effectiveness of a primary care based programme of exercise on prescription among relatively inactive women over a two year period. 
+DESIGN: Randomised controlled trial. 
+SETTING: 17 primary care practices in Wellington, New Zealand PARTICIPANTS: 1089 women aged 40-74 not undertaking 30 minutes of moderate intensity physical activity on at least five days of the week INTERVENTION: Brief physical activity intervention led by nurse with six month follow-up visit and monthly telephone support over nine months. 
+MAIN OUTCOME MEASURE: Physical activity assessed at baseline and 12 and 24 months. 
+Secondary outcomes were quality of life (SF-36), weight, waist circumference, blood pressure, concentrations of fasting serum lipids, glycated haemoglobin (HbA(1c)), glucose, insulin, and physical fitness. 
+RESULTS: Mean age was 58.9 (SD 7) years. 
+Trial retention rates were 93% and 89% at 12 and 24 months, respectively. 
+At baseline, 10% of intervention participants and 11% of control participants were achieving 150 minutes of at least moderate intensity physical activity a week. 
+At 12 months rates increased to 43% and 30% and at 24 months to 39.3% and 32.8% (P&lt;0.001), 
+respectively. 
+SF-36 physical functioning (P=0.03) and mental health (P&lt;0.05) 
+scores improved more in intervention compared with control participants, but role physical scores were significantly lower (P&lt;0.01). 
+There were no significant differences in clinical outcomes. 
+More falls (P&lt;0.001) and injuries (P=0.03) were recorded in the intervention group. 
+CONCLUSIONS: This programme of exercise on prescription increased physical activity and quality of life over two years, although falls and injuries also increased. 
+This finding supports the use of exercise on prescription programmes as part of population strategies to reduce physical inactivity. 
+TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry (ANZCTR) ANZCTRN012605000490673.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="5" section="main outcome measure">Secondary outcomes were quality of life (SF-36), weight, waist circumference, blood pressure, concentrations of fasting serum lipids, glycated haemoglobin (HbA(1c)), glucose, insulin, and physical fitness.</s>
+    <s id="10" section="results">respectively.</s>
+    <s id="11" section="results">SF-36 physical functioning (P=0.03) and mental health (P&lt;0.05)</s>
+    <s id="12" section="results">scores improved more in intervention compared with control participants, but role physical scores were significantly lower (P&lt;0.01).</s>
+    <s id="13" section="results">There were no significant differences in clinical outcomes.</s>
+    <s id="14" section="results">More falls (P&lt;0.001) and injuries (P=0.03) were recorded in the intervention group.</s>
+    <s id="16" section="conclusions">This finding supports the use of exercise on prescription programmes as part of population strategies to reduce physical inactivity.</s>
+    <s id="17" section="trial registration">Australian New Zealand Clinical Trials Registry (ANZCTR) ANZCTRN012605000490673.</s>
+  </ignored>
+</abstract>
+

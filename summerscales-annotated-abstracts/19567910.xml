@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19567910">
+  <title>
+    <s id="0">Recurrence up to 3.5 years after antibiotic treatment of acute otitis media in very young Dutch children: survey of trial participants.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Prospective <time id="0">3 year</time> follow - up study within the framework of a primary care based , double blind , randomised , placebo controlled trial .</s>
+    <s id="3" section="setting">53 general practices in the Netherlands.</s>
+    <s id="4" section="participants">168 children aged 6 months to 2 years with acute otitis media.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment"><short>Amoxicillin</short> 40 mg / kg / day in 3 doses</group> compared with <group id="1" role="control">placebo</group>.</s>
+    <s id="7" section="results"><outcome id="0" type="bad">Acute otitis media recurred</outcome> in 63% (<on group="0" outcome="0">47</on>/<gs group="0">75</gs>) of children in the <group id="0" role="experiment"><short>amoxicillin</short> group</group> and in 43% (<on group="1" outcome="0">37</on>/<gs group="1">86</gs>) of the <group id="1" role="control">placebo group</group> (risk difference 20%, 95% confidence interval 5% to 35%); 30% (<on group="0" outcome="1">24</on>/<gs group="0">78</gs> <group id="0" role="experiment">amoxicillin</group>; <on group="1" outcome="1">27</on>/<gs group="1">89</gs> <group id="1" role="control">placebo</group>) of children in both groups were <outcome id="1" type="bad">referred to secondary care</outcome>, and 21% (<on group="0" outcome="2">16</on>/<gs group="0">78</gs>) of the <group id="0" role="experiment">amoxicillin group</group> compared with 30% (<on group="1" outcome="2">27</on>/<gs group="1">90</gs>) of the <group id="1" role="control">placebo group</group> <outcome id="2" type="bad">had ear, nose, and throat surgery</outcome> (risk difference -9%, -23% to 4%).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the long term effects of antibiotic treatment for acute otitis media in young children. 
+DESIGN: Prospective three year follow-up study within the framework of a primary care based, double blind, randomised, placebo controlled trial. 
+SETTING: 53 general practices in the Netherlands. 
+PARTICIPANTS: 168 children aged 6 months to 2 years with acute otitis media. 
+INTERVENTIONS: Amoxicillin 40 mg/kg/day in three doses compared with placebo. 
+MAIN OUTCOME MEASURES: Recurrence of acute otitis media; referral to secondary care; ear, nose, and throat surgery. 
+RESULTS: Acute otitis media recurred in 63% (47/75) of children in the amoxicillin group and in 43% (37/86) of the placebo group (risk difference 20%, 95% confidence interval 5% to 35%); 30% (24/78 amoxicillin; 27/89 placebo) of children in both groups were referred to secondary care, and 21% (16/78) of the amoxicillin group compared with 30% (27/90) of the placebo group had ear, nose, and throat surgery (risk difference -9%, -23% to 4%). 
+CONCLUSION: Recurrent acute otitis media occurred more often in the children originally treated with amoxicillin. 
+This is another argument for judicious use of antibiotics in children with acute otitis media. 
+Trial registration Netherlands Trial Register NTR1426.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the long term effects of antibiotic treatment for acute otitis media in young children.</s>
+    <s id="6" section="main outcome measures">Recurrence of acute otitis media; referral to secondary care; ear, nose, and throat surgery.</s>
+    <s id="8" section="conclusion">Recurrent acute otitis media occurred more often in the children originally treated with amoxicillin.</s>
+    <s id="9" section="conclusion">This is another argument for judicious use of antibiotics in children with acute otitis media.</s>
+    <s id="10" section="conclusion">Trial registration Netherlands Trial Register NTR1426.</s>
+  </ignored>
+</abstract>
+

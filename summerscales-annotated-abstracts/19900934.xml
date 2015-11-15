@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19900934">
+  <title>
+    <s id="0">ExStroke Pilot Trial of the effect of repeated instructions to improve physical activity after ischaemic stroke: a multinational randomised controlled clinical trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">314 patients with ischaemic stroke aged &gt;or=40 years who were able to walk-<gs group="0">157</gs> (mean age 69.7 years) randomised to the intervention, <gs group="1">157</gs> (mean age 69.4 years) in the control group.</s>
+    <s id="5" section="interventions">Patients randomised to the intervention were instructed in a detailed training programme before discharge and at 5 follow - up visits during 24 months .</s>
+    <s id="9" section="results">The estimated <outcome id="0" type="good">mean PASE scores</outcome> were <on group="0" outcome="0">69.1</on> in the <group id="0" role="experiment">intervention group</group> and  <on group="1" outcome="0">64.0</on> in the <group id="1" role="control">control group</group> (difference 5.0 (95% confidence interval -5.8 to 15.9), P=0.36.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To investigate if repeated verbal instructions about physical activity to patients with ischaemic stroke could increase long term physical activity. 
+DESIGN: Multicentre, multinational, randomised clinical trial with masked outcome assessment. 
+SETTING: Stroke units in Denmark, China, Poland, and Estonia. 
+PARTICIPANTS: 314 patients with ischaemic stroke aged &gt;or=40 years who were able to walk-157 (mean age 69.7 years) randomised to the intervention, 157 (mean age 69.4 years) in the control group. 
+INTERVENTIONS: Patients randomised to the intervention were instructed in a detailed training programme before discharge and at five follow-up visits during 24 months. 
+Control patients had follow-up visits with the same frequency but without instructions in physical activity. 
+MAIN OUTCOME MEASURES: Physical activity assessed with the Physical Activity Scale for the Elderly (PASE) at each visit. 
+Secondary outcomes were clinical events. 
+RESULTS: The estimated mean PASE scores were 69.1 in the intervention group and 64.0 in the control group (difference 5.0 (95% confidence interval -5.8 to 15.9), P=0.36. 
+The intervention had no significant effect on mortality, recurrent stroke, myocardial infarction, or falls and fractures. 
+CONCLUSION: Repeated encouragement and verbal instruction in being physically active did not lead to a significant increase in physical activity measured by the PASE score. 
+More intensive strategies seem to be needed to promote physical activity after ischaemic stroke. 
+TRIAL REGISTRATION: Clinical Trials NCT00132483.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To investigate if repeated verbal instructions about physical activity to patients with ischaemic stroke could increase long term physical activity.</s>
+    <s id="2" section="design">Multicentre, multinational, randomised clinical trial with masked outcome assessment.</s>
+    <s id="3" section="setting">Stroke units in Denmark, China, Poland, and Estonia.</s>
+    <s id="6" section="interventions">Control patients had follow-up visits with the same frequency but without instructions in physical activity.</s>
+    <s id="7" section="main outcome measures">Physical activity assessed with the Physical Activity Scale for the Elderly (PASE) at each visit.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were clinical events.</s>
+    <s id="10" section="results">The intervention had no significant effect on mortality, recurrent stroke, myocardial infarction, or falls and fractures.</s>
+    <s id="11" section="conclusion">Repeated encouragement and verbal instruction in being physically active did not lead to a significant increase in physical activity measured by the PASE score.</s>
+    <s id="12" section="conclusion">More intensive strategies seem to be needed to promote physical activity after ischaemic stroke.</s>
+    <s id="13" section="trial registration">Clinical Trials NCT00132483.</s>
+  </ignored>
+</abstract>
+

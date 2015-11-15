@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19237406">
+  <title>
+    <s id="0">ARTIST (osteoarthritis intervention standardized) study of standardised consultation versus usual care for patients with osteoarthritis of the knee in primary care in France: pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">198 primary care rheumatologists , each of whom had to include 2 consecutive patients who met the American College of Rheumatology criteria for osteoarthritis of the knee .</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">Standardised consultation</group> was provided during 3 goal oriented visits ( education on osteoarthritis and treatment management ; information on physical exercises ; information on weight loss ) or <group id="1" role="control">usual care</group>.</s>
+    <s id="6" section="main outcome measures">Change in body weight and in <outcome id="1">time spent on physical exercises</outcome> ( Baecke index ) at <time id="0">4 months</time>.</s>
+    <s id="7" section="results">336 patients were included (<gs group="0">154</gs> allocated to <group id="0" role="experiment">standardised consultation</group> and <gs group="1">182</gs> to <group id="1" role="control">usual care</group>).</s>
+    <s id="8" section="results"><lost>9</lost> patients were excluded because of lack of baseline data ( standardised consultation , n= 8 ; usual care , n= 1 ) .</s>
+    <s id="9" section="results">At <time id="0">4 months</time> , taking into account the clustering effect , the decrease in <outcome id="0" type="good">weight</outcome> was greater in the <group id="0" role="experiment">standardised consultation group</group> than in the <group id="1" role="control">usual care group</group> ( mean - 1.11 ( SD 2.49 ) kg v - 0.37 ( 2.39 ) kg ; P = 0.007 ) .</s>
+    <s id="11" section="results">The <group id="0" role="experiment">standardised consultation</group> and <group id="1" role="control">usual care groups</group> did not differ in secondary outcomes, except for <outcome id="2" type="bad">global assessment of disease activity</outcome> (0-10 numeric scale: mean -1.66 (2.26) v -0.90 (2.48); P=0.003) and <outcome id="3" type="bad">pain level</outcome> (0-10 numeric scale: mean -1.65 (2.32) v -1.18 (2.58); P=0.04).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the impact of standardised consultations on patients with osteoarthritis of the knee. 
+DESIGN: Open pragmatic cluster randomised controlled trial. 
+SETTING: Primary care in France. 
+PARTICIPANTS: 198 primary care rheumatologists, each of whom had to include two consecutive patients who met the American College of Rheumatology criteria for osteoarthritis of the knee. 
+INTERVENTIONS: Standardised consultation was provided during three goal oriented visits (education on osteoarthritis and treatment management; information on physical exercises; information on weight loss) or usual care. 
+MAIN OUTCOME MEASURES: Change in body weight and in time spent on physical exercises (Baecke index) at four months. 
+RESULTS: 336 patients were included (154 allocated to standardised consultation and 182 to usual care). 
+Nine patients were excluded because of lack of baseline data (standardised consultation, n=8; usual care, n=1). 
+At four months, taking into account the clustering effect, the decrease in weight was greater in the standardised consultation group than in the usual care group (mean -1.11 (SD 2.49) kg v -0.37 (2.39) kg; P=0.007). 
+The physical activity score was higher for the standardised consultation group than for the usual care group (mean 0.20 (0.65) v 0.04 (0.78); P=0.013). 
+The standardised consultation and usual care groups did not differ in secondary outcomes, except for global assessment of disease activity (0-10 numeric scale: mean -1.66 (2.26) v -0.90 (2.48); P=0.003) and pain level (0-10 numeric scale: mean -1.65 (2.32) v -1.18 (2.58); P=0.04). 
+CONCLUSIONS: A structured consultation programme for patients with osteoarthritis of the knee resulted in short term improvement in weight loss and time spent on physical activity. 
+TRIAL REGISTRATION: Clinical trials NCT00462319.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the impact of standardised consultations on patients with osteoarthritis of the knee.</s>
+    <s id="2" section="design">Open pragmatic cluster randomised controlled trial.</s>
+    <s id="3" section="setting">Primary care in France.</s>
+    <s id="10" section="results">The physical activity score was higher for the standardised consultation group than for the usual care group (mean 0.20 (0.65) v 0.04 (0.78); P=0.013).</s>
+    <s id="12" section="conclusions">A structured consultation programme for patients with osteoarthritis of the knee resulted in short term improvement in weight loss and time spent on physical activity.</s>
+    <s id="13" section="trial registration">Clinical trials NCT00462319.</s>
+  </ignored>
+</abstract>
+

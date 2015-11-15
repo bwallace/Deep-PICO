@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18244958">
+  <title>
+    <s id="0">Universal parenting programme to prevent early childhood behavioural problems: cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">40 primary care nursing centres (clusters) in Victoria, Australia.</s>
+    <s id="4" section="participants">733 English speaking mothers of 8 month old children sequentially recruited from well child appointments; 656 retained at 24 months.</s>
+    <s id="5" section="intervention">Structured 3 session programme at age 8-15 months , co - led by well child providers and a parenting expert .</s>
+    <s id="7" section="main outcome measures">Maternal report of child externalising behaviour (child behavior checklist 1(1/2)-5 year old), parenting (parent behavior checklist), and maternal mental health (depression anxiety stress scales) at <time id="0" units="months">18</time> and <time id="1">24 months</time>.</s>
+    <s id="8" section="results">At <time id="0">18 months</time> , <outcome id="0" type="good">child behaviour</outcome> and <outcome id="1" type="good">parenting scores</outcome> were similar in the 2 groups .</s>
+    <s id="9" section="results">At <time id="1">24 months</time>, <outcome id="0" type="good">externalising scores</outcome> in <group id="0" role="experiment">the intervention</group> and <group id="1" role="control">control groups</group> were similar (mean 11.9 (SD 7.2) v 12.9 (7.4)); however, on the <outcome id="1" type="good">parent behavior checklist subscale scores</outcome>, <group id="0" role="experiment">intervention group parents</group> were less likely to report <outcome id="5" type="bad">harsh/abusive parenting</outcome> (mean 38.9 (SD 7.7) v 40.5 (8.8); adjusted mean difference -1.83, 95% confidence interval -3.12 to -0.55) and <outcome id="6" type="bad"><short>unreasonable expectations</short> of child development</outcome> (40.9 (9.9) v 42.7 (9.6); -2.18, -3.74 to -0.62).</s>
+    <s id="10" section="results">Mean scores for nurturing parenting and <outcome id="2" type="good">maternal mental health</outcome> were similar in the 2 groups at both times .</s>
+    <s id="11" section="conclusions">A universal parenting programme resulted in modest improvement in parenting factors that predict behavioural problems in children but did not reduce externalising behavioural problems or affect maternal mental health at 2 years.</s>   
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether a parenting programme, offered universally in primary care, can prevent behavioural problems in children and improve parenting and maternal mental health. 
+DESIGN: Cluster randomised trial. 
+SETTING: 40 primary care nursing centres (clusters) in Victoria, Australia. 
+PARTICIPANTS: 733 English speaking mothers of 8 month old children sequentially recruited from well child appointments; 656 retained at 24 months. 
+INTERVENTION: Structured three session programme at age 8-15 months, co-led by well child providers and a parenting expert. 
+The programme covered normal development and behaviour, strategies to increase desired behaviour, and strategies to reduce unwanted behaviour. 
+MAIN OUTCOME MEASURES: Maternal report of child externalising behaviour (child behavior checklist 1(1/2)-5 year old), parenting (parent behavior checklist), and maternal mental health (depression anxiety stress scales) at 18 and 24 months. 
+RESULTS: At 18 months, child behaviour and parenting scores were similar in the two groups. 
+At 24 months, externalising scores in the intervention and control groups were similar (mean 11.9 (SD 7.2) v 12.9 (7.4)); however, on the parent behavior checklist subscale scores, intervention group parents were less likely to report harsh/abusive parenting (mean 38.9 (SD 7.7) v 40.5 (8.8); adjusted mean difference -1.83, 95% confidence interval -3.12 to -0.55) and unreasonable expectations of child development (40.9 (9.9) v 42.7 (9.6); -2.18, -3.74 to -0.62). 
+Mean scores for nurturing parenting and maternal mental health were similar in the two groups at both times. 
+CONCLUSIONS: A universal parenting programme resulted in modest improvement in parenting factors that predict behavioural problems in children but did not reduce externalising behavioural problems or affect maternal mental health at 2 years. 
+Trial registration ISRCTN 77531789.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether a parenting programme, offered universally in primary care, can prevent behavioural problems in children and improve parenting and maternal mental health.</s>
+    <s id="2" section="design">Cluster randomised trial.</s>
+    <s id="6" section="intervention">The programme covered normal development and behaviour, strategies to increase desired behaviour, and strategies to reduce unwanted behaviour.</s>
+    <s id="12" section="trial registration">Trial registration ISRCTN 77531789.</s>  
+  </ignored>
+</abstract>
+

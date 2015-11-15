@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18782843">
+  <title>
+    <s id="0">Misperceptions and misuse of Bear Brand coffee creamer as infant food: national cross sectional survey of consumers and paediatricians in Laos.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">84 randomised villages in south, central, and northern Laos.</s>
+    <s id="4" section="participants">26 Lao pediatricians and 1098 adults in households in a cluster sampling.</s>
+    <s id="5" section="results">Of the 26 pediatricians, 24 said that parents "often" or "sometimes" fed this product to infants as a substitute for breast milk.</s>
+    <s id="8" section="results">Of 1098 adults surveyed, 96% <outcome id="0" type="bad">believed that the can contains milk</outcome>; 46% <outcome id="1" type="bad">believed the Bear Brand logo indicates that the product is formulated for feeding to infants or to replace breast milk</outcome>; 80% <outcome id="2" type="bad">had not read the written warning on the can</outcome>; and over 18% reported <outcome id="3" type="bad">giving the product to their infant at a mean age of 4.7 months</outcome> (95% confidence interval 4.1 to 5.3).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the use of Bear Brand coffee creamer as a food for infants and the impact on consumers of the logo of a cartoon baby bear held by its mother in the breastfeeding position. 
+DESIGN: Interviews with paediatricians throughout the country and a national survey of potential consumers regarding their perceptions and use of the Bear Brand coffee creamer. 
+SETTING: 84 randomised villages in south, central, and northern Laos. 
+PARTICIPANTS: 26 Lao paediatricians and 1098 adults in households in a cluster sampling. 
+RESULTS: Of the 26 paediatricians, 24 said that parents "often" or "sometimes" fed this product to infants as a substitute for breast milk. 
+In the capital city, paediatricians said that mothers used the product when they returned to work. 
+In the countryside, they reported that poor families used it when the mother was ill or died. 
+Of 1098 adults surveyed, 96% believed that the can contains milk; 46% believed the Bear Brand logo indicates that the product is formulated for feeding to infants or to replace breast milk; 80% had not read the written warning on the can; and over 18% reported giving the product to their infant at a mean age of 4.7 months (95% confidence interval 4.1 to 5.3). 
+CONCLUSION: The Bear Brand coffee creamer is used as a breast milk substitute in Laos. 
+The cartoon logo influences people's perception of the product that belies the written warning "This product is not to be used as a breast milk substitute." 
+Use of this logo on coffee creamer is misleading to the local population and places the health of infants at risk.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate the use of Bear Brand coffee creamer as a food for infants and the impact on consumers of the logo of a cartoon baby bear held by its mother in the breastfeeding position.</s>
+    <s id="2" section="design">Interviews with paediatricians throughout the country and a national survey of potential consumers regarding their perceptions and use of the Bear Brand coffee creamer.</s>
+    <s id="6" section="results">In the capital city, paediatricians said that mothers used the product when they returned to work.</s>
+    <s id="7" section="results">In the countryside, they reported that poor families used it when the mother was ill or died.</s>
+    <s id="9" section="conclusion">The Bear Brand coffee creamer is used as a breast milk substitute in Laos.</s>
+    <s id="10" section="conclusion">The cartoon logo influences people's perception of the product that belies the written warning "This product is not to be used as a breast milk substitute."</s>
+    <s id="11" section="conclusion">Use of this logo on coffee creamer is misleading to the local population and places the health of infants at risk.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16877454">
+  <title>
+    <s id="0" section="title">
+      Effects of
+      <group id="0">psychosocial  stimulation</group>
+      and
+      <group id="1">
+        <short>dietary  supplementation</short>
+        in  early  childhood
+      </group>
+      on
+      <outcome id="7">
+        <short>psychosocial  functioning</short>
+        in  late  adolescence
+      </outcome>
+      : follow - up of randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">16 year follow - up study of a randomised controlled trial .</s>
+    <s id="4" section="participants">Of 129 stunted children identified at age 9-24 months , 103 adolescents aged 17-18 were followed up .</s>
+    <s id="5" section="intervention">
+      <group id="1">
+        <short>Supplementation</short>
+        with  1  kg  milk  based  formula  each  week
+      </group>
+      or
+      <group id="0">
+        <short>psychosocial  stimulation</short>
+        (  weekly  play  sessions  with  mother  and  child  )
+      </group>
+      , or
+      <group id="2">both</group>
+      , for 2 years .
+    </s>
+    <s id="9" section="results">
+      <group id="0">Participants  who  received  stimulation</group>
+      reported less
+      <outcome id="0">anxiety</outcome>
+      ( mean difference - 2.81 , 95 % confidence interval - 5.02 to - 0.61 ) , less
+      <outcome id="1">depression</outcome>
+      ( - 0.43 , - 0.78 to - 0.07 ) , and higher
+      <outcome id="2">self  esteem</outcome>
+      ( 1.55 , 0.08 to 3.02 ) and parents reported fewer
+      <outcome id="4">attention  problems</outcome>
+      ( - 3.34 , - 6.48 to - 0.19 ) .
+    </s>
+  </annotated>
+  <fulltext>Effects of psychosocial stimulation and dietary supplementation in early childhood on psychosocial functioning in late adolescence : follow - up of randomised controlled trial . To determine whether dietary supplementation or psychosocial stimulation given to growth retarded ( stunted ) children age 9-24 months has long term benefits for their psychosocial functioning in late adolescence . 16 year follow - up study of a randomised controlled trial . Poor neighbourhoods in Kingston , Jamaica . Of 129 stunted children identified at age 9-24 months , 103 adolescents aged 17-18 were followed up . Supplementation with 1 kg milk based formula each week or psychosocial stimulation ( weekly play sessions with mother and child ) , or both , for 2 years . Anxiety , depression , self esteem , and antisocial behaviour assessed by questionnaires administered by interviewers ; attention deficit , hyperactivity , and oppositional behaviour assessed by interviews with parents . Primary analysis indicated that participants who received stimulation had significantly different overall scores from those who did not ( F = 2.047 , P = 0.049 ) . Supplementation had no significant effect ( F = 1.505 , P = 0.17 ) . Participants who received stimulation reported less anxiety ( mean difference - 2.81 , 95 % confidence interval - 5.02 to - 0.61 ) , less depression ( - 0.43 , - 0.78 to - 0.07 ) , and higher self esteem ( 1.55 , 0.08 to 3.02 ) and parents reported fewer attention problems ( - 3.34 , - 6.48 to - 0.19 ) . These differences are equivalent to effect sizes of 0.40 - 0.49 standard deviations . Stimulation in early childhood has sustained benefits to stunted children 's emotional outcomes and attention .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether
+      <group id="1">dietary  supplementation</group>
+      or
+      <group id="0">psychosocial  stimulation</group>
+      given to growth retarded ( stunted ) children age 9-24 months has long term benefits for their
+      <outcome id="7">
+        <short>psychosocial  functioning</short>
+        in  late  adolescence
+      </outcome>
+      .
+    </s>
+    <s id="3" section="setting">Poor neighbourhoods in Kingston , Jamaica .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Anxiety</outcome>
+      ,
+      <outcome id="1">depression</outcome>
+      ,
+      <outcome id="2">self  esteem</outcome>
+      , and
+      <outcome id="3">
+        <short>antisocial  behaviour</short>
+        assessed  by  questionnaires  administered  by  interviewers
+      </outcome>
+      ;
+      <outcome id="4">attention  deficit</outcome>
+      ,
+      <outcome id="5">hyperactivity</outcome>
+      , and
+      <outcome id="6">
+        <short>oppositional  behaviour</short>
+        assessed  by  interviews  with  parents
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      Primary analysis indicated that
+      <group id="0">participants  who  received  stimulation</group>
+      had significantly different
+      <outcome id="9">overall  scores</outcome>
+      from those who did not ( F = 2.047 , P = 0.049 ) .
+    </s>
+    <s id="8" section="results">
+      <group id="1">Supplementation</group>
+      had no significant effect ( F = 1.505 , P = 0.17 ) .
+    </s>
+    <s id="10" section="results">These differences are equivalent to effect sizes of 0.40 - 0.49 standard deviations .</s>
+    <s id="11" section="conclusions">
+      <group id="0">
+        <short>Stimulation</short>
+        in  early  childhood
+      </group>
+      has sustained benefits to stunted children 's
+      <outcome id="8">emotional  outcomes</outcome>
+      and
+      <outcome id="4">attention</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

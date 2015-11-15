@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16150764">
+  <title>
+    <s id="0" section="title">
+      Effectiveness of
+      <group id="0">treatment</group>
+      for
+      <outcome id="2">alcohol  problems</outcome>
+      : findings of the randomised UK alcohol treatment trial ( UKATT ) .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 treatment sites around Birmingham , Cardiff , and Leeds .</s>
+    <s id="4" section="participants">
+      <ps>742</ps>
+      clients with alcohol problems ;
+      <ps>689</ps>
+      ( 93.0 % ) were interviewed at
+      <time id="0">3  months</time>
+      and
+      <ps>617</ps>
+      ( 83.2 % ) at
+      <time id="1">12  months</time>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Changes  in  alcohol  consumption</outcome>
+      ,
+      <outcome id="1">alcohol  dependence</outcome>
+      , and
+      <outcome id="2">alcohol  related  problems</outcome>
+      over 12 months .
+    </s>
+    <s id="7" section="results">
+      Both groups reported substantial reductions in
+      <outcome id="0">alcohol  consumption</outcome>
+      ,
+      <outcome id="1">dependence</outcome>
+      , and
+      <outcome id="2">problems</outcome>
+      , and better
+      <outcome id="3">mental  health  related  quality  of  life</outcome>
+      over 12 months .
+    </s>
+    <s id="8" section="results">
+      Between groups we found only 1 significant difference in outcome , probably due to chance : the
+      <group id="0">social  network  group</group>
+      showed significantly better
+      <outcome id="4">physical  health</outcome>
+      at
+      <time id="0">3  months</time>
+      .
+    </s>
+    <s id="9" section="results">
+      Non - significant differences at
+      <time id="1">12  months</time>
+      in the
+      <group id="1">motivational  group</group>
+      relative to the
+      <group id="0">social  network  group</group>
+      included : the
+      <outcome id="0">number  of  drinks  consumed  per  drinking  day</outcome>
+      had decreased by an extra 1.1 ( 95 % confidence interval - 1.0 to 3.2 ) ;
+      <outcome id="5">scores  on  the  Leeds  dependence  questionnaire</outcome>
+      had improved by an extra 0.6 ( - 0.7 to 2.0 ) ;
+      <outcome id="2">scores  on  the  alcohol  problems  questionnaire</outcome>
+      had improved by an extra 0.5 ( - 0.4 to 1.4 ) ; but the
+      <outcome id="6">number  of  days  abstinent  from  drinking</outcome>
+      had increased by 1.2 % less ( - 4.5 % to 6.9 % ) .
+    </s>
+  </annotated>
+  <fulltext>Effectiveness of treatment for alcohol problems : findings of the randomised UK alcohol treatment trial ( UKATT ) . To compare the effectiveness of social behaviour and network therapy , a new treatment for alcohol problems , with that of the proved motivational enhancement therapy . Pragmatic randomised trial . 7 treatment sites around Birmingham , Cardiff , and Leeds . 742 clients with alcohol problems ; 689 ( 93.0 % ) were interviewed at 3 months and 617 ( 83.2 % ) at 12 months . Social behaviour and network therapy and motivational enhancement therapy . Changes in alcohol consumption , alcohol dependence , and alcohol related problems over 12 months . Both groups reported substantial reductions in alcohol consumption , dependence , and problems , and better mental health related quality of life over 12 months . Between groups we found only 1 significant difference in outcome , probably due to chance : the social network group showed significantly better physical health at 3 months . Non - significant differences at 12 months in the motivational group relative to the social network group included : the number of drinks consumed per drinking day had decreased by an extra 1.1 ( 95 % confidence interval - 1.0 to 3.2 ) ; scores on the Leeds dependence questionnaire had improved by an extra 0.6 ( - 0.7 to 2.0 ) ; scores on the alcohol problems questionnaire had improved by an extra 0.5 ( - 0.4 to 1.4 ) ; but the number of days abstinent from drinking had increased by 1.2 % less ( - 4.5 % to 6.9 % ) . The novel social behaviour and network therapy for alcohol problems did not differ significantly in effectiveness from the proved motivational enhancement therapy .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the effectiveness of
+      <group id="0">
+        <short>social  behaviour  and  network  therapy</short>
+        ,  a  new  treatment  for  alcohol  problems  ,
+      </group>
+      with that of the
+      <group id="1">
+        proved
+        <short>motivational  enhancement  therapy</short>
+      </group>
+      .
+    </s>
+    <s id="2" section="design">Pragmatic randomised trial .</s>
+    <s id="5" section="interventions">
+      <group id="0">Social  behaviour  and  network  therapy</group>
+      and
+      <group id="1">motivational  enhancement  therapy</group>
+      .
+    </s>
+    <s id="10" section="conclusion">
+      The
+      <group id="0">novel  social  behaviour  and  network  therapy</group>
+      for alcohol problems did not differ significantly in effectiveness from the
+      <group id="1">
+        proved
+        <short>motivational  enhancement  therapy</short>
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

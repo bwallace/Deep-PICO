@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17556431">
+  <title>
+    <s id="0">Selective serotonin reuptake inhibitors (SSRIs) and routine specialist care with and without cognitive behaviour therapy in adolescents with major depression: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">6 outpatient clinics in Manchester and Cambridge.</s>
+    <s id="4" section="participants">208 adolescents, aged 11-17, with moderate to severe major or probable major depression who had not responded to a brief initial intervention.</s>
+    <s id="6" section="interventions"><gs group="0">103</gs> adolescents received an <group id="0" role="control">SSRI and routine care</group>; <gs group="1">105</gs> received an <group id="1" role="experiment">SSRI, routine care, and CBT</group>.</s>
+    <s id="7" section="interventions">The trial lasted 12 weeks, followed by a 16 week maintenance phase.</s>
+    <s id="8" section="main outcome measures">Change in <outcome id="0"><short>score on the Health</short> of the Nation outcome scales for children and adolescents</outcome>(primary outcome) from baseline  with <time id="0">12 weeks</time> as the primary and <time id="1">28 weeks</time> as the follow-up end point.</s>
+    <s id="10" section="results">At <time id="0">12 weeks</time> the treatment effect for the primary outcome was -0.64 (95% confidence interval -2.54 to 1.26, P=0.50).</s>
+    <s id="14" section="results">By <time id="1">28 weeks</time>, 57% were much or very much improved with 20% remaining unimproved.</s>
+    <s id="15" section="conclusions">For adolescents with moderate to severe major depression there is no evidence that the combination of CBT plus an SSRI in the presence of routine clinical care contributes to an improved outcome by 28 weeks compared with the provision of routine clinical care plus an SSRI alone.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether a combination of a selective serotonin reuptake inhibitor (SSRIs) and cognitive behaviour therapy (CBT) together with clinical care is more effective in the short term than an SSRI and clinical care alone in adolescents with moderate to severe major depression. 
+DESIGN: Pragmatic randomised controlled superiority trial. 
+SETTING: 6 outpatient clinics in Manchester and Cambridge. 
+PARTICIPANTS: 208 adolescents, aged 11-17, with moderate to severe major or probable major depression who had not responded to a brief initial intervention. 
+Adolescents with suicidality, depressive psychosis, or conduct disorder were included. 
+INTERVENTIONS: 103 adolescents received an SSRI and routine care; 105 received an SSRI, routine care, and CBT. 
+The trial lasted 12 weeks, followed by a 16 week maintenance phase. 
+MAIN OUTCOME MEASURES: Change in score on the Health of the Nation outcome scales for children and adolescents (primary outcome) from baseline with 12 weeks as the primary and 28 weeks as the follow-up end point. 
+Secondary measures were change in scores on the mood and feelings questionnaire, the revised children's depression rating scale, the children's global assessment scale, and the clinical global impression improvement scale. 
+RESULTS: At 12 weeks the treatment effect for the primary outcome was -0.64 (95% confidence interval -2.54 to 1.26, P=0.50). 
+In a longitudinal analysis, there was no difference in effectiveness of treatment for the primary (average treatment effect 0.001, -1.52 to 1.52, P=0.99) or secondary outcome measures. 
+On average there was a decrease in suicidal thoughts and self harm. 
+There was no evidence of a protective effect of cognitive behaviour therapy on suicidal thinking or action. 
+By 28 weeks, 57% were much or very much improved with 20% remaining unimproved. 
+CONCLUSIONS: For adolescents with moderate to severe major depression there is no evidence that the combination of CBT plus an SSRI in the presence of routine clinical care contributes to an improved outcome by 28 weeks compared with the provision of routine clinical care plus an SSRI alone. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCNT 83809224.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether a combination of a selective serotonin reuptake inhibitor (SSRIs) and cognitive behaviour therapy (CBT) together with clinical care is more effective in the short term than an SSRI and clinical care alone in adolescents with moderate to severe major depression.</s>
+    <s id="2" section="design">Pragmatic randomised controlled superiority trial.</s>
+    <s id="5" section="participants">Adolescents with suicidality, depressive psychosis, or conduct disorder were included.</s>
+    <s id="9" section="main outcome measures">Secondary measures were change in scores on the mood and feelings questionnaire, the revised children's depression rating scale, the children's global assessment scale, and the clinical global impression improvement scale.</s>
+    <s id="11" section="results">In a longitudinal analysis, there was no difference in effectiveness of treatment for the primary (average treatment effect 0.001, -1.52 to 1.52, P=0.99) or secondary outcome measures.</s>
+    <s id="12" section="results">On average there was a decrease in suicidal thoughts and self harm.</s>
+    <s id="13" section="results">There was no evidence of a protective effect of cognitive behaviour therapy on suicidal thinking or action.</s>
+    <s id="16" section="trial registration">Current Controlled Trials ISRCNT 83809224.</s>
+  </ignored>
+</abstract>
+

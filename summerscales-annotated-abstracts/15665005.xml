@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15665005">
+  <title>
+    <s id="0" section="title">
+      Does
+      <group id="0">
+        home  based
+        <short>medication  review</short>
+      </group>
+      keep older people out of hospital ?
+    </s>
+    <s id="1" section="title">The HOMER randomised controlled trial .</s>
+  </title>
+  <annotated>
+    <s id="5" section="participants">
+      <ps>872</ps>
+      patients aged over 80 recruited during an emergency admission ( any cause ) if returning to own home or warden controlled accommodation and taking 2 or more drugs daily on discharge .
+    </s>
+    <s id="6" section="intervention">
+      <group id="0">
+        2
+        <short>home  visits</short>
+        by  a  pharmacist
+      </group>
+      within 2 weeks and 8 weeks of discharge to educate patients and carers about their drugs , remove out of date drugs , inform general practitioners of drug reactions or interactions , and inform the local pharmacist if a compliance aid is needed .
+    </s>
+    <s id="8" section="main_outcome_measure">
+      <outcome id="0" type="bad">
+        Total  emergency
+        <short>readmissions</short>
+        to  hospital
+      </outcome>
+      at
+      <time id="0">6  months</time>
+      .
+    </s>
+    <s id="10" section="results">
+      By
+      <time id="0">6  months</time>
+      <on group="1" outcome="0">178</on>
+      <outcome id="0" type="bad">readmissions</outcome>
+      had occurred in the
+      <group id="1">control  group</group>
+      and
+      <on group="0" outcome="0">234</on>
+      in the
+      <group id="0">intervention  group</group>
+      ( rate ratio = 1.30 , 95 % confidence interval 1.07 to 1.58 ; P = 0.009 , Poisson model ) .
+    </s>
+    <s id="11" section="results">
+      <on group="0" outcome="1">49</on>
+      <outcome id="1" type="bad">deaths</outcome>
+      occurred in the
+      <group id="0">intervention  group</group>
+      compared with
+      <on group="1" outcome="1">63</on>
+      in the
+      <group id="1">control  group</group>
+      ( hazard ratio = 0.75 , 0.52 to 1.10 ; P = 0.14 ) .
+    </s>
+  </annotated>
+  <fulltext>Does home based medication review keep older people out of hospital ? The HOMER randomised controlled trial . To determine whether home based medication review by pharmacists affects hospital readmission rates among older people . Randomised controlled trial . Home based medication review after discharge from acute or community hospitals in Norfolk and Suffolk . 872 patients aged over 80 recruited during an emergency admission ( any cause ) if returning to own home or warden controlled accommodation and taking 2 or more drugs daily on discharge . 2 home visits by a pharmacist within 2 weeks and 8 weeks of discharge to educate patients and carers about their drugs , remove out of date drugs , inform general practitioners of drug reactions or interactions , and inform the local pharmacist if a compliance aid is needed . Control arm received usual care . Total emergency readmissions to hospital at 6 months . Secondary outcomes included death and quality of life measured with the EQ-5D . By 6 months 178 readmissions had occurred in the control group and 234 in the intervention group ( rate ratio = 1.30 , 95 % confidence interval 1.07 to 1.58 ; P = 0.009 , Poisson model ) . 49 deaths occurred in the intervention group compared with 63 in the control group ( hazard ratio = 0.75 , 0.52 to 1.10 ; P = 0.14 ) . EQ-5D scores decreased ( worsened ) by a mean of 0.14 in the control group and 0.13 in the intervention group ( difference = 0.01 , - 0.05 to 0.06 ; P = 0.84 , t test ) . The intervention was associated with a significantly higher rate of hospital admissions and did not significantly improve quality of life or reduce deaths . Further research is needed to explain this counterintuitive finding and to identify more effective methods of medication review .</fulltext>
+  <ignored>
+    <s id="2" section="objective">
+      To determine whether
+      <group id="0">
+        home  based
+        <short>medication  review</short>
+        by  pharmacists
+      </group>
+      affects
+      <outcome id="0" type="bad">
+        <short>hospital  readmission</short>
+        rates
+      </outcome>
+      among older people .
+    </s>
+    <s id="3" section="design">Randomised controlled trial .</s>
+    <s id="4" section="setting">
+      <group id="0">
+        Home  based
+        <short>medication  review</short>
+      </group>
+      after discharge from acute or community hospitals in Norfolk and Suffolk .
+    </s>
+    <s id="7" section="intervention">
+      <group id="1">Control  arm</group>
+      received
+      <group id="1">usual  care</group>
+      .
+    </s>
+    <s id="9" section="main_outcome_measure">
+      Secondary outcomes included
+      <outcome id="1" type="bad">death</outcome>
+      and
+      <outcome id="2">
+        <short>quality  of  life</short>
+        measured  with  the  EQ-5D
+      </outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      <outcome id="2">EQ-5D  scores</outcome>
+      decreased ( worsened ) by a mean of 0.14 in the
+      <group id="1">control  group</group>
+      and 0.13 in the
+      <group id="0">intervention  group</group>
+      ( difference = 0.01 , - 0.05 to 0.06 ; P = 0.84 , t test ) .
+    </s>
+    <s id="13" section="conclusions">
+      The
+      <group id="0">intervention</group>
+      was associated with a significantly higher
+      <outcome id="0" type="bad">
+        rate  of
+        <short>hospital  admissions</short>
+      </outcome>
+      and did not significantly improve
+      <outcome id="2">quality  of  life</outcome>
+      or reduce
+      <outcome id="1" type="bad">deaths</outcome>
+      .
+    </s>
+    <s id="14" section="conclusions">
+      Further research is needed to explain this counterintuitive finding and to identify more effective methods of
+      <group id="0">medication  review</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

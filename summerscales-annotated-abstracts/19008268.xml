@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19008268">
+  <title>
+    <s id="0">Efficacy of percutaneous versus intradermal BCG in the prevention of tuberculosis in South African infants: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To compare the incidence of tuberculosis over <time id="0">2 years</time> in infants vaccinated at birth with intradermal BCG or with percutaneous BCG .</s>
+    <s id="4" section="participants">11,680 newborn infants.</s>
+    <s id="5" section="interventions">Infants were randomised by week of birth to receive <group id="0" role="experiment">Tokyo 172 BCG vaccine through the <short>percutaneous</short> route</group> ( n = <gs group="0">5775</gs> ) or <group id="1" role="control"><short>intradermal</short> route</group> ( n = <gs group="1">5905</gs> ) within 24 hours of birth and followed up for <time id="0">2 years</time>.</s>
+    <s id="9" section="results">No significant differences were found between the routes in the <outcome id="0" type="bad">cumulative incidence of <short>tuberculosis</short></outcome> using a range of equivalence of "within 25%."</s>
+    <s id="10" section="results">Additionally, no significant differences were found between the routes in the <outcome id="0" type="bad">cumulative incidence of <short>adverse events</short></outcome> (risk ratio 0.98, 95% confidence interval 0.91 to 1.06), including deaths (1.19, 0.89 to 1.58).</s>
+    <s id="11" section="conclusion">Equivalence was found between intradermal BCG vaccine and percutaneous BCG in the incidence of tuberculosis in South African infants vaccinated at birth and followed up for 2 years .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the incidence of tuberculosis over two years in infants vaccinated at birth with intradermal BCG or with percutaneous BCG. 
+DESIGN: Randomised trial. 
+SETTING: South Africa. 
+PARTICIPANTS: 11,680 newborn infants. 
+INTERVENTIONS: Infants were randomised by week of birth to receive Tokyo 172 BCG vaccine through the percutaneous route (n=5775) or intradermal route (n=5905) within 24 hours of birth and followed up for two years. 
+MAIN OUTCOME MEASURES: The primary outcome measure was documented Mycobacterium tuberculosis infection or radiological and clinical evidence of tuberculosis disease. 
+Secondary outcome measures were rates of adverse events, all cause and tuberculosis specific admissions to hospital, and mortality. 
+RESULTS: The difference in the cumulative incidence of definite, probable, and possible tuberculosis between the intradermal group and the percutaneous group, as defined using study definitions based on microbiological, radiological, and clinical findings was -0.36% (95.5% confidence interval -1.27% to 0.54%). 
+No significant differences were found between the routes in the cumulative incidence of tuberculosis using a range of equivalence of "within 25%." 
+Additionally, no significant differences were found between the routes in the cumulative incidence of adverse events (risk ratio 0.98, 95% confidence interval 0.91 to 1.06), including deaths (1.19, 0.89 to 1.58). 
+CONCLUSION: Equivalence was found between intradermal BCG vaccine and percutaneous BCG in the incidence of tuberculosis in South African infants vaccinated at birth and followed up for two years. 
+The World Health Organization should consider revising its policy of preferential intradermal vaccination to allow national immunisation programmes to choose percutaneous vaccination if that is more practical. 
+Trial registration ClinicalTrials.gov 
+NCT00242047.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised trial.</s>
+    <s id="3" section="setting">South Africa.</s>
+    <s id="6" section="main outcome measures">The primary outcome measure was documented Mycobacterium tuberculosis infection or radiological and clinical evidence of tuberculosis disease.</s>
+    <s id="7" section="main outcome measures">Secondary outcome measures were rates of adverse events, all cause and tuberculosis specific admissions to hospital, and mortality.</s>
+    <s id="8" section="results">The difference in the cumulative incidence of definite, probable, and possible tuberculosis between the intradermal group and the percutaneous group, as defined using study definitions based on microbiological, radiological, and clinical findings was -0.36% (95.5% confidence interval -1.27% to 0.54%).</s>
+    <s id="12" section="conclusion">The World Health Organization should consider revising its policy of preferential intradermal vaccination to allow national immunisation programmes to choose percutaneous vaccination if that is more practical.</s>
+    <s id="13" section="conclusion">Trial registration ClinicalTrials.gov</s>
+    <s id="14" section="conclusion">NCT00242047.</s>
+  </ignored>
+</abstract>
+

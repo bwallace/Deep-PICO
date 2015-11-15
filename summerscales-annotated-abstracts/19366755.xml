@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19366755">
+  <title>
+    <s id="0">Comparison of fluoroscopically guided and blind corticosteroid injections for greater trochanteric pain syndrome: multicentre randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 academic and military treatment facilities in the United States and Germany .</s>
+    <s id="4" section="participants">65 patients with a clinical diagnosis of greater trochanteric pain syndrome.</s>
+    <s id="5" section="interventions">Injections of corticosteroid and local anaesthetic into the trochanteric bursa, using <group id="0" role="experiment">fluoroscopy</group> (n=<gs group="0">32</gs>) or <group id="1" role="control">landmarks</group> (that is, <group id="1" role="control">"blind" injections</group>; n=<gs group="1">33</gs>) for guidance.</s>
+    <s id="6" section="main outcome measures">Primary outcome measures : <outcome id="0" type="good">0 - 10 numerical rating scale <short>pain scores</short></outcome> at rest and with activity at 1 month ( positive categorical outcome predefined as &gt; or = 50 % pain reduction either at rest or with activity , coupled with positive global perceived effect ) .</s>
+    <s id="9" section="results"><time id="0">1 month after injection</time> the average pain scores were 2.7 at rest and 5.0 with activity in <group id="0" role="experiment">the fluoroscopy group</group> compared with 2.2 and 4.0 in <group id="1" role="control">the blind injection group</group> .</s>
+    <s id="10" section="results"><time id="1">3 months after the injection</time> , <on group="1" outcome="1">15</on> ( 47 % ) patients in the <group id="1" role="control">blind group</group> and <on group="0" outcome="1">13</on> ( 41 % ) in the <group id="0" role="experiment">fluoroscopy group</group> continued to have <outcome id="1" type="good">a <short>positive</short> outcome</outcome> .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether fluoroscopic guidance improves outcomes of injections for greater trochanteric pain syndrome. 
+DESIGN: Multicentre double blind randomised controlled study. 
+SETTING: Three academic and military treatment facilities in the United States and Germany. 
+PARTICIPANTS: 65 patients with a clinical diagnosis of greater trochanteric pain syndrome. 
+INTERVENTIONS: Injections of corticosteroid and local anaesthetic into the trochanteric bursa, using fluoroscopy (n=32) or landmarks (that is, "blind" injections; n=33) for guidance. 
+MAIN OUTCOME MEASURES: Primary outcome measures: 0-10 numerical rating scale pain scores at rest and with activity at one month (positive categorical outcome predefined as &gt;or=50% pain reduction either at rest or with activity, coupled with positive global perceived effect). 
+Secondary outcome measures included Oswestry disability scores, SF-36 scores, reduction in drug use, and patients' satisfaction. 
+RESULTS: No differences in outcomes occurred favouring either the fluoroscopy or blind treatment groups. 
+One month after injection the average pain scores were 2.7 at rest and 5.0 with activity in the fluoroscopy group compared with 2.2 and 4.0 in the blind injection group. 
+Three months after the injection, 15 (47%) patients in the blind group and 13 (41%) in the fluoroscopy group continued to have a positive outcome. 
+CONCLUSION: Although using fluoroscopic guidance dramatically increases treatment costs for greater trochanteric pain syndrome, it does not necessarily improve outcomes. 
+TRIAL REGISTRATION: Clinical trials NCT00480675.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether fluoroscopic guidance improves outcomes of injections for greater trochanteric pain syndrome.</s>
+    <s id="2" section="design">Multicentre double blind randomised controlled study.</s>
+    <s id="7" section="main outcome measures">Secondary outcome measures included Oswestry disability scores, SF-36 scores, reduction in drug use, and patients' satisfaction.</s>
+    <s id="8" section="results">No differences in outcomes occurred favouring either the fluoroscopy or blind treatment groups.</s>
+    <s id="11" section="conclusion">Although using fluoroscopic guidance dramatically increases treatment costs for greater trochanteric pain syndrome, it does not necessarily improve outcomes.</s>
+    <s id="12" section="trial registration">Clinical trials NCT00480675.</s>
+  </ignored>
+</abstract>
+

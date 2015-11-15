@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18332051">
+  <title>
+    <s id="0">Effectiveness of single dose rifampicin in preventing leprosy in close contacts of patients with newly diagnosed leprosy: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Leprosy control programme in 2 districts of northwest Bangladesh with a population of more than 4 million .</s>
+    <s id="4" section="participants">28,092 close contacts of 1037 patients with newly diagnosed leprosy.</s>
+    <s id="5" section="participants">21,711 contacts fulfilled the study requirements.</s>
+    <s id="6" section="interventions">A single dose of rifampicin or placebo given to close contacts in the second month of starting the index patient 's treatment , with follow - up for <time id="0">4 years</time> .</s>
+    <s id="8" section="results">18,869 of the 21,711 contacts ( 86.9 % ) were followed - up at <time id="0">4 years</time>.</s>
+    <s id="9" section="results"><on group="0" outcome="8">91</on> of <gs group="0">9452</gs> contacts in the <group id="0" role="control">placebo group</group> and <on group="1" outcome="8">59</on> of <gs group="1">9417</gs> in the <group id="1" role="experiment"><short>rifampicin</short> group</group> had developed <outcome id="8" type="bad">leprosy</outcome> .</s>
+	<s id="10" section="results">The overall reduction in incidence of <outcome id="8" type="bad">leprosy</outcome> using <group id="1" role="experiment">a single dose of <short>rifampicin</short></group> in the <time id="1">first 2 years</time> was 57 % ( 95 % confidence interval 33 % to 72 % ) .</s>
+    <s id="11" section="results">The groups did not differ between 2 and 4 years .</s>
+    <s id="12" section="results">The overall number needed to treat (NNT) to prevent a single case of leprosy among contacts was 297 (95% confidence interval 176 to 537).</s>
+    <s id="13" section="results">Differences were found between subgroups at <time id="1">2 years</time> , both in <outcome id="0" type="good">reduction of incidence</outcome> and in <outcome id="1" type="bad"> NNT</outcome>.</s>
+    <s id="14" section="conclusion"><group id="1" role="experiment">A single dose of <short>rifampicin</short></group> given to contacts of patients with newly diagnosed leprosy is effective at preventing the development of <outcome id="8" type="bad">clinical leprosy</outcome> at <time id="1">2 years</time> .</s>
+    <s id="15" section="conclusion">The effect was maintained , but no difference was seen between <group id="0" role="control">the placebo</group> and <group id="1" role="experiment">rifampicin groups</group> beyond <time id="1">2 years</time> .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effectiveness of chemoprophylaxis using a single dose of rifampicin to prevent leprosy in close contacts. 
+DESIGN: Single centre, double blind, cluster randomised, placebo controlled trial. 
+SETTING: Leprosy control programme in two districts of northwest Bangladesh with a population of more than four million. 
+PARTICIPANTS: 28,092 close contacts of 1037 patients with newly diagnosed leprosy. 
+21,711 contacts fulfilled the study requirements. 
+INTERVENTIONS: A single dose of rifampicin or placebo given to close contacts in the second month of starting the index patient's treatment, with follow-up for four years. 
+MAIN OUTCOME MEASURE: Development of clinical leprosy. 
+RESULTS: 18,869 of the 21,711 contacts (86.9%) were followed-up at four years. 
+Ninety one of 9452 contacts in the placebo group and 59 of 9417 in the rifampicin group had developed leprosy. 
+The overall reduction in incidence of leprosy using a single dose of rifampicin in the first two years was 57% (95% confidence interval 33% to 72%). 
+The groups did not differ between two and four years. 
+The overall number needed to treat (NNT) to prevent a single case of leprosy among contacts was 297 (95% confidence interval 176 to 537). 
+Differences were found between subgroups at two years, both in reduction of incidence and in NNT. 
+CONCLUSION: A single dose of rifampicin given to contacts of patients with newly diagnosed leprosy is effective at preventing the development of clinical leprosy at two years. 
+The effect was maintained, but no difference was seen between the placebo and rifampicin groups beyond two years. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN61223447 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effectiveness of chemoprophylaxis using a single dose of rifampicin to prevent leprosy in close contacts.</s>
+    <s id="2" section="design">Single centre, double blind, cluster randomised, placebo controlled trial.</s>
+    <s id="7" section="main outcome measure">Development of clinical leprosy.</s>
+    <s id="16" section="trial registration">Current Controlled Trials ISRCTN61223447 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

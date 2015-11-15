@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16115830">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Targets  and  self  monitoring</group>
+      in hypertension : randomised controlled trial and cost effectiveness analysis .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">8 general practices in south Birmingham .</s>
+    <s id="4" section="participants">
+      <ps>441</ps>
+      people receiving treatment in primary care for hypertension but not controlled below the target of &lt; 140 / 85 mm Hg .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Primary outcome :
+      <outcome id="0">
+        change  in
+        <short>systolic  blood  pressure</short>
+      </outcome>
+      at
+      <time id="0">6  months</time>
+      and
+      <time id="1">1  year</time>
+      in both
+      <group id="0">intervention</group>
+      and
+      <group id="1">control  groups</group>
+      .
+    </s>
+    <s id="9" section="results">
+      400 ( 91 % ) patients attended follow up at
+      <time id="1">1  year</time>
+      .
+    </s>
+    <s id="10" section="results">
+      <outcome id="0">Systolic  blood  pressure</outcome>
+      in the
+      <group id="0">intervention  group</group>
+      had significantly reduced after
+      <time id="0">6  months</time>
+      ( mean difference 4.3 mm Hg ( 95 % confidence interval 0.8 mm Hg to 7.9 mm Hg) ) but not after
+      <time id="1">1  year</time>
+      ( mean difference 2.7 mm Hg ( - 1.2 mm Hg to 6.6 mm Hg) ) .
+    </s>
+    <s id="13" section="results">
+      Overall ,
+      <group id="0">self  monitoring</group>
+      did not cost significantly more than
+      <group id="1">usual  care</group>
+      ( 251 pounds sterling ( 437 dollars ; 364 euros ) ( 95 % confidence interval 233 pounds sterling to 275 pounds sterling ) versus 240 pounds sterling ( 217 pounds sterling to 263 pounds sterling ) .
+    </s>
+    <s id="14" section="conclusions">
+      <group id="0">Practice  based  self  monitoring</group>
+      resulted in small but significant
+      <outcome id="0">improvements  of  blood  pressure</outcome>
+      at
+      <time id="0">6  months</time>
+      , which were not sustained after
+      <time id="1">a  year</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Targets and self monitoring in hypertension : randomised controlled trial and cost effectiveness analysis . To assess whether blood pressure control in primary care could be improved with the use of patient held targets and self monitoring in a practice setting , and to assess the impact of these on health behaviours , anxiety , prescribed antihypertensive drugs , patients ' preferences , and costs . Randomised controlled trial . 8 general practices in south Birmingham . 441 people receiving treatment in primary care for hypertension but not controlled below the target of &lt; 140 / 85 mm Hg . Patients in the intervention group received treatment targets along with facilities to measure their own blood pressure at their general practice ; they were also asked to visit their general practitioner or practice nurse if their blood pressure was repeatedly above the target level . Patients in the control group received usual care ( blood pressure monitoring by their practice ) . Primary outcome : change in systolic blood pressure at 6 months and 1 year in both intervention and control groups . Secondary outcomes : change in health behaviours , anxiety , prescribed antihypertensive drugs , patients ' preferences of method of blood pressure monitoring , and costs . 400 ( 91 % ) patients attended follow up at 1 year . Systolic blood pressure in the intervention group had significantly reduced after 6 months ( mean difference 4.3 mm Hg ( 95 % confidence interval 0.8 mm Hg to 7.9 mm Hg) ) but not after 1 year ( mean difference 2.7 mm Hg ( - 1.2 mm Hg to 6.6 mm Hg) ) . No overall difference was found in diastolic blood pressure , anxiety , health behaviours , or number of prescribed drugs . Patients who self monitored lost more weight than controls ( as evidenced by a drop in body mass index ) , rated self monitoring above monitoring by a doctor or nurse , and consulted less often . Overall , self monitoring did not cost significantly more than usual care ( 251 pounds sterling ( 437 dollars ; 364 euros ) ( 95 % confidence interval 233 pounds sterling to 275 pounds sterling ) versus 240 pounds sterling ( 217 pounds sterling to 263 pounds sterling ) . Practice based self monitoring resulted in small but significant improvements of blood pressure at 6 months , which were not sustained after a year . Self monitoring was well received by patients , anxiety did not increase , and there was no appreciable additional cost . Practice based self monitoring is feasible and results in blood pressure control that is similar to that in usual care .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To assess whether blood pressure control in primary care could be improved with the use of patient held targets and
+      <group id="0">self  monitoring  in  a  practice  setting</group>
+      , and to assess the impact of these on
+      <outcome id="1">health  behaviours</outcome>
+      ,
+      <outcome id="2">anxiety</outcome>
+      ,
+      <outcome id="3">prescribed  antihypertensive  drugs</outcome>
+      ,
+      <outcome id="4">patients  '  preferences</outcome>
+      , and
+      <outcome id="5">costs</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="5" section="interventions">
+      Patients in the
+      <group id="0">intervention  group</group>
+      received
+      <group id="0">
+        treatment  targets  along  with  facilities  to
+        <short>measure  their  own  blood  pressure</short>
+        at  their  general  practice
+      </group>
+      ; they were also asked to visit their general practitioner or practice nurse if their blood pressure was repeatedly above the target level .
+    </s>
+    <s id="6" section="interventions">
+      Patients in the
+      <group id="1">control  group</group>
+      received
+      <group id="1">
+        <short>usual  care</short>
+        (  blood  pressure  monitoring  by  their  practice  )
+      </group>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      Secondary outcomes :
+      <outcome id="1">
+        change  in
+        <short>health  behaviours</short>
+      </outcome>
+      ,
+      <outcome id="2">anxiety</outcome>
+      ,
+      <outcome id="3">prescribed  antihypertensive  drugs</outcome>
+      ,
+      <outcome id="4">patients  '  preferences  of  method  of  blood  pressure  monitoring</outcome>
+      , and
+      <outcome id="5">costs</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      No overall difference was found in
+      <outcome id="5">diastolic  blood  pressure</outcome>
+      ,
+      <outcome id="2">anxiety</outcome>
+      ,
+      <outcome id="1">health  behaviours</outcome>
+      , or
+      <outcome id="3">number  of  prescribed  drugs</outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      <group id="0">Patients  who  self  monitored</group>
+      <outcome id="6">lost  more  weight</outcome>
+      than
+      <group id="1">controls</group>
+      ( as evidenced by a
+      <outcome id="6">drop  in  body  mass  index</outcome>
+      ) ,
+      <outcome id="4">rated  self  monitoring  above  monitoring  by  a  doctor  or  nurse</outcome>
+      , and
+      <outcome id="7">consulted  less  often</outcome>
+      .
+    </s>
+    <s id="15" section="conclusions">
+      <group id="0">Self  monitoring</group>
+      was well received by patients ,
+      <outcome id="2">anxiety</outcome>
+      did not increase , and there was no
+      <outcome id="5">appreciable  additional  cost</outcome>
+      .
+    </s>
+    <s id="16" section="conclusions">
+      <group id="0">Practice  based  self  monitoring</group>
+      is feasible and results in
+      <outcome id="0">blood  pressure  control</outcome>
+      that is similar to that in
+      <group id="1">usual  care</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

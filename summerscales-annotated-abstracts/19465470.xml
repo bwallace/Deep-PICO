@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19465470">
+  <title>
+    <s id="0">Supplementary feeding with either ready-to-use fortified spread or corn-soy blend in wasted adults starting antiretroviral therapy in Malawi: randomised, investigator blinded, controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To investigate the effect of 2 different food supplements on body mass index ( BMI ) in wasted Malawian adults with HIV who were starting antiretroviral therapy .</s>
+    <s id="4" section="participants">491 adults with BMI &lt;18.5.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">Ready-to-use <short>fortified spread</short></group> (n=<gs group="0">245</gs>) or <group id="1" role="control">corn-soy blend</group> (n=<gs group="1">246</gs>).</s>
+    <s id="9" section="results">After 14 weeks, <group id="0" role="experiment">patients receiving <short>fortified spread</short></group> had a greater increase in <outcome id="0" type="good">BMI and fat-free body mass</outcome> than <group id="1" role="control">those receiving <short>corn-soy blend</short></group>: 2.2 (SD 1.9) v 1.7 (SD 1.6) (difference 0.5, 95% confidence interval 0.2 to 0.8), and 2.9 (SD 3.2) v 2.2 (SD 3.0) kg (difference 0.7 kg, 0.2 to 1.2 kg), respectively.</s>
+    <s id="10" section="results">The <outcome id="1" type="bad">mortality rate</outcome> was 27% for those receiving <group id="0" role="experiment">fortified spread</group> and 26% for those receiving <group id="1" role="control">corn-soy blend</group>.</s>
+    <s id="11" section="results">No significant differences in the <outcome id="2" type="bad">CD4 count</outcome>, <outcome id="3" type="bad">HIV viral load</outcome> , assessment of <outcome id="4" type="good">quality of life</outcome>, or <outcome id="5" type="bad">adherence to antiretroviral therapy</outcome> were noted between the 2 groups .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the effect of two different food supplements on body mass index (BMI) in wasted Malawian adults with HIV who were starting antiretroviral therapy. 
+DESIGN: Randomised, investigator blinded, controlled trial. 
+SETTING: Large, public clinic associated with a referral hospital in Blantyre, Malawi. 
+PARTICIPANTS: 491 adults with BMI &lt;18.5. 
+INTERVENTIONS: Ready-to-use fortified spread (n=245) or corn-soy blend (n=246). 
+MAIN OUTCOME MEASURES: Primary outcomes: changes in BMI and fat-free body mass after 3.5 months. 
+Secondary outcomes: survival, CD4 count, HIV viral load, quality of life, and adherence to antiretroviral therapy. 
+RESULTS: The mean BMI at enrolment was 16.5. 
+After 14 weeks, patients receiving fortified spread had a greater increase in BMI and fat-free body mass than those receiving corn-soy blend: 2.2 (SD 1.9) v 1.7 (SD 1.6) (difference 0.5, 95% confidence interval 0.2 to 0.8), and 2.9 (SD 3.2) v 2.2 (SD 3.0) kg (difference 0.7 kg, 0.2 to 1.2 kg), respectively. 
+The mortality rate was 27% for those receiving fortified spread and 26% for those receiving corn-soy blend. 
+No significant differences in the CD4 count, HIV viral load, assessment of quality of life, or adherence to antiretroviral therapy were noted between the two groups. 
+CONCLUSION: Supplementary feeding with fortified spread resulted in a greater increase in BMI and lean body mass than feeding with corn-soy blend. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN67515515.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised, investigator blinded, controlled trial.</s>
+    <s id="3" section="setting">Large, public clinic associated with a referral hospital in Blantyre, Malawi.</s>
+    <s id="6" section="main outcome measures">Primary outcomes: changes in BMI and fat-free body mass after 3.5 months.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes: survival, CD4 count, HIV viral load, quality of life, and adherence to antiretroviral therapy.</s>
+    <s id="8" section="results">The mean BMI at enrolment was 16.5.</s>
+    <s id="12" section="conclusion">Supplementary feeding with fortified spread resulted in a greater increase in BMI and lean body mass than feeding with corn-soy blend.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN67515515.</s>
+  </ignored>
+</abstract>
+

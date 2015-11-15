@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19826172">
+  <title>
+    <s id="0">Effect of a multimodal high intensity exercise intervention in cancer patients undergoing chemotherapy: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 university hospitals in Copenhagen , Denmark .</s>
+    <s id="4" section="participants">269 patients with cancer; 73 men, 196 women, mean age 47 years (range 20-65) representing 21 diagnoses.</s>
+    <s id="6" section="participants">235 patients completed follow-up.</s>
+    <s id="7" section="intervention">Supervised exercise comprising high intensity cardiovascular and resistance training , relaxation and body awareness training , massage , 9 hours weekly for <time id="0">6 weeks</time> in addition to conventional care , compared with <group id="1" role="control">conventional care</group> .</s>
+    <s id="8" section="main outcome measures"><outcome id="0" type="good">European Organization for Research and Treatment of Cancer Quality of Life Questionnaire ( <short>EORTC QLQ-C30</short> )</outcome> , <outcome id="1" type="good">Medical Outcomes Study Short Form ( <short>MOS SF-36</short> )</outcome> , <outcome id="2" type="good">Leisure Time Physical Activity Questionnaire</outcome> , <outcome id="3" type="good"><short>muscular strength</short> ( 1 repetition maximum )</outcome> , <outcome id="4" type="good">maximum oxygen consumption ( <short>Vo(2)max</short> )</outcome> .</s>
+    <s id="10" section="results">Adjusted for baseline score , disease , and demographic covariates , the <group id="0" role="experiment">intervention group</group> showed an estimated improvement at 6 weeks for the primary outcome , fatigue , of - 6.6 points ( 95 % confidence interval - 12.3 to - 0.9 , P = 0.02 ; effect size = 0.33 , 0.04 to 0.61 ) .</s>
+    <s id="11" section="results">Significant effects were seen on vitality (effect size 0.55, 95% CI 0.27 to 0.82), physical functioning (0.37, 0.09 to 0.65), role physical (0.37, 0.10 to 0.64), role emotional (0.32, 0.05 to 0.59), and mental health (0.28, 0.02 to 0.56) scores.</s>
+    <s id="12" section="results">Improvement was noted in physical capacity: estimated mean difference between groups for <outcome id="4" type="good">maximum oxygen consumption</outcome> was 0.16 l/min (95% CI 0.1 to 0.2, P&lt;0.0001) and for <outcome id="3" type="good"><short>muscular strength</short> (leg press)</outcome> was 29.7 kg (23.4 to 34.9, P&lt;0.0001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of a multimodal group exercise intervention, as an adjunct to conventional care, on fatigue, physical capacity, general wellbeing, physical activity, and quality of life in patients with cancer who were undergoing adjuvant chemotherapy or treatment for advanced disease. 
+DESIGN: Randomised controlled trial. 
+SETTING: Two university hospitals in Copenhagen, Denmark. 
+PARTICIPANTS: 269 patients with cancer; 73 men, 196 women, mean age 47 years (range 20-65) representing 21 diagnoses. 
+Main exclusion criteria were brain or bone metastases. 
+235 patients completed follow-up. 
+INTERVENTION: Supervised exercise comprising high intensity cardiovascular and resistance training, relaxation and body awareness training, massage, nine hours weekly for six weeks in addition to conventional care, compared with conventional care. 
+MAIN OUTCOME MEASURES: European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30), Medical Outcomes Study Short Form (MOS SF-36), Leisure Time Physical Activity Questionnaire, muscular strength (one repetition maximum), maximum oxygen consumption (Vo(2)max). 
+Statistical methods The general linear model was used for continuous outcome while analysis of associates between categorical outcomes was performed as analysis of marginal homogeneity in contingency tables. 
+RESULTS: Adjusted for baseline score, disease, and demographic covariates, the intervention group showed an estimated improvement at six weeks for the primary outcome, fatigue, of -6.6 points (95% confidence interval -12.3 to -0.9, P=0.02; effect size=0.33, 0.04 to 0.61). 
+Significant effects were seen on vitality (effect size 0.55, 95% CI 0.27 to 0.82), physical functioning (0.37, 0.09 to 0.65), role physical (0.37, 0.10 to 0.64), role emotional (0.32, 0.05 to 0.59), and mental health (0.28, 0.02 to 0.56) scores. 
+Improvement was noted in physical capacity: estimated mean difference between groups for maximum oxygen consumption was 0.16 l/min (95% CI 0.1 to 0.2, P&lt;0.0001) and for muscular strength (leg press) was 29.7 kg (23.4 to 34.9, P&lt;0.0001). 
+No significant effect was seen on global health status/quality of life. 
+CONCLUSION: A supervised multimodal exercise intervention including high and low intensity components was feasible and could safely be used in patients with various cancers who were receiving adjuvant chemotherapy or treatment for advanced disease. 
+The intervention reduced fatigue and improved vitality, aerobic capacity, muscular strength, and physical and functional activity, and emotional wellbeing, but not quality of life. 
+TRIAL REGISTRATION: Current Controlled trials ISRCTN05322922.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of a multimodal group exercise intervention, as an adjunct to conventional care, on fatigue, physical capacity, general wellbeing, physical activity, and quality of life in patients with cancer who were undergoing adjuvant chemotherapy or treatment for advanced disease.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="5" section="participants">Main exclusion criteria were brain or bone metastases.</s>
+    <s id="9" section="main outcome measures">Statistical methods The general linear model was used for continuous outcome while analysis of associates between categorical outcomes was performed as analysis of marginal homogeneity in contingency tables.</s>
+    <s id="13" section="results">No significant effect was seen on global health status/quality of life.</s>
+    <s id="14" section="conclusion">A supervised multimodal exercise intervention including high and low intensity components was feasible and could safely be used in patients with various cancers who were receiving adjuvant chemotherapy or treatment for advanced disease.</s>
+    <s id="15" section="conclusion">The intervention reduced fatigue and improved vitality, aerobic capacity, muscular strength, and physical and functional activity, and emotional wellbeing, but not quality of life.</s>
+    <s id="16" section="trial registration">Current Controlled trials ISRCTN05322922.</s>
+  </ignored>
+</abstract>
+

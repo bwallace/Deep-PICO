@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19147639">
+  <title>
+    <s id="0">Does single application of topical chloramphenicol to high risk sutured wounds reduce incidence of wound infection after minor surgery?</s>
+    <s id="1">Prospective randomised placebo controlled double blind trial.</s>
+  </title>
+  <annotated>
+    <s id="5" section="participants">972 minor surgery patients.</s>
+    <s id="6" section="interventions"><group id="0" role="experiment">A single topical dose of chloramphenicol</group> (n=<gs group="0">488</gs>) or <group id="1" role="control">paraffin ointment</group> (n=<gs group="1">484</gs>; placebo).</s>
+    <s id="8" section="results">The incidence of <outcome id="0" type="bad">infection</outcome> in the <group id="0" role="experiment"><short>chloramphenicol</short> group</group> (6.6%; 95% confidence interval 4.9 to 8.8) was significantly lower than that in the <group id="1" role="control">control group</group> (11.0%; 7.9 to 15.1) (P=0.010).</s>
+    <s id="9" section="results">The absolute reduction in <outcome id="0" type="bad">infection</outcome> rate was 4.4%, the relative reduction was 40%, and the relative risk of wound infection in the <group id="1" role="control">control group</group> was 1.7 (95% confidence interval 1.1 to 2.5) times higher than in the <group id="0" role="experiment">intervention group</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effectiveness of a single application of topical chloramphenicol ointment in preventing wound infection after minor dermatological surgery. 
+DESIGN: Prospective randomised placebo controlled double blind multicentre trial. 
+SETTING: Primary care in a regional centre in Queensland, Australia. 
+PARTICIPANTS: 972 minor surgery patients. 
+INTERVENTIONS: A single topical dose of chloramphenicol (n=488) or paraffin ointment (n=484; placebo). 
+MAIN OUTCOME MEASURE: Incidence of infection. 
+RESULTS: The incidence of infection in the chloramphenicol group (6.6%; 95% confidence interval 4.9 to 8.8) was significantly lower than that in the control group (11.0%; 7.9 to 15.1) (P=0.010). 
+The absolute reduction in infection rate was 4.4%, the relative reduction was 40%, and the relative risk of wound infection in the control group was 1.7 (95% confidence interval 1.1 to 2.5) times higher than in the intervention group. 
+The number needed to treat was 22.8. 
+CONCLUSION: Application of a single dose of topical chloramphenicol to high risk sutured wounds after minor surgery produces a moderate absolute reduction in infection rate that is statistically but not clinically significant. 
+Trial registration Current Controlled Trials ISRCTN73223053.</fulltext>
+  <ignored>
+    <s id="2" section="objective">To determine the effectiveness of a single application of topical chloramphenicol ointment in preventing wound infection after minor dermatological surgery.</s>
+    <s id="3" section="design">Prospective randomised placebo controlled double blind multicentre trial.</s>
+    <s id="4" section="setting">Primary care in a regional centre in Queensland, Australia.</s>
+    <s id="7" section="main outcome measure">Incidence of infection.</s>
+    <s id="10" section="results">The number needed to treat was 22.8.</s>
+    <s id="11" section="conclusion">Application of a single dose of topical chloramphenicol to high risk sutured wounds after minor surgery produces a moderate absolute reduction in infection rate that is statistically but not clinically significant.</s>
+    <s id="12" section="conclusion">Trial registration Current Controlled Trials ISRCTN73223053.</s>
+  </ignored>
+</abstract>
+

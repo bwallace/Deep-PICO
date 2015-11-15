@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18669565">
+  <title>
+    <s id="0">Open access publishing, article downloads, and citations: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">11 journals published by the American Physiological Society.</s>
+    <s id="4" section="participants">1619 research articles and reviews.</s>
+    <s id="6" section="main outcome measures">Citations to articles were gathered from the Institute for Scientific Information after 1 year.</s>
+    <s id="7" section="interventions">Random assignment on online publication of articles published in 11 scientific journals to open access (treatment) or subscription access (control).</s>
+    <s id="8" section="results"><group id="0" role="experiment">Articles assigned to open access</group> were associated with 89 % more <outcome id="0" type="good">full text downloads</outcome> ( 95 % confidence interval 76 % to 103 % ) , 42 % more <outcome id="1" type="good">PDF downloads</outcome> ( 32 % to 52 % ) , and 23 % more <outcome id="2" type="good">unique visitors</outcome> ( 16 % to 30 % ) , but 24 % fewer <outcome id="3" type="good">abstract downloads</outcome> ( -29 % to - 19 % ) than <group id="1" role="control">subscription access articles</group> in the <time id="0">first 6 months after publication</time>.</s>
+    <s id="10" section="results">50.9 percent of <group id="0" role="experiment">open access articles</group> ( <on group="0" outcome="4" time="1">146</on> of <gs group="0">247</gs> ) <outcome id="4" type="good">were cited</outcome> <time id="1">9 to 12 months after publication</time> compared with 63 % ( <on group="1" outcome="4" time="1">859</on> of <gs group="1">1372</gs> ) of <group id="1" role="control">subscription access articles</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To measure the effect of free access to the scientific literature on article downloads and citations. 
+DESIGN: Randomised controlled trial. 
+SETTING: 11 journals published by the American Physiological Society. 
+PARTICIPANTS: 1619 research articles and reviews. 
+MAIN OUTCOME MEASURES: Article readership (measured as downloads of full text, PDFs, and abstracts) and number of unique visitors (internet protocol addresses). 
+Citations to articles were gathered from the Institute for Scientific Information after one year. 
+INTERVENTIONS: Random assignment on online publication of articles published in 11 scientific journals to open access (treatment) or subscription access (control). 
+RESULTS: Articles assigned to open access were associated with 89% more full text downloads (95% confidence interval 76% to 103%), 42% more PDF downloads (32% to 52%), and 23% more unique visitors (16% to 30%), but 24% fewer abstract downloads (-29% to -19%) than subscription access articles in the first six months after publication. 
+Open access articles were no more likely to be cited than subscription access articles in the first year after publication. 
+Fifty nine per cent of open access articles (146 of 247) were cited nine to 12 months after publication compared with 63% (859 of 1372) of subscription access articles. 
+Logistic and negative binomial regression analysis of article citation counts confirmed no citation advantage for open access articles. 
+CONCLUSIONS: Open access publishing may reach more readers than subscription access publishing. 
+No evidence was found of a citation advantage for open access articles in the first year after publication. 
+The citation advantage from open access reported widely in the literature may be an artefact of other causes.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To measure the effect of free access to the scientific literature on article downloads and citations.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="5" section="main outcome measures">Article readership (measured as downloads of full text, PDFs, and abstracts) and number of unique visitors (internet protocol addresses).</s>
+    <s id="9" section="results">Open access articles were no more likely to be cited than subscription access articles in the first year after publication.</s>
+    <s id="11" section="results">Logistic and negative binomial regression analysis of article citation counts confirmed no citation advantage for open access articles.</s>
+    <s id="12" section="conclusions">Open access publishing may reach more readers than subscription access publishing.</s>
+    <s id="13" section="conclusions">No evidence was found of a citation advantage for open access articles in the first year after publication.</s>
+    <s id="14" section="conclusions">The citation advantage from open access reported widely in the literature may be an artefact of other causes.</s>
+  </ignored>
+</abstract>
+

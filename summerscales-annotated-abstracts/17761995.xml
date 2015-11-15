@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17761995">
+  <title>
+    <s id="0">Psychological impact of screening for type 2 diabetes: controlled trial and comparative study embedded in the ADDITION (Cambridge) randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To quantify the psychological impact of primary care based stepwise screening for type 2 diabetes.</s>
+    <s id="3" section="setting">15 practices (10 screening, 5 control) in the ADDITION (Cambridge) trial in the east of England.</s>
+    <s id="4" section="participants">7380 adults (aged 40-69) in the top fourth for risk of having undiagnosed type 2 diabetes (<gs group="0">6416</gs> invited for <group id="0" role="experiment">screening</group>, <gs group="1">964</gs> <group id="1" role="control">controls</group>).</s>
+    <s id="5" section="interventions">Invited for screening for type 2 diabetes or not invited (controls), incorporating a comparative study of subgroups of screening attenders.</s>
+    <s id="13" section="conclusions">Screening for type 2 diabetes has <outcome id="0" type="bad">limited psychological impact</outcome> on patients.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To quantify the psychological impact of primary care based stepwise screening for type 2 diabetes. 
+DESIGN: Controlled trial and comparative study embedded in a randomised controlled trial. 
+SETTING: 15 practices (10 screening, five control) in the ADDITION (Cambridge) trial in the east of England. 
+PARTICIPANTS: 7380 adults (aged 40-69) in the top fourth for risk of having undiagnosed type 2 diabetes (6416 invited for screening, 964 controls). 
+INTERVENTIONS: Invited for screening for type 2 diabetes or not invited (controls), incorporating a comparative study of subgroups of screening attenders. 
+Attenders completed questionnaires after a random blood glucose test and at 3-6 months and 12-15 months later. 
+Controls were sent questionnaires at corresponding time points. 
+Non-attenders were sent questionnaires at 3-6 months and 12-15 months. 
+MAIN OUTCOME MEASURES: State anxiety (Spielberger state anxiety inventory), anxiety and depression (hospital anxiety and depression scale), worry about diabetes, and self rated health. 
+RESULTS: No significant differences were found between the screening and control participants at any time-for example, difference in means (95% confidence intervals) for state anxiety after the initial blood glucose test was -0.53, -2.60 to 1.54, at 3-6 months was 1.51 (-0.17 to 3.20), and at 12-15 months was 0.57, -1.11 to 2.24. 
+After the initial test, compared with participants who screened negative, those who screened positive reported significantly poorer general health (difference in means -0.19, -0.25 to -0.13), higher state anxiety (0.93, -0.02 to 1.88), higher depression (0.32, 0.08 to 0.56), and higher worry about diabetes (0.25, 0.09 to 0.41), although effect sizes were small. 
+Small but significant trends were found for self rated health across the screening subgroups at 3-6 months (P=0.047) and for worry about diabetes across the screen negative groups at 3-6 months and 12-15 months (P=0.001). 
+CONCLUSIONS: Screening for type 2 diabetes has limited psychological impact on patients. 
+Implementing a national screening programme based on the stepwise screening procedure used in the ADDITION (Cambridge) trial is unlikely to have significant consequences for patients' psychological health. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN99175498 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="2" section="design">Controlled trial and comparative study embedded in a randomised controlled trial.</s>
+    <s id="6" section="interventions">Attenders completed questionnaires after a random blood glucose test and at 3-6 months and 12-15 months later.</s>
+    <s id="7" section="interventions">Controls were sent questionnaires at corresponding time points.</s>
+    <s id="8" section="interventions">Non-attenders were sent questionnaires at 3-6 months and 12-15 months.</s>
+    <s id="9" section="main outcome measures">State anxiety (Spielberger state anxiety inventory), anxiety and depression (hospital anxiety and depression scale), worry about diabetes, and self rated health.</s>
+    <s id="10" section="results">No significant differences were found between the screening and control participants at any time-for example, difference in means (95% confidence intervals) for state anxiety after the initial blood glucose test was -0.53, -2.60 to 1.54, at 3-6 months was 1.51 (-0.17 to 3.20), and at 12-15 months was 0.57, -1.11 to 2.24.</s>
+    <s id="11" section="results">After the initial test, compared with participants who screened negative, those who screened positive reported significantly poorer general health (difference in means -0.19, -0.25 to -0.13), higher state anxiety (0.93, -0.02 to 1.88), higher depression (0.32, 0.08 to 0.56), and higher worry about diabetes (0.25, 0.09 to 0.41), although effect sizes were small.</s>
+    <s id="12" section="results">Small but significant trends were found for self rated health across the screening subgroups at 3-6 months (P=0.047) and for worry about diabetes across the screen negative groups at 3-6 months and 12-15 months (P=0.001).</s>
+    <s id="14" section="conclusions">Implementing a national screening programme based on the stepwise screening procedure used in the ADDITION (Cambridge) trial is unlikely to have significant consequences for patients' psychological health.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN99175498 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

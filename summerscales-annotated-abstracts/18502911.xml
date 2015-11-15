@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18502911">
+  <title>
+    <s id="0">Prolonged conservative care versus early surgery in patients with sciatica caused by lumbar disc herniation: two year results of a randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To evaluate the effects of early lumbar disc surgery compared with prolonged conservative care for patients with sciatica over <time id="0">2 years</time> of follow - up .</s>
+    <s id="3" section="setting">9 Dutch hospitals .</s>
+    <s id="4" section="participants">283 patients with 6-12 weeks of sciatica.</s>
+    <s id="5" section="interventions">Early surgery or an intended 6 months of continued conservative treatment , with delayed surgery if needed .</s>
+    <s id="7" section="results">Of the <gs group="0">141</gs> patients assigned to <group id="0" role="experiment">undergo <short>early surgery</short></group>, 125 (89%) underwent microdiscectomy.</s>
+    <s id="8" section="results">Of the <gs group="1">142</gs> patients assigned to <group id="1" role="control">conservative treatment</group> , 62 ( 44 % ) eventually <outcome id="3" type="bad">required surgery</outcome> , 7 doing so in the second year of follow - up .</s>
+    <s id="9" section="results">There was no significant overall difference between treatment arms in <outcome id="0" type="bad">disability scores</outcome> during the first 2 years ( P = 0.25 ) .</s>
+    <s id="10" section="results">Improvement in <outcome id="1" type="good">leg pain</outcome> was faster for patients randomised to <group id="0" role="experiment">early surgery</group>, with a significant difference between " areas under the curves " over <time id="0">2 years</time> ( P = 0.05 ) .</s>
+    <s id="11" section="results">This short term benefit of <group id="0" role="experiment">early surgery</group> was no longer significant by <time id="1">6 months</time> and continued to narrow between 6 months and 24 months .</s>
+    <s id="12" section="results"><outcome id="2" type="good">Patient satisfaction</outcome> decreased slightly between 1 and 2 years for both groups .</s>
+    <s id="13" section="results">At 2 years 20 % of all patients reported an unsatisfactory outcome .</s>
+    <s id="14" section="conclusions">Early surgery achieved more <outcome id="3" type="good">rapid relief of sciatica</outcome> than conservative care , but outcomes were similar by <time id="2">1 year</time> and these did not change during the second year .</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To evaluate the effects of early lumbar disc surgery compared with prolonged conservative care for patients with sciatica over two years of follow-up. 
+DESIGN: Randomised controlled trial. 
+SETTING: Nine Dutch hospitals. 
+PARTICIPANTS: 283 patients with 6-12 weeks of sciatica. 
+INTERVENTIONS: Early surgery or an intended six months of continued conservative treatment, with delayed surgery if needed. 
+MAIN OUTCOME MEASURES: Scores from Roland disability questionnaire for sciatica, visual analogue scale for leg pain, and Likert self rating scale of global perceived recovery. 
+RESULTS: Of the 141 patients assigned to undergo early surgery, 125 (89%) underwent microdiscectomy. 
+Of the 142 patients assigned to conservative treatment, 62 (44%) eventually required surgery, seven doing so in the second year of follow-up. 
+There was no significant overall difference between treatment arms in disability scores during the first two years (P=0.25). 
+Improvement in leg pain was faster for patients randomised to early surgery, with a significant difference between "areas under the curves" over two years (P=0.05). 
+This short term benefit of early surgery was no longer significant by six months and continued to narrow between six months and 24 months. 
+Patient satisfaction decreased slightly between one and two years for both groups. 
+At two years 20% of all patients reported an unsatisfactory outcome. 
+CONCLUSIONS: Early surgery achieved more rapid relief of sciatica than conservative care, but outcomes were similar by one year and these did not change during the second year. 
+TRIAL REGISTRY: ISRCT No 26872154.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="6" section="main outcome measures">Scores from Roland disability questionnaire for sciatica, visual analogue scale for leg pain, and Likert self rating scale of global perceived recovery.</s>
+    <s id="15" section="trial registry">ISRCT No 26872154.</s>   
+  </ignored>
+</abstract>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17452390">
+  <title>
+    <s id="0">Effectiveness of visits from community pharmacists for patients with heart failure: HeartMed randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">293 patients diagnosed with heart failure were included (<gs group="0">149</gs> <group id="0" role="experiment">intervention</group>, <gs group="1">144</gs> <group id="1" role="control">control</group>) after an emergency admission.</s>
+    <s id="5" section="intervention">Two home visits by 1 of 17 community pharmacists within 2 and 8 weeks of discharge.</s>
+    <s id="8" section="main outcome measures">The primary outcome was total hospital readmissions at <time id="0">6 months</time>.</s>
+    <s id="10" section="results">Primary outcome data were available for 291 participants (99%).</s>
+    <s id="11" section="results">136(91%) <group id="0" role="experiment">intervention patients</group> received 1 or 2 visits.</s>
+    <s id="12" section="results"><on group="0" outcome="0">134</on> <outcome id="0" type="bad">admissions</outcome> occurred in the <group id="0" role="experiment">intervention group</group> compared with <on group="1" outcome="0">112</on> in the <group id="1" role="control">control group</group> (rate ratio=1.15),95% confidence interval 0.89 to 1.48; P=0.28, Poisson model).</s>
+    <s id="13" section="results"><on group="0" outcome="1">30</on> <group id="0" role="experiment">intervention patients</group> <outcome id="1" type="bad">died</outcome> compared with <on group="1" outcome="1">24</on> <group id="1" role="control">controls</group> (hazard ratio=1.18,0.69 to 2.03; P=0.54)</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To test whether a drug review and symptom self management and lifestyle advice intervention by community pharmacists could reduce hospital admissions or mortality in heart failure patients. 
+DESIGN: Randomised controlled trial. 
+SETTING: Home based intervention in heart failure patients. 
+PARTICIPANTS: 293 patients diagnosed with heart failure were included (149 intervention, 144 control) after an emergency admission. 
+INTERVENTION: Two home visits by one of 17 community pharmacists within two and eight weeks of discharge. 
+Pharmacists reviewed drugs and gave symptom self management and lifestyle advice. 
+Controls received usual care. 
+MAIN OUTCOME MEASURES: The primary outcome was total hospital readmissions at six months. 
+Secondary outcomes included mortality and quality of life (Minnesota living with heart failure questionnaire and EQ-5D). 
+RESULTS: Primary outcome data were available for 291 participants (99%). 
+136 (91%) intervention patients received one or two visits. 
+134 admissions occurred in the intervention group compared with 112 in the control group (rate ratio=1.15, 
+95% confidence interval 0.89 to 1.48; P=0.28, Poisson model). 
+30 intervention patients died compared with 24 controls (hazard ratio=1.18, 
+0.69 to 2.03; P=0.54). 
+Although EQ-5D scores favoured the intervention group, Minnesota living with heart failure questionnaire scores favoured controls; neither difference was statistically significant. 
+CONCLUSION: This community pharmacist intervention did not lead to reductions in hospital admissions in contrast to those found in trials of specialist nurse led interventions in heart failure. 
+Given that heart failure accounts for 5% of hospital admissions, these results present a problem for policy makers who are faced with a shortage of specialist provision and have hoped that skilled community pharmacists could produce the same benefits. 
+TRIAL REGISTRATION NUMBER: ISRCTN59427925.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To test whether a drug review and symptom self management and lifestyle advice intervention by community pharmacists could reduce hospital admissions or mortality in heart failure patients.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Home based intervention in heart failure patients.</s>
+    <s id="6" section="intervention">Pharmacists reviewed drugs and gave symptom self management and lifestyle advice.</s>
+    <s id="7" section="intervention">Controls received usual care.</s>
+    <s id="9" section="main outcome measures">Secondary outcomes included mortality and quality of life (Minnesota living with heart failure questionnaire and EQ-5D).</s>
+ 
+    <s id="14" section="results">Although EQ-5D scores favoured the intervention group, Minnesota living with heart failure questionnaire scores favoured controls; neither difference was statistically significant.</s>
+    <s id="15" section="conclusion">This community pharmacist intervention did not lead to reductions in hospital admissions in contrast to those found in trials of specialist nurse led interventions in heart failure.</s>
+    <s id="16" section="conclusion">Given that heart failure accounts for 5% of hospital admissions, these results present a problem for policy makers who are faced with a shortage of specialist provision and have hoped that skilled community pharmacists could produce the same benefits.</s>
+    <s id="17" section="trial registration number">ISRCTN59427925.</s>
+  </ignored>
+</abstract>
+

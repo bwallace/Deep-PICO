@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18996930">
+  <title>
+    <s id="0">Impact of micronutrient supplementation during pregnancy on birth weight, duration of gestation, and perinatal mortality in rural western China: double blind cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 rural counties in north west China .</s>
+    <s id="4" section="participants">5828 pregnant women and 4697 live births.</s>
+    <s id="5" section="interventions">Villages were randomised for all pregnant women to take either <group id="0" role="control">daily folic acid</group> (control), <group id="1" role="experiment">iron with folic acid</group>, or <group id="2" role="experiment"><short>multiple micronutrients</short> with a recommended allowance of 15 vitamins and minerals</group>.</s>
+    <s id="6" section="main outcome measures">Birth weight, length, and head circumference measured within 72 hours after delivery.</s>
+    <s id="7" section="main outcome measures">Neonatal survival assessed at the <time id="0">6 week</time> follow - up visit .</s>
+    <s id="8" section="results"><outcome id="0" type="good">Birth weight</outcome> was 42 g (95% confidence interval 7 to 78 g) higher in the <group id="2" role="experiment"><short>multiple micronutrients</short> group</group> compared with the <group id="1" role="experiment"><short>folic acid</short> group</group>.</s>
+    <s id="10" section="results">Iron-folic acid was associated with a significantly reduced <outcome id="1" type="bad">risk of early preterm delivery</outcome> (&lt;34 weeks) (relative risk 0.50, 0.27 to 0.94, P=0.031).</s>
+    <s id="12" section="results">In post hoc analyses there were no significant differences for <outcome id="3" type="bad">perinatal mortality</outcome>, but <group id="1" role="experiment">iron-folic</group> acid was associated with a significantly reduced <outcome id="2" type="bad">early neonatal mortality</outcome> by 54% (relative risk 0.46, 0.21 to 0.98).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine the impact of antenatal supplementation with multiple micronutrients or iron and folic acid compared with folic acid alone on birth weight, duration of gestation, and maternal haemoglobin concentration in the third trimester. 
+DESIGN: Cluster randomised double blind controlled trial. 
+SETTING: Two rural counties in north west China. 
+PARTICIPANTS: 5828 pregnant women and 4697 live births. 
+INTERVENTIONS: Villages were randomised for all pregnant women to take either daily folic acid (control), iron with folic acid, or multiple micronutrients with a recommended allowance of 15 vitamins and minerals. 
+MAIN OUTCOME MEASURES: Birth weight, length, and head circumference measured within 72 hours after delivery. 
+Neonatal survival assessed at the six week follow-up visit. 
+RESULTS: Birth weight was 42 g (95% confidence interval 7 to 78 g) higher in the multiple micronutrients group compared with the folic acid group. 
+Duration of gestation was 0.23 weeks (0.10 to 0.36 weeks) longer in the iron-folic acid group and 0.19 weeks (0.06 to 0.32 weeks) longer in the multiple micronutrients group. 
+Iron-folic acid was associated with a significantly reduced risk of early preterm delivery (&lt;34 weeks) (relative risk 0.50, 0.27 to 0.94, P=0.031). 
+There was a significant increase in haemoglobin concentration in both iron-folic acid (5.0 g/l, 2.0 to 8.0 g/l, P=0.001) and multiple micronutrients (6.9 g/l, 4.1 to 9.6 g/l, P&lt;0.001) groups compared with folic acid alone. 
+In post hoc analyses there were no significant differences for perinatal mortality, but iron-folic acid was associated with a significantly reduced early neonatal mortality by 54% (relative risk 0.46, 0.21 to 0.98). 
+CONCLUSION: In rural populations in China antenatal supplementation with iron-folic acid was associated with longer gestation and a reduction in early neonatal mortality compared with folic acid. 
+Multiple micronutrients were associated with modestly increased birth weight compared with folic acid, but, despite this weight gain, there was no significant reduction in early neonatal mortality. 
+Pregnant women in developing countries need sufficient doses of iron in nutrient supplements to maximise reductions in neonatal mortality. 
+Trial registration ISRCTN08850194.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To examine the impact of antenatal supplementation with multiple micronutrients or iron and folic acid compared with folic acid alone on birth weight, duration of gestation, and maternal haemoglobin concentration in the third trimester.</s>
+    <s id="2" section="design">Cluster randomised double blind controlled trial.</s>
+    <s id="9" section="results">Duration of gestation was 0.23 weeks (0.10 to 0.36 weeks) longer in the iron-folic acid group and 0.19 weeks (0.06 to 0.32 weeks) longer in the multiple micronutrients group.</s>
+    <s id="11" section="results">There was a significant increase in haemoglobin concentration in both iron-folic acid (5.0 g/l, 2.0 to 8.0 g/l, P=0.001) and multiple micronutrients (6.9 g/l, 4.1 to 9.6 g/l, P&lt;0.001) groups compared with folic acid alone.</s>
+    <s id="13" section="conclusion">In rural populations in China antenatal supplementation with iron-folic acid was associated with longer gestation and a reduction in early neonatal mortality compared with folic acid.</s>
+    <s id="14" section="conclusion">Multiple micronutrients were associated with modestly increased birth weight compared with folic acid, but, despite this weight gain, there was no significant reduction in early neonatal mortality.</s>
+    <s id="15" section="conclusion">Pregnant women in developing countries need sufficient doses of iron in nutrient supplements to maximise reductions in neonatal mortality.</s>
+    <s id="16" section="conclusion">Trial registration ISRCTN08850194.</s>
+  </ignored>
+</abstract>
+

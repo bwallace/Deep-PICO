@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17040925">
+  <title>
+    <s id="0" section="title">
+      Effect of baseline serum albumin concentration on outcome of
+      <group id="0">
+        resuscitation  with
+        <short>albumin</short>
+      </group>
+      or
+      <group id="1">saline</group>
+      in patients in intensive care units : analysis of data from the saline versus albumin fluid evaluation ( SAFE ) study .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Intensive care units of 16 hospitals in Australia and New Zealand .</s>
+    <s id="4" section="participants">
+      <ps>6045</ps>
+      participants in the saline versus albumin fluid evaluation ( SAFE ) study .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Fluid  resuscitation  with  4  %
+        <short>albumin</short>
+      </group>
+      or
+      <group id="1">saline</group>
+      in patients with a baseline serum albumin concentration of 25 g /l or less or more than 25 g / l .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome was
+      <outcome id="0">
+        all  cause
+        <short>mortality</short>
+      </outcome>
+      at
+      <time id="0">28  days</time>
+      .
+    </s>
+    <s id="8" section="main_results">
+      The odds ratios for
+      <outcome id="0">death</outcome>
+      for
+      <group id="0">albumin</group>
+      compared with
+      <group id="1">saline</group>
+      for patients with a baseline serum albumin concentration of 25 g /l or less and more than 25 g /l were 0.87 and 1.09 , respectively ( ratio of odds ratios 0.80 , 95 % confidence interval 0.63 to 1.02 ) ; P = 0.08 for heterogeneity .
+    </s>
+    <s id="12" section="trial_registration">ISRCTN76588 266 .</s>
+  </annotated>
+  <fulltext>Effect of baseline serum albumin concentration on outcome of resuscitation with albumin or saline in patients in intensive care units : analysis of data from the saline versus albumin fluid evaluation ( SAFE ) study . To determine whether outcomes of resuscitation with albumin or saline in the intensive care unit depend on patients ' baseline serum albumin concentration . Analysis of data from a double blind , randomised controlled trial . Intensive care units of 16 hospitals in Australia and New Zealand . 6045 participants in the saline versus albumin fluid evaluation ( SAFE ) study . Fluid resuscitation with 4 % albumin or saline in patients with a baseline serum albumin concentration of 25 g /l or less or more than 25 g / l . Primary outcome was all cause mortality at 28 days . Secondary outcomes were length of stay in the intensive care unit , length of stay in hospital , duration of renal replacement therapy , and duration of mechanical ventilation . The odds ratios for death for albumin compared with saline for patients with a baseline serum albumin concentration of 25 g /l or less and more than 25 g /l were 0.87 and 1.09 , respectively ( ratio of odds ratios 0.80 , 95 % confidence interval 0.63 to 1.02 ) ; P = 0.08 for heterogeneity . No significant interaction was found between baseline serum albumin concentration as a continuous variable and the effect of albumin and saline on mortality . No consistent interaction was found between baseline serum albumin concentration and treatment effects on length of stay in the intensive care unit , length of hospital stay , duration of renal replacement therapy , or duration of mechanical ventilation . The outcomes of resuscitation with albumin and saline are similar irrespective of patients ' baseline serum albumin concentration . ISRCTN76588 266 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether outcomes of
+      <group id="0">
+        resuscitation  with
+        <short>albumin</short>
+      </group>
+      or
+      <group id="1">saline</group>
+      in the intensive care unit depend on patients ' baseline serum albumin concentration .
+    </s>
+    <s id="2" section="design">Analysis of data from a double blind , randomised controlled trial .</s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">length  of  stay  in  the  intensive  care  unit</outcome>
+      ,
+      <outcome id="2">length  of  stay  in  hospital</outcome>
+      ,
+      <outcome id="3">duration  of  renal  replacement  therapy</outcome>
+      , and
+      <outcome id="4">duration  of  mechanical  ventilation</outcome>
+      .
+    </s>
+    <s id="9" section="main_results">
+      No significant interaction was found between baseline serum albumin concentration as a continuous variable and the effect of
+      <group id="0">albumin</group>
+      and
+      <group id="1">saline</group>
+      on
+      <outcome id="0">mortality</outcome>
+      .
+    </s>
+    <s id="10" section="main_results">
+      No consistent interaction was found between baseline serum albumin concentration and treatment effects on
+      <outcome id="1">length  of  stay  in  the  intensive  care  unit</outcome>
+      ,
+      <outcome id="2">length  of  hospital  stay</outcome>
+      ,
+      <outcome id="3">duration  of  renal  replacement  therapy</outcome>
+      , or
+      <outcome id="4">duration  of  mechanical  ventilation</outcome>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      The outcomes of
+      <group id="0">
+        resuscitation  with
+        <short>albumin</short>
+      </group>
+      and
+      <group id="1">saline</group>
+      are similar irrespective of patients ' baseline serum albumin concentration .
+    </s>
+  </ignored>
+</abstract>
+

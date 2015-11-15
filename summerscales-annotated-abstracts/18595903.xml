@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18595903">
+  <title>
+    <s id="0">Neuromuscular training and the risk of leg injuries in female floorball players: cluster randomised controlled study.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">28 top level female floorball teams in Finland.</s>
+    <s id="4" section="participants">457 players ( mean age 24 years )-<gs group="0">256</gs> ( 14 teams ) in the <group id="0" role="experiment">intervention group</group> and <gs group="1">201</gs> ( 14 teams ) in the <group id="1" role="control"><short>control</short> group</group> - followed up for <time id="0">1 league season ( 6 months )</time> .</s>
+    <s id="7" section="results">During the season, 72 <outcome id="0" type="bad">acute <short>non-contact leg injuries</short></outcome> occurred, <on group="0" outcome="0">20</on> in the <group id="0" role="experiment">intervention group</group> and <on group="1" outcome="0">52</on> in the <group id="1" role="control">control group</group>.</s>
+    <s id="8" section="results">The injury incidence per 1000 hours playing and practise in the <group id="0" role="experiment">intervention group</group> was 0.65 (95% confidence interval 0.37 to 1.13) and in <group id="1" role="control">the control group</group> was 2.08 (1.58 to 2.72).</s>
+    <s id="9" section="results">The risk of non-contact leg injury was 66% lower (adjusted incidence rate ratio 0.34, 95% confidence interval 0.20 to 0.57) in the <group id="0" role="experiment">intervention group</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether a neuromuscular training programme is effective in preventing non-contact leg injuries in female floorball players. 
+DESIGN: Cluster randomised controlled study. 
+SETTING: 28 top level female floorball teams in Finland. 
+PARTICIPANTS: 457 players (mean age 24 years)-256 (14 teams) in the intervention group and 201 (14 teams) in the control group-followedup for one league season (six months). 
+INTERVENTION: A neuromuscular training programme to enhance players' motor skills and body control, as well as to activate and prepare their neuromuscular system for sports specific manoeuvres. 
+MAIN OUTCOME MEASURE: Acute non-contact injuries of the legs. 
+RESULTS: During the season, 72 acute non-contact leg injuries occurred, 20 in the intervention group and 52 in the control group. 
+The injury incidence per 1000 hours playing and practise in the intervention group was 0.65 (95% confidence interval 0.37 to 1.13) and in the control group was 2.08 (1.58 to 2.72). 
+The risk of non-contact leg injury was 66% lower (adjusted incidence rate ratio 0.34, 95% confidence interval 0.20 to 0.57) in the intervention group. 
+CONCLUSION: A neuromuscular training programme was effective in preventing acute non-contact injuries of the legs in female floorball players. 
+Neuromuscular training can be recommended in the weekly training of these athletes. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN26550281.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate whether a neuromuscular training programme is effective in preventing non-contact leg injuries in female floorball players.</s>
+    <s id="2" section="design">Cluster randomised controlled study.</s>
+    <s id="5" section="intervention">A neuromuscular training programme to enhance players' motor skills and body control, as well as to activate and prepare their neuromuscular system for sports specific manoeuvres.</s>
+    <s id="6" section="main outcome measure">Acute non-contact injuries of the legs.</s>
+    <s id="10" section="conclusion">A neuromuscular training programme was effective in preventing acute non-contact injuries of the legs in female floorball players.</s>
+    <s id="11" section="conclusion">Neuromuscular training can be recommended in the weekly training of these athletes.</s>
+    <s id="12" section="trial registration">Current Controlled Trials ISRCTN26550281.</s>
+  </ignored>
+</abstract>
+

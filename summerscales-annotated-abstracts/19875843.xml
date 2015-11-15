@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19875843">
+  <title>
+    <s id="0">Immobilisation versus immediate mobilisation after intrauterine insemination: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate the effectiveness of 15 minutes of immobilisation versus immediate mobilisation after intrauterine insemination.</s>
+    <s id="3" section="design">Setting 1 academic teaching hospital and 6 non - academic teaching hospitals .</s>
+    <s id="5" section="interventions">15 minutes of immobilisation or immediate mobilisation after insemination.</s>
+    <s id="7" section="results">391 couples were randomised; <gs group="0">199</gs> couples were allocated to <group id="0" role="experiment">15 minutes of <short>immobilisation</short> after intrauterine insemination</group>, and <gs group="1">192</gs> couples were allocated to <group id="1" role="control">immediate <short>mobilisation</short></group> (control).</s>
+    <s id="8" section="results">The <outcome id="0" type="good">ongoing pregnancy</outcome> rate per couple was significantly higher in the <group id="0" role="experiment"><short>immobilisation</short> group</group> than in the <group id="1" role="control">control group</group>: 27% (n=<on group="0" outcome="0">54</on>) versus 18% (<on group="1" outcome="0">34</on>); relative risk 1.5, 95% confidence interval 1.1 to 2.2 (crude difference in ongoing pregnancy rates: 9.4%, 1.2% to 17%).</s>
+    <s id="9" section="results"><outcome id="1" type="good">Live birth</outcome> rates were 27% (<on group="0" outcome="1">53</on>) in the <group id="0" role="experiment"><short>immobilisation</short> group</group> and 17% (<on group="1" outcome="1">32</on>) in the <group id="1" role="control">control group</group>: relative risk 1.6, 1.1 to 2.4 (crude difference for live birth rates: 10%, 1.8% to 18%).</s>
+    <s id="10" section="results">In the <group id="0" role="experiment"><short>immobilisation</short> group</group>, the <outcome id="0" type="good">ongoing pregnancy rates</outcome> in the first, second, and third treatment cycles were 10%, 10%, and 7%.</s>
+    <s id="11" section="results">The corresponding rates in the <group id="1" role="control">mobilisation group</group> were 7%, 5%, and 5%.</s>
+    <s id="12" section="conclusion">In treatment with intrauterine insemination, 15 minutes' immobilisation after insemination is an effective modification.</s>
+    <s id="13" section="conclusion">Immobilisation for 15 minutes should be offered to all women treated with intrauterine insemination.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of 15 minutes of immobilisation versus immediate mobilisation after intrauterine insemination. 
+DESIGN: Randomised controlled trial. 
+Setting One academic teaching hospital and six non-academic teaching hospitals. 
+PARTICIPANTS: Women having intrauterine insemination for unexplained, cervical factor, or male subfertility. 
+INTERVENTIONS: 15 minutes of immobilisation or immediate mobilisation after insemination. 
+MAIN OUTCOME MEASURE: Ongoing pregnancy per couple. 
+RESULTS: 391 couples were randomised; 199 couples were allocated to 15 minutes of immobilisation after intrauterine insemination, and 192 couples were allocated to immediate mobilisation (control). 
+The ongoing pregnancy rate per couple was significantly higher in the immobilisation group than in the control group: 27% (n=54) versus 18% (34); relative risk 1.5, 95% confidence interval 1.1 to 2.2 (crude difference in ongoing pregnancy rates: 9.4%, 1.2% to 17%). 
+Live birth rates were 27% (53) in the immobilisation group and 17% (32) in the control group: relative risk 1.6, 1.1 to 2.4 (crude difference for live birth rates: 10%, 1.8% to 18%). 
+In the immobilisation group, the ongoing pregnancy rates in the first, second, and third treatment cycles were 10%, 10%, and 7%. 
+The corresponding rates in the mobilisation group were 7%, 5%, and 5%. 
+CONCLUSION: In treatment with intrauterine insemination, 15 minutes' immobilisation after insemination is an effective modification. 
+Immobilisation for 15 minutes should be offered to all women treated with intrauterine insemination. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN53294431.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="4" section="participants">Women having intrauterine insemination for unexplained, cervical factor, or male subfertility.</s>
+    <s id="6" section="main outcome measure">Ongoing pregnancy per couple.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN53294431.</s>
+  </ignored>
+</abstract>
+

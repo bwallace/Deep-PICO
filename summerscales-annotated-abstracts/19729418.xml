@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19729418">
+  <title>
+    <s id="0">Outcomes and costs of primary care surveillance and intervention for overweight or obese children: the LEAP 2 randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">45 family practices (66 general practitioners) in Melbourne, Australia.</s>
+    <s id="5" section="participants">3958 children visiting their general practitioner in May 2005-July 2006 were surveyed for BMI.</s>
+    <s id="6" section="participants">Of these, 258 children aged 5 years 0 months up to their 10th birthday who were overweight or obese by International Obesity Taskforce criteria were randomised to <group id="0" role="experiment">intervention</group> (n=<gs group="0">139</gs>) or <group id="1" role="control">control</group> (n=<gs group="1">119</gs>) groups.</s>
+    <s id="9" section="intervention">4 standard consultations over 12 weeks targeting change in nutrition , physical activity , and sedentary behaviour , supported by purpose designed family materials .</s>
+    <s id="10" section="intervention">Main outcomes measures Primary measure was <outcome id="0" type="bad">BMI</outcome> at <time id="0">6</time> and <time id="1">12 months</time> after randomisation.</s>
+    <s id="11" section="intervention">Secondary measures were mean <outcome id="1" type="good">activity count/min</outcome> by 7-day accelerometry, <outcome id="2" type="good">nutrition score</outcome> from 4-day abbreviated food frequency diary, and <outcome id="3" type="good">child health related <short>quality of life</short></outcome>.</s>
+    <s id="13" section="results">Of 781 eligible children, 258 (33%) entered the trial; attrition was 3.1% at 6 months and 6.2% at 12 months.</s>
+    <s id="14" section="results">Adjusted mean differences (<group id="0" role="experiment">intervention</group> - control) at <time id="0">6</time> and <time id="1">12 months</time> were, for <outcome id="0" type="bad"> BMI</outcome>, -0.12 (95% CI -0.40 to 0.15, P=0.4) and -0.11 (-0.45 to 0.22, P=0.5); for <outcome id="1" type="good">physical activity in counts/min</outcome>, 24 (-4 to 52, P=0.09) and 11 (-26 to 49, P=0.6); and, for <outcome id="2" type="good">nutrition score</outcome>, 0.2 (-0.03 to 0.4, P=0.1) and 0.1 (-0.1 to 0.4, P=0.2).</s>
+    <s id="17" section="conclusions"><group id="0" role="experiment">Primary care screening</group> followed by brief counselling did not improve <outcome id="0" type="good">BMI</outcome>, <outcome id="1" type="good">physical activity</outcome>, or <outcome id="2" type="good">nutrition</outcome> in overweight or mildly obese 5-10 year olds, and it would be very costly if universally implemented.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether ascertainment of childhood obesity by surveillance followed by structured secondary prevention in primary care improved outcomes in overweight or mildly obese children. 
+DESIGN: Randomised controlled trial nested within a baseline cross sectional survey of body mass index (BMI). 
+Randomisation and outcomes measurement, but not participants, were blinded to group assignment. 
+SETTING: 45 family practices (66 general practitioners) in Melbourne, Australia. 
+PARTICIPANTS: 3958 children visiting their general practitioner in May 2005-July 2006 were surveyed for BMI. 
+Of these, 258 children aged 5 years 0 months up to their 10th birthday who were overweight or obese by International Obesity Taskforce criteria were randomised to intervention (n=139) or control (n=119) groups. 
+Children who were very obese (UK BMI z score &gt;or=3.0) 
+were excluded. 
+INTERVENTION: Four standard consultations over 12 weeks targeting change in nutrition, physical activity, and sedentary behaviour, supported by purpose designed family materials. 
+Main outcomes measures Primary measure was BMI at 6 and 12 months after randomisation. 
+Secondary measures were mean activity count/min by 7-day accelerometry, nutrition score from 4-day abbreviated food frequency diary, and child health related quality of life. 
+Differences were adjusted for socioeconomic status, age, sex, and baseline BMI. 
+RESULTS: Of 781 eligible children, 258 (33%) entered the trial; attrition was 3.1% at 6 months and 6.2% at 12 months. 
+Adjusted mean differences (intervention - control) at 6 and 12 months were, for BMI, -0.12 (95% CI -0.40 to 0.15, P=0.4) and -0.11 (-0.45 to 0.22, P=0.5); for physical activity in counts/min, 24 (-4 to 52, P=0.09) and 11 (-26 to 49, P=0.6); and, for nutrition score, 0.2 (-0.03 to 0.4, P=0.1) and 0.1 (-0.1 to 0.4, P=0.2). 
+There was no evidence of harm to the child. 
+Costs to the healthcare system were significantly higher in the intervention arm. 
+CONCLUSIONS: Primary care screening followed by brief counselling did not improve BMI, physical activity, or nutrition in overweight or mildly obese 5-10 year olds, and it would be very costly if universally implemented. 
+These findings are at odds with national policies in countries including the US, UK, and Australia. 
+TRIAL REGISTRATION: ISRCTN 52511065 (www.isrctn.org).</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether ascertainment of childhood obesity by surveillance followed by structured secondary prevention in primary care improved outcomes in overweight or mildly obese children.</s>
+    <s id="2" section="design">Randomised controlled trial nested within a baseline cross sectional survey of body mass index (BMI).</s>
+    <s id="3" section="design">Randomisation and outcomes measurement, but not participants, were blinded to group assignment.</s>
+    <s id="7" section="participants">Children who were very obese (UK BMI z score &gt;or=3.0)</s>
+    <s id="8" section="participants">were excluded.</s>
+    <s id="12" section="intervention">Differences were adjusted for socioeconomic status, age, sex, and baseline BMI.</s>
+    <s id="15" section="results">There was no evidence of harm to the child.</s>
+    <s id="16" section="results">Costs to the healthcare system were significantly higher in the intervention arm.</s>
+    <s id="18" section="conclusions">These findings are at odds with national policies in countries including the US, UK, and Australia.</s>
+    <s id="19" section="trial registration">ISRCTN 52511065 (www.isrctn.org).</s>
+  </ignored>
+</abstract>
+

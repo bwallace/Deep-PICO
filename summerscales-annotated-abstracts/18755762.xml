@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18755762">
+  <title>
+    <s id="0">Effect on birth outcomes of a formalised approach to care in hospital labour assessment units: international, randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">20 North American and UK hospitals.</s>
+    <s id="4" section="participants">5002 nulliparous women experiencing contractions but not in active labour; <gs group="0">2501</gs> were allocated to <group id="0" role="experiment">structured care</group> and <gs group="1">2501</gs> to <group id="1" role="control">usual care</group>.</s>
+    <s id="5" section="interventions">Usual nursing or midwifery care or a minimum of 1 hour of care by a nurse or midwife trained in structured care , consisting of a formalised approach to assessment of and interventions for maternal emotional state , pain , and fetal position .</s>
+    <s id="8" section="results">Outcome data were obtained for 4996 women.</s>
+    <s id="9" section="results">The rate of <outcome id="0" type="good">spontaneous vaginal birth</outcome> was 64.0% (n=<on group="0" outcome="0">1597</on>) in the <group id="0" role="experiment">structured care group</group> and 61.3% (n=<on group="1" outcome="0">1533</on>) in the <group id="1" role="control">usual care group</group> (odds ratio 1.12, 95% confidence interval 0.96 to 1.27).</s>
+    <s id="10" section="results">Fewer women allocated to <group id="0" role="experiment">structured care</group> (n=<on group="0" outcome="1">403</on>, 19.5%) <outcome id="1" type="bad">rated staff helpfulness as less than very helpful</outcome> than those allocated to <group id="1" role="control">usual care</group> (n=<on group="1" outcome="1">544</on>, 26.4%); odds ratio 0.67, 98.75% confidence interval 0.50 to 0.85.</s>
+    <s id="11" section="results">Fewer women allocated to <group id="0" role="experiment">structured care</group> (n=<on group="0" outcome="2">233</on>, 11.3%) were <outcome id="2" type="bad"><short>disappointed</short> with the amount of attention received from staff</outcome> than those allocated to <group id="1" role="control">usual care</group> (n=<on group="1" outcome="2">407</on>, 19.7%); odds ratio 0.51, 98.75% confidence interval 0.32 to 0.70.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine if a complex nursing and midwifery intervention in hospital labour assessment units would increase the likelihood of spontaneous vaginal birth and improve other maternal and neonatal outcomes. 
+DESIGN: Multicentre, randomised controlled trial with prognostic stratification by hospital. 
+SETTING: 20 North American and UK hospitals. 
+PARTICIPANTS: 5002 nulliparous women experiencing contractions but not in active labour; 2501 were allocated to structured care and 2501 to usual care. 
+INTERVENTIONS: Usual nursing or midwifery care or a minimum of one hour of care by a nurse or midwife trained in structured care, consisting of a formalised approach to assessment of and interventions for maternal emotional state, pain, and fetal position. 
+MAIN OUTCOME MEASURES: Primary outcome was spontaneous vaginal birth. 
+Other outcomes included intrapartum interventions, women's views of their care, and indicators of maternal and fetal health during hospital stay and 6-8 weeks after discharge. 
+RESULTS: Outcome data were obtained for 4996 women. 
+The rate of spontaneous vaginal birth was 64.0% (n=1597) in the structured care group and 61.3% (n=1533) in the usual care group (odds ratio 1.12, 95% confidence interval 0.96 to 1.27). 
+Fewer women allocated to structured care (n=403, 19.5%) rated staff helpfulness as less than very helpful than those allocated to usual care (n=544, 26.4%); odds ratio 0.67, 98.75% confidence interval 0.50 to 0.85. 
+Fewer women allocated to structured care (n=233, 11.3%) were disappointed with the amount of attention received from staff than those allocated to usual care (n=407, 19.7%); odds ratio 0.51, 98.75% confidence interval 0.32 to 0.70. 
+None of the other results met prespecified levels of statistical significance. 
+CONCLUSION: A structured approach to care in hospital labour assessment units increased satisfaction with care and was suggestive of a modest increase in the likelihood of spontaneous vaginal birth. 
+Further study to strengthen the intervention is warranted. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN16315180.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine if a complex nursing and midwifery intervention in hospital labour assessment units would increase the likelihood of spontaneous vaginal birth and improve other maternal and neonatal outcomes.</s>
+    <s id="2" section="design">Multicentre, randomised controlled trial with prognostic stratification by hospital.</s>
+    <s id="6" section="main outcome measures">Primary outcome was spontaneous vaginal birth.</s>
+    <s id="7" section="main outcome measures">Other outcomes included intrapartum interventions, women's views of their care, and indicators of maternal and fetal health during hospital stay and 6-8 weeks after discharge.</s>
+    <s id="12" section="results">None of the other results met prespecified levels of statistical significance.</s>
+    <s id="13" section="conclusion">A structured approach to care in hospital labour assessment units increased satisfaction with care and was suggestive of a modest increase in the likelihood of spontaneous vaginal birth.</s>
+    <s id="14" section="conclusion">Further study to strengthen the intervention is warranted.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN16315180.</s>
+  </ignored>
+</abstract>
+

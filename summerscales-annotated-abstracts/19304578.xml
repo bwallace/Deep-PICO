@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19304578">
+  <title>
+    <s id="0">Cost effectiveness analysis of larval therapy for leg ulcers.</s>
+  </title>
+  <annotated>
+    <s id="3" section="design">Population Intention to treat population comprising 267 patients with a venous or mixed venous and arterial ulcers with at least 25% coverage of slough or necrotic tissue.</s>
+    <s id="5" section="main outcome measure">The time horizon was <time id="0">12 months</time> and costs were estimated from the UK National Health Service perspective.</s>
+    <s id="8" section="results">Treatment with <group id="0" role="experiment"><short>larval</short> therapy</group> <outcome id="0" type="bad">cost</outcome>, on average, pound96.70 (euro109.61; $140.57) more per participant per year (95% confidence interval - pound491.9 to pound685.8) than <group id="1" role="control">treatment with <short>hydrogel</short></group>.</s>
+    <s id="9" section="results"><group id="0" role="experiment">Participants treated with <short>larval</short> therapy</group> healed, on average, 2.42 days before those in the <group id="1" role="control"><short>hydrogel</short> arm</group> (95% confidence interval -0.95 to 31.91 days) and had a slightly better <outcome id="1" type="good">health related quality of life</outcome>, as the annual difference in QALYs was 0.011 (95% confidence interval -0.067 to 0.071).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the cost effectiveness of larval therapy compared with hydrogel in the management of leg ulcers. 
+DESIGN: Cost effectiveness and cost utility analyses carried out alongside a pragmatic multicentre, randomised, open trial with equal randomisation. 
+Population Intention to treat population comprising 267 patients with a venous or mixed venous and arterial ulcers with at least 25% coverage of slough or necrotic tissue. 
+INTERVENTIONS: Patients were randomly allocated to debridement with bagged larvae, loose larvae, or hydrogel. 
+MAIN OUTCOME MEASURE: The time horizon was 12 months and costs were estimated from the UK National Health Service perspective. 
+Cost effectiveness outcomes are expressed in terms of incremental costs per ulcer-free day (cost effectiveness analysis) and incremental costs per quality adjusted life years (cost utility analysis). 
+RESULTS: The larvae arms were pooled for the main analysis. 
+Treatment with larval therapy cost, on average, pound96.70 (euro109.61; $140.57) more per participant per year (95% confidence interval - pound491.9 to pound685.8) than treatment with hydrogel. 
+Participants treated with larval therapy healed, on average, 2.42 days before those in the hydrogel arm (95% confidence interval -0.95 to 31.91 days) and had a slightly better health related quality of life, as the annual difference in QALYs was 0.011 (95% confidence interval -0.067 to 0.071). 
+However, none of these differences was statistically significant. 
+The incremental cost effectiveness ratio for the base case analysis was estimated at pound8826 per QALY gained and pound40 per ulcer-free day. 
+Considerable uncertainty surrounds the outcome estimates. 
+CONCLUSIONS: Debridement of sloughy or necrotic leg ulcers with larval therapy is likely to produce similar health benefits and have similar costs to treatment with hydrogel. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN55114812 and National Research Register N0484123692.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the cost effectiveness of larval therapy compared with hydrogel in the management of leg ulcers.</s>
+    <s id="2" section="design">Cost effectiveness and cost utility analyses carried out alongside a pragmatic multicentre, randomised, open trial with equal randomisation.</s>
+    <s id="4" section="interventions">Patients were randomly allocated to debridement with bagged larvae, loose larvae, or hydrogel.</s>
+    <s id="6" section="main outcome measure">Cost effectiveness outcomes are expressed in terms of incremental costs per ulcer-free day (cost effectiveness analysis) and incremental costs per quality adjusted life years (cost utility analysis).</s>
+    <s id="7" section="results">The larvae arms were pooled for the main analysis.</s>
+    <s id="10" section="results">However, none of these differences was statistically significant.</s>
+    <s id="11" section="results">The incremental cost effectiveness ratio for the base case analysis was estimated at pound8826 per QALY gained and pound40 per ulcer-free day.</s>
+    <s id="12" section="results">Considerable uncertainty surrounds the outcome estimates.</s>
+    <s id="13" section="conclusions">Debridement of sloughy or necrotic leg ulcers with larval therapy is likely to produce similar health benefits and have similar costs to treatment with hydrogel.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN55114812 and National Research Register N0484123692.</s>
+  </ignored>
+</abstract>
+

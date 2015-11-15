@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16847013">
+  <title>
+    <s id="0" section="title">A randomised controlled trial of management strategies for acute infective conjunctivitis in general practice .</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">30 general practices in southern England .</s>
+    <s id="4" section="participants">
+      <ps>307</ps>
+      adults and children with acute infective conjunctivitis .
+    </s>
+    <s id="5" section="intervention">
+      1 of 3 antibiotic prescribing strategies -
+      <group id="0">
+        <short>immediate  antibiotics</short>
+        (  chloramphenicol  eye  drops  ;  n  =
+        <gs group="0">104</gs>
+        )
+      </group>
+      ,
+      <group id="1">
+        <short>no  antibiotics</short>
+        (  controls  ;  n  =
+        <gs group="1">94</gs>
+        )
+      </group>
+      , or
+      <group id="2">delayed  antibiotics</group>
+      ( n =
+      <gs group="2">109</gs>
+      ) ; a
+      <group id="3">patient  information  leaflet</group>
+      or not ; and an
+      <group id="4">eye  swab</group>
+      or not .
+    </s>
+    <s id="7" section="results">
+      Prescribing strategies did not affect the
+      <outcome id="0:0">severity  of  symptoms</outcome>
+      but
+      <outcome id="0:1">duration  of  moderate  symptoms</outcome>
+      was less with antibiotics :
+      <group id="1">
+        <short>no  antibiotics</short>
+        (  controls  )
+      </group>
+      4.8 days ,
+      <group id="0">immediate  antibiotics</group>
+      3.3 days ( risk ratio 0.7 , 95 % confidence interval 0.6 to 0.8 ) ,
+      <group id="2">delayed  antibiotics</group>
+      3.9 days ( 0.8 , 0.7 to 0.9 ) .
+    </s>
+    <s id="8" section="results">
+      Compared with no initial offer of antibiotics ,
+      <outcome id="3">antibiotic  use</outcome>
+      was higher in the
+      <group id="0">immediate  antibiotic  group</group>
+      :
+      <group id="1">controls</group>
+      30 % ,
+      <group id="0">immediate  antibiotics</group>
+      99 % ( odds ratio 185.4 , 23.9 to 1439.2 ) ,
+      <group id="2">delayed  antibiotics</group>
+      53 % ( 2.9 , 1.4 to 5.7 ) , as was
+      <outcome id="0:2">belief  in  the  effectiveness  of  antibiotics</outcome>
+      :
+      <group id="1">controls</group>
+      47 % ,
+      <group id="0">immediate  antibiotics</group>
+      67 % ( odds ratio 2.4 , 1.1 to 5.0 ) ,
+      <group id="2">delayed  antibiotics</group>
+      55 % ( 1.4 , 0.7 to 3.0 ) , and
+      <outcome id="4">
+        <short>intention  to  reattend</short>
+        for  eye  infections
+      </outcome>
+      :
+      <group id="1">controls</group>
+      40 % ,
+      <group id="0">immediate  antibiotics</group>
+      68 % ( 3.2 , 1.6 to 6.4 ) ,
+      <group id="2">delayed  antibiotics</group>
+      41 % ( 1.0 , 0.5 to 2.0 ) .
+    </s>
+    <s id="10" section="results">
+      <outcome id="5">
+        <short>Reattendance</short>
+        within
+        <time id="1">2  weeks</time>
+      </outcome>
+      was less in the
+      <group id="2">delayed</group>
+      compared with
+      <group id="0">immediate  antibiotic  group</group>
+      : 0.3 ( 0.1 to 1.0 ) v 0.7 ( 0.3 to 1.6 ) .
+    </s>
+  </annotated>
+  <fulltext>A randomised controlled trial of management strategies for acute infective conjunctivitis in general practice . To assess different management strategies for acute infective conjunctivitis . Open , factorial , randomised controlled trial . 30 general practices in southern England . 307 adults and children with acute infective conjunctivitis . 1 of 3 antibiotic prescribing strategies - immediate antibiotics ( chloramphenicol eye drops ; n = 104 ) , no antibiotics ( controls ; n = 94 ) , or delayed antibiotics ( n = 109 ) ; a patient information leaflet or not ; and an eye swab or not . Severity of symptoms on days 1-3 after consultation , duration of symptoms , and belief in the effectiveness of antibiotics for eye infections . Prescribing strategies did not affect the severity of symptoms but duration of moderate symptoms was less with antibiotics : no antibiotics ( controls ) 4.8 days , immediate antibiotics 3.3 days ( risk ratio 0.7 , 95 % confidence interval 0.6 to 0.8 ) , delayed antibiotics 3.9 days ( 0.8 , 0.7 to 0.9 ) . Compared with no initial offer of antibiotics , antibiotic use was higher in the immediate antibiotic group : controls 30 % , immediate antibiotics 99 % ( odds ratio 185.4 , 23.9 to 1439.2 ) , delayed antibiotics 53 % ( 2.9 , 1.4 to 5.7 ) , as was belief in the effectiveness of antibiotics : controls 47 % , immediate antibiotics 67 % ( odds ratio 2.4 , 1.1 to 5.0 ) , delayed antibiotics 55 % ( 1.4 , 0.7 to 3.0 ) , and intention to reattend for eye infections : controls 40 % , immediate antibiotics 68 % ( 3.2 , 1.6 to 6.4 ) , delayed antibiotics 41 % ( 1.0 , 0.5 to 2.0 ) . A patient information leaflet or eye swab had no effect on the main outcomes . Reattendance within 2 weeks was less in the delayed compared with immediate antibiotic group : 0.3 ( 0.1 to 1.0 ) v 0.7 ( 0.3 to 1.6 ) . Delayed prescribing of antibiotics is probably the most appropriate strategy for managing acute conjunctivitis in primary care . It reduces antibiotic use , shows no evidence of medicalisation , provides similar duration and severity of symptoms to immediate prescribing , and reduces reattendance for eye infections . Current Controlled Trials ISRCTN32956955 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess different management strategies for acute infective conjunctivitis .</s>
+    <s id="2" section="design">Open , factorial , randomised controlled trial .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Severity  of  symptoms</short>
+        on
+        <time id="0:0">days  1-3  after  consultation</time>
+      </outcome>
+      ,
+      <outcome id="0:1">duration  of  symptoms</outcome>
+      , and
+      <outcome id="0:2">
+        <short>belief  in  the  effectiveness  of  antibiotics</short>
+        for  eye  infections
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      A
+      <group id="3">patient  information  leaflet</group>
+      or
+      <group id="4">eye  swab</group>
+      had no effect on the
+      <outcome id="0">main  outcomes</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="2">Delayed  prescribing  of  antibiotics</group>
+      is probably the most appropriate strategy for managing acute conjunctivitis in primary care .
+    </s>
+    <s id="12" section="conclusions">
+      It reduces
+      <outcome id="3">antibiotic  use</outcome>
+      , shows no evidence of medicalisation , provides similar
+      <outcome id="0:1">duration</outcome>
+      and
+      <outcome id="0:0">severity  of  symptoms</outcome>
+      to
+      <group id="0">immediate  prescribing</group>
+      , and reduces
+      <outcome id="5">
+        <short>reattendance</short>
+        for  eye  infections
+      </outcome>
+      .
+    </s>
+    <s id="13" section="trial_registration">Current Controlled Trials ISRCTN32956955 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

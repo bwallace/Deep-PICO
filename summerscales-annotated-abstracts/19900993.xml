@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19900993">
+  <title>
+    <s id="0">Combining insulin with metformin or an insulin secretagogue in non-obese patients with type 2 diabetes: 12 month, randomised, double blind trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To study the effect of insulin treatment in combination with metformin or an insulin secretagogue, repaglinide, on glycaemic regulation in non-obese patients with type 2 diabetes.</s>
+    <s id="3" section="setting">Secondary care in Denmark between 2003 and 2006.</s>
+    <s id="4" section="participants">Non-obese patients (BMI &lt;/=27) with preserved beta cell function.</s>
+    <s id="5" section="interventions">After a 4 month run - in period with repaglinide plus metformin combination therapy , patients with a glycated haemoglobin ( HbA( 1c) ) concentration of 6.5 % or more were randomised to <group id="0" role="experiment">repaglinide 6 mg</group> or <group id="1" role="experiment">metformin 2000 mg</group> .</s>
+    <s id="6" section="interventions">All patients also received biphasic insulin aspart 70/30 (30% soluble insulin aspart and 70% intermediate acting insulin aspart) 6 units once a day before dinner for 12 months.</s>
+    <s id="10" section="interventions">Treatment was intensified to 2 or 3 insulin injections a day if glycaemic targets were not reached .</s>
+    <s id="12" section="results">Of the 459 patients who were eligible, 102 were randomised, and 97 completed the trial.</s>
+    <s id="13" section="results">Patients had had type 2 diabetes for approximately 10 years.</s>
+    <s id="14" section="results">At the end of treatment , <outcome id="1" type="bad">HbA( 1c ) concentration</outcome> was reduced by a similar amount in the 2 treatment groups ( <group id="1" role="experiment">insulin plus metformin</group> : mean ( standard deviation ) <outcome id="1" type="bad">HbA( 1c )</outcome> 8.15 % ( 1.32 ) v 6.72 % ( 0.66 ) ; <group id="0" role="experiment">insulin plus repaglinide</group> : 8.07 % ( 1.49 ) v 6.90 % ( 0.68 ) ; P = 0.177 ) .</s>
+    <s id="15" section="results">Total daily insulin dose and risk of <outcome id="2" type="bad">hypoglycaemia</outcome> were also similar in the 2 treatment groups .</s>
+    <s id="16" section="results"><outcome id="0" type="bad">Weight gain</outcome> was less with <group id="1" role="experiment">metformin plus biphasic insulin aspart 70/30</group> than with <group id="0" role="experiment">repaglinide plus biphasic insulin aspart 70/30</group> (difference in mean body weight between treatments -2.51 kg, 95% confidence interval -4.07 to -0.95).</s>
+    <s id="17" section="conclusions">In non-obese patients with type 2 diabetes and poor glycaemic regulation on oral hypoglycaemic agents, overall glycaemic regulation with insulin in combination with metformin was equivalent to that with insulin plus repaglinide.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To study the effect of insulin treatment in combination with metformin or an insulin secretagogue, repaglinide, on glycaemic regulation in non-obese patients with type 2 diabetes. 
+DESIGN: Randomised, double blind, double dummy, parallel trial. 
+SETTING: Secondary care in Denmark between 2003 and 2006. 
+PARTICIPANTS: Non-obese patients (BMI &lt;/=27) with preserved beta cell function. 
+INTERVENTIONS: After a four month run-in period with repaglinide plus metformin combination therapy, patients with a glycated haemoglobin (HbA(1c)) concentration of 6.5% or more were randomised to repaglinide 6 mg or metformin 2000 mg. 
+All patients also received biphasic insulin aspart 70/30 (30% soluble insulin aspart and 70% intermediate acting insulin aspart) 6 units once a day before dinner for 12 months. 
+Insulin dose was adjusted aiming for a fasting plasma glucose concentration of 4.0-6.0 
+mmol/l. 
+The target of HbA(1c) concentration was less than 6.5%. 
+Treatment was intensified to two or three insulin injections a day if glycaemic targets were not reached. 
+MAIN OUTCOME MEASURE: HbA(1c) concentration. 
+RESULTS: Of the 459 patients who were eligible, 102 were randomised, and 97 completed the trial. 
+Patients had had type 2 diabetes for approximately 10 years. 
+At the end of treatment, HbA(1c) concentration was reduced by a similar amount in the two treatment groups (insulin plus metformin: mean (standard deviation) HbA(1c) 8.15% (1.32) v 6.72% (0.66); insulin plus repaglinide: 8.07% (1.49) v 6.90% (0.68); P=0.177). 
+Total daily insulin dose and risk of hypoglycaemia were also similar in the two treatment groups. 
+Weight gain was less with metformin plus biphasic insulin aspart 70/30 than with repaglinide plus biphasic insulin aspart 70/30 (difference in mean body weight between treatments -2.51 kg, 95% confidence interval -4.07 to -0.95). 
+CONCLUSIONS: In non-obese patients with type 2 diabetes and poor glycaemic regulation on oral hypoglycaemic agents, overall glycaemic regulation with insulin in combination with metformin was equivalent to that with insulin plus repaglinide. 
+Weight gain seemed less with insulin plus metformin than with insulin plus repaglinide. 
+TRIAL REGISTRATION: NCT00118963.</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised, double blind, double dummy, parallel trial.</s>
+    <s id="7" section="interventions">Insulin dose was adjusted aiming for a fasting plasma glucose concentration of 4.0-6.0</s>
+    <s id="8" section="interventions">mmol/l.</s>
+    <s id="9" section="interventions">The target of HbA(1c) concentration was less than 6.5%.</s>
+    <s id="11" section="main outcome measure">HbA(1c) concentration.</s>
+    <s id="18" section="conclusions">Weight gain seemed less with insulin plus metformin than with insulin plus repaglinide.</s>
+    <s id="19" section="trial registration">NCT00118963.</s>
+  </ignored>
+</abstract>
+

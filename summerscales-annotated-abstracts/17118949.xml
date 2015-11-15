@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17118949">
+  <title>
+    <s id="0">Self management for men with lower urinary tract symptoms: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">140 men (mean age 63 (SD 10.7) years), recruited between January 2003 and April 2004, referred by general practitioners to urological outpatient departments with uncomplicated lower urinary tract symptoms.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment"><short>Self management</short> and standard care</group> (n=<gs group="0">73</gs>) or<group id="1" role="control"><short>standard care</short> alone</group> (n=<gs group="1">67</gs>).</s>
+    <s id="6" section="interventions"><group id="0" role="experiment">The <short>self management</short> group</group> took part in 3 small group sessions comprising education, lifestyle advice, and training in problem solving and goal setting skills.</s>
+    <s id="7" section="main outcome measures">The primary outcome measure was <outcome id="0" type="bad">treatment failure</outcome> measured at <time id="0" units="months">3</time>, <time id="1" units="months">6</time>, and <time id="2">12 months</time>.</s>
+    <s id="9" section="results">At <time id="0">3 months</time>, <outcome id="0" type="bad">treatment failure</outcome> had occurred in <on group="0" outcome="0" time="0">7</on> (10%) of <group id="0" role="experiment">the <short>self management</short> group</group> and in <on group="1" outcome="0" time="0">27</on> (42%) of <group id="1" role="control">the standard care group</group> (difference=32%, 95% confidence interval 18% to 46%).</s>
+    <s id="10" section="results">Corresponding differences in the frequency of <outcome id="0" type="bad">treatment failure </outcome>were 42% (27% to 57%) at <time id="1">6 months</time> and 48% (32% to 64%) at <time id="2">12 months</time>.</s>
+    <s id="11" section="results">At <time id="0">3 months</time>, the mean <outcome id="1" type="bad">international prostate symptom <short>score</short></outcome> was <on group="0" outcome="1" time="0">10.7</on> in the <group id="0" type="experiment"><short>self management</short> group</group> and <on group="1" outcome="1" time="0">16.4</on> in the <group id="1" role="control"><short>standard care</short> group</group> (difference=5.7, 3.7 to 7.7).</s>
+    <s id="12" section="results">Corresponding differences in <short>score</short> were 6.5 (4.3 to 8.7) at <time id="1">6 months</time> and 5.1 (2.7 to 7.6) at <time id="2">12 months</time>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of self management as a first line intervention for men with lower urinary tract symptoms. 
+DESIGN: Randomised controlled trial. 
+SETTING: A teaching hospital and a district general hospital in London. 
+PARTICIPANTS: 140 men (mean age 63 (SD 10.7) years), recruited between January 2003 and April 2004, referred by general practitioners to urological outpatient departments with uncomplicated lower urinary tract symptoms. 
+INTERVENTIONS: Self management and standard care (n=73) or standard care alone (n=67). 
+The self management group took part in three small group sessions comprising education, lifestyle advice, and training in problem solving and goal setting skills. 
+MAIN OUTCOME MEASURES: The primary outcome measure was treatment failure measured at 3, 6, and 12 months. 
+Symptom severity (international prostate symptom score; higher scores represent a poorer outcome) was used as a secondary outcome. 
+RESULTS: At three months, treatment failure had occurred in 7 (10%) of the self management group and in 27 (42%) of the standard care group (difference=32%, 95% confidence interval 18% to 46%). 
+Corresponding differences in the frequency of treatment failure were 42% (27% to 57%) at six months and 48% (32% to 64%) at 12 months. 
+At three months, the mean international prostate symptom score was 10.7 in the self management group and 16.4 in the standard care group (difference=5.7, 3.7 to 7.7). 
+Corresponding differences in score were 6.5 (4.3 to 8.7) at six months and 5.1 (2.7 to 7.6) at 12 months. 
+CONCLUSIONS: Self management significantly reduced the frequency of treatment failure and reduced urinary symptoms. 
+Because of the large observed benefit of self management, the results of this study support the case for a large multicentre trial to confirm whether self management could be considered as first line treatment for men with lower urinary tract symptoms. 
+TRIAL REGISTRATION: National Research Register N0263115137; Clinical trials NCT00270309 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of self management as a first line intervention for men with lower urinary tract symptoms.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">A teaching hospital and a district general hospital in London.</s>    
+    <s id="8" section="main outcome measures">Symptom severity (international prostate symptom score; higher scores represent a poorer outcome) was used as a secondary outcome.</s>
+    <s id="13" section="conclusions">Self management significantly reduced the frequency of treatment failure and reduced urinary symptoms.</s>
+    <s id="14" section="conclusions">Because of the large observed benefit of self management, the results of this study support the case for a large multicentre trial to confirm whether self management could be considered as first line treatment for men with lower urinary tract symptoms.</s>
+    <s id="15" section="trial registration">National Research Register N0263115137; Clinical trials NCT00270309 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

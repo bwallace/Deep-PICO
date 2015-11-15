@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15708844">
+  <title>
+    <s id="0" section="title">
+      Acute treatment of moderate to severe depression with
+      <group id="0">
+        <short>hypericum</short>
+        extract  WS  5570  (  <short>St  John's  wort</short>  )
+      </group>
+      : randomised controlled double blind non - inferiority trial versus
+      <group id="1">paroxetine</group>
+      .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To investigate the efficacy of
+      <group id="0">
+        <short>hypericum</short>
+        extract  WS  5570  (  <short>St John's  wort</short>  )
+      </group>
+      compared with
+      <group id="1">paroxetine</group>
+      in patients with moderate to severe major depression .
+    </s>
+    <s id="3" section="setting">21 psychiatric primary care practices in Germany .</s>
+    <s id="4" section="participants">
+      <ps>251</ps>
+      adult outpatients with acute major depression with total score &gt; or = 22 on the 17 item Hamilton depression scale .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        900  mg  /  day
+        <short>hypericum</short>
+        extract  WS  5570  3  times  a  day
+      </group>
+      or
+      <group id="1">
+        20  mg
+        <short>paroxetine</short>
+        once  a  day
+      </group>
+      for
+      <time id="0">6  weeks</time>
+      .
+    </s>
+    <s id="6" section="interventions">
+      In initial non - responders doses were increased to
+      <group id="0">
+        1800  mg  /  day
+        <short>hypericum</short>
+      </group>
+      or
+      <group id="1">
+        40  mg  /  day
+        <short>paroxetine</short>
+      </group>
+      after
+      <time id="2">2  weeks</time>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Change in score on
+      <outcome id="0">
+        <short>Hamilton  depression  scale</short>
+        from
+        <time id="1">baseline</time>
+        to
+        <time id="0">day  42</time>
+      </outcome>
+      ( primary outcome ) .
+    </s>
+    <s id="10" section="results">
+      The intention to treat analysis ( lower 1 sided 97.5 % confidence limit 1.5 points for the difference
+      <group id="0">hypericum</group>
+      minus
+      <group id="1">paroxetine</group>
+      ) and the per protocol analysis ( lower confidence limit 0.7 points ) showed non - inferiority of
+      <group id="0">hypericum</group>
+      and statistical superiority over
+      <group id="1">paroxetine</group>
+      .
+    </s>
+    <s id="11" section="results">
+      The lower limits in both cases exceeded the pre - specified non - inferiority margin of - 2.5 points and the superiority margin of 0 . The
+      <outcome id="4">
+        incidence  of
+        <short>adverse  events</short>
+      </outcome>
+      was 0.035 and 0.060 events per day of exposure for
+      <group id="0">hypericum</group>
+      and
+      <group id="1">paroxetine</group>
+      , respectively .
+    </s>
+    <s id="12" section="conclusions">
+      In the treatment of moderate to severe major depression ,
+      <group id="0">
+        <short>hypericum</short>
+        extract  WS  5570
+      </group>
+      is at least as effective as
+      <group id="1">paroxetine</group>
+      and is better tolerated .
+    </s>
+  </annotated>
+  <fulltext>Acute treatment of moderate to severe depression with hypericum extract WS 5570 ( St John 's wort ) : randomised controlled double blind non - inferiority trial versus paroxetine . To investigate the efficacy of hypericum extract WS 5570 ( St John 's wort ) compared with paroxetine in patients with moderate to severe major depression . Randomised double blind , double dummy , reference controlled , multicentre non - inferiority trial . 21 psychiatric primary care practices in Germany . 251 adult outpatients with acute major depression with total score &gt; or = 22 on the 17 item Hamilton depression scale . 900 mg / day hypericum extract WS 5570 3 times a day or 20 mg paroxetine once a day for 6 weeks . In initial non - responders doses were increased to 1800 mg / day hypericum or 40 mg / day paroxetine after 2 weeks . Change in score on Hamilton depression scale from baseline to day 42 ( primary outcome ) . Secondary measures were change in scores on Montgomery-Asberg depression rating scale , clinical global impressions , and Beck depression inventory . The Hamilton depression total score decreased by mean 14.4 ( SD 8.8 ) points , corresponding to 56.6 % ( SD 34.3 % ) of the baseline value , in the hypericum group and by 11.4 ( SD 8.6 ) points ( 44.8 % ( SD 33.5 % ) of baseline value ) in the paroxetine group ( intention to treat analysis ; similar results were observed in the per protocol analysis ) . The intention to treat analysis ( lower 1 sided 97.5 % confidence limit 1.5 points for the difference hypericum minus paroxetine ) and the per protocol analysis ( lower confidence limit 0.7 points ) showed non - inferiority of hypericum and statistical superiority over paroxetine . The lower limits in both cases exceeded the pre - specified non - inferiority margin of - 2.5 points and the superiority margin of 0 . The incidence of adverse events was 0.035 and 0.060 events per day of exposure for hypericum and paroxetine , respectively . In the treatment of moderate to severe major depression , hypericum extract WS 5570 is at least as effective as paroxetine and is better tolerated .</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised double blind , double dummy , reference controlled , multicentre non - inferiority trial .</s>
+    <s id="8" section="main_outcome_measures">
+      Secondary measures were change in scores on
+      <outcome id="1">Montgomery-Asberg  depression  rating  scale</outcome>
+      ,
+      <outcome id="2">clinical  global  impressions</outcome>
+      , and
+      <outcome id="3">Beck  depression  inventory</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="0">Hamilton  depression  total  score</outcome>
+      decreased by mean 14.4 ( SD 8.8 ) points , corresponding to 56.6 % ( SD 34.3 % ) of the baseline value , in the
+      <group id="0">hypericum  group</group>
+      and by 11.4 ( SD 8.6 ) points ( 44.8 % ( SD 33.5 % ) of baseline value ) in the
+      <group id="1">paroxetine  group</group>
+      ( intention to treat analysis ; similar results were observed in the per protocol analysis ) .
+    </s>
+  </ignored>
+</abstract>
+

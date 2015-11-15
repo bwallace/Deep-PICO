@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17916813">
+  <title>
+    <s id="0">Effectiveness of paramedic practitioners in attending 999 calls from elderly people in the community: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="design">Cluster randomised controlled trial involving 56 clusters.</s>
+    <s id="4" section="design">Weeks were randomised to the <group id="0" role="experiment">aramedic practitioner service being <short>active</short>(intervention)</group> or <group id="1" role="control"><short>inactive</short> (control)</group> when the standard 999 service was available.</s>
+    <s id="6" section="participants">3018 patients aged over 60 who called the emergency services (n=<gs group="0">1549</gs> <group id="0" role="experiment">intervention</group>, n=<gs group="1">1469</gs> <group id="1" role="control">control</group>).</s>
+    <s id="7" section="main outcome measures">Emergency department attendance or hospital admission between 0 and 28 days; interval from time of call to time of discharge; patients' satisfaction with the service received.</s>
+    <s id="8" section="results">Overall, patients in the <group id="0" role="experiment">intervention group</group> were less likely to <outcome id="0" type="bad">attend an emergency department</outcome> (relative risk 0.72, 95% confidence interval 0.68 to 0.75) or <outcome id="1" type="bad">require hospital admission</outcome> within 28 days (0.87, 0.81 to 0.94) and experienced a shorter <outcome id="2" type="bad">total episode time</outcome> (235 v 278 minutes, 95% confidence interval for difference -60 minutes to -25 minutes).</s>
+    <s id="10" section="results">There was no significant difference in <outcome id="3" type="bad">28 day mortality</outcome> (0.87, 0.63 to 1.21).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the benefits of paramedic practitioners assessing and, when possible, treating older people in the community after minor injury or illness. 
+Paramedic practitioners have been trained with extended skills to assess, treat, and discharge older patients with minor acute conditions in the community. 
+DESIGN: Cluster randomised controlled trial involving 56 clusters. 
+Weeks were randomised to the paramedic practitioner service being active (intervention) or inactive (control) when the standard 999 service was available. 
+SETTING: A large urban area in England. 
+PARTICIPANTS: 3018 patients aged over 60 who called the emergency services (n=1549 intervention, n=1469 control). 
+MAIN OUTCOME MEASURES: Emergency department attendance or hospital admission between 0 and 28 days; interval from time of call to time of discharge; patients' satisfaction with the service received. 
+RESULTS: Overall, patients in the intervention group were less likely to attend an emergency department (relative risk 0.72, 95% confidence interval 0.68 to 0.75) or require hospital admission within 28 days (0.87, 0.81 to 0.94) and experienced a shorter total episode time (235 v 278 minutes, 95% confidence interval for difference -60 minutes to -25 minutes). 
+Patients in the intervention group were more likely to report being highly satisfied with their healthcare episode (relative risk 1.16, 1.09 to 1.23). 
+There was no significant difference in 28 day mortality (0.87, 0.63 to 1.21). 
+CONCLUSIONS: Paramedics with extended skills can provide a clinically effective alternative to standard ambulance transfer and treatment in an emergency department for elderly patients with acute minor conditions. 
+TRIAL REGISTRATION: ISRCTN27796329 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the benefits of paramedic practitioners assessing and, when possible, treating older people in the community after minor injury or illness.</s>
+    <s id="2" section="objective">Paramedic practitioners have been trained with extended skills to assess, treat, and discharge older patients with minor acute conditions in the community.</s>
+    <s id="5" section="setting">A large urban area in England.</s>
+    <s id="9" section="results">Patients in the intervention group were more likely to report being highly satisfied with their healthcare episode (relative risk 1.16, 1.09 to 1.23).</s>
+    <s id="11" section="conclusions">Paramedics with extended skills can provide a clinically effective alternative to standard ambulance transfer and treatment in an emergency department for elderly patients with acute minor conditions.</s>
+    <s id="12" section="trial registration">ISRCTN27796329 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

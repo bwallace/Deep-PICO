@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16081445">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">multivitamin  and  multimineral  supplements</group>
+      on morbidity from infections in older people ( MAVIS trial ) : pragmatic , randomised , double blind , placebo controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To examine whether
+      <group id="0">
+        <short>supplementation</short>
+        with  multivitamins  and  multiminerals
+      </group>
+      influences
+      <outcome id="1">
+        self  reported
+        <short>days  of  infection</short>
+      </outcome>
+      ,
+      <outcome id="3">use  of  health  services</outcome>
+      , and
+      <outcome id="2">quality  of  life</outcome>
+      in people aged 65 or over .
+    </s>
+    <s id="3" section="setting">Communities associated with 6 general practices in Grampian , Scotland .</s>
+    <s id="4" section="participants">
+      <ps>910</ps>
+      men and women aged 65 or over who did not take vitamins or minerals .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Daily  multivitamin  and  multimineral
+        <short>supplementation</short>
+      </group>
+      or
+      <group id="1">placebo</group>
+      for
+      <time id="0">1  year</time>
+      .
+    </s>
+    <s id="8" section="results">
+      <group id="0">Supplementation</group>
+      did not significantly affect
+      <outcome id="0">contacts  with  primary  care</outcome>
+      and
+      <outcome id="1">
+        <short>days  of  infection</short>
+        per  person
+      </outcome>
+      ( incidence rate ratio 0.96 , 95 % confidence interval 0.78 to 1.19 and 1.07 , 0.90 to 1.27 ) .
+    </s>
+    <s id="12" section="trial_registration">ISRCTN : 66376460 .</s>
+  </annotated>
+  <fulltext>Effect of multivitamin and multimineral supplements on morbidity from infections in older people ( MAVIS trial ) : pragmatic , randomised , double blind , placebo controlled trial . To examine whether supplementation with multivitamins and multiminerals influences self reported days of infection , use of health services , and quality of life in people aged 65 or over . Randomised , placebo controlled trial , with blinding of participants , outcome assessors , and investigators . Communities associated with 6 general practices in Grampian , Scotland . 910 men and women aged 65 or over who did not take vitamins or minerals . Daily multivitamin and multimineral supplementation or placebo for 1 year . Primary outcomes were contacts with primary care for infections , self reported days of infection , and quality of life . Secondary outcomes included antibiotic prescriptions , hospital admissions , adverse events , and compliance . Supplementation did not significantly affect contacts with primary care and days of infection per person ( incidence rate ratio 0.96 , 95 % confidence interval 0.78 to 1.19 and 1.07 , 0.90 to 1.27 ) . Quality of life was not affected by supplementation . No statistically significant findings were found for secondary outcomes or subgroups . Routine multivitamin and multimineral supplementation of older people living at home does not affect self reported infection related morbidity . ISRCTN : 66376460 .</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised , placebo controlled trial , with blinding of participants , outcome assessors , and investigators .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcomes were
+      <outcome id="0">
+        <short>contacts  with  primary  care</short>
+        for  infections
+      </outcome>
+      ,
+      <outcome id="1">
+        self  reported
+        <short>days  of  infection</short>
+      </outcome>
+      , and
+      <outcome id="2">quality  of  life</outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes included
+      <outcome id="3:0">antibiotic  prescriptions</outcome>
+      ,
+      <outcome id="3:1">hospital  admissions</outcome>
+      ,
+      <outcome id="3:2">adverse  events</outcome>
+      , and
+      <outcome id="3:3">compliance</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="2">Quality  of  life</outcome>
+      was not affected by
+      <group id="0">supplementation</group>
+      .
+    </s>
+    <s id="10" section="results">
+      No statistically significant findings were found for
+      <outcome id="3">secondary  outcomes</outcome>
+      or subgroups .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        Routine  multivitamin  and  multimineral
+        <short>supplementation</short>
+      </group>
+      of older people living at home does not affect
+      <outcome id="1">
+        self  reported
+        <short>infection  related  morbidity</short>
+      </outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

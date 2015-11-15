@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16543297">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">enhanced  psychosocial  care</group>
+      on
+      <outcome id="0">antipsychotic  use</outcome>
+      in nursing home residents with severe dementia : cluster randomised trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">12 specialist nursing homes for people with dementia in London , Newcastle , and Oxford .</s>
+    <s id="4" section="participants">Residents of the 12 nursing homes ; numbers varied during the study period .</s>
+    <s id="5" section="intervention">
+      <group id="0">Training  and  support  intervention</group>
+      delivered to nursing home staff over 10 months , focusing on alternatives to drugs for the management of agitated behaviour in dementia .
+    </s>
+    <s id="6" section="main__outcome_measures">
+      <outcome id="0">Proportion  of  residents  in  each  home  who  were  prescribed  neuroleptics</outcome>
+      and
+      <outcome id="1">
+        mean  levels  of
+        <short>agitated  and  disruptive  behaviour</short>
+        (  Cohen-Mansfield  agitation  inventory  )
+      </outcome>
+      in each home at
+      <time id="0">12  months</time>
+      .
+    </s>
+    <s id="7" section="results">
+      At
+      <time id="0">12  months</time>
+      the
+      <outcome id="0">proportion  of  residents  taking  neuroleptics</outcome>
+      in the
+      <group id="0">intervention  homes</group>
+      ( 23.0 % ) was significantly lower than that in the
+      <group id="1">control  homes</group>
+      ( 42.1 % ) : average reduction in
+      <outcome id="2">neuroleptic  use</outcome>
+      19.1 % ( 95 % confidence interval 0.5 % to 37.7 % ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of enhanced psychosocial care on antipsychotic use in nursing home residents with severe dementia : cluster randomised trial . To evaluate the effectiveness of a training and support intervention for nursing home staff in reducing the proportion of residents with dementia who are prescribed neuroleptics . Cluster randomised controlled trial with blinded assessment of outcome . 12 specialist nursing homes for people with dementia in London , Newcastle , and Oxford . Residents of the 12 nursing homes ; numbers varied during the study period . Training and support intervention delivered to nursing home staff over 10 months , focusing on alternatives to drugs for the management of agitated behaviour in dementia . Proportion of residents in each home who were prescribed neuroleptics and mean levels of agitated and disruptive behaviour ( Cohen-Mansfield agitation inventory ) in each home at 12 months . At 12 months the proportion of residents taking neuroleptics in the intervention homes ( 23.0 % ) was significantly lower than that in the control homes ( 42.1 % ) : average reduction in neuroleptic use 19.1 % ( 95 % confidence interval 0.5 % to 37.7 % ) . No significant differences were found in the levels of agitated or disruptive behaviour between intervention and control homes . Promotion of person centred care and good practice in the management of patients with dementia with behavioural symptoms provides an effective alternative to neuroleptics .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effectiveness of a
+      <group id="0">training  and  support  intervention</group>
+      for nursing home staff in reducing the proportion of residents with dementia who are prescribed neuroleptics .
+    </s>
+    <s id="2" section="design">Cluster randomised controlled trial with blinded assessment of outcome .</s>
+    <s id="8" section="results">
+      No significant differences were found in the
+      <outcome id="1">
+        levels  of
+        <short>agitated  or  disruptive  behaviour</short>
+      </outcome>
+      between
+      <group id="0">intervention</group>
+      and
+      <group id="1">control  homes</group>
+      .
+    </s>
+    <s id="9" section="conclusions">
+      Promotion of
+      <group id="0">
+        <short>person  centred  care</short>
+        and  good  practice  in  the  management  of  patients  with  dementia  with  behavioural  symptoms
+      </group>
+      provides an effective alternative to neuroleptics .
+    </s>
+  </ignored>
+</abstract>
+

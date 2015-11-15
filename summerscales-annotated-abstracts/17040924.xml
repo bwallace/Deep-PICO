@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17040924">
+  <title>
+    <s id="0" section="title">Prevention of HIV and sexually transmitted diseases in high risk social networks of young Roma ( Gypsy ) men in Bulgaria : randomised controlled trial .</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">A 2 arm randomised controlled trial .</s>
+    <s id="4" section="participants">
+      <ps>286</ps>
+      Roma men from 52 social networks recruited in the community .
+    </s>
+    <s id="7" section="intervention">
+      Networks were followed up
+      <time id="1">3</time>
+      and
+      <time id="2">12  months</time>
+      after the
+      <group id="0">intervention</group>
+      to determine evidence of risk reduction .
+    </s>
+    <s id="8" section="main_outcome_measure">
+      <outcome id="0">
+        Occurrence  of  <short>unprotected  intercourse</short>
+        during  the  3  months  before  each  assessment
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      Reported prevalence of
+      <outcome id="0">unprotected  intercourse</outcome>
+      in the
+      <group id="0">intervention  group</group>
+      fell more than in
+      <group id="1">control  group</group>
+      ( from 81 % and 80 % , respectively , at
+      <time id="0">baseline</time>
+      to 65 % and 75 % at
+      <time id="1">3  months</time>
+      and 71 % and 86 % at
+      <time id="2">12  months</time>
+      ) .
+    </s>
+  </annotated>
+  <fulltext>Prevention of HIV and sexually transmitted diseases in high risk social networks of young Roma ( Gypsy ) men in Bulgaria : randomised controlled trial . To determine the effects of a behavioural intervention for prevention of HIV and sexually transmitted diseases that identified , trained , and engaged leaders of Roma ( Gypsy ) men 's social networks to counsel their own network members . A 2 arm randomised controlled trial . A disadvantaged , impoverished Roma settlement in Bulgaria . 286 Roma men from 52 social networks recruited in the community . At baseline all participants were assessed for HIV risk behaviour , tested and treated for sexually transmitted diseases , counselled in risk reduction , and randomised to intervention or control groups . Network leaders learnt how to counsel their social network members on risk prevention . Networks were followed up 3 and 12 months after the intervention to determine evidence of risk reduction . Occurrence of unprotected intercourse during the 3 months before each assessment . Reported prevalence of unprotected intercourse in the intervention group fell more than in control group ( from 81 % and 80 % , respectively , at baseline to 65 % and 75 % at 3 months and 71 % and 86 % at 12 months ) . Changes were more pronounced among men with casual partners . Effects remained strong at long term follow - up , consistent with changes in risk reduction norms in the social network . Other measures of risk reduction corroborated the intervention 's effects . Endorsement and advice on HIV prevention from the leader of a social network produces well maintained change in the reported sexual practices in members of that network . This model has particular relevance for health interventions in populations such as Roma who may be distrustful of outsiders . Clinical Trials NCT00310973 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the effects of a
+      <group id="0">behavioural  intervention</group>
+      for
+      <outcome id="1">prevention  of  HIV  and  sexually  transmitted  diseases</outcome>
+      that identified , trained , and engaged leaders of Roma ( Gypsy ) men 's social networks to counsel their own network members .
+    </s>
+    <s id="3" section="setting">A disadvantaged , impoverished Roma settlement in Bulgaria .</s>
+    <s id="5" section="intervention">
+      At
+      <time id="0">baseline</time>
+      all participants were assessed for HIV risk behaviour , tested and treated for sexually transmitted diseases , counselled in risk reduction , and randomised to
+      <group id="0">intervention</group>
+      or
+      <group id="1">control</group>
+      groups .
+    </s>
+    <s id="6" section="intervention">Network leaders learnt how to counsel their social network members on risk prevention .</s>
+    <s id="10" section="results">Changes were more pronounced among men with casual partners .</s>
+    <s id="11" section="results">
+      Effects remained strong at
+      <time id="2">long  term  follow  -  up</time>
+      , consistent with changes in risk reduction norms in the social network .
+    </s>
+    <s id="12" section="results">Other measures of risk reduction corroborated the intervention 's effects .</s>
+    <s id="13" section="conclusions">
+      <group id="0">
+        <short>Endorsement  and  advice</short>
+        on  HIV  prevention  from  the  leader  of  a  social  network
+      </group>
+      produces well maintained change in the
+      <outcome id="0">reported  sexual  practices</outcome>
+      in members of that network .
+    </s>
+    <s id="14" section="conclusions">This model has particular relevance for health interventions in populations such as Roma who may be distrustful of outsiders .</s>
+    <s id="15" section="trial_registration">Clinical Trials NCT00310973 .</s>
+  </ignored>
+</abstract>
+

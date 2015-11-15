@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19423623">
+  <title>
+    <s id="0">Home versus outpatient ultraviolet B phototherapy for mild to severe psoriasis: pragmatic multicentre randomised controlled non-inferiority trial (PLUTO study).</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Dermatology departments of 14 hospitals in the Netherlands.</s>
+    <s id="4" section="participants">196 patients with psoriasis who were clinically eligible for narrowband (TL-01) ultraviolet B phototherapy.</s>
+    <s id="5" section="participants">The first 105 consecutive patients were also followed for 1 year after therapy .</s>
+    <s id="8" section="main outcome measures">The main outcome measure was effectiveness as measured by the proportion of patients with a 50% or more reduction of the baseline psoriasis area and severity index (PASI) or self administered psoriasis area and severity index (SAPASI), called the PASI 50 and SAPASI 50 (relevant treatment effect).</s>
+    <s id="10" section="main outcome measures">Also the proportions of patients reaching the PASI 75 and SAPASI 75 (successful treatment effect), and the PASI 90 and SAPASI 90 (almost complete clearance) were calculated.</s>
+    <s id="12" section="results">82% of the <group id="0" role="experiment">patients treated at <short>home</short></group> compared with 79% of the <group id="1" role="control">patients treated in an <short>outpatient setting</short></group> <outcome id="0" type="bad">reached the SAPASI 50</outcome> (difference 2.8%, 95% confidence interval -8.6% to 14.2%), and 70% compared with 73% <outcome id="1" type="bad">reached the PASI 50</outcome> (-2.3%, -15.7% to 11.1%).</s>
+    <s id="13" section="results">For <group id="0" role="experiment">patients treated at <short>home</short></group> the median <outcome id="2" type="good"> SAPASI score</outcome> decreased 82% (from 6.7 to 1.2) and the median <outcome id="3" type="good"> PASI score</outcome> decreased 74% (from 8.4 to 2.2), compared with 79% (from 7.0 to 1.4) and 70% (from 7.0 to 2.1) for <group id="1" role="control">patients treated in an <short>outpatient setting</short></group>.</s>
+    <s id="15" section="results">Total cumulative doses of ultraviolet B light were similar (51.5 v 46.1 J/cm(2), difference 5.4, 95% confidence interval -5.2 to 16.0), and the occurrence of <outcome id="5" type="bad">short term <short>side effects</short></outcome> did not differ.</s>
+    <s id="17" section="results"><outcome id="6" type="bad">Quality of life</outcome> increased equally regardless of treatment, but <group id="0" role="experiment">patients treated at <short>home</short></group> more often <outcome id="4" type="good">rated their experience with the therapy as "excellent"</outcome> (42%, <on group="0" outcome="4">38</on>/<gs group="0">90</gs>) compared with <group id="1" role="control">patients treated in the <short>outpatient department</short></group> (23%, <on group="1" outcome="4">20</on>/<gs group="1">88</gs>; P=0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether ultraviolet B phototherapy at home is equally safe and equally effective as ultraviolet B phototherapy in an outpatient setting for patients with psoriasis. 
+DESIGN: Pragmatic multicentre single blind randomised clinical trial (PLUTO study). 
+SETTING: Dermatology departments of 14 hospitals in the Netherlands. 
+PARTICIPANTS: 196 patients with psoriasis who were clinically eligible for narrowband (TL-01) ultraviolet B phototherapy. 
+The first 105 consecutive patients were also followed for one year after therapy. 
+INTERVENTION: Ultraviolet B phototherapy at home using a TL-01 home phototherapy unit compared with standard narrowband ultraviolet B phototherapy in an outpatient setting. 
+Both therapies were done in a setting reflecting routine daily practice in the Netherlands. 
+MAIN OUTCOME MEASURES: The main outcome measure was effectiveness as measured by the proportion of patients with a 50% or more reduction of the baseline psoriasis area and severity index (PASI) or self administered psoriasis area and severity index (SAPASI), called the PASI 50 and SAPASI 50 (relevant treatment effect). 
+Another outcome of effectiveness was the percentage reduction in median scores on the PASI as well as SAPASI. 
+Also the proportions of patients reaching the PASI 75 and SAPASI 75 (successful treatment effect), and the PASI 90 and SAPASI 90 (almost complete clearance) were calculated. 
+Other secondary outcomes were quality of life (SF-36, psoriasis disability index), burden of treatment (questionnaire), patients' preferences and satisfaction (questionnaire), and dosimetry and short term side effects (diary). 
+RESULTS: 82% of the patients treated at home compared with 79% of the patients treated in an outpatient setting reached the SAPASI 50 (difference 2.8%, 95% confidence interval -8.6% to 14.2%), and 70% compared with 73% reached the PASI 50 (-2.3%, -15.7% to 11.1%). 
+For patients treated at home the median SAPASI score decreased 82% (from 6.7 to 1.2) and the median PASI score decreased 74% (from 8.4 to 2.2), compared with 79% (from 7.0 to 1.4) and 70% (from 7.0 to 2.1) for patients treated in an outpatient setting. 
+Treatment effect as defined by the mean decline in PASI and SAPASI scores was significant (P&lt;0.001) and similar across groups (P&gt;0.3). 
+Total cumulative doses of ultraviolet B light were similar (51.5 v 46.1 J/cm(2), difference 5.4, 95% confidence interval -5.2 to 16.0), and the occurrence of short term side effects did not differ. 
+The burden of undergoing ultraviolet B phototherapy was significantly lower for patients treated at home (differences 1.23 to 3.01, all P&lt;/=0.001). 
+Quality of life increased equally regardless of treatment, but patients treated at home more often rated their experience with the therapy as "excellent" (42%, 38/90) compared with patients treated in the outpatient department (23%, 20/88; P=0.001). 
+CONCLUSION: Ultraviolet B phototherapy administered at home is equally safe and equally effective, both clinically and for quality of life, as ultraviolet B phototherapy administered in an outpatient setting. 
+Furthermore, ultraviolet B phototherapy at home resulted in a lower burden of treatment and led to greater patients' satisfaction. 
+Trial registration Current Controlled Trials ISRCTN83025173 and Clinicaltrials.gov 
+NCT00150930.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether ultraviolet B phototherapy at home is equally safe and equally effective as ultraviolet B phototherapy in an outpatient setting for patients with psoriasis.</s>
+    <s id="2" section="design">Pragmatic multicentre single blind randomised clinical trial (PLUTO study).</s>
+    <s id="6" section="intervention">Ultraviolet B phototherapy at home using a TL-01 home phototherapy unit compared with standard narrowband ultraviolet B phototherapy in an outpatient setting.</s>
+    <s id="7" section="intervention">Both therapies were done in a setting reflecting routine daily practice in the Netherlands.</s>
+    <s id="9" section="main outcome measures">Another outcome of effectiveness was the percentage reduction in median scores on the PASI as well as SAPASI.</s>
+    <s id="11" section="main outcome measures">Other secondary outcomes were quality of life (SF-36, psoriasis disability index), burden of treatment (questionnaire), patients' preferences and satisfaction (questionnaire), and dosimetry and short term side effects (diary).</s>
+    <s id="14" section="results">Treatment effect as defined by the mean decline in PASI and SAPASI scores was significant (P&lt;0.001) and similar across groups (P&gt;0.3).</s>
+    <s id="16" section="results">The burden of undergoing ultraviolet B phototherapy was significantly lower for patients treated at home (differences 1.23 to 3.01, all P&lt;/=0.001).</s>
+    <s id="18" section="conclusion">Ultraviolet B phototherapy administered at home is equally safe and equally effective, both clinically and for quality of life, as ultraviolet B phototherapy administered in an outpatient setting.</s>
+    <s id="19" section="conclusion">Furthermore, ultraviolet B phototherapy at home resulted in a lower burden of treatment and led to greater patients' satisfaction.</s>
+    <s id="20" section="conclusion">Trial registration Current Controlled Trials ISRCTN83025173 and Clinicaltrials.gov</s>
+    <s id="21" section="conclusion">NCT00150930.</s>
+  </ignored>
+</abstract>
+

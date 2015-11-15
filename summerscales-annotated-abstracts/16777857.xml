@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16777857">
+  <title>
+    <s id="0" section="title">
+      Outcomes of
+      <group id="0">endoscopic  surgery</group>
+      compared with
+      <group id="1">open  surgery</group>
+      for carpal tunnel syndrome among employed patients : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="participants">
+      <ps>128</ps>
+      employed patients aged 25-60 years with clinically diagnosed and electrophysiologically confirmed idiopathic carpal tunnel syndrome .
+    </s>
+    <s id="4" section="main_outcome_measures">
+      The primary outcome was
+      <outcome id="0" type="bad">
+        severity  of
+        <short>postoperative  pain</short>
+        in  the  scar  or  proximal  palm
+      </outcome>
+      and the
+      <outcome id="1">
+        degree  to  which
+        <short>pain  or  tenderness  limits  activities</short>
+      </outcome>
+      , each rated on a 4 point scale , transformed into a combined score of 0 ( none ) to 100 ( severe pain or tenderness causing severe activity limitation ) .
+    </s>
+    <s id="5" section="main_outcome_measures">
+      The secondary outcomes were
+      <outcome id="2">length  of  postoperative  work  absence</outcome>
+      ,
+      <outcome id="3">
+        <short>severity  of  symptoms</short>
+        of  carpal  tunnel  syndrome
+      </outcome>
+      and
+      <outcome id="4">functional  status  scores</outcome>
+      ,
+      <outcome id="5">
+        SF-12
+        <short>quality  of  life</short>
+        score
+      </outcome>
+      , and
+      <outcome id="6">hand  sensation</outcome>
+      and
+      <outcome id="7">strength</outcome>
+      ( blinded examiner ) ; follow - up at
+      <time id="0">3</time>
+      and
+      <time id="1">6  weeks</time>
+      and
+      <time id="2">3</time>
+      and
+      <time id="3">12  months</time>
+      .
+    </s>
+    <s id="6" section="results">
+      <gs group="0">63</gs>
+      patients were allocated to
+      <group id="0">endoscopic  surgery</group>
+      and
+      <gs group="1">65</gs>
+      patients to
+      <group id="1">open  surgery</group>
+      , with no withdrawals or dropouts .
+    </s>
+    <s id="8" section="results">
+      At
+      <time id="2">3  months</time>
+      ,
+      <outcome id="0" type="bad">
+        <short>pain</short>
+        in  the  scar  or  palm
+      </outcome>
+      was reported by
+      <on group="0" outcome="0">33</on>
+      patients ( 52 % ) in the
+      <group id="0">endoscopic  group</group>
+      and
+      <on group="1" outcome="0">53</on>
+      patients ( 82 % ) in the
+      <group id="1">open  group</group>
+      ( number needed to treat 3.4 , 95 % confidence interval 2.3 to 7.7 ) and the mean score difference for
+      <outcome id="0" type="bad">
+        severity  of
+        <short>pain</short>
+        in  scar  or  palm
+      </outcome>
+      and
+      <outcome id="1">limitation  of  activity</outcome>
+      was 13.3 ( 5.3 to 21.3 ) .
+    </s>
+    <s id="10" section="results">
+      The
+      <outcome id="2">
+        median  length  of  work
+        <short>absence  after  surgery</short>
+      </outcome>
+      was 28 days in both groups .
+    </s>
+  </annotated>
+  <fulltext>Outcomes of endoscopic surgery compared with open surgery for carpal tunnel syndrome among employed patients : randomised controlled trial . To compare endoscopic and open carpal tunnel release surgery among employed patients with carpal tunnel syndrome . Randomised controlled trial at a single orthopaedic department . 128 employed patients aged 25-60 years with clinically diagnosed and electrophysiologically confirmed idiopathic carpal tunnel syndrome . The primary outcome was severity of postoperative pain in the scar or proximal palm and the degree to which pain or tenderness limits activities , each rated on a 4 point scale , transformed into a combined score of 0 ( none ) to 100 ( severe pain or tenderness causing severe activity limitation ) . The secondary outcomes were length of postoperative work absence , severity of symptoms of carpal tunnel syndrome and functional status scores , SF-12 quality of life score , and hand sensation and strength ( blinded examiner ) ; follow - up at 3 and 6 weeks and 3 and 12 months . 63 patients were allocated to endoscopic surgery and 65 patients to open surgery , with no withdrawals or dropouts . Pain in the scar or proximal palm was less prevalent or severe after endoscopic surgery than after open surgery but the differences were generally small . At 3 months , pain in the scar or palm was reported by 33 patients ( 52 % ) in the endoscopic group and 53 patients ( 82 % ) in the open group ( number needed to treat 3.4 , 95 % confidence interval 2.3 to 7.7 ) and the mean score difference for severity of pain in scar or palm and limitation of activity was 13.3 ( 5.3 to 21.3 ) . No differences between the groups were found in the other outcomes . The median length of work absence after surgery was 28 days in both groups . Quality of life measures improved substantially . In carpal tunnel syndrome , endoscopic surgery was associated with less postoperative pain than open surgery , but the small size of the benefit and similarity in other outcomes make its cost effectiveness uncertain .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To compare
+      <group id="0">endoscopic</group>
+      and
+      <group id="1">open  carpal  tunnel  release  surgery</group>
+      among employed patients with carpal tunnel syndrome .
+    </s>
+    <s id="2" section="design_and_setting">Randomised controlled trial at a single orthopaedic department .</s>
+    <s id="7" section="results">
+      <outcome id="0" type="bad">
+        <short>Pain</short>
+        in  the  scar  or  proximal  palm
+      </outcome>
+      was less prevalent or severe after
+      <group id="0">endoscopic  surgery</group>
+      than after
+      <group id="1">open  surgery</group>
+      but the differences were generally small .
+    </s>
+    <s id="9" section="results">
+      No differences between the groups were found in the
+      <outcome id="8">other  outcomes</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      <outcome id="5">Quality  of  life  measures</outcome>
+      improved substantially .
+    </s>
+    <s id="12" section="conclusions">
+      In carpal tunnel syndrome ,
+      <group id="0">endoscopic  surgery</group>
+      was associated with less
+      <outcome id="0" type="bad">postoperative  pain</outcome>
+      than
+      <group id="1">open  surgery</group>
+      , but the small size of the benefit and similarity in
+      <outcome id="8">other  outcomes</outcome>
+      make its cost effectiveness uncertain .
+    </s>
+  </ignored>
+</abstract>
+

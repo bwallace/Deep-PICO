@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19723707">
+  <title>
+    <s id="0">Effects of a physiotherapy and occupational therapy intervention on mobility and activity in care home residents: a cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Care homes within the NHS South Birmingham primary care trust and the NHS Birmingham East and North primary care trust that had more than 5 beds and provided for people in the care categories " physical disability " and " older people . "</s>
+    <s id="5" section="intervention">A targeted 3 month occupational therapy and physiotherapy programme .</s>
+    <s id="7" section="results">24 of 77 nursing and residential homes that catered for residents with mobility limitations and dependency for activities of daily living were selected for study: 12 were randomly allocated to the <group id="0" role="experiment"> intervention arm</group> (<gs group="0">128</gs> residents, mean age 86 years) and 12 to the <group id="1" role="control">control arm</group> (<gs group="1">121</gs> residents, mean age 84 years).</s>
+    <s id="8" section="results">Participants were evaluated by independent assessors blind to study arm allocation before randomisation ( 0 months ) , <time id="0">3 months</time> after randomisation ( at the end of the treatment period for patients who received the intervention ) , and again at <time id="1">6 months</time> after randomisation .</s>
+    <s id="9" section="results">After adjusting for home effect and baseline characteristics , no significant differences were found in mean <outcome id="0" type="good">Barthel index scores</outcome> at <time id="1">6 months</time> post - randomisation between treatment arms ( mean effect 0.08 , 95 % confidence interval - 1.14 to 1.30 ; P = 0.90 ) , across assessments ( - 0.01 , - 0.63 to 0.60 ; P = 0.96 ) , or in the interaction between assessment and intervention ( 0.42 , - 0.48 to 1.32 ; P = 0.36 ) .</s>
+    <s id="11" section="conclusions">The 3 month occupational therapy and physiotherapy programme had no significant effect on <outcome id="1" type="good">mobility</outcome> and <outcome id="2" type="good">independence</outcome> .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the clinical effectiveness of a programme of physiotherapy and occupational therapy with standard care in care home residents who have mobility limitations and are dependent in performing activities of daily living. 
+DESIGN: Cluster randomised controlled trial, with random allocation at the level of care home. 
+SETTING: Care homes within the NHS South Birmingham primary care trust and the NHS Birmingham East and North primary care trust that had more than five beds and provided for people in the care categories "physical disability" and "older people." 
+PARTICIPANTS: Care home residents with mobility limitations, limitations in activities of daily living (as screened by the Barthel index), and not receiving end of life care were eligible to take part in the study. 
+INTERVENTION: A targeted three month occupational therapy and physiotherapy programme. 
+MAIN OUTCOME MEASURES: Scores on the Barthel index and the Rivermead mobility index. 
+RESULTS: 24 of 77 nursing and residential homes that catered for residents with mobility limitations and dependency for activities of daily living were selected for study: 12 were randomly allocated to the intervention arm (128 residents, mean age 86 years) and 12 to the control arm (121 residents, mean age 84 years). 
+Participants were evaluated by independent assessors blind to study arm allocation before randomisation (0 months), three months after randomisation (at the end of the treatment period for patients who received the intervention), and again at six months after randomisation. 
+After adjusting for home effect and baseline characteristics, no significant differences were found in mean Barthel index scores at six months post-randomisation between treatment arms (mean effect 0.08, 95% confidence interval -1.14 to 1.30; P=0.90), across assessments (-0.01, -0.63 to 0.60; P=0.96), or in the interaction between assessment and intervention (0.42, -0.48 to 1.32; P=0.36). 
+Similarly, no significant differences were found in the mean Rivermead mobility index scores between treatment arms (0.62, -0.51 to 1.76; P=0.28), across assessments (-0.15, -0.65 to 0.35; P=0.55), or interaction (0.71, -0.02 to 1.44; P=0.06). 
+CONCLUSIONS: The three month occupational therapy and physiotherapy programme had no significant effect on mobility and independence. 
+On the other hand, the variation in residents' functional ability, the prevalence of cognitive impairment, and the prevalence of depression were considerably higher in this sample than expected on the basis of previous work. 
+Further research to clarify the efficacy of occupational therapy and physiotherapy is required if access to therapy services is to be recommended in this population. 
+TRIAL REGISTRATION: ISRCTN79859980.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the clinical effectiveness of a programme of physiotherapy and occupational therapy with standard care in care home residents who have mobility limitations and are dependent in performing activities of daily living.</s>
+    <s id="2" section="design">Cluster randomised controlled trial, with random allocation at the level of care home.</s>
+    <s id="4" section="participants">Care home residents with mobility limitations, limitations in activities of daily living (as screened by the Barthel index), and not receiving end of life care were eligible to take part in the study.</s>
+    <s id="6" section="main outcome measures">Scores on the Barthel index and the Rivermead mobility index.</s>
+    <s id="10" section="results">Similarly, no significant differences were found in the mean Rivermead mobility index scores between treatment arms (0.62, -0.51 to 1.76; P=0.28), across assessments (-0.15, -0.65 to 0.35; P=0.55), or interaction (0.71, -0.02 to 1.44; P=0.06).</s>
+    <s id="12" section="conclusions">On the other hand, the variation in residents' functional ability, the prevalence of cognitive impairment, and the prevalence of depression were considerably higher in this sample than expected on the basis of previous work.</s>
+    <s id="13" section="conclusions">Further research to clarify the efficacy of occupational therapy and physiotherapy is required if access to therapy services is to be recommended in this population.</s>
+    <s id="14" section="trial registration">ISRCTN79859980.</s>
+  </ignored>
+</abstract>
+

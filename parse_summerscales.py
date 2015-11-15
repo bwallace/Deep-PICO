@@ -15,9 +15,14 @@ def _just_the_txt(s):
 ##
 # fix this. a potential solution!!!
 # http://stackoverflow.com/questions/2957013/beautifulsoup-just-get-inside-of-a-tag-no-matter-how-many-enclosing-tags-there
-def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts"): 
-    pmids, docs, lbls = [], [], []
+def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts", 
+                            start_and_stop_tokens=True): 
+    
+    stop_token =  "STOPSTOPSTOP"
+    start_token = "STARTSTARTSTART"
 
+    pmids, docs, lbls = [], [], []
+    
     for f in _get_xml_file_names(annotated_data_path):
         soup = bs.BeautifulSoup(open(f).read())
         pmid = soup.find("abstract")['id']
@@ -35,7 +40,10 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts"):
             # stripped of tags; just the text
             ordered_sentences_clean.append(_just_the_txt(cur_s))
 
-        doc_sentence_tokens, doc_sentence_lbls = [], []
+        if start_and_stop_tokens:
+            doc_sentence_tokens, doc_sentence_lbls = [[start_token]], [[-1]]
+        else:
+            doc_sentence_tokens, doc_sentence_lbls = [], []
 
         for sent_idx, sent in enumerate(ordered_sentences):
             cleaned_sent, group_tokenized, sent_tokenized = [None]*3 # for sanity
@@ -65,11 +73,18 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts"):
             doc_sentence_tokens.append(sent_tokenized)
 
 
+
+        if start_and_stop_tokens:
+            doc_sentence_lbls.append([-1])
+            doc_sentence_tokens.append([stop_token])
+            #pmids.append([pmid])
+
         docs.extend(doc_sentence_tokens)
         lbls.extend(doc_sentence_lbls)
         #b.set_trace()
         pmids.extend([pmid]*len(doc_sentence_lbls))
 
+            
     
     ## just use sklearn to get indices for vocab
     V = []

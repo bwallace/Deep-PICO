@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16210250">
+  <title>
+    <s id="0" section="title">
+      Effect of incorporating a
+      <group id="0">
+        10  minute
+        <short>point  of  care  test</short>
+        for  salivary  nicotine  metabolites
+      </group>
+      into a general practice based smoking cessation programme : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>100</ps>
+      adult smokers .
+    </s>
+    <s id="6" section="interventions">
+      Saliva samples were analysed at
+      <time id="0">presentation</time>
+      and at
+      <time id="1">8  weeks</time>
+      for
+      <outcome id="0">salivary  nicotine  metabolites</outcome>
+      using a
+      <group id="0">
+        10  minute  semiquantitative
+        <short>point  of  care  test</short>
+      </group>
+      .
+    </s>
+    <s id="7" section="main__outcome_measures">
+      <outcome id="3">Smoking  cessation</outcome>
+      measured by
+      <outcome id="0">salivary  nicotine  metabolite  values</outcome>
+      ( scale 0- 6 ) ,
+      <outcome id="1">
+        <short>patient  feedback  on  the  perceived  value  of  the  test</short>
+        (  visual  analogue  scale  )  in  quitting
+      </outcome>
+      , and
+      <outcome id="2">reduction  in  tobacco  use</outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      A higher
+      <outcome id="3">smoking  quit  rate</outcome>
+      was achieved with the
+      <group id="0">point  of  care  test</group>
+      ( 23 % cases v 7 % controls ; P &lt; 0.039 ) , and
+      <outcome id="2">overall  tobacco  use</outcome>
+      also decreased ( 68 % cases v 28 % controls ; P &lt; 0.001 ) .
+    </s>
+    <s id="10" section="results">
+      87 participants reattended at
+      <time id="1">8  weeks</time>
+      (
+      <gs group="0">44</gs>
+      cases ,
+      <gs group="1">43</gs>
+      controls ) .
+    </s>
+    <s id="11" section="results">
+      <outcome id="0">Mean  nicotine  metabolite  values</outcome>
+      at
+      <time id="1">8  weeks</time>
+      were 2.58 ( 2.0 ) for
+      <group id="0">cases</group>
+      and 4.29 ( 1.8 ) for
+      <group id="1">controls</group>
+      ( P &lt; 0.001 ) .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="0">
+        Incorporation  of  individualised  personal  feedback  using  a
+        <short>point  of  care  test</short>
+        for  salivary  nicotine  metabolites  into  a  general  practice  based  smoking  cessation  programme
+      </group>
+      increased
+      <outcome id="3">quit  rates</outcome>
+      by 17 % at
+      <time id="1">8  weeks</time>
+      and reduced
+      <outcome id="2">tobacco  use</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Effect of incorporating a 10 minute point of care test for salivary nicotine metabolites into a general practice based smoking cessation programme : randomised controlled trial . To investigate the effect of immediate feedback from a point of care test for salivary nicotine metabolites in promoting smoking cessation and reduction in tobacco use . Prospective , operator blinded , randomised controlled trial . General dental practice , London . 100 adult smokers . Participants completed a questionnaire on smoking , undertook a clinical examination , and received counselling in smoking cessation . Saliva samples were analysed at presentation and at 8 weeks for salivary nicotine metabolites using a 10 minute semiquantitative point of care test . Smoking cessation measured by salivary nicotine metabolite values ( scale 0- 6 ) , patient feedback on the perceived value of the test ( visual analogue scale ) in quitting , and reduction in tobacco use . A higher smoking quit rate was achieved with the point of care test ( 23 % cases v 7 % controls ; P &lt; 0.039 ) , and overall tobacco use also decreased ( 68 % cases v 28 % controls ; P &lt; 0.001 ) . Baseline values for salivary nicotine metabolites did not differ between the groups ( cases , mean 4.1 , SD 1.3 and 4.3 , 1.4 ; P = 0.51 ) . 87 participants reattended at 8 weeks ( 44 cases , 43 controls ) . Mean nicotine metabolite values at 8 weeks were 2.58 ( 2.0 ) for cases and 4.29 ( 1.8 ) for controls ( P &lt; 0.001 ) . Incorporation of individualised personal feedback using a point of care test for salivary nicotine metabolites into a general practice based smoking cessation programme increased quit rates by 17 % at 8 weeks and reduced tobacco use .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate the effect of
+      <group id="0">
+        immediate  feedback  from  a
+        <short>point  of  care  test</short>
+        for  salivary  nicotine  metabolites
+      </group>
+      in promoting
+      <outcome id="0">smoking  cessation</outcome>
+      and
+      <outcome id="1">reduction  in  tobacco  use</outcome>
+      .
+    </s>
+    <s id="2" section="design">Prospective , operator blinded , randomised controlled trial .</s>
+    <s id="3" section="setting">General dental practice , London .</s>
+    <s id="5" section="interventions">Participants completed a questionnaire on smoking , undertook a clinical examination , and received counselling in smoking cessation .</s>
+    <s id="9" section="results">
+      <time id="0">Baseline</time>
+      values for
+      <outcome id="0">salivary  nicotine  metabolites</outcome>
+      did not differ between the groups ( cases , mean 4.1 , SD 1.3 and 4.3 , 1.4 ; P = 0.51 ) .
+    </s>
+  </ignored>
+</abstract>
+

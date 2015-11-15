@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17023435">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">beta  radiation</group>
+      on
+      <outcome id="4">success  of  glaucoma  drainage  surgery</outcome>
+      in South Africa : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 public hospitals in South Africa .</s>
+    <s id="4" section="participants">450 black Africans with primary glaucoma .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Trabeculectomy  with  1000  cGy
+        <short>beta  radiation</short>
+      </group>
+      or
+      <group id="1">
+        standard  trabeculectomy
+        <short>without  beta  radiation</short>
+        (  placebo  )
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome measure was
+      <outcome id="0">
+        <short>surgical  failure</short>
+        within  12  months  (  intraocular  pressure  &gt;  21  mm  Hg  while  receiving  no  treatment  for  ocular  hypotension  )
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <ps>320</ps>
+      people were recruited .
+    </s>
+    <s id="9" section="results">
+      <group id="0">beta  radiation</group>
+      was given to
+      <gs group="0">164</gs>
+      ; 20 ( 6 % ) were not seen again after surgery .
+    </s>
+    <s id="10" section="results">
+      <time id="0">1  year  after  surgery</time>
+      the
+      <outcome id="0">
+        estimated  risk  of
+        <short>surgical  failure</short>
+      </outcome>
+      was 30 % ( 95 % confidence interval 22 % to 38 % ) in the
+      <group id="1">placebo  arm</group>
+      compared with 5 % ( 2 % to 10 % ) in the
+      <group id="0">radiation  arm</group>
+      .
+    </s>
+    <s id="11" section="results">
+      The
+      <group id="0">radiation  group</group>
+      experienced a higher
+      <outcome id="2">
+        incidence  of
+        <short>operable  cataract</short>
+      </outcome>
+      ( 18 participants ) than the
+      <group id="1">placebo  group</group>
+      ( 5 participants ; P = 0.01 ) .
+    </s>
+    <s id="12" section="results">
+      At
+      <time id="1">2  years</time>
+      the
+      <outcome id="0">estimated  risks</outcome>
+      with
+      <group id="1">placebo</group>
+      and
+      <group id="0">beta  radiation</group>
+      were , respectively , 2.8 % ( 0.9 % to 8.3 % ) and 16.7 % ( 10.0 % to 27.3 % ) .
+    </s>
+    <s id="14" section="conclusion">
+      Some evidence was , however , found of an increased
+      <outcome id="2">risk  for  cataract  surgery</outcome>
+      ( a known complication of trabeculectomy ) in the
+      <group id="0">beta  radiation  arm</group>
+      during
+      <time id="1">the  2  years  after  surgery</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Effect of beta radiation on success of glaucoma drainage surgery in South Africa : randomised controlled trial . To evaluate whether beta radiation may offer a practical method of improving surgical success for glaucoma drainage surgery in South Africa . Double blind , randomised controlled trial . 3 public hospitals in South Africa . 450 black Africans with primary glaucoma . Trabeculectomy with 1000 cGy beta radiation or standard trabeculectomy without beta radiation ( placebo ) . Primary outcome measure was surgical failure within 12 months ( intraocular pressure &gt; 21 mm Hg while receiving no treatment for ocular hypotension ) . Secondary outcomes were visual acuity , surgical reintervention for cataract , and intraoperative and postoperative complications . 320 people were recruited . beta radiation was given to 164 ; 20 ( 6 % ) were not seen again after surgery . 1 year after surgery the estimated risk of surgical failure was 30 % ( 95 % confidence interval 22 % to 38 % ) in the placebo arm compared with 5 % ( 2 % to 10 % ) in the radiation arm . The radiation group experienced a higher incidence of operable cataract ( 18 participants ) than the placebo group ( 5 participants ; P = 0.01 ) . At 2 years the estimated risks with placebo and beta radiation were , respectively , 2.8 % ( 0.9 % to 8.3 % ) and 16.7 % ( 10.0 % to 27.3 % ) . beta radiation substantially reduced the risk of surgical failure after glaucoma surgery . Some evidence was , however , found of an increased risk for cataract surgery ( a known complication of trabeculectomy ) in the beta radiation arm during the 2 years after surgery . ISRCTN62430622 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate whether
+      <group id="0">beta  radiation</group>
+      may offer a practical method of improving
+      <outcome id="4">surgical  success  for  glaucoma  drainage  surgery</outcome>
+      in South Africa .
+    </s>
+    <s id="2" section="design">Double blind , randomised controlled trial .</s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">visual  acuity</outcome>
+      ,
+      <outcome id="2">
+        <short>surgical  reintervention</short>
+        for  cataract
+      </outcome>
+      , and
+      <outcome id="3">intraoperative  and  postoperative  complications</outcome>
+      .
+    </s>
+    <s id="13" section="conclusion">
+      <group id="0">beta  radiation</group>
+      substantially reduced the
+      <outcome id="0">
+        risk  of
+        <short>surgical  failure  after  glaucoma  surgery</short>
+      </outcome>
+      .
+    </s>
+    <s id="15" section="trial_registration">ISRCTN62430622 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

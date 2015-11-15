@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15951310">
+  <title>
+    <s id="0" section="title">
+      Treatment of head louse infestation with
+      <group id="0">
+        4  %
+        <short>dimeticone</short>
+        lotion
+      </group>
+      : randomised controlled equivalence trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To evaluate the efficacy and safety of
+      <group id="0">
+        4  %
+        <short>dimeticone</short>
+        lotion
+      </group>
+      for treatment of head louse infestation .
+    </s>
+    <s id="4" section="participants">
+      <ps>214</ps>
+      young people aged 4 to 18 years and 39 adults with active head louse infestation .
+    </s>
+    <s id="5" section="interventions">
+      2 applications 7 days apart of either
+      <group id="0">
+        4.0  %
+        <short>dimeticone</short>
+        lotion  ,  applied  for  8  hours  or  overnight
+      </group>
+      , or
+      <group id="1">
+        0.5  %
+        <short>phenothrin</short>
+        liquid  ,  applied  for  12  hours  or  overnight
+      </group>
+      .
+    </s>
+    <s id="7" section="results">
+      <outcome id="0" type="good">Cure  or  reinfestation  after  cure</outcome>
+      occurred in
+      <on group="0" outcome="0">89</on>
+      of
+      <gs group="0">127</gs>
+      ( 70 % )
+      <group id="0">participants  treated  with  <short>dimeticone</short></group>
+      and
+      <on group="1" outcome="0">94</on>
+      of
+      <gs group="1">125</gs>
+      ( 75 % )
+      <group id="1">treated  with  <short>phenothrin</short></group>
+      ( difference - 5 % , 95 % confidence interval - 16 % to 6 % ) .
+    </s>
+    <s id="8" section="results">
+      Per protocol analysis showed that
+      <on group="0" outcome="1">84</on>
+      of
+      <gs group="0">121</gs>
+      ( 69 % ) participants were
+      <outcome id="1" type="good">cured</outcome>
+      with
+      <group id="0">dimeticone</group>
+      and
+      <on group="1" outcome="1">90</on>
+      of
+      <gs group="1">116</gs>
+      ( 78 % ) were
+      <outcome id="1" type="good">cured</outcome>
+      with
+      <group id="1">phenothrin</group>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="2" type="bad">Irritant  reactions</outcome>
+      occurred significantly less with
+      <group id="0">dimeticone</group>
+      (
+      <on group="0" outcome="2">3</on>
+      /
+      <gs group="0">127</gs>
+      , 2 % ) than with
+      <group id="1">phenothrin</group>
+      (
+      <on group="1" outcome="2">11</on>
+      /
+      <gs group="1">125</gs>
+      , 9 % ; difference - 6 % , - 12 % to - 1 % ) .
+    </s>
+    <s id="10" section="results">
+      Per protocol this was
+      <on group="0" outcome="2">3</on>
+      of
+      <gs group="0">121</gs>
+      ( 3 % )
+      <group id="0">participants  treated  with  dimeticone</group>
+      and
+      <on group="1" outcome="2">10</on>
+      of
+      <gs group="1">116</gs>
+      ( 9 % )
+      <group id="1">treated  with  phenothrin</group>
+      ( difference - 6 % , - 12 % to - 0.3 % ) .
+    </s>
+  </annotated>
+  <fulltext>Treatment of head louse infestation with 4 % dimeticone lotion : randomised controlled equivalence trial . To evaluate the efficacy and safety of 4 % dimeticone lotion for treatment of head louse infestation . Randomised controlled equivalence trial . Community , with home visits . 214 young people aged 4 to 18 years and 39 adults with active head louse infestation . 2 applications 7 days apart of either 4.0 % dimeticone lotion , applied for 8 hours or overnight , or 0.5 % phenothrin liquid , applied for 12 hours or overnight . Cure of infestation ( no evidence of head lice after second treatment ) or reinfestation after cure . Cure or reinfestation after cure occurred in 89 of 127 ( 70 % ) participants treated with dimeticone and 94 of 125 ( 75 % ) treated with phenothrin ( difference - 5 % , 95 % confidence interval - 16 % to 6 % ) . Per protocol analysis showed that 84 of 121 ( 69 % ) participants were cured with dimeticone and 90 of 116 ( 78 % ) were cured with phenothrin . Irritant reactions occurred significantly less with dimeticone ( 3 / 127 , 2 % ) than with phenothrin ( 11 / 125 , 9 % ; difference - 6 % , - 12 % to - 1 % ) . Per protocol this was 3 of 121 ( 3 % ) participants treated with dimeticone and 10 of 116 ( 9 % ) treated with phenothrin ( difference - 6 % , - 12 % to - 0.3 % ) . Dimeticone lotion cures head louse infestation . Dimeticone seems less irritant than existing treatments and has a physical action on lice that should not be affected by resistance to neurotoxic insecticides .</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised controlled equivalence trial .</s>
+    <s id="3" section="setting">Community , with home visits .</s>
+    <s id="6" section="outcome_measures">
+      <outcome id="0" type="good">
+        <short>Cure  of  infestation</short>
+        (  no  evidence  of  head  lice
+        <time id="0">after  second  treatment</time>
+        )  or  reinfestation  after  cure
+      </outcome>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        <short>Dimeticone</short>
+        lotion
+      </group>
+      cures head louse infestation .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="0">Dimeticone</group>
+      seems less irritant than existing treatments and has a physical action on lice that should not be affected by resistance to neurotoxic insecticides .
+    </s>
+  </ignored>
+</abstract>
+

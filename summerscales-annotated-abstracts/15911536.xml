@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15911536">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Surgical  stabilisation</short>
+        of  the  spine
+      </group>
+      compared with a
+      <group id="1">
+        programme  of
+        <short>intensive  rehabilitation</short>
+      </group>
+      for the management of patients with chronic low back pain : cost utility analysis based on a randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>349</ps>
+      patients randomised to
+      <group id="0">surgery</group>
+      ( n =
+      <gs group="0">176</gs>
+      ) or to an
+      <group id="1">
+        intensive
+        <short>rehabilitation  programme</short>
+      </group>
+      ( n =
+      <gs group="1">173</gs>
+      ) from 15 centres across the United Kingdom between June 1996 and February 2002 .
+    </s>
+    <s id="5" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Costs</short>
+        related  to  back  pain  and  incurred  by  the  NHS  and  patients
+      </outcome>
+      up to
+      <time id="0">24  months</time>
+      after randomisation .
+    </s>
+    <s id="9" section="results">
+      At
+      <time id="0">2  years</time>
+      , 38 patients randomised to
+      <group id="1">rehabilitation</group>
+      had received
+      <group id="1">rehabilitation</group>
+      and
+      <group id="0">surgery</group>
+      whereas just 7
+      <group id="0">surgery  patients</group>
+      had received both treatments .
+    </s>
+    <s id="10" section="results">
+      The
+      <outcome id="0">mean  total  cost  per  patient</outcome>
+      was estimated to be 7830 pounds sterling ( SD 5202 pounds sterling ) in the
+      <group id="0">surgery  group</group>
+      and 4526 pounds sterling ( SD 4155 pounds sterling ) in the
+      <group id="1">intensive  rehabilitation  arm</group>
+      , a significant difference of 3304 pounds sterling ( 95 % confidence interval 2317 pounds sterling to 4291 pounds sterling ) .
+    </s>
+    <s id="13" section="conclusion">
+      <time id="0">2  year  follow  -  up</time>
+      data show that
+      <group id="0">
+        <short>surgical  stabilisation</short>
+        of  the  spine
+      </group>
+      may not be a cost effective use of scarce healthcare resources .
+    </s>
+  </annotated>
+  <fulltext>Surgical stabilisation of the spine compared with a programme of intensive rehabilitation for the management of patients with chronic low back pain : cost utility analysis based on a randomised controlled trial . To determine whether , from a health provider and patient perspective , surgical stabilisation of the spine is cost effective when compared with an intensive programme of rehabilitation in patients with chronic low back pain . Economic evaluation alongside a pragmatic randomised controlled trial . Secondary care . 349 patients randomised to surgery ( n = 176 ) or to an intensive rehabilitation programme ( n = 173 ) from 15 centres across the United Kingdom between June 1996 and February 2002 . Costs related to back pain and incurred by the NHS and patients up to 24 months after randomisation . Return to paid employment and total hours worked . Patient utility as estimated by using the EuroQol EQ-5D questionnaire at several time points and used to calculate quality adjusted life years ( QALYs ) . Cost effectiveness was expressed as an incremental cost per QALY . At 2 years , 38 patients randomised to rehabilitation had received rehabilitation and surgery whereas just 7 surgery patients had received both treatments . The mean total cost per patient was estimated to be 7830 pounds sterling ( SD 5202 pounds sterling ) in the surgery group and 4526 pounds sterling ( SD 4155 pounds sterling ) in the intensive rehabilitation arm , a significant difference of 3304 pounds sterling ( 95 % confidence interval 2317 pounds sterling to 4291 pounds sterling ) . Mean QALYs over the trial period were 1.004 ( SD 0.405 ) in the surgery group and 0.936 ( SD 0.431 ) in the intensive rehabilitation group , giving a non - significant difference of 0.068 ( - 0.020 to 0.156 ) . The incremental cost effectiveness ratio was estimated to be 48,588 pounds sterling per QALY gained ( - 279,883 pounds sterling to 372,406 pounds sterling ) . 2 year follow - up data show that surgical stabilisation of the spine may not be a cost effective use of scarce healthcare resources . However , sensitivity analyses show that this could change - for example , if the proportion of rehabilitation patients requiring subsequent surgery continues to increase .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether , from a health provider and patient perspective ,
+      <group id="0">
+        <short>surgical  stabilisation</short>
+        of  the  spine
+      </group>
+      is cost effective when compared with an
+      <group id="1">
+        intensive  programme  of
+        <short>rehabilitation</short>
+      </group>
+      in patients with chronic low back pain .
+    </s>
+    <s id="2" section="design">Economic evaluation alongside a pragmatic randomised controlled trial .</s>
+    <s id="3" section="setting">Secondary care .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="1">Return  to  paid  employment</outcome>
+      and
+      <outcome id="2">total  hours  worked</outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="3">
+        <short>Patient  utility</short>
+        as  estimated  by  using  the  EuroQol  EQ-5D  questionnaire  at  several  time  points  and  used  to  calculate  quality  adjusted  life  years  (  QALYs  )
+      </outcome>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      <outcome id="4">Cost  effectiveness</outcome>
+      was expressed as an
+      <outcome id="4">incremental  cost  per  QALY</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      <outcome id="3">Mean  QALYs</outcome>
+      over the trial period were 1.004 ( SD 0.405 ) in the
+      <group id="0">surgery  group</group>
+      and 0.936 ( SD 0.431 ) in the
+      <group id="1">intensive  rehabilitation  group</group>
+      , giving a non - significant difference of 0.068 ( - 0.020 to 0.156 ) .
+    </s>
+    <s id="12" section="results">
+      The
+      <outcome id="4">incremental  cost  effectiveness  ratio</outcome>
+      was estimated to be 48,588 pounds sterling per QALY gained ( - 279,883 pounds sterling to 372,406 pounds sterling ) .
+    </s>
+    <s id="14" section="conclusion">However , sensitivity analyses show that this could change - for example , if the proportion of rehabilitation patients requiring subsequent surgery continues to increase .</s>
+  </ignored>
+</abstract>
+

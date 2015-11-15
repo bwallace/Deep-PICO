@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19181729">
+  <title>
+    <s id="0">Effectiveness of policy to provide breastfeeding groups (BIG) for pregnant and breastfeeding mothers in primary care: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Pregnant women, breastfeeding mothers, and babies registered with 14 of 66 eligible clusters of general practices (localities) in Scotland that routinely collect breastfeeding outcome data.</s>
+    <s id="6" section="main outcome measures">Primary outcome : <outcome id="0" type="good">any breast feeding at 6-8 weeks</outcome> from routinely collected data for 2 pre - trial years and 2 trial years .</s>
+    <s id="8" section="results">Between 1 February 2005 and 31 January 2007, 9747 birth records existed for <group id="0" role="experiment">intervention localities</group> and 9111 for <group id="1" role="control">control localities</group>.</s>
+    <s id="9" section="results">The <outcome id="1" type="good">number of breastfeeding groups</outcome> increased from 10 to 27 in <group id="0" role="experiment">intervention localities</group>, where 1310 women attended, and remained at 10 groups in <group id="1" role="control">control localities</group>.</s>
+    <s id="11" section="results"><outcome id="0" type="good">Any <short>breast feeding</short> at 6-8 weeks</outcome> declined from 27% to 26% in <group id="0" role="experiment">intervention localities</group> and increased from 29% to 30% in <group id="1" role="control">control localities</group> (P=0.08, adjusted for pre-trial rate).</s>
+    <s id="12" section="results"><outcome id="0" type="good">Any <short>breast feeding</short> at 6-8 weeks</outcome> increased from 38% to 39% in localities not participating in the trial.</s>
+    <s id="15" section="results">The <outcome id="2" type="bad">locality cost</outcome> was pound13 400 (euro14 410; $20 144) a year.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the clinical effectiveness and cost effectiveness of a policy to provide breastfeeding groups for pregnant and breastfeeding women. 
+DESIGN: Cluster randomised controlled trial with prospective mixed method embedded case studies to evaluate implementation processes. 
+SETTING: Primary care in Scotland. 
+PARTICIPANTS: Pregnant women, breastfeeding mothers, and babies registered with 14 of 66 eligible clusters of general practices (localities) in Scotland that routinely collect breastfeeding outcome data. 
+INTERVENTION: Localities set up new breastfeeding groups to provide population coverage; control localities did not change group activity. 
+MAIN OUTCOME MEASURES: Primary outcome: any breast feeding at 6-8 weeks from routinely collected data for two pre-trial years and two trial years. 
+Secondary outcomes: any breast feeding at birth, 5-7 days, and 8-9 months; maternal satisfaction. 
+RESULTS: Between 1 February 2005 and 31 January 2007, 9747 birth records existed for intervention localities and 9111 for control localities. 
+The number of breastfeeding groups increased from 10 to 27 in intervention localities, where 1310 women attended, and remained at 10 groups in control localities. 
+No significant differences in breastfeeding outcomes were found. 
+Any breast feeding at 6-8 weeks declined from 27% to 26% in intervention localities and increased from 29% to 30% in control localities (P=0.08, adjusted for pre-trial rate). 
+Any breast feeding at 6-8 weeks increased from 38% to 39% in localities not participating in the trial. 
+Women who attended breastfeeding groups were older (P&lt;0.001) 
+than women initiating breast feeding who did not attend and had higher income (P=0.02) than women in the control localities who attended postnatal groups. 
+The locality cost was pound13 400 (euro14 410; $20 144) a year. 
+CONCLUSION: A policy for providing breastfeeding groups in relatively deprived areas of Scotland did not improve breastfeeding rates at 6-8 weeks. 
+The costs of running groups would be similar to the costs of visiting women at home. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN44857041.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the clinical effectiveness and cost effectiveness of a policy to provide breastfeeding groups for pregnant and breastfeeding women.</s>
+    <s id="2" section="design">Cluster randomised controlled trial with prospective mixed method embedded case studies to evaluate implementation processes.</s>
+    <s id="3" section="setting">Primary care in Scotland.</s>
+    <s id="5" section="intervention">Localities set up new breastfeeding groups to provide population coverage; control localities did not change group activity.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes: any breast feeding at birth, 5-7 days, and 8-9 months; maternal satisfaction.</s>
+    <s id="10" section="results">No significant differences in breastfeeding outcomes were found.</s>
+    <s id="13" section="results">Women who attended breastfeeding groups were older (P&lt;0.001)</s>
+    <s id="14" section="results">than women initiating breast feeding who did not attend and had higher income (P=0.02) than women in the control localities who attended postnatal groups.</s>
+    <s id="16" section="conclusion">A policy for providing breastfeeding groups in relatively deprived areas of Scotland did not improve breastfeeding rates at 6-8 weeks.</s>
+    <s id="17" section="conclusion">The costs of running groups would be similar to the costs of visiting women at home.</s>
+    <s id="18" section="trial registration">Current Controlled Trials ISRCTN44857041.</s>
+  </ignored>
+</abstract>
+

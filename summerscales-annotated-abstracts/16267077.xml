@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16267077">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Transitional  care  facility</group>
+      for elderly people in hospital awaiting a long term care bed : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 public hospitals in Southern Adelaide .</s>
+    <s id="4" section="participants">
+      <ps>320</ps>
+      elderly patients ( mean age 83 years ) in acute hospital beds (
+      <gs group="0">212</gs>
+      randomised to
+      <group id="0">intervention</group>
+      ,
+      <gs group="1">108</gs>
+      to
+      <group id="1">control</group>
+      ) .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Length  of  stay</short>
+        in  hospital
+      </outcome>
+      ,
+      <outcome id="1">rates  of  readmission</outcome>
+      ,
+      <outcome id="2">deaths</outcome>
+      , and
+      <outcome id="3">
+        <short>patient  's  functional  level</short>
+        (  modified  Barthel  index  )
+      </outcome>
+      ,
+      <outcome id="4">
+        <short>quality  of  life</short>
+        (  assessment  of  quality  of  life  )
+      </outcome>
+      , and
+      <outcome id="5">
+        <short>care  needs</short>
+        (  residential  care  scale  )
+      </outcome>
+      at
+      <time id="0">4  months</time>
+      .
+    </s>
+    <s id="7" section="results">
+      From admission , those in the
+      <group id="0">intervention  group</group>
+      <outcome id="0">stayed</outcome>
+      a median of 32.5 days ( 95 % confidence interval 29 to 36 days ) in hospital .
+    </s>
+    <s id="8" section="results">
+      In the
+      <group id="1">control  group</group>
+      the
+      <outcome id="0">median  length  of  stay</outcome>
+      was 43.5 days ( 41 to 51 days ) ( 95 % confidence interval for difference 6 to 16 days ) .
+    </s>
+    <s id="9" section="results">
+      Patients in the
+      <group id="0">intervention  group</group>
+      took a median of 21 days ( 6 to 27 days ) longer to be
+      <outcome id="5">admitted  to  permanent  care</outcome>
+      than those in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="10" section="results">
+      In both groups few patients
+      <outcome id="6" type="good">went  home</outcome>
+      (
+      <on group="0" outcome="6">14</on>
+      ( 7 % ) in the
+      <group id="0">intervention  group</group>
+      v
+      <on group="1" outcome="6">9</on>
+      ( 9 % ) in the
+      <group id="1">control  group</group>
+      ) .
+    </s>
+    <s id="11" section="results">
+      There were no significant differences in
+      <outcome id="0">death  rates</outcome>
+      ( 28 % v 27 % ) or
+      <outcome id="1">rates  of  transfer  back  to  hospital</outcome>
+      ( 28 % v 25 % ) .
+    </s>
+  </annotated>
+  <fulltext>Transitional care facility for elderly people in hospital awaiting a long term care bed : randomised controlled trial . To assess the effectiveness of moving patients who are waiting in hospital for a long term care bed to an off - site transitional care facility . Randomised controlled trial . 3 public hospitals in Southern Adelaide . 320 elderly patients ( mean age 83 years ) in acute hospital beds ( 212 randomised to intervention , 108 to control ) . A transitional care facility where all patients received a single assessment from a specialist elder care team and appropriate ongoing therapy . Length of stay in hospital , rates of readmission , deaths , and patient 's functional level ( modified Barthel index ) , quality of life ( assessment of quality of life ) , and care needs ( residential care scale ) at 4 months . From admission , those in the intervention group stayed a median of 32.5 days ( 95 % confidence interval 29 to 36 days ) in hospital . In the control group the median length of stay was 43.5 days ( 41 to 51 days ) ( 95 % confidence interval for difference 6 to 16 days ) . Patients in the intervention group took a median of 21 days ( 6 to 27 days ) longer to be admitted to permanent care than those in the control group . In both groups few patients went home ( 14 ( 7 % ) in the intervention group v 9 ( 9 % ) in the control group ) . There were no significant differences in death rates ( 28 % v 27 % ) or rates of transfer back to hospital ( 28 % v 25 % ) . For frail elderly patients who are awaiting a residential care bed transfer out of hospital to an off - site transitional care unit with focus on aged care " unblocks beds " without adverse effects .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effectiveness of
+      <group id="0">
+        moving  patients  who  are  waiting  in  hospital  for  a  long  term  care  bed  to  an  off  -  site
+        <short>transitional  care  facility</short>
+      </group>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="5" section="interventions">
+      A
+      <group id="0">transitional  care  facility</group>
+      where all patients received a single assessment from a specialist elder care team and appropriate ongoing therapy .
+    </s>
+    <s id="12" section="conclusions">
+      For frail elderly patients who are awaiting a residential care bed transfer out of hospital to an
+      <group id="0">
+        <short>off  -  site  transitional  care  unit</short>
+        with  focus  on  aged  care
+      </group>
+      " unblocks beds " without adverse effects .
+    </s>
+  </ignored>
+</abstract>
+

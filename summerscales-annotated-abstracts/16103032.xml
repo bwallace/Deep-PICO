@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16103032">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of
+      <group id="0">
+        acute  mental  health  care  by  a
+        <short>crisis  resolution  team</short>
+      </group>
+      : the north Islington crisis study .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="participants">
+      <ps>260</ps>
+      residents of the inner London Borough of Islington who were experiencing crises severe enough for hospital admission to be considered .
+    </s>
+    <s id="4" section="interventions">
+      <group id="0">
+        Acute  care  including  a  24  hour
+        <short>crisis  resolution  team</short>
+      </group>
+      (
+      <group id="0">experimental  group</group>
+      ) , compared with
+      <group id="1">
+        <short>standard  care</short>
+        from  inpatient  services  and  community  mental  health  teams
+      </group>
+      (
+      <group id="1">control  group</group>
+      ) .
+    </s>
+    <s id="6" section="results">
+      Patients in the
+      <group id="0">experimental  group</group>
+      were less likely to be
+      <outcome id="0">admitted  to  hospital</outcome>
+      in
+      <time id="0">the  8  weeks  after  the  crisis</time>
+      ( odds ratio 0.19 , 95 % confidence interval 0.11 to 0.32 ) , though
+      <outcome id="2">compulsory  admission</outcome>
+      was not significantly reduced .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of acute mental health care by a crisis resolution team : the north Islington crisis study . To evaluate the effectiveness of a crisis resolution team . Randomised controlled trial . 260 residents of the inner London Borough of Islington who were experiencing crises severe enough for hospital admission to be considered . Acute care including a 24 hour crisis resolution team ( experimental group ) , compared with standard care from inpatient services and community mental health teams ( control group ) . Hospital admission and patients ' satisfaction . Patients in the experimental group were less likely to be admitted to hospital in the 8 weeks after the crisis ( odds ratio 0.19 , 95 % confidence interval 0.11 to 0.32 ) , though compulsory admission was not significantly reduced . A difference of 1.6 points in the mean score on the client satisfaction questionnaire ( CSQ -8 ) was not quite significant ( P = 0.07 ) , although it became so after adjustment for baseline characteristics ( P = 0.002 ) . Crisis resolution teams can reduce hospital admissions in mental health crises . They may also increase satisfaction in patients , but this was an equivocal finding .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effectiveness of a
+      <group id="0">crisis  resolution  team</group>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="5" section="main_outcome_measures">
+      <outcome id="0">Hospital  admission</outcome>
+      and
+      <outcome id="1">patients  '  satisfaction</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      A difference of 1.6 points in the
+      <outcome id="1">
+        mean  score  on  the
+        <short>client  satisfaction</short>
+        questionnaire  (  CSQ  -8  )
+      </outcome>
+      was not quite significant ( P = 0.07 ) , although it became so after adjustment for baseline characteristics ( P = 0.002 ) .
+    </s>
+    <s id="8" section="conclusion">
+      <group id="0">Crisis  resolution  teams</group>
+      can reduce
+      <outcome id="0">hospital  admissions</outcome>
+      in mental health crises .
+    </s>
+    <s id="9" section="conclusion">
+      They may also
+      <outcome id="1">increase  satisfaction</outcome>
+      in patients , but this was an equivocal finding .
+    </s>
+  </ignored>
+</abstract>
+

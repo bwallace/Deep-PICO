@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16861254">
+  <title>
+    <s id="0" section="title">
+      A cost effectiveness analysis within a randomised controlled trial of
+      <group id="0">
+        post  -  acute  care  of  older  people  in  a
+        <short>community  hospital</short>
+      </group>
+      .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To assess the
+      <outcome id="2">cost  effectiveness</outcome>
+      of
+      <group id="0">
+        post  -  acute  care  for  older  people  in  a  locality  based
+        <short>community  hospital</short>
+      </group>
+      compared with a
+      <group id="1">
+        department  for  care  of  elderly  people  in  a
+        <short>district  general  hospital</short>
+      </group>
+      , which admits patients aged over 76 years with acute medical conditions .
+    </s>
+    <s id="4" section="participants">
+      <ps>220</ps>
+      patients needing rehabilitation after an acute illness for which they required admission to hospital .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">EuroQol  EQ-5D  scores</outcome>
+      transformed into
+      <outcome id="0">
+        <short>quality  adjusted  life  years</short>
+        (  QALYs  )
+      </outcome>
+      , and
+      <outcome id="1">
+        <short>health  and  social  service  costs</short>
+        over
+        <time id="0">6  months  from  randomisation</time>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0">
+        mean
+        <short>QALY  score</short>
+      </outcome>
+      for the
+      <group id="0">community  hospital  group</group>
+      was marginally non - significantly higher than that for the
+      <group id="1">district  general  hospital  group</group>
+      ( 0.38 v 0.35 ) at
+      <time id="0">6  months  after  recruitment</time>
+      .
+    </s>
+    <s id="8" section="results">
+      The mean ( standard deviation )
+      <outcome id="1">
+        <short>costs  per  patient</short>
+        of  the  health  and  social  services  resources
+      </outcome>
+      used were similar for both groups :
+      <group id="0">community  hospital  group</group>
+      7233 pounds sterling ( euros 10,567 ; 13,341 dollars ) ( 5031 pounds sterling ) ,
+      <group id="1">district  general  hospital</group>
+      group 7351 pounds sterling( 6229 pounds sterling ) , and these findings were robust to several sensitivity analyses .
+    </s>
+    <s id="10" section="results">
+      A
+      <outcome id="4">cost  effectiveness  acceptability  curve</outcome>
+      , based on bootstrapped simulations , suggests that at a willingness to pay threshold of 10,000 pounds sterling per QALY , 51 % of community hospital cases will be cost effective , which rises to 53 % of cases when the threshold is 30,000 pounds sterling per QALY .
+    </s>
+  </annotated>
+  <fulltext>A cost effectiveness analysis within a randomised controlled trial of post - acute care of older people in a community hospital . To assess the cost effectiveness of post - acute care for older people in a locality based community hospital compared with a department for care of elderly people in a district general hospital , which admits patients aged over 76 years with acute medical conditions . Cost effectiveness analysis within a randomised controlled trial . Community hospital and district general hospital in Yorkshire , England . 220 patients needing rehabilitation after an acute illness for which they required admission to hospital . Multidisciplinary care in the district general hospital or prompt transfer to the community hospital . EuroQol EQ-5D scores transformed into quality adjusted life years ( QALYs ) , and health and social service costs over 6 months from randomisation . The mean QALY score for the community hospital group was marginally non - significantly higher than that for the district general hospital group ( 0.38 v 0.35 ) at 6 months after recruitment . The mean ( standard deviation ) costs per patient of the health and social services resources used were similar for both groups : community hospital group 7233 pounds sterling ( euros 10,567 ; 13,341 dollars ) ( 5031 pounds sterling ) , district general hospital group 7351 pounds sterling( 6229 pounds sterling ) , and these findings were robust to several sensitivity analyses . The incremental cost effectiveness ratio for community hospital care dominated . A cost effectiveness acceptability curve , based on bootstrapped simulations , suggests that at a willingness to pay threshold of 10,000 pounds sterling per QALY , 51 % of community hospital cases will be cost effective , which rises to 53 % of cases when the threshold is 30,000 pounds sterling per QALY . Post - acute care for older people in a locality based community hospital is of similar cost effectiveness to that of an elderly care department in a district general hospital .</fulltext>
+  <ignored>
+    <s id="2" section="design">Cost effectiveness analysis within a randomised controlled trial .</s>
+    <s id="3" section="setting">Community hospital and district general hospital in Yorkshire , England .</s>
+    <s id="5" section="interventions">
+      <group id="1">
+        Multidisciplinary  care  in  the
+        <short>district  general  hospital</short>
+      </group>
+      or
+      <group id="0">
+        prompt  transfer  to  the
+        <short>community  hospital</short>
+      </group>
+      .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="3">incremental  cost  effectiveness  ratio</outcome>
+      for community hospital care dominated .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        Post  -  acute  care  for  older  people  in  a  locality  based
+        <short>community  hospital</short>
+      </group>
+      is of similar
+      <outcome id="2">cost  effectiveness</outcome>
+      to that of
+      <group id="1">
+        an  elderly  care  department  in  a
+        <short>district  general  hospital</short>
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

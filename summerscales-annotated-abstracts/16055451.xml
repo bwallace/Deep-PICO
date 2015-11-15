@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16055451">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Acupuncture</group>
+      in patients with tension - type headache : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">3 armed randomised controlled multicentre trial .</s>
+    <s id="3" section="setting">28 outpatient centres in Germany .</s>
+    <s id="4" section="participants">
+      <ps>270</ps>
+      patients ( 74 % women , mean age 43 ( SD 13 ) years ) with episodic or chronic tension - type headache .
+    </s>
+    <s id="6" section="interventions">
+      <group id="0">Acupuncture</group>
+      and
+      <group id="1">minimal  acupuncture</group>
+      were administered by specialised physicians and consisted of 12 sessions per patient over 8 weeks .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      Difference in
+      <outcome id="0">numbers  of  days  with  headache</outcome>
+      between the
+      <time id="0">4  weeks</time>
+      before randomisation and
+      <time id="1">weeks  9-12</time>
+      after randomisation , as recorded by participants in headache diaries .
+    </s>
+    <s id="8" section="results">
+      The
+      <outcome id="0">number  of  days  with  headache</outcome>
+      decreased by 7.2 ( SD 6.5 ) days in the
+      <group id="0">acupuncture  group</group>
+      compared with 6.6 ( SD 6.0 ) days in the
+      <group id="1">minimal  acupuncture  group</group>
+      and 1.5 ( SD 3.7 ) days in the
+      <group id="2">waiting  list  group</group>
+      ( difference :
+      <group id="0">acupuncture</group>
+      v
+      <group id="1">minimal  acupuncture</group>
+      , 0.6 days , 95 % confidence interval - 1.5 to 2.6 days , P = 0.58 ;
+      <group id="0">acupuncture</group>
+      v
+      <group id="2">waiting  list</group>
+      , 5.7 days , 3.9 to 7.5 days , P &lt; 0.001 ) .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="0">
+        proportion  of  responders  (  at  least  50  %  reduction  in
+        <short>days  with  headache</short>
+        )
+      </outcome>
+      was 46 % in the
+      <group id="0">acupuncture  group</group>
+      , 35 % in the
+      <group id="1">minimal  acupuncture  group</group>
+      , and 4 % in the
+      <group id="2">waiting  list  group</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Acupuncture in patients with tension - type headache : randomised controlled trial . To investigate the effectiveness of acupuncture compared with minimal acupuncture and with no acupuncture in patients with tension - type headache . 3 armed randomised controlled multicentre trial . 28 outpatient centres in Germany . 270 patients ( 74 % women , mean age 43 ( SD 13 ) years ) with episodic or chronic tension - type headache . Acupuncture , minimal acupuncture ( superficial needling at non - acupuncture points ) , or waiting list control . Acupuncture and minimal acupuncture were administered by specialised physicians and consisted of 12 sessions per patient over 8 weeks . Difference in numbers of days with headache between the 4 weeks before randomisation and weeks 9-12 after randomisation , as recorded by participants in headache diaries . The number of days with headache decreased by 7.2 ( SD 6.5 ) days in the acupuncture group compared with 6.6 ( SD 6.0 ) days in the minimal acupuncture group and 1.5 ( SD 3.7 ) days in the waiting list group ( difference : acupuncture v minimal acupuncture , 0.6 days , 95 % confidence interval - 1.5 to 2.6 days , P = 0.58 ; acupuncture v waiting list , 5.7 days , 3.9 to 7.5 days , P &lt; 0.001 ) . The proportion of responders ( at least 50 % reduction in days with headache ) was 46 % in the acupuncture group , 35 % in the minimal acupuncture group , and 4 % in the waiting list group . The acupuncture intervention investigated in this trial was more effective than no treatment but not significantly more effective than minimal acupuncture for the treatment of tension - type headache . ISRCTN9737659 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate the effectiveness of
+      <group id="0">acupuncture</group>
+      compared with
+      <group id="1">minimal  acupuncture</group>
+      and with
+      <group id="2">no  acupuncture</group>
+      in patients with tension - type headache .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">Acupuncture</group>
+      ,
+      <group id="1">
+        <short>minimal  acupuncture</short>
+        (  superficial  needling  at  non  -  acupuncture  points  )
+      </group>
+      , or
+      <group id="2">
+        <short>waiting  list</short>
+        control
+      </group>
+      .
+    </s>
+    <s id="10" section="conclusions">
+      The
+      <group id="0">acupuncture  intervention</group>
+      investigated in this trial was more effective than
+      <group id="2">no  treatment</group>
+      but not significantly more effective than
+      <group id="1">minimal  acupuncture</group>
+      for the treatment of tension - type headache .
+    </s>
+    <s id="11" section="trial_registration_number">ISRCTN9737659 .</s>
+  </ignored>
+</abstract>
+

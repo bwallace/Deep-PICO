@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17350965">
+  <title>
+    <s id="0">Parenting programme for parents of children at risk of developing conduct disorder: cost effectiveness analysis.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Parents of 116 children aged 36-59 months (87% of the clinical sample) at risk of developing conduct disorders defined by scoring over the clinical cut off on the Eyberg child behaviour inventory).</s>
+    <s id="6" section="intervention"><group id="0" role="experiment">The Webster-Stratton Incredible Years basic parenting programme</group> or a <group id="1" role="control">6 month waiting list control</group>.</s>
+    <s id="8" section="results">The bootstrapped incremental cost effectiveness ratio point estimate was 73 pounds sterling (109 euros, $142) per 1 point improvement on the intensity score (95% confidence interval 42 pounds sterling to 140 pounds sterling ).</s>
+    <s id="9" section="results">It would cost 5486 (8190 euros, $10,666) to bring the child with the highest intensity score to below the clinical cut-off point and 1344 (2006 euros, $2618) to bring the average child in the intervention group within the non-clinical limits on the intensity score (below 127).</s>
+    <s id="10" section="results">For a ceiling ratio of 100 pounds sterling (149 euros, $194) per point increase in intensity score, there is an 83.9% chance of the intervention being cost effective.</s>
+    <s id="11" section="results">The mean cost per child attending the parenting group was 1934 pounds sterling (2887 euros, $3760) for 8 children and 1289 pounds sterling (1924 euros, $2506) for 12 children, including initial costs and materials for training group leaders.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the cost effectiveness of a parenting programme. 
+DESIGN: An incremental cost effectiveness analysis alongside a pragmatic randomised controlled trial of the effectiveness of a group parenting programme delivered through Sure Start in the community. 
+SETTING: Sure Start areas in north and mid Wales. 
+PARTICIPANTS: Parents of 116 children aged 36-59 months (87% of the clinical sample) at risk of developing conduct disorders defined by scoring over the clinical cut off on the Eyberg child behaviour inventory). 
+Children were identified by health visitors and recruited by the research team. 
+INTERVENTION: The Webster-Stratton Incredible Years basic parenting programme or a six month waiting list control. 
+MAIN OUTCOME MEASURE: Incremental cost per unit of improvement on the intensity score of the Eyberg child behaviour inventory. 
+RESULTS: The bootstrapped incremental cost effectiveness ratio point estimate was 73 pounds sterling (109 euros, $142) per one point improvement on the intensity score (95% confidence interval 42 pounds sterling to 140 pounds sterling ). 
+It would cost 5486 (8190 euros, $10,666) to bring the child with the highest intensity score to below the clinical cut-off point and 1344 (2006 euros, $2618) to bring the average child in the intervention group within the non-clinical limits on the intensity score (below 127). 
+For a ceiling ratio of 100 pounds sterling (149 euros, $194) per point increase in intensity score, there is an 83.9% chance of the intervention being cost effective. 
+The mean cost per child attending the parenting group was 1934 pounds sterling (2887 euros, $3760) for eight children and 1289 pounds sterling (1924 euros, $2506) for 12 children, including initial costs and materials for training group leaders. 
+When we categorised the sample into relatively mild, moderate, and severe behaviour groups based on intensity scores at baseline the intervention seemed more cost effective in those with the highest risk of developing conduct disorder. 
+CONCLUSION: This parenting programme improves child behaviour as measured by the intensity score of the Eyberg child behaviour inventory at a relatively low cost and was cost effective compared with the waiting list control. 
+This parenting programme involves modest costs and demonstrates strong clinical effect, suggesting it would represent good value for money for public spending.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate the cost effectiveness of a parenting programme.</s>
+    <s id="2" section="design">An incremental cost effectiveness analysis alongside a pragmatic randomised controlled trial of the effectiveness of a group parenting programme delivered through Sure Start in the community.</s>
+    <s id="3" section="setting">Sure Start areas in north and mid Wales.</s>
+    <s id="5" section="participants">Children were identified by health visitors and recruited by the research team.</s>
+    <s id="7" section="main outcome measure">Incremental cost per unit of improvement on the intensity score of the Eyberg child behaviour inventory.</s>
+    <s id="12" section="results">When we categorised the sample into relatively mild, moderate, and severe behaviour groups based on intensity scores at baseline the intervention seemed more cost effective in those with the highest risk of developing conduct disorder.</s>
+    <s id="13" section="conclusion">This parenting programme improves child behaviour as measured by the intensity score of the Eyberg child behaviour inventory at a relatively low cost and was cost effective compared with the waiting list control.</s>
+    <s id="14" section="conclusion">This parenting programme involves modest costs and demonstrates strong clinical effect, suggesting it would represent good value for money for public spending.</s>
+  </ignored>
+</abstract>
+

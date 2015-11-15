@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19223344">
+  <title>
+    <s id="0">Adolescents' use of purpose built shade in secondary schools: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">51 secondary schools with limited available shade , in Australia , assessed over 2 spring and summer terms .</s>
+    <s id="5" section="intervention">Purpose built shade sails were installed in winter 2005 at full sun study sites to increase available shade for students in the school grounds.</s>
+    <s id="7" section="results">Over the study period the mean change in students <outcome id="0" type="good">using the primary study site from pre-test to post-test</outcome> was 2.63 (95% confidence interval 0.87 to 4.39) students in <group id="0" role="experiment">intervention schools</group> and -0.03 (-1.16 to 1.09) students in <group id="1" role="control">control schools</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine whether students use or avoid newly shaded areas created by shade sails installed at schools. 
+DESIGN: Cluster randomised controlled trial with secondary schools as the unit of randomisation. 
+SETTING: 51 secondary schools with limited available shade, in Australia, assessed over two spring and summer terms. 
+PARTICIPANTS: Students outside at lunch times. 
+INTERVENTION: Purpose built shade sails were installed in winter 2005 at full sun study sites to increase available shade for students in the school grounds. 
+MAIN OUTCOME MEASURE: Mean number of students using the primary study sites during weekly observations at lunch time. 
+RESULTS: Over the study period the mean change in students using the primary study site from pre-test to post-test was 2.63 (95% confidence interval 0.87 to 4.39) students in intervention schools and -0.03 (-1.16 to 1.09) students in control schools. 
+The difference in mean change between groups was 2.67 (0.65 to 4.68) students (P=0.011). 
+CONCLUSIONS: Students used rather than avoided newly shaded areas provided by purpose built shade sails at secondary schools in this trial, suggesting a practical means of reducing adolescents' exposure to ultraviolet radiation. 
+TRIAL REGISTRATION: Exempt.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To examine whether students use or avoid newly shaded areas created by shade sails installed at schools.</s>
+    <s id="2" section="design">Cluster randomised controlled trial with secondary schools as the unit of randomisation.</s>
+    <s id="4" section="participants">Students outside at lunch times.</s>
+    <s id="6" section="main outcome measure">Mean number of students using the primary study sites during weekly observations at lunch time.</s>
+    <s id="8" section="results">The difference in mean change between groups was 2.67 (0.65 to 4.68) students (P=0.011).</s>
+    <s id="9" section="conclusions">Students used rather than avoided newly shaded areas provided by purpose built shade sails at secondary schools in this trial, suggesting a practical means of reducing adolescents' exposure to ultraviolet radiation.</s>
+    <s id="10" section="trial registration">Exempt.</s>
+  </ignored>
+</abstract>
+

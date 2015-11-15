@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17690340">
+  <title>
+    <s id="0">Probiotics for treatment of acute diarrhoea in children: randomised clinical trial of five different preparations.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To compare the efficacy of 5 probiotic preparations recommended to parents in the treatment of acute diarrhoea in children.</s>
+    <s id="2" section="objective">Design Randomised controlled clinical trial in collaboration with family paediatricians over 12 months.</s>
+    <s id="9" section="results"><gs group="5">571</gs> children were allocated to <group id="5" role="experiment">intervention</group>.</s>
+    <s id="10" section="results"><outcome id="0" type="bad">Median <short>duration of diarrhoea</short></outcome> was significantly shorter (P&lt;0.001) in <group id="0" role="experiment">children who received <short>L rhamnosus strain GG</short></group> (<on group="0" outcome="0">78.5 hours</on>) and the <group id="1" role="experiment">mix of four bacterial strains</group> (<on group="1" outcome="0">70.0 hours</on>) than in <group id="2" role="control">children who received <short>oral rehydration</short> solution alone</group> (<on group="2" outcome="0">115.0 hours</on>).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the efficacy of five probiotic preparations recommended to parents in the treatment of acute diarrhoea in children. 
+Design Randomised controlled clinical trial in collaboration with family paediatricians over 12 months. 
+SETTING: Primary care. 
+PARTICIPANTS: Children aged 3-36 months visiting a family paediatrician for acute diarrhoea. 
+INTERVENTION: Children's parents were randomly assigned to receive written instructions to purchase a specific probiotic product: oral rehydration solution (control group); Lactobacillus rhamnosus strain GG; Saccharomyces boulardii; Bacillus clausii; mix of L delbrueckii var bulgaricus, Streptococcus thermophilus, L acidophilus, and Bifidobacterium bifidum; or Enterococcus faecium SF68. 
+MAIN OUTCOME MEASURES: Primary outcomes were duration of diarrhoea and daily number and consistency of stools. 
+Secondary outcomes were duration of vomiting and fever and rate of admission to hospital. 
+Safety and tolerance were also recorded. 
+RESULTS: 571 children were allocated to intervention. 
+Median duration of diarrhoea was significantly shorter (P&lt;0.001) in children who received L rhamnosus strain GG (78.5 hours) and the mix of four bacterial strains (70.0 hours) than in children who received oral rehydration solution alone (115.0 hours). 
+One day after the first probiotic administration, the daily number of stools was significantly lower (P&lt;0.001) 
+in children who received L rhamnosus strain GG and in those who received the probiotic mix than in the other groups. 
+The remaining preparations did not affect primary outcomes. 
+Secondary outcomes were similar in all groups. 
+CONCLUSIONS: Not all commercially available probiotic preparations are effective in children with acute diarrhoea. 
+Paediatricians should choose bacterial preparations based on effectiveness data. 
+TRIAL REGISTRATION NUMBER: Current Controlled Trials ISRCTN56067537 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="3" section="setting">Primary care.</s>
+    <s id="4" section="participants">Children aged 3-36 months visiting a family paediatrician for acute diarrhoea.</s>
+    <s id="5" section="intervention">Children's parents were randomly assigned to receive written instructions to purchase a specific probiotic product: oral rehydration solution (control group); Lactobacillus rhamnosus strain GG; Saccharomyces boulardii; Bacillus clausii; mix of L delbrueckii var bulgaricus, Streptococcus thermophilus, L acidophilus, and Bifidobacterium bifidum; or Enterococcus faecium SF68.</s>
+    <s id="6" section="main outcome measures">Primary outcomes were duration of diarrhoea and daily number and consistency of stools.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were duration of vomiting and fever and rate of admission to hospital.</s>
+    <s id="8" section="main outcome measures">Safety and tolerance were also recorded.</s>
+    <s id="11" section="results">One day after the first probiotic administration, the daily number of stools was significantly lower (P&lt;0.001)</s>
+    <s id="12" section="results">in children who received L rhamnosus strain GG and in those who received the probiotic mix than in the other groups.</s>
+    <s id="13" section="results">The remaining preparations did not affect primary outcomes.</s>
+    <s id="14" section="results">Secondary outcomes were similar in all groups.</s>
+    <s id="15" section="conclusions">Not all commercially available probiotic preparations are effective in children with acute diarrhoea.</s>
+    <s id="16" section="conclusions">Paediatricians should choose bacterial preparations based on effectiveness data.</s>
+    <s id="17" section="trial registration number">Current Controlled Trials ISRCTN56067537 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

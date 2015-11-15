@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19638647">
+  <title>
+    <s id="0">Biopsy and selective recall compared with immediate large loop excision in management of women with low grade abnormal cervical cytology referred for colposcopy: multicentre randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">1983 women, aged 20-59, with cytology showing borderline nuclear abnormalities or mild dyskaryosis, October 1999-October 2002.</s>
+    <s id="5" section="interventions">Immediate large loop excision or up to 4 targeted punch biopsies taken immediately with recall for treatment ( by large loop excision ) if these showed cervical intraepithelial neoplasia grade II or III or worse .</s>
+    <s id="6" section="interventions">Participants were followed for 3 years , concluding with an exit colposcopy .</s>
+    <s id="7" section="main outcome measures">Clinical end points : cumulative incidence of cervical intraepithelial neoplasia grade II or worse and grade III or worse at <time id="0">3 years</time>.</s>
+    <s id="8" section="main outcome measures">Clinically significant anxiety and depression and self reported after effects assessed 6 weeks after colposcopy , biopsies , or large loop excision .</s>
+    <s id="9" section="results">879 women (44%) had a normal transformation zone at colposcopy and had no further procedures at that time.</s>
+    <s id="10" section="results">Colposcopists were less likely to <outcome id="0" type="bad">classify the transformation zone as abnormal</outcome> when the allocation was large loop excision (<on group="0" outcome="0">603</on> (60%) in the <group id="0" role="experiment"><short>biopsy</short> and selective recall group</group>; <on group="1" outcome="0">501</on> (51%) in the <group id="1" role="experiment">immediate large <short>loop excision</short> group</group>).</s>
+    <s id="11" section="results">Of women randomised to <group id="0" role="experiment"><short>biopsy</short> and  recall</group>, <on group="0" outcome="1">157</on> (16%) <outcome id="1" type="bad">required a second clinic visit for treatment</outcome>.</s>
+    <s id="12" section="results">Specimens from almost 60% (n=296) of women who underwent immediate large loop excision showed <outcome id="2" type="good">no cervical intraepithelial neoplasia</outcome> (31%; n=<on group="1" outcome="2">156</on>) or <outcome id="3" type="good">showed cervical intraepithelial neoplasia <short>grade I</short></outcome> (28%; n=<on group="1" outcome="3">140</on>).</s>
+    <s id="13" section="results">The percentages of women diagnosed with <outcome id="4" type="bad"><short>grade II</short> or worse</outcome> up to and including the exit examination were 22% (n=<on group="0" outcome="4">216</on>) in the <group id="0" role="experiment"><short>biopsy</short> and recall arm</group> and 23% (n=<on group="1" outcome="4">228</on>) in the <group id="1" role="experiment">immediate large <short>loop excision</short> arm</group>.</s>
+    <s id="14" section="results">There was no significant difference between the arms in <outcome id="4" type="bad">cumulative incidence of cervical intraepithelial neoplasia <short>grade II</short> or worse</outcome> (adjusted relative for risk large loop excision v biopsy 1.04, 95% confidence interval 0.86 to 1.25) or grade III or worse (1.03, 0.79 to 1.34).</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To compare the effectiveness of punch biopsy and selective recall for treatment versus a policy of immediate treatment by large loop excision in the management of women with low grade abnormal cervical cytology referred for colposcopy. 
+DESIGN: Multicentre individually randomised controlled trial, nested within the NHS cervical screening programmes. 
+SETTING: Grampian, Tayside, and Nottingham. 
+PARTICIPANTS: 1983 women, aged 20-59, with cytology showing borderline nuclear abnormalities or mild dyskaryosis, October 1999-October 2002. 
+INTERVENTIONS: Immediate large loop excision or up to four targeted punch biopsies taken immediately with recall for treatment (by large loop excision) if these showed cervical intraepithelial neoplasia grade II or III or worse. 
+Participants were followed for three years, concluding with an exit colposcopy. 
+MAIN OUTCOME MEASURES: Clinical end points: cumulative incidence of cervical intraepithelial neoplasia grade II or worse and grade III or worse at three years. 
+Clinically significant anxiety and depression and self reported after effects assessed six weeks after colposcopy, biopsies, or large loop excision. 
+RESULTS: 879 women (44%) had a normal transformation zone at colposcopy and had no further procedures at that time. 
+Colposcopists were less likely to classify the transformation zone as abnormal when the allocation was large loop excision (603 (60%) in the biopsy and selective recall group; 501 (51%) in the immediate large loop excision group). 
+Of women randomised to biopsy and recall, 157 (16%) required a second clinic visit for treatment. 
+Specimens from almost 60% (n=296) of women who underwent immediate large loop excision showed no cervical intraepithelial neoplasia (31%; n=156) or showed cervical intraepithelial neoplasia grade I (28%; n=140). 
+The percentages of women diagnosed with grade II or worse up to and including the exit examination were 22% (n=216) in the biopsy and recall arm and 23% (n=228) in the immediate large loop excision arm. 
+There was no significant difference between the arms in cumulative incidence of cervical intraepithelial neoplasia grade II or worse (adjusted relative for risk large loop excision v biopsy 1.04, 95% confidence interval 0.86 to 1.25) or grade III or worse (1.03, 0.79 to 1.34). 
+A greater proportion of disease was detected at initial investigation and less during follow-up and at exit in the immediate large loop excision arm, but time of detection did not differ significantly between arms. 
+Levels of anxiety and depression and reported pain did not differ between arms. 
+Higher proportions of women randomised to large loop excision reported moderate or more severe bleeding and discharge. 
+CONCLUSION: A policy of targeted punch biopsies with subsequent treatment for cervical intraepithelial neoplasia grade II or III and cytological surveillance for grade I or less provides the best balance between benefits and harms for the management of women with low grade abnormal cytology referred for colposcopy. 
+Immediate large loop excision results in overtreatment and more after effects and should not be recommended. 
+TRIAL REGISTRATION: ISRCTN 34841617.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To compare the effectiveness of punch biopsy and selective recall for treatment versus a policy of immediate treatment by large loop excision in the management of women with low grade abnormal cervical cytology referred for colposcopy.</s>
+    <s id="2" section="design">Multicentre individually randomised controlled trial, nested within the NHS cervical screening programmes.</s>
+    <s id="3" section="setting">Grampian, Tayside, and Nottingham.</s>
+    <s id="15" section="results">A greater proportion of disease was detected at initial investigation and less during follow-up and at exit in the immediate large loop excision arm, but time of detection did not differ significantly between arms.</s>
+    <s id="16" section="results">Levels of anxiety and depression and reported pain did not differ between arms.</s>
+    <s id="17" section="results">Higher proportions of women randomised to large loop excision reported moderate or more severe bleeding and discharge.</s>
+    <s id="18" section="conclusion">A policy of targeted punch biopsies with subsequent treatment for cervical intraepithelial neoplasia grade II or III and cytological surveillance for grade I or less provides the best balance between benefits and harms for the management of women with low grade abnormal cytology referred for colposcopy.</s>
+    <s id="19" section="conclusion">Immediate large loop excision results in overtreatment and more after effects and should not be recommended.</s>
+    <s id="20" section="trial registration">ISRCTN 34841617.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16793810">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">perioperative  beta  blockade</group>
+      in patients with diabetes undergoing major non - cardiac surgery : randomised placebo controlled , blinded multicentre trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">University anaesthesia and surgical centres and 1 coordinating centre .</s>
+    <s id="5" section="participants">
+      <ps>921</ps>
+      patients aged &gt; 39 scheduled for major non - cardiac surgery .
+    </s>
+    <s id="6" section="interventions">
+      <group id="0">
+        100  mg
+        <short>metoprolol</short>
+        controlled  and  extended  release
+      </group>
+      or
+      <group id="1">placebo</group>
+      administered from the day before surgery to a maximum of 8 perioperative days .
+    </s>
+    <s id="10" section="results">
+      <group id="0">Metoprolol</group>
+      significantly reduced the
+      <outcome id="7">mean  heart  rate</outcome>
+      by 11 % ( 95 % confidence interval 9 % to 13 % ) and
+      <outcome id="8">mean  blood  pressure</outcome>
+      by 3 % ( 1 % to 5 % ) .
+    </s>
+    <s id="11" section="results">
+      The
+      <outcome id="0" type="bad">primary  outcome</outcome>
+      occurred in
+      <on group="0" outcome="0">99</on>
+      of
+      <gs group="0">462</gs>
+      patients in the
+      <group id="0">metoprolol  group</group>
+      ( 21 % ) and
+      <on group="1" outcome="0">93</on>
+      of
+      <gs group="1">459</gs>
+      patients in the
+      <group id="1">placebo  group</group>
+      ( 20 % ) ( hazard ratio 1.06 , 0.80 to 1.41 ) during a median follow - up of
+      <time id="0">18  months</time>
+      ( range 6-30 ) .
+    </s>
+    <s id="12" section="results">
+      <outcome id="1" type="bad">All  cause  mortality</outcome>
+      was 16 % (
+      <on group="0" outcome="1">74</on>
+      /
+      <gs group="0">462</gs>
+      ) in the
+      <group id="0">metoprolol  group</group>
+      and 16 % (
+      <on group="1" outcome="1">72</on>
+      /
+      <gs group="1">459</gs>
+      ) in the
+      <group id="1">placebo  group</group>
+      ( 1.03 , 0.74 to 1.42 ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of perioperative beta blockade in patients with diabetes undergoing major non - cardiac surgery : randomised placebo controlled , blinded multicentre trial . To evaluate the long term effects of perioperative beta blockade on mortality and cardiac morbidity in patients with diabetes undergoing major non - cardiac surgery . Randomised placebo controlled and blinded multicentre trial . Analyses were by intention to treat . University anaesthesia and surgical centres and 1 coordinating centre . 921 patients aged &gt; 39 scheduled for major non - cardiac surgery . 100 mg metoprolol controlled and extended release or placebo administered from the day before surgery to a maximum of 8 perioperative days . The composite primary outcome measure was time to all cause mortality , acute myocardial infarction , unstable angina , or congestive heart failure . Secondary outcome measures were time to all cause mortality , cardiac mortality , and non - fatal cardiac morbidity . Mean duration of intervention was 4.6 days in the metoprolol group and 4.9 days in the placebo group . Metoprolol significantly reduced the mean heart rate by 11 % ( 95 % confidence interval 9 % to 13 % ) and mean blood pressure by 3 % ( 1 % to 5 % ) . The primary outcome occurred in 99 of 462 patients in the metoprolol group ( 21 % ) and 93 of 459 patients in the placebo group ( 20 % ) ( hazard ratio 1.06 , 0.80 to 1.41 ) during a median follow - up of 18 months ( range 6-30 ) . All cause mortality was 16 % ( 74 / 462 ) in the metoprolol group and 16 % ( 72 / 459 ) in the placebo group ( 1.03 , 0.74 to 1.42 ) . The difference in risk for the proportion of patients with serious adverse events was 2.4 % ( - 0.8 % to 5.6 % ) . Perioperative metoprolol did not significantly affect mortality and cardiac morbidity in these patients with diabetes . Confidence intervals , however , were wide , and the issue needs reassessment . Current Controlled Trials ISRCTN58485613 .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To evaluate the long term effects of
+      <group id="0">perioperative  beta  blockade</group>
+      on
+      <outcome id="5">mortality</outcome>
+      and
+      <outcome id="6">cardiac  morbidity</outcome>
+      in patients with diabetes undergoing major non - cardiac surgery .
+    </s>
+    <s id="2" section="design">Randomised placebo controlled and blinded multicentre trial .</s>
+    <s id="3" section="design">Analyses were by intention to treat .</s>
+    <s id="7" section="main_outcome_measures">
+      The composite primary outcome measure was
+      <outcome id="0" type="bad">time  to  all  cause  mortality  ,  acute  myocardial  infarction  ,  unstable  angina  ,  or  congestive  heart  failure</outcome>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      Secondary outcome measures were
+      <outcome id="1" type="bad">time  to  all  cause  mortality</outcome>
+      ,
+      <outcome id="5">cardiac  mortality</outcome>
+      , and
+      <outcome id="6">non  -  fatal  cardiac  morbidity</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      Mean duration of intervention was 4.6 days in the
+      <group id="0">metoprolol  group</group>
+      and 4.9 days in the
+      <group id="1">placebo  group</group>
+      .
+    </s>
+    <s id="13" section="results">
+      The difference in risk for the proportion of patients with
+      <outcome id="10">serious  adverse  events</outcome>
+      was 2.4 % ( - 0.8 % to 5.6 % ) .
+    </s>
+    <s id="14" section="conclusions">
+      <group id="0">Perioperative  metoprolol</group>
+      did not significantly affect
+      <outcome id="5">mortality</outcome>
+      and
+      <outcome id="6">cardiac  morbidity</outcome>
+      in these patients with diabetes .
+    </s>
+    <s id="15" section="conclusions">Confidence intervals , however , were wide , and the issue needs reassessment .</s>
+    <s id="16" section="trial_registration">Current Controlled Trials ISRCTN58485613 .</s>
+  </ignored>
+</abstract>
+

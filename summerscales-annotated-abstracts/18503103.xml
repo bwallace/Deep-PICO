@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18503103">
+  <title>
+    <s id="0">Determination of pH or lactate in fetal scalp blood in management of intrapartum fetal distress: randomised controlled multicentre trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Women with a singleton pregnancy, cephalic presentation, gestational age &gt;or=34 weeks, and clinical indication for fetal scalp blood sampling.</s>
+    <s id="5" section="interventions"><group id="0" role="control">Standard pH analysis</group> (n=<gs group="0">1496</gs>) or <group id="1" role="experiment"><short>lactate analysis</short> (n=<gs group="1">1496</gs>) with an electrochemical microvolume (5 mul) test strip device</group>.</s>
+    <s id="7" section="main outcome measure"><outcome id="0" type="good">Metabolic acidaemia (pH &lt;7.05 and base deficit &gt;12 mmol/l)</outcome> or <outcome id="1" type="bad">pH &lt;7.00 in cord artery blood</outcome>.</s>
+    <s id="8" section="results"><outcome id="0" type="good">Metabolic acidaemia</outcome> occurred in 3.2% in the <group id="1" role="experiment">lactate group</group> and in 3.6% in the <group id="0" role="control">pH group</group> (relative risk 0.91, 95% confidence interval 0.61 to 1.36).</s>
+    <s id="9" section="results"><outcome id="1" type="bad">pH &lt;7.00</outcome> occurred in 1.5% in the <group id="1" role="experiment">lactate group</group> and in 1.8% in the <group id="0" role="control">pH group</group> (0.84, 0.47 to 1.50).</s>   
+ <s id="10" section="results">There was no significant difference in <outcome id="2" type="bad">Apgar scores &lt;7 at 5 minutes</outcome> (1.15, 0.76 to 1.75) or <outcome id="3" type="bad">operative deliveries for <short>fetal distress</short></outcome> (1.02, 0.93 to 1.11).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine the effectiveness of pH analysis of fetal scalp blood compared with lactate analysis in identifying hypoxia in labour to prevent acidaemia at birth. 
+DESIGN: Randomised controlled multicentre trial. 
+SETTING: Labour wards. 
+PARTICIPANTS: Women with a singleton pregnancy, cephalic presentation, gestational age &gt;or=34 weeks, and clinical indication for fetal scalp blood sampling. 
+INTERVENTIONS: Standard pH analysis (n=1496) or lactate analysis (n=1496) with an electrochemical microvolume (5 mul) test strip device. 
+The cut-off levels for intervention were pH &lt;7.21 and lactate &gt;4.8 mmol/l, respectively. 
+MAIN OUTCOME MEASURE: Metabolic acidaemia (pH &lt;7.05 and base deficit &gt;12 mmol/l) or pH &lt;7.00 in cord artery blood. 
+RESULTS: Metabolic acidaemia occurred in 3.2% in the lactate group and in 3.6% in the pH group (relative risk 0.91, 95% confidence interval 0.61 to 1.36). 
+pH &lt;7.00 
+occurred in 1.5% in the lactate group and in 1.8% in the pH group (0.84, 0.47 to 1.50). 
+There was no significant difference in Apgar scores &lt;7 at 5 minutes (1.15, 0.76 to 1.75) or operative deliveries for fetal distress (1.02, 0.93 to 1.11). 
+CONCLUSION: There were no significant differences in rate of acidaemia at birth after use of lactate analysis or pH analysis of fetal scalp blood samples to determine hypoxia during labour. 
+TRIAL REGISTRATION: ISRCT No 1606064.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To examine the effectiveness of pH analysis of fetal scalp blood compared with lactate analysis in identifying hypoxia in labour to prevent acidaemia at birth.</s>
+    <s id="2" section="design">Randomised controlled multicentre trial.</s>
+    <s id="3" section="setting">Labour wards.</s>
+    <s id="6" section="interventions">The cut-off levels for intervention were pH &lt;7.21 and lactate &gt;4.8 mmol/l, respectively.</s>
+    <s id="11" section="conclusion">There were no significant differences in rate of acidaemia at birth after use of lactate analysis or pH analysis of fetal scalp blood samples to determine hypoxia during labour.</s>
+<s id="12" section="trial registration">ISRCT No 1606064.</s>  
+</ignored>
+</abstract>
+

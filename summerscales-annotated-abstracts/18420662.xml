@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18420662">
+  <title>
+    <s id="0">Efficacy of self monitoring of blood glucose in patients with newly diagnosed type 2 diabetes (ESMON study): randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To assess the effect of self monitoring of blood glucose concentrations on glycaemic control and psychological indices in patients with newly diagnosed type 2 diabetes mellitus.</s>
+    <s id="4" section="participants">184 (111 men) people aged &lt;70 with newly diagnosed type 2 diabetes referred to the participating diabetes clinics.</s>
+    <s id="6" section="interventions">Participants were randomised to <group id="0" role="experiment">self monitoring</group> or <group id="1" role="control"><short>no monitoring</short> ( control ) groups</group> for <time id="0">1 year</time> with follow - up at 3 monthly intervals .</s>
+    <s id="10" section="results"><gs group="0">96</gs> patients (55 men) were randomised to <group id="0" role="experiment">monitoring</group> and <gs group="1">88</gs> (56 men) to <group id="1" role="control">control</group>.</s>
+    <s id="12" section="results">Those in the <group id="0" role="experiment"><short>monitoring</short> group</group> had a higher baseline BMI (34 (7) v 32 (6.2)).</s>
+    <s id="13" section="results">There were no significant differences between groups at any time point (12 months values given) in <outcome id="0" type="bad">HbA(1c)</outcome> (6.9 (0.8)% v 6.9 (1.2)%, P=0.69; 95% confidence interval for difference -0.25% to 0.38%), <outcome id="4" type="good">BMI</outcome> (33.1 (6.4) v 31.8 (6.0); adjusted for baseline BMI, P=0.32), <outcome id="1" type="bad">use of oral <short>hypoglycaemic drugs</short></outcome>, or <outcome id="2" type="bad">reported incidence of <short>hypoglycaemia</short></outcome>.</s>
+    <s id="14" section="results"><group id="0" role="experiment">Monitoring</group> was associated with a 6% higher score on the <outcome id="3" type="bad"><short>depression subscale</short> of the well-being questionnaire</outcome> (P=0.01).</s>
+    <s id="15" section="conclusions">In patients with newly diagnosed type 2 diabetes self monitoring of blood glucose concentration has no effect on <outcome id="5" type="good">glycaemic control</outcome> but is associated with higher scores on a <outcome id="3" type="bad">depression subscale</outcome>.</s>
+    <s id="16" section="trial registration">ISRCTN 49814766.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To assess the effect of self monitoring of blood glucose concentrations on glycaemic control and psychological indices in patients with newly diagnosed type 2 diabetes mellitus. 
+DESIGN: Prospective randomised controlled trial of self monitoring versus no monitoring (control). 
+SETTING: Hospital diabetes clinics. 
+PARTICIPANTS: 184 (111 men) people aged &lt;70 with newly diagnosed type 2 diabetes referred to the participating diabetes clinics. 
+Major exclusion criteria were secondary diabetes, insulin treatment, previous self monitoring of blood glucose. 
+INTERVENTIONS: Participants were randomised to self monitoring or no monitoring (control) groups for one year with follow-up at three monthly intervals. 
+Both groups underwent an identical structured core education programme. 
+The self monitoring group received additional education on monitoring. 
+MAIN OUTCOME MEASURES: Between group differences in HbA(1c), psychological indices, use of oral hypoglycaemic drugs, body mass index (BMI), and reported hypoglycaemia rates. 
+RESULTS: 96 patients (55 men) were randomised to monitoring and 88 (56 men) to control. 
+There were no baseline differences in mean (SD) age (57.7 (11.0) in monitoring group v 60.9 (11.5) in control group) or HbA(1c) (8.8 (2.1)% v 8.6 (2.3)%, respectively). 
+Those in the monitoring group had a higher baseline BMI (34 (7) v 32 (6.2)). 
+There were no significant differences between groups at any time point (12 months values given) in HbA(1c) (6.9 (0.8)% v 6.9 (1.2)%, P=0.69; 95% confidence interval for difference -0.25% to 0.38%), BMI (33.1 (6.4) v 31.8 (6.0); adjusted for baseline BMI, P=0.32), use of oral hypoglycaemic drugs, or reported incidence of hypoglycaemia. 
+Monitoring was associated with a 6% higher score on the depression subscale of the well-being questionnaire (P=0.01). 
+CONCLUSIONS: In patients with newly diagnosed type 2 diabetes self monitoring of blood glucose concentration has no effect on glycaemic control but is associated with higher scores on a depression subscale. 
+TRIAL REGISTRATION: ISRCTN 49814766.</fulltext>
+  <ignored>
+    <s id="2" section="design">Prospective randomised controlled trial of self monitoring versus no monitoring (control).</s>
+    <s id="3" section="setting">Hospital diabetes clinics.</s>
+    <s id="5" section="participants">Major exclusion criteria were secondary diabetes, insulin treatment, previous self monitoring of blood glucose.</s>
+    <s id="7" section="interventions">Both groups underwent an identical structured core education programme.</s>
+    <s id="8" section="interventions">The self monitoring group received additional education on monitoring.</s>
+    <s id="9" section="main outcome measures">Between group differences in HbA(1c), psychological indices, use of oral hypoglycaemic drugs, body mass index (BMI), and reported hypoglycaemia rates.</s>
+    <s id="11" section="results">There were no baseline differences in mean (SD) age (57.7 (11.0) in monitoring group v 60.9 (11.5) in control group) or HbA(1c) (8.8 (2.1)% v 8.6 (2.3)%, respectively).</s>
+  </ignored>
+</abstract>
+

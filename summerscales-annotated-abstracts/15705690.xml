@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15705690">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        Rectal
+        <short>artemether</short>
+      </group>
+      versus
+      <group id="1">
+        intravenous
+        <short>quinine</short>
+      </group>
+      for the treatment of cerebral malaria in children in Uganda : randomised clinical trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>103</ps>
+      children aged 6 months to 5 years with cerebral malaria .
+    </s>
+    <s id="5" section="intervention">
+      Patients were randomised to either
+      <group id="1">
+        intravenous
+        <short>quinine</short>
+      </group>
+      or
+      <group id="0">
+        rectal
+        <short>artemether</short>
+      </group>
+      for
+      <time id="0">7  days</time>
+      .
+    </s>
+    <s id="8" section="results">
+      <outcome id="5" type="bad">Mortality</outcome>
+      was higher in the
+      <group id="1">quinine  group</group>
+      than in the
+      <group id="0">artemether  group</group>
+      (
+      <on group="1" outcome="5">10</on>
+      /
+      <gs group="1">52</gs>
+      v
+      <on group="0" outcome="5">6</on>
+      /
+      <gs group="0">51</gs>
+      ; relative risk 1.29 , 95 % confidence interval 0.84 to 2.01 ) .
+    </s>
+  </annotated>
+  <fulltext>Rectal artemether versus intravenous quinine for the treatment of cerebral malaria in children in Uganda : randomised clinical trial . To compare the efficacy and safety of rectal artemether with intravenous quinine in the treatment of cerebral malaria in children . Randomised , single blind , clinical trial . Acute care unit at Mulago Hospital , Uganda 's national referral and teaching hospital in Kampala . 103 children aged 6 months to 5 years with cerebral malaria . Patients were randomised to either intravenous quinine or rectal artemether for 7 days . Time to clearance of parasites and fever ; time to regaining consciousness , starting oral intake , and sitting unaided ; and adverse effects . The difference in parasitological and clinical outcomes between rectal artemether and intravenous quinine did not reach significance ( parasite clearance time 54.2 ( SD 33.6 ) hours v 55.0 ( SD 24.3 ) hours , P = 0.90 ; fever clearance time 33.2 ( SD 21.9 ) hours v 24.1 ( SD 18.9 hours , P = 0.08 ; time to regaining consciousness 30.1 ( SD 24.1 ) hours v 22.67 ( SD 18.5 ) hours , P = 0.10 ; time to starting oral intake 37.9 ( SD 27.0 ) hours v 30.3 ( SD 21.1 ) hours , P = 0.14 ) . Mortality was higher in the quinine group than in the artemether group ( 10 / 52 v 6 / 51 ; relative risk 1.29 , 95 % confidence interval 0.84 to 2.01 ) . No serious immediate adverse effects occurred . Rectal artemether is effective and well tolerated and could be used as treatment for cerebral malaria .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the efficacy and safety of
+      <group id="0">
+        rectal
+        <short>artemether</short>
+      </group>
+      with
+      <group id="1">
+        intravenous
+        <short>quinine</short>
+      </group>
+      in the treatment of cerebral malaria in children .
+    </s>
+    <s id="2" section="design">Randomised , single blind , clinical trial .</s>
+    <s id="3" section="setting">Acute care unit at Mulago Hospital , Uganda 's national referral and teaching hospital in Kampala .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Time  to  clearance  of  parasites  and  fever</outcome>
+      ;
+      <outcome id="1">time  to  regaining  consciousness</outcome>
+      ,
+      <outcome id="2">starting  oral  intake</outcome>
+      , and
+      <outcome id="3">sitting  unaided</outcome>
+      ; and
+      <outcome id="4">adverse  effects</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      The difference in parasitological and clinical outcomes between
+      <group id="0">
+        rectal
+        <short>artemether</short>
+      </group>
+      and
+      <group id="1">
+        intravenous
+        <short>quinine</short>
+      </group>
+      did not reach significance (
+      <outcome id="0:0">parasite  clearance  time</outcome>
+      54.2 ( SD 33.6 ) hours v 55.0 ( SD 24.3 ) hours , P = 0.90 ;
+      <outcome id="0:1">fever  clearance  time</outcome>
+      33.2 ( SD 21.9 ) hours v 24.1 ( SD 18.9 hours , P = 0.08 ;
+      <outcome id="1">time  to  regaining  consciousness</outcome>
+      30.1 ( SD 24.1 ) hours v 22.67 ( SD 18.5 ) hours , P = 0.10 ;
+      <outcome id="2">time  to  starting  oral  intake</outcome>
+      37.9 ( SD 27.0 ) hours v 30.3 ( SD 21.1 ) hours , P = 0.14 ) .
+    </s>
+    <s id="9" section="results">
+      No serious immediate
+      <outcome id="4">adverse  effects</outcome>
+      occurred .
+    </s>
+    <s id="10" section="conclusion">
+      <group id="0">
+        Rectal
+        <short>artemether</short>
+      </group>
+      is effective and well tolerated and could be used as treatment for cerebral malaria .
+    </s>
+  </ignored>
+</abstract>
+

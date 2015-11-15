@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17028105">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Physical  activity</group>
+      to prevent obesity in young children : cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Cluster randomised controlled single blinded trial over 12 months .</s>
+    <s id="3" section="setting">30 6 nurseries in Glasgow , Scotland .</s>
+    <s id="4" section="participants">
+      <ps>545</ps>
+      children in their preschool year , mean age 4.2 years ( SD 0.2 ) at
+      <time id="0">baseline</time>
+      .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Enhanced
+        <short>physical  activity  programme</short>
+        in  nursery  (  3  30  minute  sessions  a  week  over  24  weeks  )  plus  home  based  health  education
+      </group>
+      aimed at increasing
+      <outcome id="2">physical  activity</outcome>
+      through play and reducing
+      <outcome id="1">sedentary  behaviour</outcome>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="0">Body  mass  index</outcome>
+      , expressed as a standard deviation score relative to UK 1990 reference data .
+    </s>
+    <s id="8" section="results">
+      Group allocation had no significant effect on the
+      <outcome id="0">primary  outcome  measure</outcome>
+      at
+      <time id="1">6</time>
+      and
+      <time id="2">12  months</time>
+      or on
+      <outcome id="2">
+        measures  of
+        <short>physical  activity</short>
+      </outcome>
+      and
+      <outcome id="1">
+        <short>sedentary  behaviour</short>
+        by  accelerometry
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      Children in the
+      <group id="0">intervention  group</group>
+      had significantly higher performance in
+      <outcome id="3">movement  skills  tests</outcome>
+      than
+      <group id="1">control  children</group>
+      at
+      <time id="1">6  month  follow  -  up</time>
+      ( P = 0.0027 ; 95 % confidence interval 0.3 to 1.3 ) after adjustment for sex and baseline performance .
+    </s>
+  </annotated>
+  <fulltext>Physical activity to prevent obesity in young children : cluster randomised controlled trial . To assess whether a physical activity intervention reduces body mass index in young children . Cluster randomised controlled single blinded trial over 12 months . 30 6 nurseries in Glasgow , Scotland . 545 children in their preschool year , mean age 4.2 years ( SD 0.2 ) at baseline . Enhanced physical activity programme in nursery ( 3 30 minute sessions a week over 24 weeks ) plus home based health education aimed at increasing physical activity through play and reducing sedentary behaviour . Body mass index , expressed as a standard deviation score relative to UK 1990 reference data . Secondary measures were objectively measured physical activity and sedentary behaviour ; fundamental movement skills ; and evaluation of the process . Group allocation had no significant effect on the primary outcome measure at 6 and 12 months or on measures of physical activity and sedentary behaviour by accelerometry . Children in the intervention group had significantly higher performance in movement skills tests than control children at 6 month follow - up ( P = 0.0027 ; 95 % confidence interval 0.3 to 1.3 ) after adjustment for sex and baseline performance . Physical activity can significantly improve motor skills but did not reduce body mass index in young children in this trial . Current Controlled Trials ISRCTN36363490 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess whether a
+      <group id="0">
+        <short>physical  activity</short>
+        intervention
+      </group>
+      reduces
+      <outcome id="0">body  mass  index</outcome>
+      in young children .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      Secondary measures were
+      <outcome id="2">
+        objectively  measured
+        <short>physical  activity</short>
+      </outcome>
+      and
+      <outcome id="1">sedentary  behaviour</outcome>
+      ;
+      <outcome id="3">fundamental  movement  skills</outcome>
+      ; and
+      <outcome id="4">evaluation  of  the  process</outcome>
+      .
+    </s>
+    <s id="10" section="conclusions">
+      <group id="0">Physical  activity</group>
+      can significantly improve
+      <outcome id="3">motor  skills</outcome>
+      but did not reduce
+      <outcome id="0">body  mass  index</outcome>
+      in young children in this trial .
+    </s>
+    <s id="11" section="trial_registration">Current Controlled Trials ISRCTN36363490 .</s>
+  </ignored>
+</abstract>
+

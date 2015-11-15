@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18276664">
+  <title>
+    <s id="0">Effectiveness of the diabetes education and self management for ongoing and newly diagnosed (DESMOND) programme for people with newly diagnosed type 2 diabetes: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate the effectiveness of a structured group education programme on biomedical, psychosocial, and lifestyle measures in people with newly diagnosed type 2 diabetes.</s>
+    <s id="3" section="setting">207 general practices in 13 primary care sites in the United Kingdom.</s>
+    <s id="4" section="participants">824 adults (55% men, mean age 59.5 years).</s>
+    <s id="5" section="intervention">A <group id="0" role="experiment">structured group <short>education programme</short> for 6 hours delivered in the community by 2 trained healthcare professional educators</group> compared with <group id="1" role="control">usual care</group>.</s>
+    <s id="6" section="main outcome measures">Haemoglobin A(1c) levels, blood pressure, weight, blood lipid levels, smoking status, physical activity, quality of life, beliefs about illness, depression, and emotional impact of diabetes at baseline and up to <time id="0">12 months</time>.</s>
+    <s id="7" section="main results"><outcome id="0" type="good">Haemoglobin A(1c) levels</outcome> at <time id="0">12 months</time> had decreased by 1.49% in the <group id="0" role="experiment">intervention group</group> compared with 1.21% in <group id="1" role="control">the control group</group>.</s>
+    <s id="8" section="main results">After adjusting for baseline and cluster, the difference was not significant: 0.05% (95% confidence interval -0.10% to 0.20%).</s>
+    <s id="9" section="main results">The <group id="0" role="experiment">intervention group</group> showed a greater <outcome id="1" type="good">weight loss</outcome>: -2.98 kg (95% confidence interval -3.54 to -2.41) compared with 1.86 kg (-2.44 to -1.28), P=0.027 at <time id="0">12 months</time>.</s>
+    <s id="10" section="main results">The <outcome id="2" type="good">odds of not smoking</outcome> were 3.56 (95% confidence interval 1.11 to 11.45), P=0.033 higher in <group id="0" role="experiment">the intervention group</group> at <time id="0">12 months</time>.</s>
+    <s id="12" section="main results">The <group id="0" role="experiment">intervention group</group> had a lower <outcome id="3" type="bad">depression</outcome> score at <time id="0">12 months</time>: mean difference was -0.50 (95% confidence interval -0.96 to -0.04); P=0.032.</s>
+    <s id="13" section="main results">A positive association was found between change in perceived personal responsibility and weight loss at <time id="0">12 months</time> (beta=0.12;</s>
+    <s id="15" section="conclusion">A <group id="0" role="experiment">structured group <short>education programme</short> for patients with newly diagnosed type 2 diabetes</group> resulted in greater improvements in <outcome id="1" type="good">weight loss</outcome> and <outcome id="2" type="good">smoking cessation</outcome> and <outcome id="4" type="good">positive improvements in beliefs about illness</outcome> but no difference in <outcome id="0" type="good"><short>haemoglobin A(1c) levels</short> up to 12 months after diagnosis</outcome>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of a structured group education programme on biomedical, psychosocial, and lifestyle measures in people with newly diagnosed type 2 diabetes. 
+DESIGN: Multicentre cluster randomised controlled trial in primary care with randomisation at practice level. 
+SETTING: 207 general practices in 13 primary care sites in the United Kingdom. 
+PARTICIPANTS: 824 adults (55% men, mean age 59.5 years). 
+INTERVENTION: A structured group education programme for six hours delivered in the community by two trained healthcare professional educators compared with usual care. 
+MAIN OUTCOME MEASURES: Haemoglobin A(1c) levels, blood pressure, weight, blood lipid levels, smoking status, physical activity, quality of life, beliefs about illness, depression, and emotional impact of diabetes at baseline and up to 12 months. 
+MAIN RESULTS: Haemoglobin A(1c) levels at 12 months had decreased by 1.49% in the intervention group compared with 1.21% in the control group. 
+After adjusting for baseline and cluster, the difference was not significant: 0.05% (95% confidence interval -0.10% to 0.20%). 
+The intervention group showed a greater weight loss: -2.98 kg (95% confidence interval -3.54 to -2.41) compared with 1.86 kg (-2.44 to -1.28), P=0.027 at 12 months. 
+The odds of not smoking were 3.56 (95% confidence interval 1.11 to 11.45), P=0.033 higher in the intervention group at 12 months. 
+The intervention group showed significantly greater changes in illness belief scores (P=0.001); directions of change were positive indicating greater understanding of diabetes. 
+The intervention group had a lower depression score at 12 months: mean difference was -0.50 (95% confidence interval -0.96 to -0.04); P=0.032. 
+A positive association was found between change in perceived personal responsibility and weight loss at 12 months (beta=0.12; 
+P=0.008). 
+CONCLUSION: A structured group education programme for patients with newly diagnosed type 2 diabetes resulted in greater improvements in weight loss and smoking cessation and positive improvements in beliefs about illness but no difference in haemoglobin A(1c) levels up to 12 months after diagnosis. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN17844016 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="2" section="design">Multicentre cluster randomised controlled trial in primary care with randomisation at practice level.</s>
+    <s id="11" section="main results">The intervention group showed significantly greater changes in illness belief scores (P=0.001); directions of change were positive indicating greater understanding of diabetes.</s>
+    <s id="14" section="main results">P=0.008).</s>
+    <s id="16" section="trial registration">Current Controlled Trials ISRCTN17844016 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

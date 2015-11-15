@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18502912">
+  <title>
+    <s id="0">Prolonged conservative care versus early surgery in patients with sciatica from lumbar disc herniation: cost utility analysis alongside a randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">9 Dutch hospitals .</s>
+    <s id="4" section="participants">283 patients with sciatica for 6-12 weeks, caused by lumbar disc herniation.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">6 months of <short>prolonged conservative care</short></group> compared with <group id="1" role="experiment">early surgery</group>.</s>
+    <s id="6" section="main outcome measures">Quality adjusted life years ( QALYs ) at 1 year and societal costs , estimated from patient reported utilities ( UK and US EuroQol , SF-6D , and visual analogue scale ) and diaries on costs ( healthcare , patient 's costs , and productivity ) .</s>
+    <s id="7" section="results">Compared with <group id="0" role="experiment">prolonged conservative care</group>, <group id="1" role="experiment">early surgery</group> provided faster recovery, with a <outcome id="0" type="good">gain in QALYs</outcome> according to the UK EuroQol of 0.044 (95% confidence interval 0.005 to 0.083), the US EuroQol of 0.032 (0.005 to 0.059), the SF-6D of 0.024 (0.003 to 0.046), and the visual analogue scale of 0.032 (-0.003 to 0.066).</s>
+    <s id="8" section="results">From the healthcare perspective, <group id="1" role="experiment">early surgery</group> resulted in higher <outcome id="1" type="bad">costs</outcome> (difference euro1819 (pound1449; $2832), 95% confidence interval euro842 to euro2790), with a cost utility ratio per QALY of euro41 000 (euro14,000 to euro430 000).</s>
+    <s id="9" section="results">From the societal perspective, <outcome id="2" type="good">savings on productivity costs</outcome> led to a negligible total difference in cost (euro-12, euro-4029 to euro4006).</s>
+    
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether the faster recovery after early surgery for sciatica compared with prolonged conservative care is attained at reasonable costs. 
+DESIGN: Cost utility analysis alongside a randomised controlled trial. 
+SETTING: Nine Dutch hospitals. 
+PARTICIPANTS: 283 patients with sciatica for 6-12 weeks, caused by lumbar disc herniation. 
+INTERVENTIONS: Six months of prolonged conservative care compared with early surgery. 
+MAIN OUTCOME MEASURES: Quality adjusted life years (QALYs) at one year and societal costs, estimated from patient reported utilities (UK and US EuroQol, SF-6D, and visual analogue scale) and diaries on costs (healthcare, patient's costs, and productivity). 
+RESULTS: Compared with prolonged conservative care, early surgery provided faster recovery, with a gain in QALYs according to the UK EuroQol of 0.044 (95% confidence interval 0.005 to 0.083), the US EuroQol of 0.032 (0.005 to 0.059), the SF-6D of 0.024 (0.003 to 0.046), and the visual analogue scale of 0.032 (-0.003 to 0.066). 
+From the healthcare perspective, early surgery resulted in higher costs (difference euro1819 (pound1449; $2832), 95% confidence interval euro842 to euro2790), with a cost utility ratio per QALY of euro41 000 (euro14,000 to euro430 000). 
+From the societal perspective, savings on productivity costs led to a negligible total difference in cost (euro-12, euro-4029 to euro4006). 
+CONCLUSIONS: Faster recovery from sciatica makes early surgery likely to be cost effective compared with prolonged conservative care. 
+The estimated difference in healthcare costs was acceptable and was compensated for by the difference in absenteeism from work. 
+For a willingness to pay of euro40,000 or more per QALY, early surgery need not be withheld for economic reasons. 
+Trial registration Current Controlled Trials ISRCTN 26872154.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether the faster recovery after early surgery for sciatica compared with prolonged conservative care is attained at reasonable costs.</s>
+    <s id="2" section="design">Cost utility analysis alongside a randomised controlled trial.</s>
+    <s id="10" section="conclusions">Faster recovery from sciatica makes early surgery likely to be cost effective compared with prolonged conservative care.</s>
+    <s id="11" section="conclusions">The estimated difference in healthcare costs was acceptable and was compensated for by the difference in absenteeism from work.</s>
+    <s id="12" section="conclusions">For a willingness to pay of euro40,000 or more per QALY, early surgery need not be withheld for economic reasons.</s>
+    <s id="13" section="trial registration"> Current Controlled Trials ISRCTN 26872154.</s>  
+  </ignored>
+</abstract>
+

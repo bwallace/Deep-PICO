@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17878265">
+  <title>
+    <s id="0">Effectiveness and safety of chest pain assessment to prevent emergency admissions: ESCAPE cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To determine whether introducing chest pain unit care reduces emergency admissions without increasing reattendances and admissions over the next 30 days.</s>
+    <s id="3" section="setting">14 diverse acute hospitals in the United Kingdom.</s>
+    <s id="6" section="main outcome measures">Proportion of chest pain attendances resulting in admission; reattendances and admissions over the next 30 days; daily emergency medical admissions (all causes); and proportion of emergency department attendances with chest pain.</s>
+    <s id="7" section="results">The <group id="0" role="experiment">introduction of chest pain unit care</group> was associated with weak evidence of an increase in <outcome id="0" type="bad"><short>emergency department attendances</short> with chest pain</outcome> (16% v 3.5%; P=0.08); no change in the <outcome id="1" type="bad">proportion of chest pain attendances resulting in <short>admission</short></outcome> (odds ratio 0.998, 95% confidence interval 0.940 to 1.059; P=0.945); small increases in the <outcome id="2" type="bad">proportion <short>reattending</short></outcome> (odds ratio 1.10, 1.00 to 1.21; P=0.036) or <outcome id="3" type="bad">being admitted</outcome> (1.30, 0.97 to 1.74; P=0.083) over the next 30 days; and evidence of increased <outcome id="4" type="bad">daily medical admissions</outcome> (1.7 per day, 95% confidence interval 0.8 to 2.5; P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether introducing chest pain unit care reduces emergency admissions without increasing reattendances and admissions over the next 30 days. 
+DESIGN: Cluster randomised before and after intervention trial. 
+SETTING: 14 diverse acute hospitals in the United Kingdom. 
+PARTICIPANTS: Patients attending the emergency department with acute chest pain during the year before and the year after the intervention started. 
+INTERVENTION: Establishment of chest pain unit care compared with continuation of routine care. 
+MAIN OUTCOME MEASURES: Proportion of chest pain attendances resulting in admission; reattendances and admissions over the next 30 days; daily emergency medical admissions (all causes); and proportion of emergency department attendances with chest pain. 
+RESULTS: The introduction of chest pain unit care was associated with weak evidence of an increase in emergency department attendances with chest pain (16% v 3.5%; P=0.08); no change in the proportion of chest pain attendances resulting in admission (odds ratio 0.998, 95% confidence interval 0.940 to 1.059; P=0.945); small increases in the proportion reattending (odds ratio 1.10, 1.00 to 1.21; P=0.036) or being admitted (1.30, 0.97 to 1.74; P=0.083) over the next 30 days; and evidence of increased daily medical admissions (1.7 per day, 95% confidence interval 0.8 to 2.5; P&lt;0.001). 
+However, this last finding was highly sensitive to changes in the method used to handle missing data. 
+CONCLUSION: The introduction of chest pain unit care did not reduce the proportion of patients with chest pain admitted and may have been associated with increased emergency department attendances with chest pain. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN55318418.</fulltext>
+  <ignored>
+    <s id="2" section="design">Cluster randomised before and after intervention trial.</s>
+    <s id="4" section="participants">Patients attending the emergency department with acute chest pain during the year before and the year after the intervention started.</s>
+    <s id="5" section="intervention">Establishment of chest pain unit care compared with continuation of routine care.</s>
+    <s id="8" section="results">However, this last finding was highly sensitive to changes in the method used to handle missing data.</s>
+    <s id="9" section="conclusion">The introduction of chest pain unit care did not reduce the proportion of patients with chest pain admitted and may have been associated with increased emergency department attendances with chest pain.</s>
+    <s id="10" section="trial registration">Current Controlled Trials ISRCTN55318418.</s>
+  </ignored>
+</abstract>
+

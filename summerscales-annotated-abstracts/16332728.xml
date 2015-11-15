@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16332728">
+  <title>
+    <s id="0" section="title">
+      Evaluation of a
+      <group id="0">
+        <short>general  practitioner  with  special  interest</short>
+        service  for  dermatology
+      </group>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="6" section="interventions">
+      Participants were randomised in 2 : 1 ratio to receive
+      <group id="0">
+        management  by  a
+        <short>general  practitioner  with  special  interest</short>
+      </group>
+      or
+      <group id="1">usual  hospital  outpatient  care</group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Primary outcomes were
+      <outcome id="0">
+        <short>disease  related  quality  of  life</short>
+        (  dermatology  life  quality  index  )
+      </outcome>
+      and
+      <outcome id="1">
+        improvement  in  patients  '  perception  of
+        <short>access  to  services</short>
+      </outcome>
+      , assessed
+      <time id="0">9  months</time>
+      after randomisation .
+    </s>
+    <s id="9" section="results">
+      49 % of the participants were judged suitable for
+      <group id="0">
+        care  by  the
+        <short>general  practitioner  with  special  interest  service</short>
+      </group>
+      .
+    </s>
+    <s id="10" section="results">
+      Of 768 patients eligible ,
+      <ps>556</ps>
+      ( 72.4 % ) were randomised (
+      <gs group="0">354</gs>
+      to
+      <group id="0">general  practitioner  with  special  interest</group>
+      ,
+      <gs group="1">202</gs>
+      to
+      <group id="1">hospital  outpatient  care</group>
+      ) .
+    </s>
+    <s id="11" section="results">
+      After
+      <time id="0">9  months</time>
+      , 422 ( 76 % ) were followed up .
+    </s>
+    <s id="12" section="results">
+      No noticeable differences were found between the groups in
+      <outcome id="0">clinical  outcome</outcome>
+      (
+      <outcome id="0">median  dermatology  life  quality  index  score</outcome>
+      = 1 both arms , ratio of geometric means 0.99 , 95 % confidence interval 0.85 to 1.15 ) .
+    </s>
+    <s id="13" section="results">
+      The
+      <group id="0">general  practitioner  with  special  interest  service</group>
+      was more
+      <outcome id="1">accessible</outcome>
+      ( difference between means on
+      <outcome id="1">access  scale</outcome>
+      14 , 11 to 19 ) and waited a mean of 40 ( 35 to 46 ) days less .
+    </s>
+    <s id="14" section="results">
+      Patients expressed slightly greater
+      <outcome id="2">satisfaction</outcome>
+      with
+      <group id="0">
+        consultations  with  a
+        <short>general  practitioner  with  special  interest</short>
+      </group>
+      ( difference in
+      <outcome id="2">mean  satisfaction  score</outcome>
+      4 , 1 to 7 ) , and at
+      <time id="1">baseline</time>
+      and after
+      <time id="0">9  months</time>
+      61 % said they preferred
+      <group id="0">care  at  the  service</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Evaluation of a general practitioner with special interest service for dermatology : randomised controlled trial . To assess the effectiveness , accessibility , and acceptability of a general practitioner with special interest service for skin problems compared with a hospital dermatology clinic . Randomised controlled trial . General practitioner with special interest dermatology service and hospital dermatology clinic . Adults referred to a hospital dermatology clinic and assessed by a consultant or the general practitioner with special interest service , . Suitable patients had non - urgent skin problems and had been identified from the referral letter as suitable for management by a general practitioner with special interest . Participants were randomised in 2 : 1 ratio to receive management by a general practitioner with special interest or usual hospital outpatient care . Primary outcomes were disease related quality of life ( dermatology life quality index ) and improvement in patients ' perception of access to services , assessed 9 months after randomisation . Secondary outcomes were patient satisfaction , preference for site of care , proportion of failed appointments , and waiting times to first appointment . 49 % of the participants were judged suitable for care by the general practitioner with special interest service . Of 768 patients eligible , 556 ( 72.4 % ) were randomised ( 354 to general practitioner with special interest , 202 to hospital outpatient care ) . After 9 months , 422 ( 76 % ) were followed up . No noticeable differences were found between the groups in clinical outcome ( median dermatology life quality index score = 1 both arms , ratio of geometric means 0.99 , 95 % confidence interval 0.85 to 1.15 ) . The general practitioner with special interest service was more accessible ( difference between means on access scale 14 , 11 to 19 ) and waited a mean of 40 ( 35 to 46 ) days less . Patients expressed slightly greater satisfaction with consultations with a general practitioner with special interest ( difference in mean satisfaction score 4 , 1 to 7 ) , and at baseline and after 9 months 61 % said they preferred care at the service . The general practitioner with special interest service for dermatology was more accessible and preferred by patients than hospital outpatient care , achieving similar clinical outcomes . Trial registration ISRCTN31962758 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effectiveness , accessibility , and acceptability of a
+      <group id="0">general  practitioner  with  special  interest  service</group>
+      for skin problems compared with a
+      <group id="1">hospital  dermatology  clinic</group>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">
+      <group id="0">
+        <short>General  practitioner  with  special  interest</short>
+        dermatology  service
+      </group>
+      and
+      <group id="1">hospital  dermatology  clinic</group>
+      .
+    </s>
+    <s id="4" section="participants">
+      Adults referred to a
+      <group id="1">
+        <short>hospital  dermatology  clinic</short>
+        and  assessed  by  a  consultant
+      </group>
+      or the
+      <group id="0">general  practitioner  with  special  interest  service</group>
+      , .
+    </s>
+    <s id="5" section="participants">
+      Suitable patients had non - urgent skin problems and had been identified from the referral letter as suitable for
+      <group id="0">
+        management  by  a
+        <short>general  practitioner  with  special  interest</short>
+      </group>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="2">patient  satisfaction</outcome>
+      ,
+      <outcome id="3">preference  for  site  of  care</outcome>
+      ,
+      <outcome id="4">proportion  of  failed  appointments</outcome>
+      , and
+      <outcome id="5">waiting  times  to  first  appointment</outcome>
+      .
+    </s>
+    <s id="15" section="conclusions">
+      The
+      <group id="0">
+        <short>general  practitioner  with  special  interest</short>
+        service  for  dermatology
+      </group>
+      was more
+      <outcome id="1">accessible</outcome>
+      and
+      <outcome id="3">preferred  by  patients</outcome>
+      than
+      <group id="1">hospital  outpatient  care</group>
+      , achieving similar clinical outcomes .
+    </s>
+    <s id="16" section="conclusions">Trial registration ISRCTN31962758 .</s>
+  </ignored>
+</abstract>
+

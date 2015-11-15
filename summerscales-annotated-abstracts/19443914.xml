@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19443914">
+  <title>
+    <s id="0">Effect of virtual reality training on laparoscopic surgery: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 gynaecological departments in the Zeeland region of Denmark .</s>
+    <s id="4" section="participants">24 first and second year registrars specialising in gynaecology and obstetrics.</s>
+    <s id="6" section="main outcome measure">The main outcome measure was technical performance assessed by 2 independent observers blinded to trainee and <outcome id="0" type="good">training status using a previously validated general and task specific <short>rating scale</short></outcome> .</s>
+    <s id="8" section="results">The <group id="0" role="experiment"><short>simulator</short> trained group</group> ( n = <gs group="0">11</gs> ) reached a <outcome id="0" type="good">median total score</outcome> of 33 points ( interquartile range 32- 36 points ) , equivalent to the experience gained after 20-50 laparoscopic procedures , whereas the <group id="1" role="control">control group</group> ( n = <gs group="1">10</gs> ) reached a <outcome id="0" type="good">median total score</outcome> of 23 ( 22-27 ) points , equivalent to the experience gained from fewer than 5 procedures ( P &lt; 0.001 ) .</s>
+    <s id="9" section="results">The <outcome id="1" type="bad">median total operation time</outcome> in the <group id="0" role="experiment"><short>simulator</short> trained group</group> was 12 minutes (interquartile range 10-14 minutes) and in the <group id="0" role="control">control group</group> was 24 (20-29) minutes (P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of virtual reality training on an actual laparoscopic operation. 
+DESIGN: Prospective randomised controlled and blinded trial. 
+SETTING: Seven gynaecological departments in the Zeeland region of Denmark. 
+PARTICIPANTS: 24 first and second year registrars specialising in gynaecology and obstetrics. 
+INTERVENTIONS: Proficiency based virtual reality simulator training in laparoscopic salpingectomy and standard clinical education (controls). 
+MAIN OUTCOME MEASURE: The main outcome measure was technical performance assessed by two independent observers blinded to trainee and training status using a previously validated general and task specific rating scale. 
+The secondary outcome measure was operation time in minutes. 
+RESULTS: The simulator trained group (n=11) reached a median total score of 33 points (interquartile range 32-36 points), equivalent to the experience gained after 20-50 laparoscopic procedures, whereas the control group (n=10) reached a median total score of 23 (22-27) points, equivalent to the experience gained from fewer than five procedures (P&lt;0.001). 
+The median total operation time in the simulator trained group was 12 minutes (interquartile range 10-14 minutes) and in the control group was 24 (20-29) minutes (P&lt;0.001). 
+The observers' inter-rater agreement was 0.79. 
+CONCLUSION: Skills in laparoscopic surgery can be increased in a clinically relevant manner using proficiency based virtual reality simulator training. 
+The performance level of novices was increased to that of intermediately experienced laparoscopists and operation time was halved. 
+Simulator training should be considered before trainees carry out laparoscopic procedures. 
+TRIAL REGISTRATION: ClinicalTrials.gov 
+NCT00311792.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of virtual reality training on an actual laparoscopic operation.</s>
+    <s id="2" section="design">Prospective randomised controlled and blinded trial.</s>
+    <s id="5" section="interventions">Proficiency based virtual reality simulator training in laparoscopic salpingectomy and standard clinical education (controls).</s>
+    <s id="7" section="main outcome measure">The secondary outcome measure was operation time in minutes.</s>
+    <s id="10" section="results">The observers' inter-rater agreement was 0.79.</s>
+    <s id="11" section="conclusion">Skills in laparoscopic surgery can be increased in a clinically relevant manner using proficiency based virtual reality simulator training.</s>
+    <s id="12" section="conclusion">The performance level of novices was increased to that of intermediately experienced laparoscopists and operation time was halved.</s>
+    <s id="13" section="conclusion">Simulator training should be considered before trainees carry out laparoscopic procedures.</s>
+    <s id="14" section="trial registration">ClinicalTrials.gov</s>
+    <s id="15" section="trial registration">NCT00311792.</s>
+  </ignored>
+</abstract>
+

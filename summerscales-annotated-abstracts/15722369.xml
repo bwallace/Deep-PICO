@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15722369">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Quetiapine</group>
+      and
+      <group id="1">rivastigmine</group>
+      and cognitive decline in Alzheimer 's disease : randomised double blind placebo controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>93</ps>
+      patients with Alzheimer 's disease , dementia , and clinically significant agitation .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="1">
+        Agitation  (  Cohen-Mansfield
+        <short>agitation  inventory</short>
+        )
+      </outcome>
+      and
+      <outcome id="0" type="good">
+        cognition  (
+        <short>severe  impairment  battery</short>
+        )
+      </outcome>
+      at
+      <time id="0">baseline</time>
+      and at
+      <time id="1">6  weeks</time>
+      and
+      <time id="2">26  weeks</time>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      The primary outcome was
+      <outcome id="1">agitation  inventory</outcome>
+      at
+      <time id="1">6  weeks</time>
+      .
+    </s>
+    <s id="8" section="results">
+      31 patients were randomised to each group , and 80 ( 86 % ) started treatment (
+      <gs group="1">25</gs>
+      <group id="1">rivastigmine</group>
+      ,
+      <gs group="0">26</gs>
+      <group id="0">quetiapine</group>
+      ,
+      <gs group="2">29</gs>
+      <group id="2">placebo</group>
+      ) , of whom 71 ( 89 % ) tolerated the maximum protocol dose ( 22
+      <group id="1">rivastigmine</group>
+      , 23
+      <group id="0">quetiapine</group>
+      , 26
+      <group id="2">placebo</group>
+      ) .
+    </s>
+    <s id="9" section="results">
+      Compared with
+      <group id="2">placebo</group>
+      , neither group showed significant differences in improvement on the
+      <outcome id="1">agitation  inventory</outcome>
+      either at
+      <time id="1">6  weeks</time>
+      or
+      <time id="2">26  weeks</time>
+      .
+    </s>
+    <s id="10" section="results">
+      56 patients scored &gt; 10 on the
+      <outcome id="0" type="good">severe  impairment  battery</outcome>
+      at
+      <time id="0">baseline</time>
+      , 46 ( 82 % ) of whom were included in the analysis at
+      <time id="1">6  week  follow  up</time>
+      (
+      <on group="1" outcome="0">14</on>
+      <group id="1">rivastigmine</group>
+      ,
+      <on group="0" outcome="0">14</on>
+      <group id="0">quetiapine</group>
+      ,
+      <on group="2" outcome="0">18</on>
+      <group id="2">placebo</group>
+      ) .
+    </s>
+    <s id="11" section="results">
+      For
+      <group id="0">quetiapine</group>
+      the change in
+      <outcome id="0" type="good">severe  impairment  battery  score</outcome>
+      from
+      <time id="0">baseline</time>
+      was estimated as an average of - 14.6 points ( 95 % confidence interval - 25.3 to - 4.0 ) lower ( that is , worse ) than in the
+      <group id="2">placebo  group</group>
+      at
+      <time id="1">6  weeks</time>
+      ( P = 0.009 ) and - 15.4 points ( -27.0 to - 3.8 ) lower at
+      <time id="2">26  weeks</time>
+      ( P = 0.01 ) .
+    </s>
+    <s id="12" section="results">
+      The corresponding changes with
+      <group id="1">rivastigmine</group>
+      were - 3.5 points ( -13.1 to 6.2 ) lower at
+      <time id="1">6  weeks</time>
+      ( P = 0.5 ) and - 7.5 points ( -21.0 to 6.0 ) lower at
+      <time id="2">26  weeks</time>
+      ( P = 0.3 ) .
+    </s>
+  </annotated>
+  <fulltext>Quetiapine and rivastigmine and cognitive decline in Alzheimer 's disease : randomised double blind placebo controlled trial . To determine the respective efficacy of quetiapine and rivastigmine for agitation in people with dementia in institutional care and to evaluate these treatments with respect to change in cognitive performance . Randomised double blind ( clinician , patient , outcomes assessor ) placebo controlled trial . Care facilities in the north east of England . 93 patients with Alzheimer 's disease , dementia , and clinically significant agitation . Atypical antipsychotic ( quetiapine ) , cholinesterase inhibitor ( rivastigmine ) , or placebo ( double dummy ) . Agitation ( Cohen-Mansfield agitation inventory ) and cognition ( severe impairment battery ) at baseline and at 6 weeks and 26 weeks . The primary outcome was agitation inventory at 6 weeks . 31 patients were randomised to each group , and 80 ( 86 % ) started treatment ( 25 rivastigmine , 26 quetiapine , 29 placebo ) , of whom 71 ( 89 % ) tolerated the maximum protocol dose ( 22 rivastigmine , 23 quetiapine , 26 placebo ) . Compared with placebo , neither group showed significant differences in improvement on the agitation inventory either at 6 weeks or 26 weeks . 50 6 patients scored &gt; 10 on the severe impairment battery at baseline , 46 ( 82 % ) of whom were included in the analysis at 6 week follow up ( 14 rivastigmine , 14 quetiapine , 18 placebo ) . For quetiapine the change in severe impairment battery score from baseline was estimated as an average of - 14.6 points ( 95 % confidence interval - 25.3 to - 4.0 ) lower ( that is , worse ) than in the placebo group at 6 weeks ( P = 0.009 ) and - 15.4 points ( -27.0 to - 3.8 ) lower at 26 weeks ( P = 0.01 ) . The corresponding changes with rivastigmine were - 3.5 points ( -13.1 to 6.2 ) lower at 6 weeks ( P = 0.5 ) and - 7.5 points ( -21.0 to 6.0 ) lower at 26 weeks ( P = 0.3 ) . Neither quetiapine nor rivastigmine are effective in the treatment of agitation in people with dementia in institutional care . Compared with placebo , quetiapine is associated with significantly greater cognitive decline .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To determine the respective efficacy of
+      <group id="0">quetiapine</group>
+      and
+      <group id="1">rivastigmine</group>
+      for agitation in people with dementia in institutional care and to evaluate these treatments with respect to change in
+      <outcome id="0" type="good">cognitive  performance</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised double blind ( clinician , patient , outcomes assessor ) placebo controlled trial .</s>
+    <s id="3" section="setting">Care facilities in the north east of England .</s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Atypical  antipsychotic  (
+        <short>quetiapine</short>
+        )
+      </group>
+      ,
+      <group id="1">
+        cholinesterase  inhibitor  (
+        <short>rivastigmine</short>
+        )
+      </group>
+      , or
+      <group id="2">
+        <short>placebo</short>
+        (  double  dummy  )
+      </group>
+      .
+    </s>
+    <s id="13" section="conclusions">
+      Neither
+      <group id="0">quetiapine</group>
+      nor
+      <group id="1">rivastigmine</group>
+      are effective in the treatment of
+      <outcome id="1">agitation</outcome>
+      in people with dementia in institutional care .
+    </s>
+    <s id="14" section="conclusions">
+      Compared with
+      <group id="2">placebo</group>
+      ,
+      <group id="0">quetiapine</group>
+      is associated with significantly greater
+      <outcome id="0" type="good">cognitive  decline</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

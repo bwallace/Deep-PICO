@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16096304">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of
+      <group id="0">
+        home  based
+        <short>motivational  interviewing</short>
+        by  midwives
+      </group>
+      to help pregnant smokers quit or cut down .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Clinics attached to 2 maternity hospitals in Glasgow .</s>
+    <s id="4" section="participants">
+      <ps>762</ps>
+      / 1684 pregnant women who were regular smokers at antenatal booking :
+      <gs group="0">351</gs>
+      in
+      <group id="0">intervention  group</group>
+      and
+      <gs group="1">411</gs>
+      in
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="9" section="results">
+      <on group="0" outcome="0">17</on>
+      /
+      <gs group="0">351</gs>
+      ( 4.8 % ) women in the
+      <group id="0">intervention  group</group>
+      <outcome id="0" type="good">stopped  smoking</outcome>
+      ( according to self report and serum cotinine concentration &lt; 13.7 ng / ml ) compared with
+      <on group="1" outcome="0">19</on>
+      /
+      <gs group="1">411</gs>
+      ( 4.6 % ) in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="10" section="results">
+      <on group="0" outcome="1">15</on>
+      ( 4.2 % ) women in the
+      <group id="0">intervention  group</group>
+      <outcome id="1" type="good">
+        <short>cut  down</short>
+        (  self  report  and  cotinine  concentration  less  than  half  that  at  booking  )
+      </outcome>
+      compared with
+      <on group="1" outcome="1">26</on>
+      ( 6.3 % ) in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="11" section="results">
+      Fewer women in the
+      <group id="0">intervention  group</group>
+      reported
+      <outcome id="2" type="bad">smoking  more</outcome>
+      (
+      <on group="0" outcome="2">18</on>
+      ( 5.1 % ) v
+      <on group="1" outcome="2">44</on>
+      ( 10.7 % ) ; relative risk 0.48 , 95 % confidence interval 0.28 to 0.81 ) .
+    </s>
+    <s id="12" section="results">
+      <outcome id="3">Birth  weight</outcome>
+      did not differ significantly ( mean 3078 g v 3048 g ) .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of home based motivational interviewing by midwives to help pregnant smokers quit or cut down . To determine whether motivational interviewing - -a behavioural therapy for addictions - provided at home by specially trained midwives helps pregnant smokers to quit . Randomised controlled non - blinded trial analysed by intention to treat . Clinics attached to 2 maternity hospitals in Glasgow . 762 / 1684 pregnant women who were regular smokers at antenatal booking : 351 in intervention group and 411 in control group . All women received standard health promotion information . Women in the intervention group were offered motivational interviewing at home . All interviews were recorded . Self reported smoking cessation verified by plasma or salivary cotinine concentration . 17 / 351 ( 4.8 % ) women in the intervention group stopped smoking ( according to self report and serum cotinine concentration &lt; 13.7 ng / ml ) compared with 19 / 411 ( 4.6 % ) in the control group . 15 ( 4.2 % ) women in the intervention group cut down ( self report and cotinine concentration less than half that at booking ) compared with 26 ( 6.3 % ) in the control group . Fewer women in the intervention group reported smoking more ( 18 ( 5.1 % ) v 44 ( 10.7 % ) ; relative risk 0.48 , 95 % confidence interval 0.28 to 0.81 ) . Birth weight did not differ significantly ( mean 3078 g v 3048 g ) . Good quality motivational interviewing did not significantly increase smoking cessation among pregnant women .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether
+      <group id="0">
+        <short>motivational  interviewing</short>
+        -  -a  behavioural  therapy  for  addictions  -  provided  at  home  by  specially  trained  midwives
+      </group>
+      helps
+      <outcome id="0" type="good">pregnant  smokers  to  quit</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled non - blinded trial analysed by intention to treat .</s>
+    <s id="5" section="interventions">All women received standard health promotion information .</s>
+    <s id="6" section="interventions">
+      Women in the
+      <group id="0">intervention  group</group>
+      were offered
+      <group id="0">
+        <short>motivational  interviewing</short>
+        at  home
+      </group>
+      .
+    </s>
+    <s id="7" section="interventions">All interviews were recorded .</s>
+    <s id="8" section="main_outcome_measures">
+      <outcome id="0" type="good">
+        Self  reported
+        <short>smoking  cessation</short>
+        verified  by  plasma  or  salivary  cotinine  concentration
+      </outcome>
+      .
+    </s>
+    <s id="13" section="conclusion">
+      <group id="0">
+        Good  quality
+        <short>motivational  interviewing</short>
+      </group>
+      did not significantly increase
+      <outcome id="0" type="good">smoking  cessation</outcome>
+      among pregnant women .
+    </s>
+  </ignored>
+</abstract>
+

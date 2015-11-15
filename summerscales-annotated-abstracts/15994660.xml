@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15994660">
+  <title>
+    <s id="0" section="title">
+      Effects of
+      <group id="0">
+        locality  based
+        <short>community  hospital</short>
+        care
+      </group>
+      on independence in older people needing rehabilitation : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>220</ps>
+      patients needing rehabilitation after an acute illness that required hospital admission .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcomes were
+      <outcome id="3">
+        <short>Nottingham  extended  activities</short>
+        of  daily  living  scale
+      </outcome>
+      and
+      <outcome id="4">
+        <short>general  health  questionnaire</short>
+        28  (  carer  )
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      The
+      <outcome id="0">median  length  of  stay</outcome>
+      was 15 days for both the
+      <group id="0">community  hospital</group>
+      and the
+      <group id="1">district  general  hospital</group>
+      groups ( interquartile range :
+      <group id="0">community  hospital</group>
+      9-25 days ;
+      <group id="1">district  general  hospital</group>
+      9-24 days ) .
+    </s>
+    <s id="9" section="results">
+      <outcome id="1">Independence</outcome>
+      at
+      <time id="0">6  months</time>
+      was greater in the
+      <group id="0">community  hospital  group</group>
+      ( adjusted mean difference 5.30 , 95 % confidence interval 0.64 to 9.96 ) .
+    </s>
+  </annotated>
+  <fulltext>Effects of locality based community hospital care on independence in older people needing rehabilitation : randomised controlled trial . To determine the effects on independence in older people needing rehabilitation in a locality based community hospital compared with care on a ward for elderly people in a district general hospital . Randomised controlled trial . Care in a community hospital and district general hospital in Bradford , England . 220 patients needing rehabilitation after an acute illness that required hospital admission . Patients were randomly allocated to a locality based community hospital or to remain within a department for the care of elderly people in a district general hospital . Primary outcomes were Nottingham extended activities of daily living scale and general health questionnaire 28 ( carer ) . Secondary outcomes were activities of daily living ( Barthel index ) , Nottingham health profil , hospital anxiety and depression scale , mortality , destination after discharge , satisfaction with services , carer strain index , and carer 's satisfaction with services . The median length of stay was 15 days for both the community hospital and the district general hospital groups ( interquartile range : community hospital 9-25 days ; district general hospital 9-24 days ) . Independence at 6 months was greater in the community hospital group ( adjusted mean difference 5.30 , 95 % confidence interval 0.64 to 9.96 ) . Results for the secondary outcome measures , including care satisfaction and measures of carer burden , were similar for both groups . Care in a locality based community hospital is associated with greater independence for older people than care in wards for elderly people in a district general hospital .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the effects on independence in older people needing rehabilitation in a
+      <group id="0">
+        locality  based
+        <short>community  hospital</short>
+      </group>
+      compared with
+      <group id="1">
+        care  on  a  ward  for  elderly  people  in  a
+        <short>district  general  hospital</short>
+      </group>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">
+      <group id="0">
+        Care  in  a
+        <short>community  hospital</short>
+      </group>
+      and
+      <group id="1">district  general  hospital</group>
+      in Bradford , England .
+    </s>
+    <s id="5" section="interventions">
+      Patients were randomly allocated to a
+      <group id="0">
+        locality  based
+        <short>community  hospital</short>
+      </group>
+      or to
+      <group id="1">
+        remain  within  a  department  for  the  care  of  elderly  people  in  a
+        <short>district  general  hospital</short>
+      </group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="2:0">
+        <short>activities  of  daily  living</short>
+        (  Barthel  index  )
+      </outcome>
+      ,
+      <outcome id="2:1">Nottingham  health  profil</outcome>
+      ,
+      <outcome id="2:2">hospital  anxiety  and  depression  scale</outcome>
+      ,
+      <outcome id="2:3">mortality</outcome>
+      ,
+      <outcome id="2:4">destination  after  discharge</outcome>
+      ,
+      <outcome id="2:5">satisfaction  with  services</outcome>
+      ,
+      <outcome id="2:6">carer  strain  index</outcome>
+      , and
+      <outcome id="2:7">carer  's  satisfaction  with  services</outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      Results for the
+      <outcome id="2">secondary  outcome  measures</outcome>
+      , including
+      <outcome id="2:7">care  satisfaction</outcome>
+      and
+      <outcome id="2:6">measures  of  carer  burden</outcome>
+      , were similar for both groups .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">
+        Care  in  a  locality  based
+        <short>community  hospital</short>
+      </group>
+      is associated with greater independence for older people than
+      <group id="1">
+        care  in  wards  for  elderly  people  in  a
+        <short>district  general  hospital</short>
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

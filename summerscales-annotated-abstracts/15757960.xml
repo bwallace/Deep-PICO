@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15757960">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Screening</short>
+        for  abdominal  aortic  aneurysms
+      </group>
+      : single centre randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To determine whether
+      <group id="0">
+        <short>screening</short>
+        Danish  men  aged  65  or  more  for  abdominal  aortic  aneurysms
+      </group>
+      reduces
+      <outcome id="0">mortality</outcome>
+      .
+    </s>
+    <s id="3" section="setting">All 5 hospitals in Viborg County , Denmark .</s>
+    <s id="5" section="participants">In 1994 we included men born 1921-9 ( 64-73 years ) .</s>
+    <s id="6" section="participants">We also included men who became 65 during 1995 -8 .</s>
+    <s id="8" section="interventions">Participants with an abdominal aortic aneurysm &gt; 5 cm were referred for surgical evaluation , and those with smaller aneurysms were offered annual scans .</s>
+    <s id="10" section="results">
+      <gs group="0">4860</gs>
+      of
+      <ps>6333</ps>
+      men were screened ( attendance rate 76.6 % ) .
+    </s>
+    <s id="11" section="results">
+      <on group="0" outcome="3">191</on>
+      ( 4.0 % of those screened ) had
+      <outcome id="3" type="bad">abdominal  aortic  aneurysms</outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      The mean follow - up time was
+      <time id="0">52  months</time>
+      .
+    </s>
+    <s id="13" section="results">
+      The
+      <group id="0">screened  group</group>
+      underwent 75 % ( 95 % confidence interval 51 % to 91 % ) fewer
+      <outcome id="2">emergency  operations</outcome>
+      than the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="14" section="results">
+      <outcome id="1" type="bad">
+        <short>Deaths</short>
+        due  to  abdominal  aortic  aneurysms
+      </outcome>
+      occurred in
+      <on group="0" outcome="1">9</on>
+      patients in the
+      <group id="0">screened  group</group>
+      and
+      <on group="1" outcome="1">27</on>
+      in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="15" section="results">The number needed to screen to save 1 life was 352 .</s>
+    <s id="16" section="results">
+      <outcome id="1" type="bad">Specific  mortality</outcome>
+      was significantly reduced by 67 % ( 29 % to 84 % ) .
+    </s>
+    <s id="17" section="results">
+      <outcome id="3" type="bad">Mortality  due  to  non  -  abdominal  aortic  aneurysms</outcome>
+      was non - significantly reduced by 8 % .
+    </s>
+    <s id="19" section="conclusion">
+      <group id="0">
+        <short>Mass  screening</short>
+        for  abdominal  aortic  aneurysms
+      </group>
+      in Danish men aged 65 or more reduces
+      <outcome id="0">mortality</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Screening for abdominal aortic aneurysms : single centre randomised controlled trial . To determine whether screening Danish men aged 65 or more for abdominal aortic aneurysms reduces mortality . Single centre randomised controlled trial . All 5 hospitals in Viborg County , Denmark . All 12,639 men born during 1921-33 and living in Viborg County . In 1994 we included men born 1921-9 ( 64-73 years ) . We also included men who became 65 during 1995 -8 . Men were randomised to the intervention group ( screening by abdominal ultrasonography ) or control group . Participants with an abdominal aortic aneurysm &gt; 5 cm were referred for surgical evaluation , and those with smaller aneurysms were offered annual scans . Specific mortality due to abdominal aortic aneurysm , overall mortality , and number of planned and emergency operations for abdominal aortic aneurysms . 4860 of 6333 men were screened ( attendance rate 76.6 % ) . 191 ( 4.0 % of those screened ) had abdominal aortic aneurysms . The mean follow - up time was 52 months . The screened group underwent 75 % ( 95 % confidence interval 51 % to 91 % ) fewer emergency operations than the control group . Deaths due to abdominal aortic aneurysms occurred in 9 patients in the screened group and 27 in the control group . The number needed to screen to save 1 life was 352 . Specific mortality was significantly reduced by 67 % ( 29 % to 84 % ) . Mortality due to non - abdominal aortic aneurysms was non - significantly reduced by 8 % . The benefits of screening may increase with time . Mass screening for abdominal aortic aneurysms in Danish men aged 65 or more reduces mortality .</fulltext>
+  <ignored>
+    <s id="2" section="design">Single centre randomised controlled trial .</s>
+    <s id="4" section="participants">All 12,639 men born during 1921-33 and living in Viborg County .</s>
+    <s id="7" section="interventions">
+      Men were randomised to the
+      <group id="0">intervention  group</group>
+      (
+      <group id="0">
+        <short>screening</short>
+        by  abdominal  ultrasonography
+      </group>
+      ) or
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="9" section="outcome_measures">
+      <outcome id="1" type="bad">
+        <short>Specific  mortality</short>
+        due  to  abdominal  aortic  aneurysm
+      </outcome>
+      ,
+      <outcome id="0">overall  mortality</outcome>
+      , and
+      <outcome id="2">
+        number  of  planned  and
+        <short>emergency  operations</short>
+        for  abdominal  aortic  aneurysms
+      </outcome>
+      .
+    </s>
+    <s id="18" section="results">
+      The benefits of
+      <group id="0">screening</group>
+      may increase with time .
+    </s>
+  </ignored>
+</abstract>
+

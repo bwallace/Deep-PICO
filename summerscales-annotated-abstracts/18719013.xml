@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18719013">
+  <title>
+    <s id="0">Health related quality of life after combined hormone replacement therapy: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">General practices in United Kingdom (384), Australia (94), and New Zealand (24).</s>
+    <s id="4" section="participants">Postmenopausal women aged 50-69 at randomisation; 3721 women with a uterus were randomised to <group id="0" role="experiment">combined oestrogen and progestogen</group> (n=<gs group="0">1862</gs>) or <group id="1" role="control">placebo</group> (n=<gs group="1">1859</gs>).</s>
+    <s id="5" section="participants">Data on health related quality of life at <time id="0">1 year</time> were available from 1043 and 1087 women , respectively .</s>
+    <s id="6" section="interventions">Conjugated equine oestrogen 0.625 mg plus medroxyprogesterone acetate 2.5 / 5.0 mg or matched placebo orally daily for 1 year .</s>
+    <s id="10" section="results">After <time id="0">1 year</time> small but significant improvements were observed in 3 of 9 components of the <outcome id="0" type="good">women 's health <short>questionnaire</short></outcome> for <group id="0" role="experiment">those taking combined HRT</group> compared with <group id="1" role="control">those taking placebo</group> : vasomotor symptoms ( P &lt; 0.001 ) ,</s>
+    <s id="16" section="results"><outcome id="1" type="bad">Hot flushes</outcome> were experienced in the combined HRT and placebo groups by 30 % and 29 % at trial entry and 9 % and 25 % at <time id="0">1 year</time> , respectively .</s>
+    <s id="17" section="results">No significant differences in <outcome id="2" type="bad">other menopausal symptoms</outcome>, <outcome id="3" type="bad">depression</outcome>, or overall <outcome id="4" type="good">quality of life</outcome> were observed at <time id="0">1 year</time> .</s>    
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of combined hormone replacement therapy (HRT) on health related quality of life. 
+DESIGN: Randomised placebo controlled double blind trial. 
+SETTING: General practices in United Kingdom (384), Australia (94), and New Zealand (24). 
+PARTICIPANTS: Postmenopausal women aged 50-69 at randomisation; 3721 women with a uterus were randomised to combined oestrogen and progestogen (n=1862) or placebo (n=1859). 
+Data on health related quality of life at one year were available from 1043 and 1087 women, respectively. 
+INTERVENTIONS: Conjugated equine oestrogen 0.625 mg plus medroxyprogesterone acetate 2.5/5.0 mg or matched placebo orally daily for one year. 
+MAIN OUTCOME MEASURES: Health related quality of life and psychological wellbeing as measured by the women's health questionnaire. 
+Changes in emotional and physical menopausal symptoms as measured by a symptoms questionnaire and depression by the Centre for Epidemiological Studies depression scale (CES-D). 
+Overall health related quality of life and overall quality of life as measured by the European quality of life instrument (EuroQol) and visual analogue scale, respectively. 
+RESULTS: After one year small but significant improvements were observed in three of nine components of the women's health questionnaire for those taking combined HRT compared with those taking placebo: vasomotor symptoms (P&lt;0.001), 
+sexual functioning (P&lt;0.001), and sleep problems (P&lt;0.001). 
+Significantly fewer women in the combined HRT group reported hot flushes (P&lt;0.001), 
+night sweats (P&lt;0.001), 
+aching joints and muscles (P=0.001), insomnia (P&lt;0.001), and vaginal dryness (P&lt;0.001) 
+than in the placebo group, but greater proportions reported breast tenderness (P&lt;0.001) or vaginal discharge (P&lt;0.001). 
+Hot flushes were experienced in the combined HRT and placebo groups by 30% and 29% at trial entry and 9% and 25% at one year, respectively. 
+No significant differences in other menopausal symptoms, depression, or overall quality of life were observed at one year. 
+CONCLUSIONS: Combined HRT started many years after the menopause can improve health related quality of life. 
+TRIAL REGISTRATION: ISRCTN 63718836.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of combined hormone replacement therapy (HRT) on health related quality of life.</s>
+    <s id="2" section="design">Randomised placebo controlled double blind trial.</s>
+    <s id="7" section="main outcome measures">Health related quality of life and psychological wellbeing as measured by the women's health questionnaire.</s>
+    <s id="8" section="main outcome measures">Changes in emotional and physical menopausal symptoms as measured by a symptoms questionnaire and depression by the Centre for Epidemiological Studies depression scale (CES-D).</s>
+    <s id="9" section="main outcome measures">Overall health related quality of life and overall quality of life as measured by the European quality of life instrument (EuroQol) and visual analogue scale, respectively.</s>
+    <s id="11" section="results">sexual functioning (P&lt;0.001), and sleep problems (P&lt;0.001).</s>
+    <s id="12" section="results">Significantly fewer women in the combined HRT group reported hot flushes (P&lt;0.001),</s>
+    <s id="13" section="results">night sweats (P&lt;0.001),</s>
+    <s id="14" section="results">aching joints and muscles (P=0.001), insomnia (P&lt;0.001), and vaginal dryness (P&lt;0.001)</s>
+    <s id="15" section="results">than in the placebo group, but greater proportions reported breast tenderness (P&lt;0.001) or vaginal discharge (P&lt;0.001).</s>
+    <s id="18" section="conclusions">Combined HRT started many years after the menopause can improve health related quality of life.</s>
+    <s id="19" section="trial registration">ISRCTN 63718836.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17350966">
+  <title>
+    <s id="0">Parenting intervention in Sure Start services for children at risk of developing conduct disorder: pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">153 parents from socially disadvantaged areas, with children aged 36-59 months at risk of conduct disorder defined by scoring over the clinical cut off on the Eyberg child behaviour inventory.</s>
+    <s id="5" section="participants">Participants were randomised on a 2:1 basis, <gs group="1">104</gs> to <group id="1" role="experiment">intervention</group> and <gs group="0">49</gs> to <group id="0" role="control">remaining on the <short>wait listing</short></group> (control).</s>
+    <s id="6" section="participants"><lost>Twenty</lost> (13%) were lost to follow-up <time id="0">six months</time> later, <lost group="1">18</lost> from <group id="1" role="experiment">the intervention group</group>.</s>
+    <s id="7" section="intervention"><group id="1" role="experiment">The <short>Webster-Stratton</short> Incredible Years basic parenting programme</group>, a 12 week group based intervention.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of a parenting programme as a preventive intervention with parents of preschool children considered to be at risk of developing conduct disorder. 
+DESIGN: Pragmatic randomised controlled trial using a block design with allocation by area. 
+SETTING: Eleven Sure Start areas in north and mid-Wales. 
+PARTICIPANTS: 153 parents from socially disadvantaged areas, with children aged 36-59 months at risk of conduct disorder defined by scoring over the clinical cut off on the Eyberg child behaviour inventory. 
+Participants were randomised on a 2:1 basis, 104 to intervention and 49 to remaining on the wait listing (control). 
+Twenty (13%) were lost to follow-up six months later, 18 from the intervention group. 
+INTERVENTION: The Webster-Stratton Incredible Years basic parenting programme, a 12 week group based intervention. 
+MAIN OUTCOME MEASURES: Problem behaviour in children and parenting skills assessed by self reports from parents and by direct observation in the home. 
+Parents' self reported parenting competence, stress, and depression. 
+Standardised and well validated instruments were used throughout. 
+RESULTS: At follow-up, most of the measures of parenting and problem behaviour in children showed significant improvement in the intervention group. 
+The intention to treat analysis for the primary outcome measure, the Eyberg child behaviour inventory, showed a mean difference between groups of 4.4 points (95% confidence interval 2.0 to 6.9, P&lt;0.001) on the problem scale with an effect size of 0.63, and a mean difference of 25.1 (14.9 to 35.2, P&lt;0.001) on the intensity scale with an effect size of 0.89. 
+CONCLUSION: This community based study showed the effectiveness of an evidence based parenting intervention delivered with fidelity by regular Sure Start staff. 
+It has influenced policy within Wales and provides lessons for England where, to date, Sure Start programmes have not been effective. 
+TRIAL REGISTRATION: ISRCTN46984318.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of a parenting programme as a preventive intervention with parents of preschool children considered to be at risk of developing conduct disorder.</s>
+    <s id="2" section="design">Pragmatic randomised controlled trial using a block design with allocation by area.</s>
+    <s id="3" section="setting">Eleven Sure Start areas in north and mid-Wales.</s>
+    <s id="8" section="main outcome measures">Problem behaviour in children and parenting skills assessed by self reports from parents and by direct observation in the home.</s>
+    <s id="9" section="main outcome measures">Parents' self reported parenting competence, stress, and depression.</s>
+    <s id="10" section="main outcome measures">Standardised and well validated instruments were used throughout.</s>
+    <s id="11" section="results">At follow-up, most of the measures of parenting and problem behaviour in children showed significant improvement in the intervention group.</s>
+    <s id="12" section="results">The intention to treat analysis for the primary outcome measure, the Eyberg child behaviour inventory, showed a mean difference between groups of 4.4 points (95% confidence interval 2.0 to 6.9, P&lt;0.001) on the problem scale with an effect size of 0.63, and a mean difference of 25.1 (14.9 to 35.2, P&lt;0.001) on the intensity scale with an effect size of 0.89.</s>
+    <s id="13" section="conclusion">This community based study showed the effectiveness of an evidence based parenting intervention delivered with fidelity by regular Sure Start staff.</s>
+    <s id="14" section="conclusion">It has influenced policy within Wales and provides lessons for England where, to date, Sure Start programmes have not been effective.</s>
+    <s id="15" section="trial registration">ISRCTN46984318.</s>
+  </ignored>
+</abstract>
+

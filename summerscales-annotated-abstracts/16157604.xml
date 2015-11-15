@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16157604">
+  <title>
+    <s id="0" section="title">
+      Recruiting patients to medical research : double blind randomised trial of
+      <group id="0">"  opt  -  in  "</group>
+      versus
+      <group id="1">"  opt-out  "</group>
+      strategies .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 general practices in England .</s>
+    <s id="4" section="participants">
+      <ps>510</ps>
+      patients with angina .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0" type="good">
+        <short>recruitment  rate</short>
+        ,  defined  by  <short>clinic  attendance</short>  ,
+      </outcome>
+      was 38 % (
+      <on group="0" outcome="0">96</on>
+      /
+      <gs group="0">252</gs>
+      ) in the
+      <group id="0">opt  -  in  arm</group>
+      and 50 % (
+      <on group="1" outcome="0">128</on>
+      /
+      <gs group="1">258</gs>
+      ) in the
+      <group id="1">opt-  out  arm</group>
+      ( P = 0.014 ) .
+    </s>
+    <s id="8" section="results">Once an appointment had been made , non - attendance at the clinic was similar ( 20 % opt - in arm v 17 % opt- out arm ; P = 0.86 ) .</s>
+    <s id="9" section="results">
+      Patients in the
+      <group id="0">opt  -  in  arm</group>
+      had fewer
+      <outcome id="1:0">risk  factors</outcome>
+      ( 44 % v 60 % ; P = 0.053 ) , less
+      <outcome id="1:1">treatment  for  angina</outcome>
+      ( 69 % v 82 % ; P = 0.010 ) , and less
+      <outcome id="1:2">functional  impairment</outcome>
+      ( 9 % v 20 % ; P = 0.023 ) than patients in the
+      <group id="1">opt-  out  arm</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Recruiting patients to medical research : double blind randomised trial of " opt - in " versus " opt-out " strategies . To evaluate the effect of opt - in compared with opt- out recruitment strategies on response rate and selection bias . Double blind randomised controlled trial . 2 general practices in England . 510 patients with angina . Patients were randomly allocated to an opt - in ( asked to actively signal willingness to participate in research ) or opt- out ( contacted repeatedly unless they signalled unwillingness to participate ) approach for recruitment to an observational prognostic study of patients with angina . Recruitment rate and clinical characteristics of patients . The recruitment rate , defined by clinic attendance , was 38 % ( 96 / 252 ) in the opt - in arm and 50 % ( 128 / 258 ) in the opt- out arm ( P = 0.014 ) . Once an appointment had been made , non - attendance at the clinic was similar ( 20 % opt - in arm v 17 % opt- out arm ; P = 0.86 ) . Patients in the opt - in arm had fewer risk factors ( 44 % v 60 % ; P = 0.053 ) , less treatment for angina ( 69 % v 82 % ; P = 0.010 ) , and less functional impairment ( 9 % v 20 % ; P = 0.023 ) than patients in the opt- out arm . The opt - in approach to participant recruitment , increasingly required by ethics committees , resulted in lower response rates and a biased sample . We propose that the opt- out approach should be the default recruitment strategy for studies with low risk to participants .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effect of
+      <group id="0">opt  -  in</group>
+      compared with
+      <group id="1">opt-  out  recruitment  strategies</group>
+      on response rate and selection bias .
+    </s>
+    <s id="2" section="design">Double blind randomised controlled trial .</s>
+    <s id="5" section="intervention">
+      Patients were randomly allocated to an
+      <group id="0">
+        <short>opt  -  in</short>
+        (  asked  to  actively  signal  willingness  to  participate  in  research  )
+      </group>
+      or
+      <group id="1">
+        <short>opt-  out</short>
+        (  contacted  repeatedly  unless  they  signalled  unwillingness  to  participate  )
+      </group>
+      approach for recruitment to an observational prognostic study of patients with angina .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0" type="good">Recruitment  rate</outcome>
+      and
+      <outcome id="1">clinical  characteristics  of  patients</outcome>
+      .
+    </s>
+    <s id="10" section="conclusions">
+      The
+      <group id="0">
+        <short>opt  -  in</short>
+        approach  to  participant  recruitment
+      </group>
+      , increasingly required by ethics committees , resulted in lower
+      <outcome id="0" type="good">response  rates</outcome>
+      and a
+      <outcome id="2">biased  sample</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      We propose that the
+      <group id="1">opt-  out  approach</group>
+      should be the default recruitment strategy for studies with low risk to participants .
+    </s>
+  </ignored>
+</abstract>
+

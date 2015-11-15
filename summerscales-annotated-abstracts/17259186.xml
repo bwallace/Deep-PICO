@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17259186">
+  <title>
+    <s id="0">Effect of providing information about normal test results on patients' reassurance: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">92 patients with chest pain referred for a diagnostic exercise stress test.</s>
+    <s id="5" section="intervention">Before undergoing testing patients were randomised to <group id="0" role="control">receive <short>standard</short> information</group> (n=<gs group="0">28</gs>; control group), a pamphlet explaining the function of the test and the meaning of normal test results (n=<gs group="1">30</gs>; <group id="1" role="experiment">pamphlet group</group>), or the pamphlet and a brief discussion about the meaning of normal test results (n=<gs group="2">34</gs>; <group id="2" role="experiment"><short>discussion</short> group</group>).</s>    
+    <s id="6" section="main outcome measures">The primary outcome was <outcome id="0" type="good">patients' reported reassurance on a 5 item scale</outcome> <time id="0">immediately after the test</time> and at <time id="1">one month</time>.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were the proportion of patients still with chest pain and still taking cardiac drugs at 1 month.</s>
+    <s id="8" section="results">The mean <outcome id="0" type="good">levels of <short>reassurance</short> after testing</outcome> and <outcome id="1" type="good"><short>feedback</short> from the doctor</outcome> were significantly higher in the <group id="2" role="experiment"><short>discussion</short> group</group> (<on group="2" outcome="0">42.0</on>, 95% confidence interval 39.7 to 44.2) than in the <group id="1" role="experiment">pamphlet</group> (<on group="1" outcome="0">39.2</on>, 36.1 to 42.3) and control groups (<on group="0" outcome="0">35.8</on>, 31.6 to 39.9).</s>
+    <s id="9" section="results">This difference was maintained at <time id="1">one month</time>.</s>
+    <s id="10" section="results">The proportion of patients still <outcome id="1" type="bad">reporting <short>chest pain</short></outcome> at <time id="1">one month</time> decreased significantly in the <group id="2" role="experiment"><short>discussion</short> group</group> (to 17%) and <group id="1" role="experiment"><short>pamphlet</short> group</group> (to 28%) but not in the control group (to 36%).</s>
+    <s id="11" section="results">A trend was for fewer patients in the <group id="2" role="experiment"><short>discussion</short> group</group> to be taking cardiac drugs at <time id="1">1 month</time>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether providing information about normal findings before a diagnostic test improves patients' reassurance and reduces anxiety about symptoms. 
+DESIGN: Randomised controlled trial. 
+SETTING: Outpatient cardiology clinic. 
+PARTICIPANTS: 92 patients with chest pain referred for a diagnostic exercise stress test. 
+INTERVENTION: Before undergoing testing patients were randomised to receive standard information (n=28; control group), a pamphlet explaining the function of the test and the meaning of normal test results (n=30; pamphlet group), or the pamphlet and a brief discussion about the meaning of normal test results (n=34; discussion group). 
+MAIN OUTCOME MEASURES: The primary outcome was patients' reported reassurance on a 5 item scale immediately after the test and at one month. 
+Secondary outcomes were the proportion of patients still with chest pain and still taking cardiac drugs at one month. 
+RESULTS: The mean levels of reassurance after testing and feedback from the doctor were significantly higher in the discussion group (42.0, 95% confidence interval 39.7 to 44.2) than in the pamphlet (39.2, 36.1 to 42.3) and control groups (35.8, 31.6 to 39.9). 
+This difference was maintained at one month. 
+The proportion of patients still reporting chest pain at one month decreased significantly in the discussion group (to 17%) and pamphlet group (to 28%) but not in the control group (to 36%). 
+A trend was for fewer patients in the discussion group to be taking cardiac drugs at one month. 
+CONCLUSION: Providing patients with information about normal test results before testing can improve rates of reassurance and reduce the likelihood of future reports of chest pain. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN87589121 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate whether providing information about normal findings before a diagnostic test improves patients' reassurance and reduces anxiety about symptoms.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Outpatient cardiology clinic.</s>
+    <s id="12" section="conclusion">Providing patients with information about normal test results before testing can improve rates of reassurance and reduce the likelihood of future reports of chest pain.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN87589121 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

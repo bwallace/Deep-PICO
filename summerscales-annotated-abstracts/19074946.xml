@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19074946">
+  <title>
+    <s id="0">Minimal access surgery compared with medical management for chronic gastro-oesophageal reflux disease: UK collaborative randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">21 hospitals in the United Kingdom.</s>
+    <s id="4" section="participants">357 randomised participants (<gs group="0">178</gs> <group id="0" role="experiment">surgical</group>, <gs group="1">179</gs> <group id="1" role="control">medical</group>) and 453 preference participants (261, 192); mean age 46; 66% men.</s>
+    <s id="5" section="participants">All participants had documented evidence of GORD and symptoms for &gt;12 months.</s>
+    <s id="8" section="main outcome measures">The disease specific REFLUX quality of life score ( primary outcome ) , SF-36 , EQ-5D , and medication use , measured at time points equivalent to 3 and <time id="0">12 months</time> after surgery , and surgical complications .</s>
+    <s id="9" section="main results">Randomised participants had received drugs for GORD for median of 32 months before trial entry.</s>
+    <s id="11" section="main results">Of those <group id="0" role="experiment">randomised to <short>surgery</short></group>, 111 (62%) actually had total or partial fundoplication.</s>
+    <s id="13" section="main results">By <time id="0">12 months</time>, 38% (<on group="0" outcome="0">59</on>/<gs group="0">154</gs>) <group id="0" role="experiment">randomised to <short>surgery</short></group> (14% (<on group="2" outcome="0">14</on>/<gs group="2">104</gs>) among <group id="2">those who had <short>fundoplication</short></group>) were <outcome id="0" type="bad">taking reflux medication</outcome> versus 90% (<on group="1" outcome="0">147</on>/<gs group="1">164</gs>) <group id="1" role="control">randomised medical management</group>.</s>
+    <s id="14" section="main results">The <outcome id="1" type="bad">REFLUX score</outcome> favoured <group id="0" role="experiment">the randomised surgical group</group> (<on group="0" outcome="1">14.0</on>, 95% confidence interval 9.6 to 18.4; P&lt;0.001).</s>
+    <s id="15" section="main results">Differences of a third to half of 1 SD in other health status measures also favoured the <group id="0" role="experiment">randomised surgical group</group>.</s>
+    <s id="16" section="main results">Baseline scores in the preference for <group id="0" role="experiment">surgery group</group> were the worst; by 12 months these were better than in the preference for <group id="1" role="control">medical treatment group</group>.</s>
+    <s id="17" section="conclusion">At least up to 12 months after surgery, laparoscopic fundoplication significantly increased measures of health status in patients with GORD.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the relative benefits and risks of laparoscopic fundoplication surgery as an alternative to long term drug treatment for chronic gastro-oesophageal reflux disease (GORD). 
+DESIGN: Multicentre, pragmatic randomised trial (with parallel preference groups). 
+SETTING: 21 hospitals in the United Kingdom. 
+PARTICIPANTS: 357 randomised participants (178 surgical, 179 medical) and 453 preference participants (261, 192); mean age 46; 66% men. 
+All participants had documented evidence of GORD and symptoms for &gt;12 months. 
+INTERVENTION: The type of laparoscopic fundoplication used was left to the discretion of the surgeon. 
+Those allocated to medical treatment had their treatment reviewed and adjusted as necessary by a local gastroenterologist, and subsequent clinical management was at the discretion of the clinician responsible for care. 
+MAIN OUTCOME MEASURES: The disease specific REFLUX quality of life score (primary outcome), SF-36, EQ-5D, and medication use, measured at time points equivalent to three and 12 months after surgery, and surgical complications. 
+MAIN RESULTS: Randomised participants had received drugs for GORD for median of 32 months before trial entry. 
+Baseline REFLUX scores were 63.6 (SD 24.1) and 66.8 (SD 24.5) in the surgical and medical randomised groups, respectively. 
+Of those randomised to surgery, 111 (62%) actually had total or partial fundoplication. 
+Surgical complications were uncommon with a conversion rate of 0.6% and no mortality. 
+By 12 months, 38% (59/154) randomised to surgery (14% (14/104) among those who had fundoplication) were taking reflux medication versus 90% (147/164) randomised medical management. 
+The REFLUX score favoured the randomised surgical group (14.0, 95% confidence interval 9.6 to 18.4; P&lt;0.001). 
+Differences of a third to half of 1 SD in other health status measures also favoured the randomised surgical group. 
+Baseline scores in the preference for surgery group were the worst; by 12 months these were better than in the preference for medical treatment group. 
+CONCLUSION: At least up to 12 months after surgery, laparoscopic fundoplication significantly increased measures of health status in patients with GORD. 
+TRIAL REGISTRATION: ISRCTN15517081.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the relative benefits and risks of laparoscopic fundoplication surgery as an alternative to long term drug treatment for chronic gastro-oesophageal reflux disease (GORD).</s>
+    <s id="2" section="design">Multicentre, pragmatic randomised trial (with parallel preference groups).</s>
+    <s id="6" section="intervention">The type of laparoscopic fundoplication used was left to the discretion of the surgeon.</s>
+    <s id="7" section="intervention">Those allocated to medical treatment had their treatment reviewed and adjusted as necessary by a local gastroenterologist, and subsequent clinical management was at the discretion of the clinician responsible for care.</s>
+    <s id="10" section="main results">Baseline REFLUX scores were 63.6 (SD 24.1) and 66.8 (SD 24.5) in the surgical and medical randomised groups, respectively.</s>
+    <s id="12" section="main results">Surgical complications were uncommon with a conversion rate of 0.6% and no mortality.</s>
+    <s id="18" section="trial registration">ISRCTN15517081.</s>
+  </ignored>
+</abstract>
+

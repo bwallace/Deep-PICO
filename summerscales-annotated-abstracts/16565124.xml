@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16565124">
+  <title>
+    <s id="0" section="title">
+      Effectiveness of educational interventions in improving
+      <outcome id="0">detection</outcome>
+      and
+      <outcome id="1">management  of  dementia</outcome>
+      in primary care : cluster randomised controlled study .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">General practices in the United Kingdom ( central Scotland and London ) between 1999 and 2002 .</s>
+    <s id="4" section="interventions">
+      3 educational interventions : an
+      <group id="1">
+        <short>electronic  tutorial</short>
+        carried  on  a  CD  Rom
+      </group>
+      ;
+      <group id="2">
+        <short>decision  support  software</short>
+        built  into  the  electronic  medical  record
+      </group>
+      ; and
+      <group id="3">practice  based  workshops</group>
+      .
+    </s>
+    <s id="5" section="participants">
+      <ps>36</ps>
+      practices participated in the study .
+    </s>
+    <s id="6" section="participants">
+      <gs group="1">8</gs>
+      practices were randomly assigned to the
+      <group id="1">electronic  tutorial</group>
+      ;
+      <gs group="2">8</gs>
+      to
+      <group id="2">decision  support  software</group>
+      ;
+      <gs group="3">10</gs>
+      to
+      <group id="3">practice  based  workshops</group>
+      ; and
+      <gs group="4">10</gs>
+      to
+      <group id="4">control</group>
+      .
+    </s>
+    <s id="7" section="participants">Electronic and manual searches yielded 450 valid and usable medical records .</s>
+  </annotated>
+  <fulltext>Effectiveness of educational interventions in improving detection and management of dementia in primary care : cluster randomised controlled study . To test the effectiveness of educational interventions in improving detection rates and management of dementia in primary care . Unblinded , cluster randomised , before and after controlled study . General practices in the United Kingdom ( central Scotland and London ) between 1999 and 2002 . 3 educational interventions : an electronic tutorial carried on a CD Rom ; decision support software built into the electronic medical record ; and practice based workshops . 36 practices participated in the study . 8 practices were randomly assigned to the electronic tutorial ; 8 to decision support software ; 10 to practice based workshops ; and 10 to control . Electronic and manual searches yielded 450 valid and usable medical records . Rates of detection of dementia and the extent to which medical records showed evidence of improved concordance with guidelines regarding diagnosis and management . Decision support software ( P = 0.01 ) and practice based workshops ( P = 0.01 ) both significantly improved rates of detection compared with control . There were no significant differences by intervention in the measures of concordance with guidelines . Decision support systems and practice based workshops are effective educational approaches in improving detection rates in dementia .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To test the effectiveness of educational interventions in improving
+      <outcome id="0">detection  rates</outcome>
+      and
+      <outcome id="1">management  of  dementia</outcome>
+      in primary care .
+    </s>
+    <s id="2" section="design">Unblinded , cluster randomised , before and after controlled study .</s>
+    <s id="8" section="main_outcome_measures">
+      <outcome id="0">
+        Rates  of
+        <short>detection  of  dementia</short>
+      </outcome>
+      and the extent to which medical records showed evidence of
+      <outcome id="2">improved  concordance  with  guidelines  regarding  diagnosis  and  management</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <group id="2">Decision  support  software</group>
+      ( P = 0.01 ) and
+      <group id="3">practice  based  workshops</group>
+      ( P = 0.01 ) both significantly improved
+      <outcome id="0">rates  of  detection</outcome>
+      compared with
+      <group id="4">control</group>
+      .
+    </s>
+    <s id="10" section="results">
+      There were no significant differences by intervention in the
+      <outcome id="2">measures  of  concordance  with  guidelines</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="2">Decision  support  systems</group>
+      and
+      <group id="3">practice  based  workshops</group>
+      are effective educational approaches in improving
+      <outcome id="0">detection  rates  in  dementia</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

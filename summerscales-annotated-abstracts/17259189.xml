@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17259189">
+  <title>
+    <s id="0">Effect of reducing caffeine intake on birth weight and length of gestation: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">1207 pregnant women drinking at least 3 cups of coffee a day, recruited before 20 weeks' gestation.</s>
+    <s id="5" section="interventions"><group id="1" role="control"><short>Caffeinated</short> instant coffee</group> (<gs group="1">568</gs> women) or <group id="0" role="experiment"><short>decaffeinated</short> instant coffee</group> (<gs group="0">629</gs> women).</s>    
+    <s id="7" section="results">Data on birth weight were obtained for 1150 liveborn singletons and on length of gestation for 1153 liveborn singletons.</s>
+    <s id="8" section="results">No significant differences were found for <outcome id="0" type="good">mean birth weight</outcome> or mean <outcome id="0" type="good">length of gestation</outcome> between women in the <group id="0" role="experiment"><short>decaffeinated</short> coffee group</group> (whose mean caffeine intake was 182 mg lower than that of the other group) and women in the <group id="1" role="control"><short>caffeinated</short> coffee group</group>.</s>
+    <s id="9" section="results">After adjustment for length of gestation, parity, prepregnancy body mass index, and smoking at entry to the study the <outcome id="0" type="good">mean birth weight</outcome> of babies born to women in the <group id="0" role="experiment"><short>decaffeinated</short> group</group> was 16 g (95% confidence interval -40 to 73) higher than those born to women in the  <group id="1" role="control"><short>caffeinated</short> group</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To estimate the effect of reducing caffeine intake during pregnancy on birth weight and length of gestation. 
+DESIGN: Randomised double blind controlled trial. 
+SETTING: Denmark. 
+PARTICIPANTS: 1207 pregnant women drinking at least three cups of coffee a day, recruited before 20 weeks' gestation. 
+INTERVENTIONS: Caffeinated instant coffee (568 women) or decaffeinated instant coffee (629 women). 
+MAIN OUTCOME MEASURES: Birth weight and length of gestation. 
+RESULTS: Data on birth weight were obtained for 1150 liveborn singletons and on length of gestation for 1153 liveborn singletons. 
+No significant differences were found for mean birth weight or mean length of gestation between women in the decaffeinated coffee group (whose mean caffeine intake was 182 mg lower than that of the other group) and women in the caffeinated coffee group. 
+After adjustment for length of gestation, parity, prepregnancy body mass index, and smoking at entry to the study the mean birth weight of babies born to women in the decaffeinated group was 16 g (95% confidence interval -40 to 73) higher than those born to women in the caffeinated group. 
+The adjusted difference (decaffeinated group-caffeinated group) of length of gestation was -1.31 days (-2.87 to 0.25). 
+CONCLUSION: A moderate reduction in caffeine intake in the second half of pregnancy has no effect on birth weight or length of gestation. 
+TRIAL REGISTRATION: Clinical Trials NCT00131690 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To estimate the effect of reducing caffeine intake during pregnancy on birth weight and length of gestation.</s>
+    <s id="2" section="design">Randomised double blind controlled trial.</s>
+    <s id="3" section="setting">Denmark.</s>
+    <s id="6" section="main outcome measures">Birth weight and length of gestation.</s>
+    <s id="10" section="results">The adjusted difference (decaffeinated group-caffeinated group) of length of gestation was -1.31 days (-2.87 to 0.25).</s>
+    <s id="11" section="conclusion">A moderate reduction in caffeine intake in the second half of pregnancy has no effect on birth weight or length of gestation.</s>
+    <s id="12" section="trial registration">Clinical Trials NCT00131690 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

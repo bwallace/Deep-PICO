@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16428253">
+  <title>
+    <s id="0" section="title">
+      Long term outcomes from the
+      <group id="0">IMPACT</group>
+      randomised trial for depressed elderly patients in primary care .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">
+      2 arm , randomised , clinical trial ; intervention 1 year and follow - up
+      <time id="0">2  years</time>
+      .
+    </s>
+    <s id="3" section="setting">18 primary care clinics in 8 US healthcare organisations .</s>
+    <s id="4" section="setting">
+      Patients
+      <ps>1801</ps>
+      primary care patients aged 60 and older with major depression , dysthymia , or both .
+    </s>
+    <s id="5" section="intervention">
+      Patients were randomly assigned to a
+      <group id="0">
+        12  month  collaborative  care  intervention  (
+        <short>IMPACT</short>
+        )
+      </group>
+      or
+      <group id="1">
+        <short>usual  care</short>
+        for  depression
+      </group>
+      .
+    </s>
+    <s id="9" section="results">
+      <group id="0">IMPACT  patients</group>
+      fared significantly ( P &lt; 0.05 ) better than
+      <group id="1">controls</group>
+      regarding
+      <outcome id="4">continuation  of  antidepressant  treatment</outcome>
+      ,
+      <outcome id="0:0">depressive  symptoms</outcome>
+      ,
+      <outcome id="0:1">remission  of  depression</outcome>
+      ,
+      <outcome id="3">physical  functioning</outcome>
+      ,
+      <outcome id="2">quality  of  life</outcome>
+      ,
+      <outcome id="6">self  efficacy</outcome>
+      , and
+      <outcome id="5">satisfaction  with  care</outcome>
+      at
+      <time id="2">18</time>
+      and
+      <time id="0">24  months</time>
+      .
+    </s>
+    <s id="10" section="results">
+      1 year after
+      <group id="0">IMPACT</group>
+      resources were withdrawn , a significant difference in
+      <outcome id="0">SCL-20  scores</outcome>
+      ( 0.23 , P &lt; 0.0001 ) favouring
+      <group id="0">IMPACT  patients</group>
+      remained .
+    </s>
+  </annotated>
+  <fulltext>Long term outcomes from the IMPACT randomised trial for depressed elderly patients in primary care . To determine the long term effectiveness of collaborative care management for depression in late life . 2 arm , randomised , clinical trial ; intervention 1 year and follow - up 2 years . 18 primary care clinics in 8 US healthcare organisations . Patients 1801 primary care patients aged 60 and older with major depression , dysthymia , or both . Patients were randomly assigned to a 12 month collaborative care intervention ( IMPACT ) or usual care for depression . Teams including a depression care manager , primary care doctor , and psychiatrist offered education , behavioural activation , antidepressants , a brief , behaviour based psychotherapy ( problem solving treatment ) , and relapse prevention geared to each patient 's needs and preferences . Interviewers , blinded to treatment assignment , conducted interviews in person at baseline and by telephone at each subsequent follow up . They measured depression ( SCL-20 ) , overall functional impairment and quality of life ( SF-12 ) , physical functioning ( PCS-12 ) , depression treatment , and satisfaction with care . IMPACT patients fared significantly ( P &lt; 0.05 ) better than controls regarding continuation of antidepressant treatment , depressive symptoms , remission of depression , physical functioning , quality of life , self efficacy , and satisfaction with care at 18 and 24 months . 1 year after IMPACT resources were withdrawn , a significant difference in SCL-20 scores ( 0.23 , P &lt; 0.0001 ) favouring IMPACT patients remained . Tailored collaborative care actively engages older adults in treatment for depression and delivers substantial and persistent long term benefits . Benefits include less depression , better physical functioning , and an enhanced quality of life . The IMPACT model may show the way to less depression and healthier lives for older adults .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the long term effectiveness of
+      <group id="0">
+        <short>collaborative  care  management</short>
+        for  depression  in  late  life
+      </group>
+      .
+    </s>
+    <s id="6" section="intervention">Teams including a depression care manager , primary care doctor , and psychiatrist offered education , behavioural activation , antidepressants , a brief , behaviour based psychotherapy ( problem solving treatment ) , and relapse prevention geared to each patient 's needs and preferences .</s>
+    <s id="7" section="main_outcome_measures">
+      Interviewers , blinded to treatment assignment , conducted interviews in person at
+      <time id="1">baseline</time>
+      and by telephone at each subsequent follow up .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      They measured
+      <outcome id="0">
+        <short>depression</short>
+        (  SCL-20  )
+      </outcome>
+      ,
+      <outcome id="1">overall  functional  impairment</outcome>
+      and
+      <outcome id="2">
+        <short>quality  of  life</short>
+        (  SF-12  )
+      </outcome>
+      ,
+      <outcome id="3">
+        <short>physical  functioning</short>
+        (  PCS-12  )
+      </outcome>
+      ,
+      <outcome id="4">depression  treatment</outcome>
+      , and
+      <outcome id="5">satisfaction  with  care</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">Tailored  collaborative  care</group>
+      actively engages older adults in treatment for depression and delivers substantial and persistent long term benefits .
+    </s>
+    <s id="12" section="conclusions">
+      Benefits include less
+      <outcome id="0">depression</outcome>
+      , better
+      <outcome id="3">physical  functioning</outcome>
+      , and an enhanced
+      <outcome id="2">quality  of  life</outcome>
+      .
+    </s>
+    <s id="13" section="conclusions">
+      The
+      <group id="0">IMPACT  model</group>
+      may show the way to less depression and healthier lives for older adults .
+    </s>
+  </ignored>
+</abstract>
+

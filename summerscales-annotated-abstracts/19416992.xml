@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19416992">
+  <title>
+    <s id="0">Effect of point of care testing for C reactive protein and training in communication skills on antibiotic use in lower respiratory tract infections: cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">20 general practices in the Netherlands.</s>
+    <s id="4" section="participants">40 general practitioners from 20 practices recruited 431 patients with lower respiratory tract infection.</s>
+    <s id="6" section="main outcome measures">Secondary outcomes were antibiotic prescribing during <time id="0">28 days</time>' follow-up, reconsultation, clinical recovery, and patients' satisfaction and enablement.</s>
+    <s id="8" section="results">General practitioners in the <group id="0" role="experiment">C reactive protein <short>test</short> group</group> <outcome id="0">prescribed antibiotics</outcome> to 31% of patients compared with 53% in the <group id="1" role="control"><short>no test</short> group</group> (P=0.02).</s>
+    <s id="9" section="results">General practitioners <group id="2"><short>trained</short> in enhanced communication skills</group> <outcome id="0" type="bad">prescribed antibiotics</outcome> to 27% of patients compared with 54% in the <group id="3" role="control"><short>no training</short> group</group> (P&lt;0.01).</s>
+    <s id="10" section="results">Both interventions showed a statistically significant effect on <outcome id="1" type="bad">antibiotic prescribing at any point during the 28 days' follow-up</outcome>.</s>
+    <s id="11" section="results">Clinicians in the combined intervention group <outcome id="0" type="bad">prescribed antibiotics</outcome> to 23% of patients (interaction term was non-significant).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of general practitioner testing for C reactive protein (disease approach) and receiving training in enhanced communication skills (illness approach) on antibiotic prescribing for lower respiratory tract infection. 
+DESIGN: Pragmatic, 2x2 factorial, cluster randomised controlled trial. 
+SETTING: 20 general practices in the Netherlands. 
+PARTICIPANTS: 40 general practitioners from 20 practices recruited 431 patients with lower respiratory tract infection. 
+MAIN OUTCOME MEASURES: The primary outcome was antibiotic prescribing at the index consultation. 
+Secondary outcomes were antibiotic prescribing during 28 days' follow-up, reconsultation, clinical recovery, and patients' satisfaction and enablement. 
+INTERVENTIONS: General practitioners' use of C reactive protein point of care testing and training in enhanced communication skills separately and combined, and usual care. 
+RESULTS: General practitioners in the C reactive protein test group prescribed antibiotics to 31% of patients compared with 53% in the no test group (P=0.02). 
+General practitioners trained in enhanced communication skills prescribed antibiotics to 27% of patients compared with 54% in the no training group (P&lt;0.01). 
+Both interventions showed a statistically significant effect on antibiotic prescribing at any point during the 28 days' follow-up. 
+Clinicians in the combined intervention group prescribed antibiotics to 23% of patients (interaction term was non-significant). 
+Patients' recovery and satisfaction were similar in all study groups. 
+CONCLUSION: Both general practitioners' use of point of care testing for C reactive protein and training in enhanced communication skills significantly reduced antibiotic prescribing for lower respiratory tract infection without compromising patients' recovery and satisfaction with care. 
+A combination of the illness and disease focused approaches may be necessary to achieve the greatest reduction in antibiotic prescribing for this common condition in primary care. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN85154857.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of general practitioner testing for C reactive protein (disease approach) and receiving training in enhanced communication skills (illness approach) on antibiotic prescribing for lower respiratory tract infection.</s>
+    <s id="2" section="design">Pragmatic, 2x2 factorial, cluster randomised controlled trial.</s>
+    <s id="5" section="main outcome measures">The primary outcome was antibiotic prescribing at the index consultation.</s>
+    <s id="7" section="interventions">General practitioners' use of C reactive protein point of care testing and training in enhanced communication skills separately and combined, and usual care.</s>
+    <s id="12" section="results">Patients' recovery and satisfaction were similar in all study groups.</s>
+    <s id="13" section="conclusion">Both general practitioners' use of point of care testing for C reactive protein and training in enhanced communication skills significantly reduced antibiotic prescribing for lower respiratory tract infection without compromising patients' recovery and satisfaction with care.</s>
+    <s id="14" section="conclusion">A combination of the illness and disease focused approaches may be necessary to achieve the greatest reduction in antibiotic prescribing for this common condition in primary care.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN85154857.</s>
+  </ignored>
+</abstract>
+

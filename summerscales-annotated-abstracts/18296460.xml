@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18296460">
+  <title>
+    <s id="0">Supplementation with antioxidants and folinic acid for children with Down's syndrome: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Randomised controlled trial with 2 by 2 factorial design.</s>
+    <s id="4" section="participants">156 infants aged under 7 months with trisomy 21.</s>
+    <s id="5" section="intervention">: Daily oral supplementation with antioxidants (selenium 10 mug, zinc 5 mg, vitamin A 0.9 mg, vitamin E 100 mg, and vitamin C 50 mg), folinic acid (0.1 mg), antioxidants and folinic acid combined, or placebo.</s>
+    <s id="6" section="main outcome measures">Griffiths developmental quotient and an adapted MacArthur communicative development inventory 18 months after starting supplementation; biochemical markers in blood and urine at age 12 months.</s>
+    <s id="7" section="results">Children randomised to <group id="0" role="experiment"><short>antioxidant</short> supplements</group> attained similar developmental outcomes to <group id="1" role="control">those without antioxidants</group> (mean <outcome id="0" type="good">Griffiths developmental quotient</outcome> <on group="0" outcome="0">57.3</on> v <on group="1" outcome="0">56.1</on>; adjusted mean difference 1.2 points, 95% confidence interval -2.2 to 4.6).</s>
+    <s id="9" section="results">No between group differences were seen in the mean numbers of words said or signed: for antioxidants versus none the ratio of means was 0.85 (95% confidence interval 0.6 to 1.2), and for folinic acid versus none it was 1.24 (0.87 to 1.77).</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To assess whether supplementation with antioxidants, folinic acid, or both improves the psychomotor and language development of children with Down's syndrome. 
+DESIGN: Randomised controlled trial with two by two factorial design. 
+SETTING: Children living in the Midlands, Greater London, and the south west of England. 
+PARTICIPANTS: 156 infants aged under 7 months with trisomy 21. INTERVENTION: Daily oral supplementation with antioxidants (selenium 10 mug, zinc 5 mg, vitamin A 0.9 mg, vitamin E 100 mg, and vitamin C 50 mg), folinic acid (0.1 mg), antioxidants and folinic acid combined, or placebo. 
+MAIN OUTCOME MEASURES: Griffiths developmental quotient and an adapted MacArthur communicative development inventory 18 months after starting supplementation; biochemical markers in blood and urine at age 12 months. 
+RESULTS: Children randomised to antioxidant supplements attained similar developmental outcomes to those without antioxidants (mean Griffiths developmental quotient 57.3 v 56.1; adjusted mean difference 1.2 points, 95% confidence interval -2.2 to 4.6). 
+Comparison of children randomised to folinic acid supplements or no folinic acid also showed no significant differences in Griffiths developmental quotient (mean 57.6 v 55.9; adjusted mean difference 1.7, -1.7 to 5.1). 
+No between group differences were seen in the mean numbers of words said or signed: for antioxidants versus none the ratio of means was 0.85 (95% confidence interval 0.6 to 1.2), and for folinic acid versus none it was 1.24 (0.87 to 1.77). 
+No significant differences were found between any of the groups in the biochemical outcomes measured. 
+Adjustment for potential confounders did not appreciably change the results. 
+CONCLUSIONS: This study provides no evidence to support the use of antioxidant or folinic acid supplements in children with Down's syndrome. 
+TRIAL REGISTRATION: Clinical trials NCT00378456.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To assess whether supplementation with antioxidants, folinic acid, or both improves the psychomotor and language development of children with Down's syndrome.</s>
+    <s id="3" section="setting">Children living in the Midlands, Greater London, and the south west of England.</s>
+    <s id="8" section="results">Comparison of children randomised to folinic acid supplements or no folinic acid also showed no significant differences in Griffiths developmental quotient (mean 57.6 v 55.9; adjusted mean difference 1.7, -1.7 to 5.1).</s>    
+    <s id="10" section="results">No significant differences were found between any of the groups in the biochemical outcomes measured.</s>
+    <s id="11" section="results">Adjustment for potential confounders did not appreciably change the results.</s>
+    <s id="12" section="conclusions">This study provides no evidence to support the use of antioxidant or folinic acid supplements in children with Down's syndrome.</s>
+    <s id="13" section="trial registration">Clinical trials NCT00378456.</s>
+  </ignored>
+</abstract>
+

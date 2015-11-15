@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16183654">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Postcards</short>
+        from  the  EDge  project
+      </group>
+      : randomised controlled trial of an
+      <group id="0">intervention  using  postcards</group>
+      to reduce
+      <outcome id="1">repetition  of  hospital  treated  deliberate  self  poisoning</outcome>
+      .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>772</ps>
+      patients aged over 16 years with deliberate self poisoning .
+    </s>
+    <s id="5" section="intervention">
+      Non -obligatory intervention using
+      <group id="0">
+        8
+        <short>postcards</short>
+        over
+        <time id="0">12  months</time>
+        along  with  standard  treatment
+      </group>
+      compared with
+      <group id="1">standard  treatment  alone</group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0" type="bad">
+        Proportion  of  patients  with  1  or  more  repeat  episodes 
+	of  <short>deliberate  self  poisoning</short>
+      </outcome>
+      and the
+      <outcome id="1">
+	<short>number  of  repeat  episodes</short>  for  deliberate  self  poisoning per  person  in
+        <time id="0">12  months</time>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0" type="bad">proportion  of  repeaters  with  <short>deliberate  self poisoning</short></outcome>
+      in the
+      <group id="0">intervention  group</group>
+      did not differ significantly from that in the
+      <group id="1">control  group</group>
+      (
+      <on group="0" outcome="0">57</on>
+      /
+      <gs group="0">378</gs>
+      , 15.1 % , 95 % confidence interval 11.5 % to 18.7 % v
+      <on group="1" outcome="0">68</on>
+      /
+      <gs group="1">394</gs>
+      , 17.3 % , 13.5 % to 21.0 % : difference between groups - 2 % , - 7 % to 3 % ) .
+    </s>
+  </annotated>
+  <fulltext>Postcards from the EDge project : randomised controlled trial of an intervention using postcards to reduce repetition of hospital treated deliberate self poisoning . To determine whether an intervention using postcards ( postcards from the EDge project ) reduces repetitions of hospital treated deliberate self poisoning . Randomised controlled trial . Regional referral service for general hospital treated deliberate self poisoning in Newcastle , Australia . 772 patients aged over 16 years with deliberate self poisoning . Non -obligatory intervention using 8 postcards over 12 months along with standard treatment compared with standard treatment alone . Proportion of patients with 1 or more repeat episodes of deliberate self poisoning and the number of repeat episodes for deliberate self poisoning per person in 12 months . The proportion of repeaters with deliberate self poisoning in the intervention group did not differ significantly from that in the control group ( 57 / 378 , 15.1 % , 95 % confidence interval 11.5 % to 18.7 % v 68 / 394 , 17.3 % , 13.5 % to 21.0 % : difference between groups - 2 % , - 7 % to 3 % ) . In unadjusted analysis the number of repetitions were significantly reduced ( incidence risk ratio 0.55 , 0.35 to 0.87 ) . A postcard intervention reduced repetitions of deliberate self poisoning , although it did not significantly reduce the proportion of individual repeaters .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether an
+      <group id="0">
+        <short>intervention  using  postcards</short>
+        (  postcards  from  the  EDge  project  )
+      </group>
+      reduces
+      <outcome id="1">repetitions  of  hospital  treated  deliberate  self  poisoning</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">Regional referral service for general hospital treated deliberate self poisoning in Newcastle , Australia .</s>
+    <s id="8" section="results">
+      In unadjusted analysis the
+      <outcome id="1">number  of  repetitions</outcome>
+      were significantly reduced ( incidence risk ratio 0.55 , 0.35 to 0.87 ) .
+    </s>
+    <s id="9" section="conclusion">
+      A
+      <group id="0">postcard  intervention</group>
+      reduced
+      <outcome id="1">repetitions  of  deliberate  self  poisoning</outcome>
+      , although it did not significantly reduce the
+      <outcome id="0" type="bad">proportion  of  individual  repeaters</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

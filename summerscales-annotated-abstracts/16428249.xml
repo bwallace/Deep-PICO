@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16428249">
+  <title>
+    <s id="0" section="title">
+      Impact of
+      <group id="0">Helicobacter  pylori  eradication</group>
+      on
+      <outcome id="5" type="bad">dyspepsia</outcome>
+      ,
+      <outcome id="1">health  resource  use</outcome>
+      , and
+      <outcome id="2">quality  of  life</outcome>
+      in the Bristol helicobacter project : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 general practices in southwest England .</s>
+    <s id="4" section="participants">
+      10,537 unselected people aged 20-59 years were screened for H pylori infection ( 13C urea breath test ) ;
+      <ps>1558</ps>
+      of the 1636 participants who tested positive were randomised to
+      <group id="0">
+        <short>H  pylori  eradication</short>
+        treatment
+      </group>
+      or
+      <group id="1">placebo</group>
+      , and 1539 ( 99 % ) were followed up for
+      <time id="0">2  years</time>
+      .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        <short>Ranitidine  bismuth  citrate  400  mg  and  clarithromycin  500  mg</short>
+        twice  daily
+      </group>
+      for 2 weeks or
+      <group id="1">placebo</group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="5" type="bad">
+        Primary  care
+        <short>consultation  rates  for  dyspepsia</short>
+        (  defined  as  epigastric  pain  )
+        <time id="0">2  years</time>
+        after  randomisation
+      </outcome>
+      , with secondary outcomes of
+      <outcome id="4">dyspepsia  symptoms</outcome>
+      ,
+      <outcome id="1">resource  use</outcome>
+      ,
+      <outcome id="3">NHS  costs</outcome>
+      , and
+      <outcome id="2">quality  of  life</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      In the
+      <group id="0">eradication  group</group>
+      , 35 % fewer participants
+      <outcome id="5" type="bad">consulted  for  dyspepsia</outcome>
+      over
+      <time id="0">2  years</time>
+      compared with the
+      <group id="1">placebo  group</group>
+      (
+      <on group="0" outcome="5">55</on>
+      /
+      <gs group="0">787</gs>
+      v
+      <on group="1" outcome="5">78</on>
+      /
+      <gs group="1">771</gs>
+      ; odds ratio 0.65 , 95 % confidence interval 0.46 to 0.94 ; P = 0.021 ; number needed to treat 30 ) and 29 % fewer participants had
+      <outcome id="7">regular  symptoms</outcome>
+      ( odds ratio 0.71 , 0.56 to 0.90 ; P = 0.05 ) .
+    </s>
+    <s id="8" section="results">
+      <outcome id="3">NHS  costs</outcome>
+      were 84.70 pounds sterling ( 74.90 pounds sterling to 93.91 pounds sterling ) greater per participant in the
+      <group id="0">eradication  group</group>
+      over
+      <time id="0">2  years</time>
+      , of which 83.40 pounds sterling ( 146 dollars ; 121 euro ) was the
+      <outcome id="6">
+        <short>cost</short>
+        of  eradication  treatment
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      No difference in
+      <outcome id="2">quality  of  life</outcome>
+      existed between the 2 groups .
+    </s>
+    <s id="10" section="conclusions">
+      <group id="0">
+        Community  screening  and
+        <short>eradication  of  H  pylori</short>
+      </group>
+      is feasible in the general population and led to significant reductions in the
+      <outcome id="5" type="bad">
+        number  of  people  who
+        <short>consulted  for  dyspepsia</short>
+      </outcome>
+      and had
+      <outcome id="4">symptoms</outcome>
+      <time id="0">2  years</time>
+      after treatment .
+    </s>
+  </annotated>
+  <fulltext>Impact of Helicobacter pylori eradication on dyspepsia , health resource use , and quality of life in the Bristol helicobacter project : randomised controlled trial . To determine the impact of a community based Helicobacter pylori screening and eradication programme on the incidence of dyspepsia , resource use , and quality of life , including a cost consequences analysis . H pylori screening programme followed by randomised placebo controlled trial of eradication . 7 general practices in southwest England . 10,537 unselected people aged 20-59 years were screened for H pylori infection ( 13C urea breath test ) ; 1558 of the 1636 participants who tested positive were randomised to H pylori eradication treatment or placebo , and 1539 ( 99 % ) were followed up for 2 years . Ranitidine bismuth citrate 400 mg and clarithromycin 500 mg twice daily for 2 weeks or placebo . Primary care consultation rates for dyspepsia ( defined as epigastric pain ) 2 years after randomisation , with secondary outcomes of dyspepsia symptoms , resource use , NHS costs , and quality of life . In the eradication group , 35 % fewer participants consulted for dyspepsia over 2 years compared with the placebo group ( 55 / 787 v 78 / 771 ; odds ratio 0.65 , 95 % confidence interval 0.46 to 0.94 ; P = 0.021 ; number needed to treat 30 ) and 29 % fewer participants had regular symptoms ( odds ratio 0.71 , 0.56 to 0.90 ; P = 0.05 ) . NHS costs were 84.70 pounds sterling ( 74.90 pounds sterling to 93.91 pounds sterling ) greater per participant in the eradication group over 2 years , of which 83.40 pounds sterling ( 146 dollars ; 121 euro ) was the cost of eradication treatment . No difference in quality of life existed between the 2 groups . Community screening and eradication of H pylori is feasible in the general population and led to significant reductions in the number of people who consulted for dyspepsia and had symptoms 2 years after treatment . These benefits have to be balanced against the costs of eradication treatment , so a targeted eradication strategy in dyspeptic patients may be preferable .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the impact of a
+      <group id="0">
+        community  based
+        <short>Helicobacter  pylori</short>
+        screening  and  eradication  programme
+      </group>
+      on the
+      <outcome id="5" type="bad">
+        incidence  of
+        <short>dyspepsia</short>
+      </outcome>
+      ,
+      <outcome id="1">resource  use</outcome>
+      , and
+      <outcome id="2">quality  of  life</outcome>
+      , including a
+      <outcome id="6">cost  consequences  analysis</outcome>
+      .
+    </s>
+    <s id="2" section="design">H pylori screening programme followed by randomised placebo controlled trial of eradication .</s>
+    <s id="11" section="conclusions">
+      These benefits have to be balanced against the
+      <outcome id="6">
+        <short>costs</short>
+        of
+      </outcome>
+      <group id="0">eradication  treatment</group>
+      , so a
+      <group id="0">targeted  eradication  strategy</group>
+      in dyspeptic patients may be preferable .
+    </s>
+  </ignored>
+</abstract>
+

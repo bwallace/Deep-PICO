@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16707509">
+  <title>
+    <s id="0" section="title">
+      Management of miscarriage :
+      <group id="0">expectant</group>
+      ,
+      <group id="1">medical</group>
+      , or
+      <group id="2">surgical</group>
+      ?
+    </s>
+    <s id="1" section="title">Results of randomised controlled trial ( miscarriage treatment ( MIST ) trial ) .</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">Early pregnancy assessment units of 7 hospitals in the United Kingdom .</s>
+    <s id="5" section="participants">Women of less than 13 weeks ' gestation , with a diagnosis of early fetal demise or incomplete miscarriage .</s>
+    <s id="6" section="interventions">
+      <group id="0">
+        <short>Expectant  management</short>
+        (  no  specific  intervention  )
+      </group>
+      ;
+      <group id="1">
+        <short>medical  management</short>
+        (  vaginal  dose  of  misoprostol  preceded  ,  for  women  with  early  fetal  demise  ,  by  oral  mifepristone  24-  48  hours  earlier  )
+      </group>
+      ;
+      <group id="2">
+        <short>surgical  management</short>
+        (  surgical  evacuation  )
+      </group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">
+        Confirmed
+        <short>gynaecological  infection</short>
+      </outcome>
+      at
+      <time id="0">14  days</time>
+      and
+      <time id="1">8  weeks</time>
+      ;
+      <outcome id="1">
+        need  for
+        <short>unplanned  admission</short>
+      </outcome>
+      or
+      <outcome id="2">surgical  intervention</outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <ps>1200</ps>
+      women were recruited :
+      <gs group="0">399</gs>
+      to
+      <group id="0">expectant  management</group>
+      ,
+      <gs group="1">398</gs>
+      to
+      <group id="1">medical  management</group>
+      , and
+      <gs group="2">403</gs>
+      to
+      <group id="2">surgical  management</group>
+      .
+    </s>
+    <s id="9" section="results">
+      No differences were found in the
+      <outcome id="0">
+        incidence  of
+        <short>confirmed  infection</short>
+      </outcome>
+      within
+      <time id="0">14  days</time>
+      between the
+      <group id="0">expectant  group</group>
+      ( 3 % ) and the
+      <group id="2">surgical  group</group>
+      ( 3 % ) ( risk difference 0.2 % , 95 % confidence interval - 2.2 % to 2.7 % ) or between the
+      <group id="1">medical  group</group>
+      ( 2 % ) and the
+      <group id="2">surgical  group</group>
+      ( 0.7 % , - 1.6 % to 3.1 % ) .
+    </s>
+    <s id="10" section="results">
+      Compared with the
+      <group id="2">surgical  group</group>
+      , the
+      <outcome id="1">
+        number  of
+        <short>unplanned  hospital  admissions</short>
+      </outcome>
+      was significantly higher in both the
+      <group id="0">expectant  group</group>
+      ( risk difference - 41 % , - 47 % to - 36 % ) and the
+      <group id="1">medical  group</group>
+      ( - 10 % , - 15 % to - 6 % ) .
+    </s>
+    <s id="11" section="results">
+      Similarly , when compared with the
+      <group id="2">surgical  group</group>
+      , the
+      <outcome id="2">
+        number  of  women  who  had  an
+        <short>unplanned  surgical  curettage</short>
+      </outcome>
+      was significantly higher in the
+      <group id="0">expectant  group</group>
+      ( risk difference - 39 % , - 44 % to - 34 % ) and the
+      <group id="1">medical  group</group>
+      ( - 30 % , - 35 % to - 25 % ) .
+    </s>
+  </annotated>
+  <fulltext>Management of miscarriage : expectant , medical , or surgical ? Results of randomised controlled trial ( miscarriage treatment ( MIST ) trial ) . To ascertain whether a clinically important difference exists in the incidence of gynaecological infection between surgical management and expectant or medical management of miscarriage . Randomised controlled trial comparing medical and expectant management with surgical management of first trimester miscarriage . Early pregnancy assessment units of 7 hospitals in the United Kingdom . Women of less than 13 weeks ' gestation , with a diagnosis of early fetal demise or incomplete miscarriage . Expectant management ( no specific intervention ) ; medical management ( vaginal dose of misoprostol preceded , for women with early fetal demise , by oral mifepristone 24- 48 hours earlier ) ; surgical management ( surgical evacuation ) . Confirmed gynaecological infection at 14 days and 8 weeks ; need for unplanned admission or surgical intervention . 1200 women were recruited : 399 to expectant management , 398 to medical management , and 403 to surgical management . No differences were found in the incidence of confirmed infection within 14 days between the expectant group ( 3 % ) and the surgical group ( 3 % ) ( risk difference 0.2 % , 95 % confidence interval - 2.2 % to 2.7 % ) or between the medical group ( 2 % ) and the surgical group ( 0.7 % , - 1.6 % to 3.1 % ) . Compared with the surgical group , the number of unplanned hospital admissions was significantly higher in both the expectant group ( risk difference - 41 % , - 47 % to - 36 % ) and the medical group ( - 10 % , - 15 % to - 6 % ) . Similarly , when compared with the surgical group , the number of women who had an unplanned surgical curettage was significantly higher in the expectant group ( risk difference - 39 % , - 44 % to - 34 % ) and the medical group ( - 30 % , - 35 % to - 25 % ) . The incidence of gynaecological infection after surgical , expectant , and medical management of first trimester miscarriage is low ( 2-3 % ) , and no evidence exists of a difference by the method of management . However , significantly more unplanned admissions and unplanned surgical curettage occurred after expectant management and medical management than after surgical management . N0467011677 / N0467073587 .</fulltext>
+  <ignored>
+    <s id="2" section="objective">
+      To ascertain whether a clinically important difference exists in the
+      <outcome id="0">
+        incidence  of
+        <short>gynaecological  infection</short>
+      </outcome>
+      between
+      <group id="2">surgical  management</group>
+      and
+      <group id="0">expectant</group>
+      or
+      <group id="1">
+        <short>medical  management</short>
+        of  miscarriage
+      </group>
+      .
+    </s>
+    <s id="3" section="design">Randomised controlled trial comparing medical and expectant management with surgical management of first trimester miscarriage .</s>
+    <s id="12" section="conclusions">
+      The
+      <outcome id="0">
+        incidence  of
+        <short>gynaecological  infection</short>
+      </outcome>
+      after
+      <group id="2">surgical</group>
+      ,
+      <group id="0">expectant</group>
+      , and
+      <group id="1">
+        <short>medical  management</short>
+        of  first  trimester  miscarriage
+      </group>
+      is low ( 2-3 % ) , and no evidence exists of a difference by the method of management .
+    </s>
+    <s id="13" section="conclusions">
+      However , significantly more
+      <outcome id="1">unplanned  admissions</outcome>
+      and
+      <outcome id="2">unplanned  surgical  curettage</outcome>
+      occurred after
+      <group id="0">expectant  management</group>
+      and
+      <group id="1">medical  management</group>
+      than after
+      <group id="2">surgical  management</group>
+      .
+    </s>
+    <s id="14" section="trial_registration_national_research_register">N0467011677 / N0467073587 .</s>
+  </ignored>
+</abstract>
+

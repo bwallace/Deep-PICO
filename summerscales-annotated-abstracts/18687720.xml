@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18687720">
+  <title>
+    <s id="0">Impact of stepping stones on incidence of HIV and HSV-2 and sexual behaviour in rural South Africa: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To assess the impact of Stepping Stones, a HIV prevention programme, on incidence of HIV and herpes simplex type 2 (HSV-2) and sexual behaviour.</s>
+    <s id="3" section="setting">70 villages (clusters) in the Eastern Cape province of South Africa.</s>
+    <s id="4" section="participants">1360 men and 1416 women aged 15-26 years, who were mostly attending schools.</s>
+    <s id="5" section="intervention"><group id="0" role="experiment">Stepping Stones</group>, a 50 hour programme, aims to improve sexual health by using participatory learning approaches to build knowledge, risk awareness, and communication skills and to stimulate critical reflection.</s>
+    <s id="6" section="intervention">Villages were randomised to receive either this or a <group id="1" role="control">3 hour intervention on HIV and safer sex</group>.</s>
+    <s id="7" section="intervention">Interviewers administered questionnaires at baseline and <time id="0" units="months">12</time> and <time id="1">24 months</time> and blood was tested for HIV and HSV-2.</s>
+    <s id="10" section="results">There was no evidence that <group id="0" role="experiment">Stepping Stones</group> lowered the <outcome id="0" type="bad">incidence of HIV</outcome> (adjusted incidence rate ratio 0.95, 95% confidence interval 0.67 to 1.35).</s>
+    <s id="11" section="results">The <group id="0" role="experiment">programme</group> was associated with a reduction of about 33 % in the <outcome id="1" type="bad">incidence of HSV-2</outcome> ( 0.67 , 0.46 to 0.97 ; P = 0.036) -that is , <group id="0" role="experiment">Stepping Stones</group> reduced the number of <outcome id="8" type="bad">new <short>HSV-2 infections</short> over a 2 year period</outcome> by 34.9 ( 1.6 to 68.2 ) per 1000 people exposed .</s>
+    <s id="12" section="results"><group id="0" role="experiment">Stepping Stones</group> significantly improved a number of reported risk behaviours in men , with a lower proportion of men <outcome id="2" type="bad">reporting perpetration of intimate partner <short>violence</short></outcome> across <time id="0">2 years</time> of follow - up and less <outcome id="3" type="bad">transactional sex</outcome> and <outcome id="4" type="bad">problem drinking</outcome> at <time id="1">12 months</time> .</s>
+    <s id="13" section="results">In women desired behaviour changes were not reported and those in <group id="0" role="experiment">the Stepping Stones programme</group> reported more <outcome id="3" type="bad">transactional sex</outcome> at <time id="1">12 months</time>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the impact of Stepping Stones, a HIV prevention programme, on incidence of HIV and herpes simplex type 2 (HSV-2) and sexual behaviour. 
+DESIGN: Cluster randomised controlled trial. 
+SETTING: 70 villages (clusters) in the Eastern Cape province of South Africa. 
+PARTICIPANTS: 1360 men and 1416 women aged 15-26 years, who were mostly attending schools. 
+INTERVENTION: Stepping Stones, a 50 hour programme, aims to improve sexual health by using participatory learning approaches to build knowledge, risk awareness, and communication skills and to stimulate critical reflection. 
+Villages were randomised to receive either this or a three hour intervention on HIV and safer sex. 
+Interviewers administered questionnaires at baseline and 12 and 24 months and blood was tested for HIV and HSV-2. 
+MAIN OUTCOME MEASURES: Primary outcome measure: incidence of HIV. 
+Other outcomes: incidence of HSV-2, unwanted pregnancy, reported sexual practices, depression, and substance misuse. 
+RESULTS: There was no evidence that Stepping Stones lowered the incidence of HIV (adjusted incidence rate ratio 0.95, 95% confidence interval 0.67 to 1.35). 
+The programme was associated with a reduction of about 33% in the incidence of HSV-2 (0.67, 0.46 to 0.97; P=0.036)-that is, Stepping Stones reduced the number of new HSV-2 infections over a two year period by 34.9 (1.6 to 68.2) per 1000 people exposed. 
+Stepping Stones significantly improved a number of reported risk behaviours in men, with a lower proportion of men reporting perpetration of intimate partner violence across two years of follow-up and less transactional sex and problem drinking at 12 months. 
+In women desired behaviour changes were not reported and those in the Stepping Stones programme reported more transactional sex at 12 months. 
+CONCLUSION: Stepping Stones did not reduce incidence of HIV but had an impact on several risk factors for HIV-notably, HSV-2 and perpetration of intimate partner violence. 
+TRIAL REGISTRATION: Clinical Trials NCT00332878.</fulltext>
+  <ignored>
+    <s id="2" section="design">Cluster randomised controlled trial.</s>
+    <s id="8" section="main outcome measures">Primary outcome measure: incidence of HIV.</s>
+    <s id="9" section="main outcome measures">Other outcomes: incidence of HSV-2, unwanted pregnancy, reported sexual practices, depression, and substance misuse.</s>
+    <s id="14" section="conclusion">Stepping Stones did not reduce incidence of HIV but had an impact on several risk factors for HIV-notably, HSV-2 and perpetration of intimate partner violence.</s>
+    <s id="15" section="trial registration">Clinical Trials NCT00332878.</s>
+  </ignored>
+</abstract>
+

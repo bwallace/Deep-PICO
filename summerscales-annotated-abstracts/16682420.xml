@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16682420">
+  <title>
+    <s id="0" section="title">HIV prevention in Mexican schools : prospective randomised evaluation of intervention .</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">40 public high schools in the state of Morelos , Mexico .</s>
+    <s id="4" section="participants">
+      <ps>10  954</ps>
+      first year high school students .
+    </s>
+    <s id="5" section="intervention">
+      Schools were randomised to 1 of 3 arms : an
+      <group id="0">
+        <short>HIV  prevention  course</short>
+        that  promoted  condom  use
+      </group>
+      , the
+      <group id="1">same  course  with  emergency  contraception  as  back  -  up</group>
+      , or the
+      <group id="2">existing  sex  education  course</group>
+      .
+    </s>
+    <s id="6" section="intervention">
+      Self administered anonymous questionnaires were completed at
+      <time id="0">baseline</time>
+      ,
+      <time id="1">4  months</time>
+      , and
+      <time id="2">16  months</time>
+      .
+    </s>
+    <s id="7" section="intervention">
+      Students at intervention schools received a
+      <group id="0">30  hour  course  (  over  15  weeks  )  on  HIV  prevention  and  life  skills</group>
+      , designed in accordance with guidelines of the joint United Nations programme on HIV / AIDS .
+    </s>
+    <s id="8" section="intervention">
+      <group id="1">2  extra  hours  of  education  on  emergency  contraception</group>
+      were given to students in the
+      <group id="1">condom  promotion  with  contraception  arm</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>HIV prevention in Mexican schools : prospective randomised evaluation of intervention . To assess effects on condom use and other sexual behaviour of an HIV prevention programme at school that promotes the use of condoms with and without emergency contraception . Cluster randomised controlled trial . 40 public high schools in the state of Morelos , Mexico . 10 954 first year high school students . Schools were randomised to 1 of 3 arms : an HIV prevention course that promoted condom use , the same course with emergency contraception as back - up , or the existing sex education course . Self administered anonymous questionnaires were completed at baseline , 4 months , and 16 months . Students at intervention schools received a 30 hour course ( over 15 weeks ) on HIV prevention and life skills , designed in accordance with guidelines of the joint United Nations programme on HIV / AIDS . 2 extra hours of education on emergency contraception were given to students in the condom promotion with contraception arm . Primary outcome measure was reported condom use . Other outcomes were reported sexual activity ; knowledge and attitudes about HIV and emergency contraception ; and attitudes and confidence about condom use . Intervention did not affect reported condom use . Knowledge of HIV improved in both intervention arms and knowledge of emergency contraception improved in the condom promotion with contraception arm . Reported sexual behaviour was similar in the intervention arms and the control group . A rigorously designed , implemented , and evaluated HIV education course based in public high schools did not reduce risk behaviour , so such courses need to be redesigned and evaluated . Addition of emergency contraception did not decrease reported condom use or increase risky sexual behaviour but did increase reported use of emergency contraception .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess effects on condom use and other sexual behaviour of an
+      <group id="0">HIV  prevention  programme</group>
+      at school that promotes the use of condoms with and without emergency contraception .
+    </s>
+    <s id="2" section="design">Cluster randomised controlled trial .</s>
+    <s id="9" section="main_outcome_measures">
+      Primary outcome measure was
+      <outcome id="0">reported  condom  use</outcome>
+      .
+    </s>
+    <s id="10" section="main_outcome_measures">
+      Other outcomes were
+      <outcome id="1">reported  sexual  activity</outcome>
+      ;
+      <outcome id="2">knowledge  and  attitudes  about  HIV</outcome>
+      and
+      <outcome id="3">emergency  contraception</outcome>
+      ; and
+      <outcome id="4">attitudes  and  confidence  about  condom  use</outcome>
+      .
+    </s>
+    <s id="11" section="results">
+      Intervention did not affect
+      <outcome id="0">reported  condom  use</outcome>
+      .
+    </s>
+    <s id="12" section="results">
+      <outcome id="2">Knowledge  of  HIV</outcome>
+      improved in both intervention arms and
+      <outcome id="3">knowledge  of  emergency  contraception</outcome>
+      improved in the
+      <group id="1">condom  promotion  with  contraception  arm</group>
+      .
+    </s>
+    <s id="13" section="results">
+      <outcome id="1">Reported  sexual  behaviour</outcome>
+      was similar in the intervention arms and the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="14" section="conclusion">
+      <group id="0">
+        A  rigorously  designed  ,  implemented  ,  and  evaluated
+        <short>HIV  education  course  based</short>
+        in  public  high  schools
+      </group>
+      did not reduce
+      <outcome id="1">risk  behaviour</outcome>
+      , so such courses need to be redesigned and evaluated .
+    </s>
+    <s id="15" section="conclusion">
+      <group id="1">Addition  of  emergency  contraception</group>
+      did not decrease
+      <outcome id="0">reported  condom  use</outcome>
+      or increase
+      <outcome id="1">risky  sexual  behaviour</outcome>
+      but did increase
+      <outcome id="0">reported  use  of  emergency  contraception</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

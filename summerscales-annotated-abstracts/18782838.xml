@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18782838">
+  <title>
+    <s id="0">Paracetamol plus ibuprofen for the treatment of fever in children (PITCH): economic evaluation of a randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Cost consequences analysis and cost effectiveness analysis conducted as part of a 3 arm , randomised controlled trial .</s>
+    <s id="3" section="participants">Children between the ages of 6 months and 6 years recruited from primary care and the community with axillary temperatures &gt;or=37.8</s>
+    <s id="6" section="main outcome measures">Cost consequences analysis at <time id="0">48 hours</time> and <time id="1">5 days</time> comparing cost with children's temperature, discomfort, activity, appetite, and sleep; cost effectiveness analysis at <time id="0">48 hours</time> comparing cost with percentage of children "recovered."</s>
+    <s id="8" section="results">At <time id="0">48 hours</time>, <outcome id="0" type="bad">cost to the NHS</outcome> was <on group="1" outcome="0" time="0">pound11.33</on> for <group id="1" role="control">paracetamol</group>, <on group="2" outcome="0" time="0">pound8.49</on> for <group id="2" role="control">ibuprofen</group>, and <on group="0" outcome="0" time="0">pound8.16</on> for <group id="0" role="experiment">both drugs</group>.</s>
+    <s id="9" section="results">By <time id="1">day 5</time> these costs rose to <on group="1" outcome="0" time="1">pound19.63</on>, <on group="1" outcome="0" time="1">pound18.36</on>, and <on group="1" outcome="0" time="1">pound13.92</on> respectively.</s>
+    <s id="10" section="results">For parents and carers, the <time id="0">48 hour</time> costs were pound23.86 for <group id="1" role="control">paracetamol</group>, pound20.60 for <group id="1" role="control">ibuprofen</group>, and pound25.07 for <group id="0" role="experiment">both</group>, and the <time id="1">day 5</time> costs were pound26.35, pound29.90, and pound24.02</s>
+    <s id="12" section="results">Outcomes measured at <time id="0">48 hours</time> and <time id="1">5 days</time> were inconclusive because of lack of power ; the cost effectiveness analysis at 48 hours provided little evidence that 1 treatment choice was significantly more cost effective than another .</s>
+    <s id="13" section="results">At <time id="2">4 hours</time> <group id="2" role="control">ibuprofen</group> and the <group id="0" role="experiment">combined treatment</group> were superior to <group id="1" role="control">paracetamol</group> in terms of the trial primary outcome of <outcome id="0" type="good">time without fever</outcome>; at <time id="3">24 hours</time> the <group id="0" role="experiment">combined treatment</group> performed best on this outcome.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To estimate the cost to the NHS and to parents and carers of treating febrile preschool children with paracetamol, ibuprofen, or both, and to compare these costs with the benefits of each treatment regimen. 
+DESIGN: Cost consequences analysis and cost effectiveness analysis conducted as part of a three arm, randomised controlled trial. 
+PARTICIPANTS: Children between the ages of 6 months and 6 years recruited from primary care and the community with axillary temperatures &gt;or=37.8 
+degrees C and &lt;or=41 degrees C. INTERVENTIONS: Paracetamol, ibuprofen, or both drugs. 
+MAIN OUTCOME MEASURES: Costs to the NHS and to parents and carers. 
+Cost consequences analysis at 48 hours and 5 days comparing cost with children's temperature, discomfort, activity, appetite, and sleep; cost effectiveness analysis at 48 hours comparing cost with percentage of children "recovered." 
+RESULTS: Difficulties in recruiting children to the trial lowered the precision of the estimates of cost and some outcomes. 
+At 48 hours, cost to the NHS was pound11.33 for paracetamol, pound8.49 for ibuprofen, and pound8.16 for both drugs. 
+By day 5 these costs rose to pound19.63, pound18.36, and pound13.92 respectively. 
+For parents and carers, the 48 hour costs were pound23.86 for paracetamol, pound20.60 for ibuprofen, and pound25.07 for both, and the day 5 costs were pound26.35, 
+pound29.90, and pound24.02 
+respectively. 
+Outcomes measured at 48 hours and 5 days were inconclusive because of lack of power; the cost effectiveness analysis at 48 hours provided little evidence that one treatment choice was significantly more cost effective than another. 
+At 4 hours ibuprofen and the combined treatment were superior to paracetamol in terms of the trial primary outcome of time without fever; at 24 hours the combined treatment performed best on this outcome. 
+CONCLUSIONS: There is no strong evidence of a difference in cost between the treatments, but clinical and cost data together indicate that using both drugs together may be most cost effective over the course of the illness. 
+This treatment option performs best and is no more expensive because of less use of healthcare resources, resulting in lower costs to the NHS and to parents.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To estimate the cost to the NHS and to parents and carers of treating febrile preschool children with paracetamol, ibuprofen, or both, and to compare these costs with the benefits of each treatment regimen.</s>
+    <s id="4" section="interventions">Paracetamol, ibuprofen, or both drugs.</s>
+    <s id="5" section="main outcome measures">Costs to the NHS and to parents and carers.</s>
+    <s id="7" section="results">Difficulties in recruiting children to the trial lowered the precision of the estimates of cost and some outcomes.</s>
+    
+    <s id="11" section="results">respectively.</s>
+    <s id="14" section="conclusions">There is no strong evidence of a difference in cost between the treatments, but clinical and cost data together indicate that using both drugs together may be most cost effective over the course of the illness.</s>
+    <s id="15" section="conclusions">This treatment option performs best and is no more expensive because of less use of healthcare resources, resulting in lower costs to the NHS and to parents.</s>
+  </ignored>
+</abstract>
+

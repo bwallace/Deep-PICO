@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18441375">
+  <title>
+    <s id="0">Nortriptyline plus nicotine replacement versus placebo plus nicotine replacement for smoking cessation: pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">901 people trying to stop smoking.</s>
+    <s id="6" section="interventions">Nortriptyline was started 1 to 2 weeks before quit day , with the dose increased from 25 mg to 75 mg daily for 8 weeks and reduced if not tolerated .</s>
+    <s id="7" section="main outcome measures">Primary outcome was prolonged confirmed abstinence at <time id="0">6 months</time>.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were prolonged abstinence at <time id="1">12 months</time>, drug use, severity of side effects, nicotine withdrawal symptoms, and urges to smoke.</s>
+    <s id="9" section="results"><on group="0" outcome="0" time="0">72</on> of <gs group="0">445</gs> ( 16 % ) people <group id="0" role="experiment">using nortriptyline</group> and <on group="1" outcome="0" time="0">55</on> of <gs group ="1">456</gs> ( 12 % ) <group id="1" role="control">using placebo</group> achieved <outcome id="0" type="good">prolonged abstinence</outcome> at <time id="0">6 months</time> ( relative risk 1.34 , 95 % confidence interval 0.97 to 1.86 ) .</s>
+    <s id="10" section="results">At <time id="1">12 months</time> the corresponding values were <on group="0" outcome="0" time="1">49</on> (11%) for <group id="0" role="experiment">nortriptyline</group> and <on group="1" outcome="0" time="1">40</on> (9%) for <group id="1" role="control">placebo</group> (1.26, 0.84 to 1.87).</s>
+    <s id="11" section="results"><on group="0" outcome="1">337</on> (79%) people in <group id="0" role="experiment">the nortriptyline arm</group> and <on group="1" outcome="1">325</on> (75%) in <group id="1" role="control">the placebo arm</group> were <outcome id="1" type="good">taking combination treatment on quit day</outcome>, median 75 mg per day in both groups.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To test the efficacy of nortriptyline plus nicotine replacement therapy compared with placebo plus nicotine replacement therapy for smoking cessation. 
+DESIGN: Pragmatic randomised controlled trial. 
+SETTING: National Health Service stop smoking service clinics. 
+PARTICIPANTS: 901 people trying to stop smoking. 
+INTERVENTIONS: Participants chose their nicotine replacement product, including combinations of nicotine replacement therapy, and received behavioural support. 
+Nortriptyline was started one to two weeks before quit day, with the dose increased from 25 mg to 75 mg daily for eight weeks and reduced if not tolerated. 
+MAIN OUTCOME MEASURES: Primary outcome was prolonged confirmed abstinence at six months. 
+Secondary outcomes were prolonged abstinence at 12 months, drug use, severity of side effects, nicotine withdrawal symptoms, and urges to smoke. 
+RESULTS: 72 of 445 (16%) people using nortriptyline and 55 of 456 (12%) using placebo achieved prolonged abstinence at six months (relative risk 1.34, 95% confidence interval 0.97 to 1.86). 
+At 12 months the corresponding values were 49 (11%) for nortriptyline and 40 (9%) for placebo (1.26, 0.84 to 1.87). 
+337 (79%) people in the nortriptyline arm and 325 (75%) in the placebo arm were taking combination treatment on quit day, median 75 mg per day in both groups. 
+More people in the nortriptyline arm than in the placebo arm took lower doses. 
+The nortriptyline arm had noticeably higher severity ratings for dry mouth and constipation than the placebo arm, with slightly higher ratings for sweating and feeling shaky. 
+Both groups had similar urges to smoke, but nortriptyline reduced depression and anxiety. 
+Overall, withdrawal symptom scores did not differ. 
+CONCLUSIONS: Nortriptyline and nicotine replacement therapy are both effective for smoking cessation but the effect of the combination is less than either alone and evidence is lacking that combination treatment is more effective than either alone. 
+Trial registration Current Controlled Trials ISRCTN57852484.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To test the efficacy of nortriptyline plus nicotine replacement therapy compared with placebo plus nicotine replacement therapy for smoking cessation.</s>
+    <s id="2" section="design">Pragmatic randomised controlled trial.</s>
+    <s id="3" section="setting">National Health Service stop smoking service clinics.</s>
+    <s id="5" section="interventions">Participants chose their nicotine replacement product, including combinations of nicotine replacement therapy, and received behavioural support.</s>
+    <s id="12" section="results">More people in the nortriptyline arm than in the placebo arm took lower doses.</s>
+    <s id="13" section="results">The nortriptyline arm had noticeably higher severity ratings for dry mouth and constipation than the placebo arm, with slightly higher ratings for sweating and feeling shaky.</s>
+    <s id="14" section="results">Both groups had similar urges to smoke, but nortriptyline reduced depression and anxiety.</s>
+    <s id="15" section="results">Overall, withdrawal symptom scores did not differ.</s>
+    <s id="16" section="conclusions">Nortriptyline and nicotine replacement therapy are both effective for smoking cessation but the effect of the combination is less than either alone and evidence is lacking that combination treatment is more effective than either alone.</s>
+    <s id="17" section="conclusions">Trial registration Current Controlled Trials ISRCTN57852484.</s>
+  </ignored>
+</abstract>
+

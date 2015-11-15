@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16636023">
+  <title>
+    <s id="0" section="title">Can sutures get wet ?</s>
+    <s id="1" section="title">Prospective randomised controlled trial of wound management in general practice .</s>
+  </title>
+  <annotated>
+    <s id="2" section="objective">
+      To compare
+      <group id="1">
+        <short>standard  management</short>
+        of  keeping  wounds  dry  and  covered
+      </group>
+      with
+      <group id="0">
+        <short>allowing  wounds  to  be  uncovered  and  wet</short>
+        in  the  first  48  hours  after  minor  skin  excision
+      </group>
+      .
+    </s>
+    <s id="5" section="participants">
+      <ps>857</ps>
+      patients randomised to either
+      <group id="1">keep  their  wound  dry  and  covered</group>
+      ( n =
+      <gs group="1">442</gs>
+      ) or
+      <group id="0">remove  the  dressing  and  wet  the  wound</group>
+      ( n =
+      <gs group="0">415</gs>
+      ) .
+    </s>
+    <s id="7" section="results">The 1 sided 95 % confidence interval for the difference of infection rates was infinity to 0.028 .</s>
+    <s id="8" section="conclusion">
+      These results indicate that
+      <group id="0">
+        <short>wounds  can  be  uncovered  and  allowed  to  get  wet</short>
+        in  the  first  48  hours  after  minor  skin  excision
+      </group>
+      without increasing the
+      <outcome id="0">
+        incidence  of
+        <short>infection</short>
+      </outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Can sutures get wet ? Prospective randomised controlled trial of wound management in general practice . To compare standard management of keeping wounds dry and covered with allowing wounds to be uncovered and wet in the first 48 hours after minor skin excision . Prospective , randomised controlled , multicentre trial testing for equivalence of infection rates . Primary care in regional centre , Queensland , Australia . 857 patients randomised to either keep their wound dry and covered ( n = 442 ) or remove the dressing and wet the wound ( n = 415 ) . The incidence of infection in the intervention group ( 8.4 % ) was not inferior to the incidence in the control group ( 8.9 % ) ( P &lt; 0.05 ) . The 1 sided 95 % confidence interval for the difference of infection rates was infinity to 0.028 . These results indicate that wounds can be uncovered and allowed to get wet in the first 48 hours after minor skin excision without increasing the incidence of infection .</fulltext>
+  <ignored>
+    <s id="3" section="design">Prospective , randomised controlled , multicentre trial testing for equivalence of infection rates .</s>
+    <s id="4" section="setting">Primary care in regional centre , Queensland , Australia .</s>
+    <s id="6" section="results">
+      The
+      <outcome id="0">
+        incidence  of
+        <short>infection</short>
+      </outcome>
+      in the
+      <group id="0">intervention  group</group>
+      ( 8.4 % ) was not inferior to the
+      <outcome id="0">incidence</outcome>
+      in the
+      <group id="1">control  group</group>
+      ( 8.9 % ) ( P &lt; 0.05 ) .
+    </s>
+  </ignored>
+</abstract>
+

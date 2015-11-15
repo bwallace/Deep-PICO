@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="20051465">
+  <title>
+    <s id="0">Treatment of childhood obesity by retraining eating behaviour: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Randomised controlled trial with <time id="0">12 month</time> intervention.</s>
+    <s id="4" section="participants">106 newly referred obese young people aged 9-17.</s>
+    <s id="6" section="main outcome measures">Change in body mass index (BMI) standard deviation score (SDS) over 12 months with assessment 18 months after the start of the intervention.</s>
+    <s id="8" section="results">Using the last available data on all participants (n=106), those in the <group id="0" role="experiment">Mandometer group</group> had significantly lower <outcome id="0" type="bad">mean BMI SDS</outcome> at <time id="0">12 months</time> compared with <group id="1" role="control">standard care</group> (baseline adjusted mean difference 0.24, 95% confidence interval 0.11 to 0.36).</s>
+    <s id="9" section="results">Similar results were obtained when analyses included only the 91 who attended per protocol (baseline adjusted mean difference 0.27, 0.14 to 0.41; P&lt;0.001), with the difference maintained at 18 months (0.27, 0.11 to 0.43; P=0.001) (n=87).</s>
+    <s id="10" section="results">The <outcome id="1" type="bad">mean meal size</outcome> in the <group id="0" role="experiment">Mandometer group</group> fell by 45 g (7 to 84 g).</s>
+    <s id="11" section="results"><outcome id="2" type="bad">Mean body fat SDS</outcome> adjusted for baseline levels was significantly lower at <time id="0">12 months</time> (0.24, 0.10 to 0.39; P=0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether modifying eating behaviour with use of a feedback device facilitates weight loss in obese adolescents. 
+DESIGN: Randomised controlled trial with 12 month intervention. 
+SETTING: Hospital based obesity clinic. 
+PARTICIPANTS: 106 newly referred obese young people aged 9-17. 
+INTERVENTIONS: A computerised device, Mandometer, providing real time feedback to participants during meals to slow down speed of eating and reduce total intake; standard lifestyle modification therapy. 
+MAIN OUTCOME MEASURES: Change in body mass index (BMI) standard deviation score (SDS) over 12 months with assessment 18 months after the start of the intervention. 
+Secondary outcomes were body fat SDS, metabolic status, quality of life evaluation, change in portion size, and eating speed. 
+RESULTS: Using the last available data on all participants (n=106), those in the Mandometer group had significantly lower mean BMI SDS at 12 months compared with standard care (baseline adjusted mean difference 0.24, 95% confidence interval 0.11 to 0.36). 
+Similar results were obtained when analyses included only the 91 who attended per protocol (baseline adjusted mean difference 0.27, 0.14 to 0.41; P&lt;0.001), with the difference maintained at 18 months (0.27, 0.11 to 0.43; P=0.001) (n=87). 
+The mean meal size in the Mandometer group fell by 45 g (7 to 84 g). 
+Mean body fat SDS adjusted for baseline levels was significantly lower at 12 months (0.24, 0.10 to 0.39; P=0.001). 
+Those in the Mandometer group also had greater improvement in concentration of high density lipoprotein cholesterol (P=0.043). 
+CONCLUSIONS: Retraining eating behaviour with a feedback device is a useful adjunct to standard lifestyle modification in treating obesity among adolescents. 
+TRIAL REGISTRATION: ClinicalTrials.gov 
+NCT00407420.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether modifying eating behaviour with use of a feedback device facilitates weight loss in obese adolescents.</s>
+    <s id="3" section="setting">Hospital based obesity clinic.</s>
+    <s id="5" section="interventions">A computerised device, Mandometer, providing real time feedback to participants during meals to slow down speed of eating and reduce total intake; standard lifestyle modification therapy.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were body fat SDS, metabolic status, quality of life evaluation, change in portion size, and eating speed.</s>
+    <s id="12" section="results">Those in the Mandometer group also had greater improvement in concentration of high density lipoprotein cholesterol (P=0.043).</s>
+    <s id="13" section="conclusions">Retraining eating behaviour with a feedback device is a useful adjunct to standard lifestyle modification in treating obesity among adolescents.</s>
+    <s id="14" section="trial registration">ClinicalTrials.gov</s>
+    <s id="15" section="trial registration">NCT00407420.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18845605">
+  <title>
+    <s id="0">Does a functional activity programme improve function, quality of life, and falls for residents in long term care?</s>
+    <s id="1">Cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="design">Cluster randomised controlled trial with 1 year follow - up .</s>
+    <s id="4" section="setting">41 low level dependency residential care homes in New Zealand.</s>
+    <s id="5" section="participants">682 people aged 65 years or over.</s>
+    <s id="6" section="interventions"><gs group="0">330</gs> <group id="0" role="experiment">residents were offered a goal setting and individualised activities of daily living activity <short>programme</short> by a gerontology nurse, reinforced by usual healthcare assistants</group>; <gs group="1">352</gs> <group id="1" role="control">residents received <short>social visits</short></group>.</s>
+    <s id="7" section="main outcome measures"><outcome id="0" type="good">Function (late life function and disability instruments, elderly mobility scale, FICSIT-4 balance test, timed up and go test)</outcome>, <outcome id="1" type="good">quality of life (life satisfaction index, EuroQol)</outcome>, and <outcome id="2">falls</outcome> (time to fall over 12 months).</s>
+    <s id="9" section="results">473 (70%) participants completed the trial.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effectiveness of an activity programme in improving function, quality of life, and falls in older people in residential care. 
+DESIGN: Cluster randomised controlled trial with one year follow-up. 
+SETTING: 41 low level dependency residential care homes in New Zealand. 
+PARTICIPANTS: 682 people aged 65 years or over. 
+INTERVENTIONS: 330 residents were offered a goal setting and individualised activities of daily living activity programme by a gerontology nurse, reinforced by usual healthcare assistants; 352 residents received social visits. 
+MAIN OUTCOME MEASURES: Function (late life function and disability instruments, elderly mobility scale, FICSIT-4 balance test, timed up and go test), quality of life (life satisfaction index, EuroQol), and falls (time to fall over 12 months). 
+Secondary outcomes were depressive symptoms and hospital admissions. 
+RESULTS: 473 (70%) participants completed the trial. 
+The programme had no impact overall. 
+However, in contrast to residents with impaired cognition (no differences between intervention and control group), those with normal cognition in the intervention group may have maintained overall function (late life function and disability instrument total function, P=0.024) and lower limb function (late life function and disability instrument basic lower extremity, P=0.015). 
+In residents with cognitive impairment, the likelihood of depression increased in the intervention group. 
+No other outcomes differed between groups. 
+CONCLUSION: A programme of functional rehabilitation had minimal impact for elderly people in residential care with normal cognition but was not beneficial for those with poor cognition. 
+Trial registration Australian Clinical Trials Register ACTRN12605000667617.</fulltext>
+  <ignored>
+    <s id="2" section="objective">To assess the effectiveness of an activity programme in improving function, quality of life, and falls in older people in residential care.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were depressive symptoms and hospital admissions.</s>
+    <s id="10" section="results">The programme had no impact overall.</s>
+    <s id="11" section="results">However, in contrast to residents with impaired cognition (no differences between intervention and control group), those with normal cognition in the intervention group may have maintained overall function (late life function and disability instrument total function, P=0.024) and lower limb function (late life function and disability instrument basic lower extremity, P=0.015).</s>
+    <s id="12" section="results">In residents with cognitive impairment, the likelihood of depression increased in the intervention group.</s>
+    <s id="13" section="results">No other outcomes differed between groups.</s>
+    <s id="14" section="conclusion">A programme of functional rehabilitation had minimal impact for elderly people in residential care with normal cognition but was not beneficial for those with poor cognition.</s>
+    <s id="15" section="conclusion">Trial registration Australian Clinical Trials Register ACTRN12605000667617.</s>
+  </ignored>
+</abstract>
+

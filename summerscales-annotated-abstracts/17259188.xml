@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17259188">
+  <title>
+    <s id="0">Rapid diagnostic tests compared with malaria microscopy for guiding outpatient treatment of febrile illness in Tanzania: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">2416 patients for whom a malaria test was requested.</s>
+    <s id="6" section="results">Of 7589 outpatient consultations, 2425 (32%) had a malaria test requested.</s>
+    <s id="7" section="results">Of <gs group="0">1204</gs> patients randomised to <group id="0" role="control">microscopy</group>, <on group="0" outcome="0">1030</on> (86%) <outcome id="0" type="good"><short>tested negative</short> for malaria</outcome>; <on group="0" outcome="1">523</on> (51%) of these were <outcome id="1" type="bad"><short>treated</short> with an antimalarial drug</outcome>.</s>
+    <s id="8" section="results">Of <gs group="1">1193</gs> patients randomised to <group id="1" role="experiment">rapid diagnostic test</group>, <on group="1" outcome="0">1005</on> (84%) <outcome id="0" type="good">tested negative</outcome>; <on group="1" outcome="1">540</on> (54%) of these were <outcome id="1" type="bad"><short>treated</short> for malaria</outcome> (odds ratio 1.13, 95% confidence interval 0.95 to 1.34; P=0.18).</s>
+    <s id="9" section="results">Children aged under 5 with negative rapid diagnostic tests were more likely to be prescribed an antimalarial drug than were those with negative slides (P=0.003).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare rapid diagnostic tests (RDTs) for malaria with routine microscopy in guiding treatment decisions for febrile patients. 
+DESIGN: Randomised trial. 
+SETTING: Outpatient departments in northeast Tanzania at varying levels of malaria transmission. 
+PARTICIPANTS: 2416 patients for whom a malaria test was requested. 
+INTERVENTION: Staff received training on rapid diagnostic tests; patients sent for malaria tests were randomised to rapid diagnostic test or routine microscopy MAIN OUTCOME MEASURE: Proportion of patients with a negative test prescribed an antimalarial drug. 
+RESULTS: Of 7589 outpatient consultations, 2425 (32%) had a malaria test requested. 
+Of 1204 patients randomised to microscopy, 1030 (86%) tested negative for malaria; 523 (51%) of these were treated with an antimalarial drug. 
+Of 1193 patients randomised to rapid diagnostic test, 1005 (84%) tested negative; 540 (54%) of these were treated for malaria (odds ratio 1.13, 95% confidence interval 0.95 to 1.34; P=0.18). 
+Children aged under 5 with negative rapid diagnostic tests were more likely to be prescribed an antimalarial drug than were those with negative slides (P=0.003). 
+Patients with a negative test by any method were more likely to be prescribed an antibiotic (odds ratio 6.42, 4.72 to 8.75; P&lt;0.001). 
+More than 90% of prescriptions for antimalarial drugs in low-moderate transmission settings were for patients for whom a test requested by a clinician was negative for malaria. 
+CONCLUSIONS: Although many cases of malaria are missed outside the formal sector, within it malaria is massively over-diagnosed. 
+This threatens the sustainability of deployment of artemisinin combination treatment, and treatable bacterial diseases are likely to be missed. 
+Use of rapid diagnostic tests, with basic training for clinical staff, did not in itself lead to any reduction in over-treatment for malaria. 
+Interventions to improve clinicians' management of febrile illness are essential but will not be easy. 
+TRIAL REGISTRATION: Clinical trials NCT00146796 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare rapid diagnostic tests (RDTs) for malaria with routine microscopy in guiding treatment decisions for febrile patients.</s>
+    <s id="2" section="design">Randomised trial.</s>
+    <s id="3" section="setting">Outpatient departments in northeast Tanzania at varying levels of malaria transmission.</s>
+    <s id="5" section="intervention">Staff received training on rapid diagnostic tests; patients sent for malaria tests were randomised to rapid diagnostic test or routine microscopy MAIN OUTCOME MEASURE: Proportion of patients with a negative test prescribed an antimalarial drug.</s>
+    <s id="10" section="results">Patients with a negative test by any method were more likely to be prescribed an antibiotic (odds ratio 6.42, 4.72 to 8.75; P&lt;0.001).</s>
+    <s id="11" section="results">More than 90% of prescriptions for antimalarial drugs in low-moderate transmission settings were for patients for whom a test requested by a clinician was negative for malaria.</s>
+    <s id="12" section="conclusions">Although many cases of malaria are missed outside the formal sector, within it malaria is massively over-diagnosed.</s>
+    <s id="13" section="conclusions">This threatens the sustainability of deployment of artemisinin combination treatment, and treatable bacterial diseases are likely to be missed.</s>
+    <s id="14" section="conclusions">Use of rapid diagnostic tests, with basic training for clinical staff, did not in itself lead to any reduction in over-treatment for malaria.</s>
+    <s id="15" section="conclusions">Interventions to improve clinicians' management of febrile illness are essential but will not be easy.</s>
+    <s id="16" section="trial registration">Clinical trials NCT00146796 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

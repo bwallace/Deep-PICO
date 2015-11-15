@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18952682">
+  <title>
+    <s id="0">Foot orthoses and physiotherapy in the treatment of patellofemoral pain syndrome: randomised clinical trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">179 participants ( 100 women ) aged 18 to 40 years , with a clinical diagnosis of patellofemoral pain syndrome of greater than 6 weeks ' duration , who had no previous treatment with foot orthoses or physiotherapy in the preceding 12 months .</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">6 weeks of <short>physiotherapist</short> intervention</group> with off the shelf foot orthoses , flat inserts , multimodal physiotherapy ( patellofemoral joint mobilisation , patellar taping , quadriceps muscle retraining , and education ) , or <group id="1" role="control"><short>foot orthoses</short> plus physiotherapy</group> .</s>
+    <s id="6" section="main outcome measures">Global improvement, <outcome id="0" type="bad">severity of usual and worst <short>pain</short> over the preceding week</outcome>, <outcome id="1" type="bad">anterior <short>knee pain</short> scale</outcome>, and <outcome id="2" type="good"><short>functional index</short> questionnaire</outcome> measured at 6, 12, and 52 weeks.</s>
+    <s id="7" section="results">Foot orthoses produced improvement beyond that of flat inserts in the short term , notably at 6 weeks ( relative risk reduction 0.66 , 99 % confidence interval 0.05 to 1.17 ; NNT 4 ( 99 % confidence interval 2 to 51 ) .</s>
+    <s id="9" section="results">All groups showed clinically meaningful improvements in primary outcomes over 52 weeks.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the clinical efficacy of foot orthoses in the management of patellofemoral pain syndrome with flat inserts or physiotherapy, and to investigate the effectiveness of foot orthoses plus physiotherapy. 
+DESIGN: Prospective, single blind, randomised clinical trial. 
+SETTING: Single centre trial within a community setting in Brisbane, Australia. 
+PARTICIPANTS: 179 participants (100 women) aged 18 to 40 years, with a clinical diagnosis of patellofemoral pain syndrome of greater than six weeks' duration, who had no previous treatment with foot orthoses or physiotherapy in the preceding 12 months. 
+INTERVENTIONS: Six weeks of physiotherapist intervention with off the shelf foot orthoses, flat inserts, multimodal physiotherapy (patellofemoral joint mobilisation, patellar taping, quadriceps muscle retraining, and education), or foot orthoses plus physiotherapy. 
+MAIN OUTCOME MEASURES: Global improvement, severity of usual and worst pain over the preceding week, anterior knee pain scale, and functional index questionnaire measured at 6, 12, and 52 weeks. 
+RESULTS: Foot orthoses produced improvement beyond that of flat inserts in the short term, notably at six weeks (relative risk reduction 0.66, 99% confidence interval 0.05 to 1.17; NNT 4 (99% confidence interval 2 to 51). 
+No significant differences were found between foot orthoses and physiotherapy, or between physiotherapy and physiotherapy plus orthoses. 
+All groups showed clinically meaningful improvements in primary outcomes over 52 weeks. 
+CONCLUSION: While foot orthoses are superior to flat inserts according to participants' overall perception, they are similar to physiotherapy and do not improve outcomes when added to physiotherapy in the short term management of patellofemoral pain. 
+Given the long term improvement observed in all treatment groups, general practitioners may seek to hasten recovery by prescribing prefabricated orthoses. 
+TRIAL REGISTRATION: Australian Clinical Trials Registry ACTRN012605000463673 and ClinicalTrials.gov 
+NCT00118521.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the clinical efficacy of foot orthoses in the management of patellofemoral pain syndrome with flat inserts or physiotherapy, and to investigate the effectiveness of foot orthoses plus physiotherapy.</s>
+    <s id="2" section="design">Prospective, single blind, randomised clinical trial.</s>
+    <s id="3" section="setting">Single centre trial within a community setting in Brisbane, Australia.</s>
+    <s id="8" section="results">No significant differences were found between foot orthoses and physiotherapy, or between physiotherapy and physiotherapy plus orthoses.</s>
+    <s id="10" section="conclusion">While foot orthoses are superior to flat inserts according to participants' overall perception, they are similar to physiotherapy and do not improve outcomes when added to physiotherapy in the short term management of patellofemoral pain.</s>
+    <s id="11" section="conclusion">Given the long term improvement observed in all treatment groups, general practitioners may seek to hasten recovery by prescribing prefabricated orthoses.</s>
+    <s id="12" section="trial registration">Australian Clinical Trials Registry ACTRN012605000463673 and ClinicalTrials.gov</s>
+    <s id="13" section="trial registration">NCT00118521.</s>
+  </ignored>
+</abstract>
+

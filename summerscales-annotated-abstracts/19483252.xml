@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19483252">
+  <title>
+    <s id="0">Risk of colorectal cancer seven years after flexible sigmoidoscopy screening: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Population based screening in 2 areas in Norway -city of Oslo and Telemark county ( urban and mixed urban and rural populations ) .</s>
+    <s id="4" section="participants">55736 men and women aged 55-64 years.</s>
+    <s id="5" section="intervention"><group id="0" role="experiment">Once only flexible sigmoidoscopy <short>screening</short> with or without a single round of faecal occult blood testing</group> (n=<gs group="0">13823</gs>) compared with <group id="1" role="control">no screening</group> (n=<gs group="1">41913</gs>).</s>
+    <s id="6" section="main outcome measures">Planned end points were cumulative incidence and mortality of colorectal cancer after 5, 10, and 15 years.</s>
+    <s id="7" section="main outcome measures">This first report from the study presents cumulative incidence after 7 years of follow-up and hazard ratio for mortality after 6 years.</s>
+    <s id="8" section="results">No difference was found in the <outcome id="0" type="bad">7 year cumulative incidence of <short>colorectal cancer</short></outcome> between the <group id="0" role="experiment">screening</group> and <group id="1" role="control">control groups</group> (134.5 v 131.9 cases per 100 000 person years).</s>
+    <s id="9" section="results">In intention to screen analysis, a trend towards reduced <outcome id="1" type="bad">colorectal cancer mortality</outcome> was found (hazard ratio 0.73, 95% confidence interval 0.47 to 1.13, P=0.16).</s>
+    <s id="11" section="conclusions">A reduction in incidence of colorectal cancer with flexible sigmoidoscopy screening could not be shown after 7 years' follow-up.</s>
+    <s id="12" section="conclusions"><outcome id="1" type="bad"><short>Mortality</short> from colorectal cancer</outcome> was not significantly reduced in the <group id="0" role="experiment"><short>screening</short> group</group> but seemed to be lower for attenders, with a reduction of 59% for any location of colorectal cancer and 76% for rectosigmoidal cancer in per protocol analysis, an analysis prone to selection bias.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the risk of colorectal cancer after screening with flexible sigmoidoscopy. 
+DESIGN: Randomised controlled trial. 
+SETTING: Population based screening in two areas in Norway-city of Oslo and Telemark county (urban and mixed urban and rural populations). 
+PARTICIPANTS: 55 736 men and women aged 55-64 years. 
+INTERVENTION: Once only flexible sigmoidoscopy screening with or without a single round of faecal occult blood testing (n=13 823) compared with no screening (n=41 913). 
+MAIN OUTCOME MEASURES: Planned end points were cumulative incidence and mortality of colorectal cancer after 5, 10, and 15 years. 
+This first report from the study presents cumulative incidence after 7 years of follow-up and hazard ratio for mortality after 6 years. 
+RESULTS: No difference was found in the 7 year cumulative incidence of colorectal cancer between the screening and control groups (134.5 v 131.9 cases per 100 000 person years). 
+In intention to screen analysis, a trend towards reduced colorectal cancer mortality was found (hazard ratio 0.73, 95% confidence interval 0.47 to 1.13, P=0.16). 
+For attenders compared with controls, a statistically significant reduction in mortality was apparent for both total colorectal cancer (hazard ratio 0.41, 0.21 to 0.82, P=0.011) and rectosigmoidal cancer (0.24, 0.08 to 0.76, P=0.016). 
+CONCLUSIONS: A reduction in incidence of colorectal cancer with flexible sigmoidoscopy screening could not be shown after 7 years' follow-up. 
+Mortality from colorectal cancer was not significantly reduced in the screening group but seemed to be lower for attenders, with a reduction of 59% for any location of colorectal cancer and 76% for rectosigmoidal cancer in per protocol analysis, an analysis prone to selection bias. 
+TRIAL REGISTRATION: Clinical trials NCT00119912.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the risk of colorectal cancer after screening with flexible sigmoidoscopy.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="10" section="results">For attenders compared with controls, a statistically significant reduction in mortality was apparent for both total colorectal cancer (hazard ratio 0.41, 0.21 to 0.82, P=0.011) and rectosigmoidal cancer (0.24, 0.08 to 0.76, P=0.016).</s>
+    <s id="13" section="trial registration">Clinical trials NCT00119912.</s>
+  </ignored>
+</abstract>
+

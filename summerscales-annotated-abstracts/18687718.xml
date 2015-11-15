@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18687718">
+  <title>
+    <s id="0">Clomifene citrate or unstimulated intrauterine insemination compared with expectant management for unexplained infertility: pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">3 arm parallel group , pragmatic randomised controlled trial .</s>
+    <s id="3" section="setting">4 teaching hospitals and a district general hospital in Scotland .</s>
+    <s id="4" section="participants">Couples with infertility for over 2 years , confirmed ovulation , patent fallopian tubes , and motile sperm .</s>
+    <s id="8" section="results">580 women were randomised to <group id="0" role="control">expectant management</group> ( n = <gs group="0">193</gs> ), <group id="1" role="experiment">oral clomifene citrate</group> ( n = <gs group="1">194</gs> ) , or <group id="2" role="experiment">unstimulated intrauterine insemination</group> ( n = <gs group="2">193</gs> ) for <time id="0">6 months</time>.</s>
+    <s id="9" section="results">The 3 randomised groups were comparable in terms of age , body mass index , duration of infertility , sperm concentration , and motility .</s>
+    <s id="10" section="results"><outcome id="0" type="good">Live birth</outcome> rates were <on group="0" outcome="0">32</on>/<gs group="0">193</gs> (17%), <on group="1" outcome="0">26</on>/<gs group="1">192</gs> (14%), and <on group="2" outcome="0">43</on>/<gs group="2">191</gs> (23%), respectively.</s>
+    <s id="11" section="results">Compared with expectant management, the odds ratio for a live birth was 0.79 (95% confidence interval 0.45 to 1.38) after clomifene citrate and 1.46 (0.88 to 2.43) after unstimulated intrauterine insemination.</s>
+    <s id="12" section="results">More women randomised to <group id="1" role="experiment">clomifene citrate</group> (<on group="1" outcome="1">159</on>/<gs group="1">170</gs>, 94%) and <group id="2" role="experiment">unstimulated intrauterine insemination</group> (<on group="2" outcome="1">155</on>/<gs group="2">162</gs>, 96%) <outcome id="1" type="good">found the process of treatment acceptable</outcome> than those randomised to <group id="0" role="control">expectant management</group> (<on group="0" outcome="1">123</on>/<gs group="0">153</gs>, 80%) (P=0.001 and P&lt;0.001, respectively).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the effectiveness of clomifene citrate and unstimulated intrauterine insemination with expectant management for the treatment of unexplained infertility. 
+DESIGN: Three arm parallel group, pragmatic randomised controlled trial. 
+SETTING: Four teaching hospitals and a district general hospital in Scotland. 
+PARTICIPANTS: Couples with infertility for over two years, confirmed ovulation, patent fallopian tubes, and motile sperm. 
+INTERVENTION: Expectant management, oral clomifene citrate, and unstimulated intrauterine insemination. 
+MAIN OUTCOME MEASURES: The primary outcome was live birth. 
+Secondary outcome measures included clinical pregnancy, multiple pregnancy, miscarriage, and acceptability. 
+RESULTS: 580 women were randomised to expectant management (n=193), oral clomifene citrate (n=194), or unstimulated intrauterine insemination (n=193) for six months. 
+The three randomised groups were comparable in terms of age, body mass index, duration of infertility, sperm concentration, and motility. 
+Live birth rates were 32/193 (17%), 26/192 (14%), and 43/191 (23%), respectively. 
+Compared with expectant management, the odds ratio for a live birth was 0.79 (95% confidence interval 0.45 to 1.38) after clomifene citrate and 1.46 (0.88 to 2.43) after unstimulated intrauterine insemination. 
+More women randomised to clomifene citrate (159/170, 94%) and unstimulated intrauterine insemination (155/162, 96%) found the process of treatment acceptable than those randomised to expectant management (123/153, 80%) (P=0.001 and P&lt;0.001, respectively). 
+CONCLUSION: In couples with unexplained infertility existing treatments such as empirical clomifene and unstimulated intrauterine insemination are unlikely to offer superior live birth rates compared with expectant management. 
+TRIAL REGISTRATION: ISRCT No: 71762042.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the effectiveness of clomifene citrate and unstimulated intrauterine insemination with expectant management for the treatment of unexplained infertility.</s>
+    <s id="5" section="intervention">Expectant management, oral clomifene citrate, and unstimulated intrauterine insemination.</s>
+    <s id="6" section="main outcome measures">The primary outcome was live birth.</s>
+    <s id="7" section="main outcome measures">Secondary outcome measures included clinical pregnancy, multiple pregnancy, miscarriage, and acceptability.</s>
+    <s id="13" section="conclusion">In couples with unexplained infertility existing treatments such as empirical clomifene and unstimulated intrauterine insemination are unlikely to offer superior live birth rates compared with expectant management.</s>
+    <s id="14" section="trial registration">ISRCT No: 71762042.</s>  
+  </ignored>
+</abstract>
+

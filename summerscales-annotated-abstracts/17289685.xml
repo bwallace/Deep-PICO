@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17289685">
+  <title>
+    <s id="0">Anticoagulation for three versus six months in patients with deep vein thrombosis or pulmonary embolism, or both: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Multicentre, prospective, randomised study with follow-up for <time id="0">1 year</time>.</s>
+    <s id="3" section="setting">46 hospitals in United Kingdom.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">Three</group> (n=<gs group="0">369</gs>) or <group id="1" role="experiment">six months</group> (n=<gs group="1">380</gs>) of anticoagulation with heparin for five days accompanied and followed by warfarin, with a target international normalised ratio of 2.0-3.5.</s>
+    <s id="7" section="results">In the patients allocated to <group id="0" role="experiment"><short>3 months</short>' treatment</group> <on group="0" outcome="0">2</on> <outcome id="0" type="bad"><short>died</short> from deep vein thrombosis or pulmonary embolism during or after treatment</outcome>, compared with <on group="1" outcome="0">3</on> in the <group id="1" role="experiment">6 month group</group>.</s>
+    <s id="8" section="results">During treatment <outcome id="1" type="bad">deep vein thrombosis or pulmonary embolism failed to resolve, extended, or recurred</outcome> in <on group="0" outcome="1">six</on> patients in the <group id="0" role="experiment">three month group</group> without fatal consequences, compared with <on group="1" outcome="1">10</on> in the <group id="1" role="experiment">six month group</group>.</s>
+    <s id="9" section="results">After treatment there were <on group="0" outcome="2">23</on> <outcome id="2" type="bad">non-fatal recurrences</outcome> in the <group id="0" role="experiment">three month group</group> and <on group="1" outcome="2">16</on> in the <group id="1" role="experiment">six month group</group>.</s>
+    <s id="10" section="results"><outcome id="8" type="bad"><short>Fatal and non-fatal deep vein thrombosis or pulmonary embolism</short> during treatment, and after treatment</outcome> thus occurred in <on group="0" outcome="8">31</on>(8%) of those who had received <group id="0" role="experiment">3 months' anticoagulation</group> compared with <on group="1" outcome="8">29</on> (8%) of those who had received <group id="0" role="experiment">6 months'anticoagulation</group> (P=0.80, 95% confidence interval for difference -3.1% to 4.7%).</s>
+    <s id="11" section="results">There were no <outcome id="5" type="bad"><short>fatal haemorrhages</short> during treatment</outcome> but there were <on group="1" outcome="3">8</on> <outcome id="3" type="bad">major haemorrhages</outcome> in <group id="1" role="experiment">those treated for <short>6 months</short></group> and <on group="0" outcome="3">none</on> in <group id="0" role="experiment">those treated for <short>3 months</short></group> (P=0.008, -3.5% to -0.7%).</s>
+    <s id="12" section="results">Thus <on group="0" outcome="4">31</on> (8%) of the patients receiving <group id="0" role="experiment">three months' anticoagulation</group> experienced <outcome id="4" type="bad"><short>adverse outcomes</short> as a result of deep vein thrombosis or pulmonary embolism or its treatment</outcome> compared with <on group="1" outcome="4">35</on> (9%) of those receiving <group id="1" role="experiment"><short>six months</short>'</group> (P=0.79, -4.9% to 3.2%).</s>
+    <s id="13" section="conclusion">For patients in the UK with deep vein thrombosis or pulmonary embolism and no known risk factors for recurrence, there seems to be little, if any, advantage in increasing the duration of anticoagulation from 3 to 6 months.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the optimum duration of oral anticoagulant therapy after an episode of deep vein thrombosis or pulmonary embolism, or both. 
+DESIGN: Multicentre, prospective, randomised study with follow-up for one year. 
+SETTING: 46 hospitals in United Kingdom. 
+PARTICIPANTS: Patients aged &gt; or =18 with deep vein thrombosis or pulmonary embolism, or both. 
+INTERVENTIONS: Three (n=369) or six months (n=380) of anticoagulation with heparin for five days accompanied and followed by warfarin, with a target international normalised ratio of 2.0-3.5. 
+MAIN OUTCOME MEASURES: Death from deep vein thrombosis or pulmonary embolism; failure to resolve, extension, recurrence of during treatment; recurrence after treatment; and major haemorrhage during treatment. 
+RESULTS: In the patients allocated to three months' treatment two died from deep vein thrombosis or pulmonary embolism during or after treatment, compared with three in the six month group. 
+During treatment deep vein thrombosis or pulmonary embolism failed to resolve, extended, or recurred in six patients in the three month group without fatal consequences, compared with 10 in the six month group. 
+After treatment there were 23 non-fatal recurrences in the three month group and 16 in the six month group. 
+Fatal and non-fatal deep vein thrombosis or pulmonary embolism during treatment, and after treatment thus occurred in 31(8%) of those who had received three months' anticoagulation compared with 29 (8%) of those who had received six months' (P=0.80, 95% confidence interval for difference -3.1% to 4.7%). 
+There were no fatal haemorrhages during treatment but there were eight major haemorrhages in those treated for six months and none in those treated for three months (P=0.008, 
+-3.5% to -0.7%). 
+Thus 31 (8%) of the patients receiving three months' anticoagulation experienced adverse outcomes as a result of deep vein thrombosis or pulmonary embolism or its treatment compared with 35 (9%) of those receiving six months' (P=0.79, -4.9% to 3.2%). 
+CONCLUSION: For patients in the UK with deep vein thrombosis or pulmonary embolism and no known risk factors for recurrence, there seems to be little, if any, advantage in increasing the duration of anticoagulation from three to six months. 
+Any possible advantage would be small and would need to be judged against the increased risk of haemorrhage associated with the longer duration of treatment with warfarin. 
+TRIAL REGISTRATION: Clinical Trials NCT00365950 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the optimum duration of oral anticoagulant therapy after an episode of deep vein thrombosis or pulmonary embolism, or both.</s>
+    <s id="4" section="participants">Patients aged &gt; or =18 with deep vein thrombosis or pulmonary embolism, or both.</s>
+    <s id="6" section="main outcome measures">Death from deep vein thrombosis or pulmonary embolism; failure to resolve, extension, recurrence of during treatment; recurrence after treatment; and major haemorrhage during treatment.</s>
+    <s id="14" section="conclusion">Any possible advantage would be small and would need to be judged against the increased risk of haemorrhage associated with the longer duration of treatment with warfarin.</s>
+    <s id="15" section="trial registration">Clinical Trials NCT00365950 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

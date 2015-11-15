@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17991935">
+  <title>
+    <s id="0">Effect of general practitioner education on adherence to antihypertensive drugs: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">200 patients with hypertension taking antihypertensive drugs; 78 general practitioners.</s>
+    <s id="7" section="results">200 patients were enrolled, and 178 (89%) successfully completed <time id="0">6 weeks</time> of follow-up.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the impact of a simple educational package for general practitioners on adherence to antihypertensive drugs. 
+DESIGN: Cluster randomised controlled trial. 
+SETTING: Six randomly selected communities in Karachi, Pakistan. 
+PARTICIPANTS: 200 patients with hypertension taking antihypertensive drugs; 78 general practitioners. 
+INTERVENTION: Care by general practitioners specially trained in management of hypertension compared with usual care. 
+MAIN OUTCOME MEASURE: Correct dosing, defined as percentage of prescribed doses taken, measured with electronic medication event monitoring system (MEMS) bottle. 
+RESULTS: 200 patients were enrolled, and 178 (89%) successfully completed six weeks of follow-up. 
+Adherence was significantly greater in the special care group than in the usual care group (unadjusted mean percentage days with correct dose 48.1%, 95% confidence interval 35.8% to 60.4%, versus 32.4%, 22.6% to 42.3%; P=0.048). 
+Adherence was also higher among patients who had higher levels of education (P&lt;0.001), were encouraged by family members (P&lt;0.001), 
+believed in the effect of drugs (P&lt;0.001), and had the purpose of the drugs explained to them (P&lt;0.001). 
+CONCLUSIONS: Special training of general practitioners in management of hypertension, emphasising good communication between doctors and patients, is more effective than usual care provided in the communities in Karachi. 
+Such simple interventions should be adopted by other developing countries that are now facing an increasing burden of hypertension. 
+TRIAL REGISTRATION: Clinical trials NCT00330408 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the impact of a simple educational package for general practitioners on adherence to antihypertensive drugs.</s>
+    <s id="2" section="design">Cluster randomised controlled trial.</s>
+    <s id="3" section="setting">Six randomly selected communities in Karachi, Pakistan.</s>
+    <s id="5" section="intervention">Care by general practitioners specially trained in management of hypertension compared with usual care.</s>
+    <s id="6" section="main outcome measure">Correct dosing, defined as percentage of prescribed doses taken, measured with electronic medication event monitoring system (MEMS) bottle.</s>
+    <s id="8" section="results">Adherence was significantly greater in the special care group than in the usual care group (unadjusted mean percentage days with correct dose 48.1%, 95% confidence interval 35.8% to 60.4%, versus 32.4%, 22.6% to 42.3%; P=0.048).</s>
+    <s id="9" section="results">Adherence was also higher among patients who had higher levels of education (P&lt;0.001), were encouraged by family members (P&lt;0.001),</s>
+    <s id="10" section="results">believed in the effect of drugs (P&lt;0.001), and had the purpose of the drugs explained to them (P&lt;0.001).</s>
+    <s id="11" section="conclusions">Special training of general practitioners in management of hypertension, emphasising good communication between doctors and patients, is more effective than usual care provided in the communities in Karachi.</s>
+    <s id="12" section="conclusions">Such simple interventions should be adopted by other developing countries that are now facing an increasing burden of hypertension.</s>
+    <s id="13" section="trial registration">Clinical trials NCT00330408 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

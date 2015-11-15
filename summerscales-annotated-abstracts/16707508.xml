@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16707508">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">patient  completed  agenda  forms</group>
+      and
+      <group id="1">doctors  '  education  about  the  agenda</group>
+      on the
+      <outcome id="0">outcome  of  consultations</outcome>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      46 general practitioners and
+      <ps>976</ps>
+      patients .
+    </s>
+    <s id="7" section="results">Data were available from 45 doctors ( 98 % ) and 857 patients ( 88 % ) .</s>
+    <s id="8" section="results">
+      The
+      <outcome id="0">
+        <short>number  of  problems  identified</short>
+        in  each  consultation
+      </outcome>
+      increased by 0.2 ( 95 % confidence interval 0.1 to 0.4 ) with the
+      <group id="0">agenda  form</group>
+      , by 0.3 ( 0.1 to 0.6 ) with
+      <group id="1">education</group>
+      , and by 0.5 ( 0.3 to 0.7 ) with
+      <group id="2">both  interventions</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Effect of patient completed agenda forms and doctors ' education about the agenda on the outcome of consultations : randomised controlled trial . To assess the effect of patient completed agenda forms for the consultation and doctors ' education on identifying patients ' agendas on the outcome of consultations . Randomised controlled trial . General practices in Leicestershire and Nottinghamshire , United Kingdom . 46 general practitioners and 976 patients . Education for general practitioners , with an embedded clustered randomised controlled trial of a patient agenda form . Number of problems identified , time required to manage each problem , duration of consultations , number of problems raised after the doctor considered the consultation finishe ( " by the way " questions ) , and patient satisfaction . Data were available from 45 doctors ( 98 % ) and 857 patients ( 88 % ) . The number of problems identified in each consultation increased by 0.2 ( 95 % confidence interval 0.1 to 0.4 ) with the agenda form , by 0.3 ( 0.1 to 0.6 ) with education , and by 0.5 ( 0.3 to 0.7 ) with both interventions . The time required to manage each problem was not affected . The duration of consultations with the agenda form was increased by 0.9 minutes ( 0.3 to 1.5 minutes ) and with the combined intervention by 1.9 minutes ( 1.0 to 2.8 minutes ) . Patient satisfaction with the depth of the doctor - patient relationship was increased with the agenda form . The occurrence of " by the way " presentations did not change . A patient completed agenda form before the consultation or general practitioner education about the agenda form , or both , enabled the identification of more problems in consultations even though consultations were longer .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effect of
+      <group id="0">
+        patient  completed
+        <short>agenda  forms</short>
+        for  the  consultation
+      </group>
+      and
+      <group id="1">doctors  '  education  on  identifying  patients  '  agendas</group>
+      on the
+      <outcome id="0">outcome  of  consultations</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">General practices in Leicestershire and Nottinghamshire , United Kingdom .</s>
+    <s id="5" section="interventions">
+      <group id="1">Education  for  general  practitioners</group>
+      , with an embedded clustered randomised controlled trial of a
+      <group id="0">
+        patient
+        <short>agenda  form</short>
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Number  of  problems  identified</outcome>
+      ,
+      <outcome id="1">time  required  to  manage  each  problem</outcome>
+      ,
+      <outcome id="2">duration  of  consultations</outcome>
+      ,
+      <outcome id="3">
+        <short>number  of  problems  raised</short>
+        after  the  doctor  considered  the  consultation  finishe  (  "  by  the  way  "  questions  )
+      </outcome>
+      , and
+      <outcome id="4">patient  satisfaction</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="1">time  required  to  manage  each  problem</outcome>
+      was not affected .
+    </s>
+    <s id="10" section="results">
+      The
+      <outcome id="2">duration  of  consultations</outcome>
+      with the
+      <group id="0">agenda  form</group>
+      was increased by 0.9 minutes ( 0.3 to 1.5 minutes ) and with the combined intervention by 1.9 minutes ( 1.0 to 2.8 minutes ) .
+    </s>
+    <s id="11" section="results">
+      <outcome id="4">
+        <short>Patient  satisfaction</short>
+        with  the  depth  of  the  doctor  -  patient  relationship
+      </outcome>
+      was increased with the
+      <group id="0">agenda  form</group>
+      .
+    </s>
+    <s id="12" section="results">
+      The
+      <outcome id="3">occurrence  of  "  by  the  way  "  presentations</outcome>
+      did not change .
+    </s>
+    <s id="13" section="conclusion">
+      A
+      <group id="0">
+        <short>patient  completed  agenda  form</short>
+        before  the  consultation
+      </group>
+      or
+      <group id="1">
+        <short>general  practitioner  education</short>
+        about  the  agenda  form
+      </group>
+      , or
+      <group id="2">both</group>
+      , enabled the
+      <outcome id="0">identification  of  more  problems  in  consultations</outcome>
+      even though consultations were longer .
+    </s>
+  </ignored>
+</abstract>
+

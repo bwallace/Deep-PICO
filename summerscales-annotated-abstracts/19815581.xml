@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19815581">
+  <title>
+    <s id="0">Incidence of pregnancy after expectant, medical, or surgical management of spontaneous first trimester miscarriage: long term follow-up of miscarriage treatment (MIST) randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To compare fertility rates after the 3 methods of managing early miscarriage in women recruited to the MIST ( miscarriage treatment ) randomised controlled trial .</s>
+    <s id="3" section="participants">1199 women who had had an early miscarriage (&lt;13 weeks) confirmed by scan.</s>
+    <s id="6" section="results">Of 1199 women recruited to the trial, 1128 consented to follow-up.</s>
+    <s id="7" section="results">Of these, 762 women replied giving pregnancy details (68% response rate).</s>
+    <s id="9" section="results">The <outcome id="0" type="good">live birth rate</outcome> 5 years after the index miscarriage was similar in the 3 management groups : <on group="0" outcome="0">177</on> / <gs group="0">224</gs> ( 79 % , 95 % confidence interval 73 % to 84 % ) in the <group id="0" role="experiment">expectant management group</group>, <on group="1" outcome="0">181</on> / <gs group="1">230</gs> ( 79 % , 73 % to 84 % ) in the <group id="1" role="experiment">medical group</group>, and <on group="2" outcome="0">192</on> / <gs group="2">235</gs> ( 82 % , 76 % to 86 % ) in the <group id="2" role="experiment">surgical group</group>.</s>
+    <s id="12" section="conclusion">Method of miscarriage management does not affect subsequent pregnancy rates with around 4 in 5 women giving birth within 5 years of the index miscarriage .</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To compare fertility rates after the three methods of managing early miscarriage in women recruited to the MIST (miscarriage treatment) randomised controlled trial. 
+SETTING: Early pregnancy clinics of acute hospitals in the south west region of England. 
+PARTICIPANTS: 1199 women who had had an early miscarriage (&lt;13 weeks) confirmed by scan. 
+INTERVENTION: Expectant, medical, or surgical management. 
+MAIN OUTCOME MEASURES: Self reported pregnancy rates and live birth rates. 
+RESULTS: Of 1199 women recruited to the trial, 1128 consented to follow-up. 
+Of these, 762 women replied giving pregnancy details (68% response rate). 
+Respondents were representative of the trial participants. 
+The live birth rate five years after the index miscarriage was similar in the three management groups: 177/224 (79%, 95% confidence interval 73% to 84%) in the expectant management group, 181/230 (79%, 73% to 84%) in the medical group, and 192/235 (82%, 76% to 86%) in the surgical group. 
+There was also no significant difference according to previous birth history. 
+Older women and those with previous miscarriages were significantly less likely to subsequently give birth. 
+CONCLUSION: Method of miscarriage management does not affect subsequent pregnancy rates with around four in five women giving birth within five years of the index miscarriage. 
+Women can be reassured that long term fertility concerns need not affect their choice of miscarriage management. 
+TRIAL REGISTRATION: National Research Register N0467011677/N0467073587.</fulltext>
+  <ignored>
+    <s id="2" section="setting">Early pregnancy clinics of acute hospitals in the south west region of England.</s>
+    <s id="4" section="intervention">Expectant, medical, or surgical management.</s>
+    <s id="5" section="main outcome measures">Self reported pregnancy rates and live birth rates.</s>
+    <s id="8" section="results">Respondents were representative of the trial participants.</s>
+    <s id="10" section="results">There was also no significant difference according to previous birth history.</s>
+    <s id="11" section="results">Older women and those with previous miscarriages were significantly less likely to subsequently give birth.</s>
+    <s id="13" section="conclusion">Women can be reassured that long term fertility concerns need not affect their choice of miscarriage management.</s>
+    <s id="14" section="trial registration">National Research Register N0467011677/N0467073587.</s>
+  </ignored>
+</abstract>
+

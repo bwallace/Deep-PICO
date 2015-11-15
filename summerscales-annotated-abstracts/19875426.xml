@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19875426">
+  <title>
+    <s id="0">Effect of tailored practice and patient care plans on secondary prevention of heart disease in general practice: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">903 patients with established coronary heart disease registered with 1 of 48 practices .</s>
+    <s id="5" section="intervention">Tailored care plans for practices ( practice based training in prescribing and behaviour change , administrative support , quarterly newsletter ) , and tailored care plans for patients ( motivational interviewing , goal identification , and target setting for lifestyle change ) with reviews every 4 months at the practices .</s>
+    <s id="7" section="main outcome measures">The proportion of patients at <time id="0">18 month</time> follow-up above target levels for blood pressure and total cholesterol concentration, and those admitted to hospital, and changes in physical and mental health status (SF-12).</s>
+    <s id="8" section="results">At baseline the numbers (proportions) of patients above the recommended limits were: <outcome id="0" type="bad">systolic blood pressure greater than 140 mm Hg</outcome> (305/899; 33.9%, 95% confidence interval 30.8% to 33.9%), <outcome id="1" type="bad">diastolic blood pressure greater than 90 mm Hg</outcome> (111/901; 12.3%, 10.2% to 14.5%), and <outcome id="2" type="bad">total cholesterol concentration greater than 5 mmol/l</outcome>(188/860; 20.8%, 19.1% to 24.6%).</s>
+    <s id="9" section="results">At the <time id="0">18 month</time> follow-up there were no significant differences between <group id="0" role="experiment">intervention</group> and <group id="1" role="control">control</group> groups in the numbers (proportions) of patients above the recommended limits: <outcome id="0" type="bad">systolic blood pressure</outcome>, <group id="0" role="experiment">intervention</group> <on group="0" outcome="0">98</on>/<gs group="0">360</gs> (27.2%) v <group id="1" role="control">control</group>, <on group="1" outcome="0">133</on>/<gs group="1">405</gs> (32.8%), odds ratio 1.51 (95% confidence interval 0.99 to 2.30; P=0.06); <outcome id="1" type="bad">diastolic blood pressure</outcome>, <group id="0" role="experiment">intervention</group> <on group="0" outcome="1">32</on>/<gs group="0">360</gs> (8.9%) v <group id="1" role="control">control</group>, <on group="1" outcome="1">40</on>/<gs group="1">405</gs> (9.9%), 1.40 (0.75 to 2.64; P=0.29); and <outcome id="2" type="bad">total cholesterol concentration</outcome>, <group id="0" role="experiment">intervention</group> <on group="0" outcome="2">52</on>/<gs group="0">342</gs> (15.2%) v <group id="1" role="control">control</group>, <on group="1" outcome="2">64</on>/<gs group="1">391</gs> (16.4%), 1.13 (0.63 to 2.03; P=0.65).</s>
+    <s id="10" section="results">The number of patients <outcome id="3" type="bad">admitted to hospital</outcome> over the <time id="0">18 month</time> study period significantly decreased in the <group id="0" role="experiment">intervention group</group> compared with the <group id="1" role="control">control group</group> : <on group="0" outcome="3">107</on>/<gs group="0">415</gs> (25.8%) v <on group="1" outcome="3">148</on>/<gs group="1">435</gs> (34.0%), 1.56 (1.53 to 2.60; P=0.03).</s>
+    <s id="11" section="conclusions">Admissions to hospital were significantly reduced after an intensive 18 month intervention to improve outcomes for patients with coronary heart disease, but no other clinical benefits were shown, possibly because of a ceiling effect related to improved management of the disease.</s>    
+  </annotated>
+  <fulltext>OBJECTIVE: To test the effectiveness of a complex intervention designed, within a theoretical framework, to improve outcomes for patients with coronary heart disease. 
+DESIGN: Cluster randomised controlled multicentre trial. 
+SETTING: General practices in Northern Ireland and the Republic of Ireland, regions with different healthcare systems. 
+PARTICIPANTS: 903 patients with established coronary heart disease registered with one of 48 practices. 
+INTERVENTION: Tailored care plans for practices (practice based training in prescribing and behaviour change, administrative support, quarterly newsletter), and tailored care plans for patients (motivational interviewing, goal identification, and target setting for lifestyle change) with reviews every four months at the practices. 
+Control practices provided usual care. 
+MAIN OUTCOME MEASURES: The proportion of patients at 18 month follow-up above target levels for blood pressure and total cholesterol concentration, and those admitted to hospital, and changes in physical and mental health status (SF-12). 
+RESULTS: At baseline the numbers (proportions) of patients above the recommended limits were: systolic blood pressure greater than 140 mm Hg (305/899; 33.9%, 95% confidence interval 30.8% to 33.9%), diastolic blood pressure greater than 90 mm Hg (111/901; 12.3%, 10.2% to 14.5%), and total cholesterol concentration greater than 5 mmol/l (188/860; 20.8%, 19.1% to 24.6%). 
+At the 18 month follow-up there were no significant differences between intervention and control groups in the numbers (proportions) of patients above the recommended limits: systolic blood pressure, intervention 98/360 (27.2%) v control, 133/405 (32.8%), odds ratio 1.51 (95% confidence interval 0.99 to 2.30; P=0.06); diastolic blood pressure, intervention 32/360 (8.9%) v control, 40/405 (9.9%), 1.40 (0.75 to 2.64; P=0.29); and total cholesterol concentration, intervention 52/342 (15.2%) v control, 64/391 (16.4%), 1.13 (0.63 to 2.03; P=0.65). 
+The number of patients admitted to hospital over the 18 month study period significantly decreased in the intervention group compared with the control group: 107/415 (25.8%) v 148/435 (34.0%), 1.56 (1.53 to 2.60; P=0.03). 
+CONCLUSIONS: Admissions to hospital were significantly reduced after an intensive 18 month intervention to improve outcomes for patients with coronary heart disease, but no other clinical benefits were shown, possibly because of a ceiling effect related to improved management of the disease. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN24081411.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To test the effectiveness of a complex intervention designed, within a theoretical framework, to improve outcomes for patients with coronary heart disease.</s>
+    <s id="2" section="design">Cluster randomised controlled multicentre trial.</s>
+    <s id="3" section="setting">General practices in Northern Ireland and the Republic of Ireland, regions with different healthcare systems.</s>
+    <s id="6" section="intervention">Control practices provided usual care.</s>
+    <s id="12" section="trial registration">Current Controlled Trials ISRCTN24081411.</s>
+  </ignored>
+</abstract>
+

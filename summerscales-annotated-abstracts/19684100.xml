@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19684100">
+  <title>
+    <s id="0">Effect of timing of first postnatal care home visit on neonatal mortality in Bangladesh: a observational cohort study.</s>
+  </title>
+  <annotated>
+    <s id="5" section="results">9211 live births were included.</s>
+    <s id="6" section="results">Among infants who survived the first day of life , <outcome id="0" type="bad">neonatal mortality</outcome> was 67 % lower in <group id="0" role="experiment">those who received a <short>visit on day 1</short></group> than in <group id="1" role="control">those who received <short>no visit</short></group> ( adjusted hazard ratio 0.33 , 95 % confidence interval 0.23 to 0.46 ; P &lt; 0.001 ) .</s>
+    <s id="7" section="results">For those infants who survived the first 2 days of life , <group id="2" role="experiment">receiving the first visit on the second day</group> was associated with a 64 % lower <outcome id="0" type="bad">neonatal mortality</outcome> than in <group id="3" role="control">those who did not receive a visit</group> ( adjusted hazard ratio 0.36 , 0.23 to 0.55 ; P &lt; 0.001 ) .</s>
+    <s id="9" section="conclusions">In developing countries , especially where home delivery with unskilled attendants is common , postnatal home visits within the first 2 days of life by trained community health workers can significantly reduce neonatal mortality .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of the timing of first postnatal home visit by community health workers on neonatal mortality. 
+DESIGN: Analysis of prospectively collected data using time varying discrete hazard models to estimate hazard ratios for neonatal mortality according to day of first postnatal home visit. 
+DATA SOURCE: Data from a community based trial of neonatal care interventions conducted in Bangladesh during 2004-5. 
+MAIN OUTCOME MEASURE: Neonatal mortality. 
+RESULTS: 9211 live births were included. 
+Among infants who survived the first day of life, neonatal mortality was 67% lower in those who received a visit on day one than in those who received no visit (adjusted hazard ratio 0.33, 95% confidence interval 0.23 to 0.46; P&lt;0.001). 
+For those infants who survived the first two days of life, receiving the first visit on the second day was associated with a 64% lower neonatal mortality than in those who did not receive a visit (adjusted hazard ratio 0.36, 0.23 to 0.55; P&lt;0.001). 
+First visits on any day after the second day of life were not associated with reduced mortality. 
+CONCLUSIONS: In developing countries, especially where home delivery with unskilled attendants is common, postnatal home visits within the first two days of life by trained community health workers can significantly reduce neonatal mortality.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of the timing of first postnatal home visit by community health workers on neonatal mortality.</s>
+    <s id="2" section="design">Analysis of prospectively collected data using time varying discrete hazard models to estimate hazard ratios for neonatal mortality according to day of first postnatal home visit.</s>
+    <s id="3" section="data source">Data from a community based trial of neonatal care interventions conducted in Bangladesh during 2004-5.</s>
+    <s id="4" section="main outcome measure">Neonatal mortality.</s>
+    <s id="8" section="results">First visits on any day after the second day of life were not associated with reduced mortality.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19208715">
+  <title>
+    <s id="0">Cost effectiveness of nurse delivered endoscopy: findings from randomised multi-institution nurse endoscopy trial (MINuET).</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">23 hospitals in the United Kingdom.</s>
+    <s id="4" section="participants">67 doctors and 30 nurses, with a total of 1888 patients, from July 2002 to June 2003.</s>    
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the cost effectiveness of nurses and doctors in performing upper gastrointestinal endoscopy and flexible sigmoidoscopy. 
+DESIGN: As part of a pragmatic randomised trial, the economic analysis calculated incremental cost effectiveness ratios, and generated cost effectiveness acceptability curves to address uncertainty. 
+SETTING: 23 hospitals in the United Kingdom. 
+PARTICIPANTS: 67 doctors and 30 nurses, with a total of 1888 patients, from July 2002 to June 2003. 
+INTERVENTION: Diagnostic upper gastrointestinal endoscopy and flexible sigmoidoscopy carried out by doctors or nurses. 
+MAIN OUTCOME MEASURE: Estimated health gains in QALYs measured with EQ-5D. 
+Probability of cost effectiveness over a range of decision makers' willingness to pay for an additional quality adjusted life year (QALY). 
+RESULTS: Although differences did not reach traditional levels of significance, patients in the doctor group gained 0.015 QALYs more than those in the nurse group, at an increased cost of about pound56 (euro59, $78) per patient. 
+This yields an incremental cost effectiveness ratio of pound3660 (euro3876, $5097) per QALY. 
+Though there is uncertainty around these results, doctors are probably more cost effective than nurses for plausible values of a QALY. 
+CONCLUSIONS: Though upper gastrointestinal endoscopies and flexible sigmoidoscopies carried out by doctors cost slightly more than those by nurses and improved health outcomes only slightly, our analysis favours endoscopies by doctors. 
+For plausible values of decision makers' willingness to pay for an extra QALY, endoscopy delivered by nurses is unlikely to be cost effective compared with endoscopy delivered by doctors. 
+TRIAL REGISTRATION: International standard RCT 82765705.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the cost effectiveness of nurses and doctors in performing upper gastrointestinal endoscopy and flexible sigmoidoscopy.</s>
+    <s id="2" section="design">As part of a pragmatic randomised trial, the economic analysis calculated incremental cost effectiveness ratios, and generated cost effectiveness acceptability curves to address uncertainty.</s>
+    <s id="5" section="intervention">Diagnostic upper gastrointestinal endoscopy and flexible sigmoidoscopy carried out by doctors or nurses.</s>
+    <s id="6" section="main outcome measure">Estimated health gains in QALYs measured with EQ-5D.</s>
+    <s id="7" section="main outcome measure">Probability of cost effectiveness over a range of decision makers' willingness to pay for an additional quality adjusted life year (QALY).</s>
+    <s id="8" section="results">Although differences did not reach traditional levels of significance, patients in the doctor group gained 0.015 QALYs more than those in the nurse group, at an increased cost of about pound56 (euro59, $78) per patient.</s>
+    <s id="9" section="results">This yields an incremental cost effectiveness ratio of pound3660 (euro3876, $5097) per QALY.</s>
+    <s id="10" section="results">Though there is uncertainty around these results, doctors are probably more cost effective than nurses for plausible values of a QALY.</s>
+    <s id="11" section="conclusions">Though upper gastrointestinal endoscopies and flexible sigmoidoscopies carried out by doctors cost slightly more than those by nurses and improved health outcomes only slightly, our analysis favours endoscopies by doctors.</s>
+    <s id="12" section="conclusions">For plausible values of decision makers' willingness to pay for an extra QALY, endoscopy delivered by nurses is unlikely to be cost effective compared with endoscopy delivered by doctors.</s>
+    <s id="13" section="trial registration">International standard RCT 82765705.</s>
+  </ignored>
+</abstract>
+

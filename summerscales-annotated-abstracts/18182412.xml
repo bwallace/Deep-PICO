@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18182412">
+  <title>
+    <s id="0">Chloramphenicol versus ampicillin plus gentamicin for community acquired very severe pneumonia among children aged 2-59 months in low resource settings: multicentre randomised controlled trial (SPEAR study).</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate whether <group id="1" role="experiment">5 days ' treatment with injectable <short>ampicillin plus gentamicin</short></group> compared with <group id="0" role="experiment">chloramphenicol</group> reduces <outcome id="0" type="bad">treatment failure</outcome> in children aged 2-59 months with community acquired very severe pneumonia in low resource settings .</s>
+    <s id="6" section="main outcome measures">Primary outcome measure was <outcome id="0" type="bad">treatment failure at 5 days</outcome> .</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were treatment failure defined similarly among all participants evaluated at 48 hours and at 10 and 21 days.</s>
+    <s id="8" section="results">More children <outcome id="0" type="bad">failed treatment</outcome> with <group id="0" role="experiment">chloramphenicol</group> at <time id="0">day 5</time> (16% v 11%; relative risk 1.43, 95% confidence interval 1.03 to 1.97) and also by <time id="2">days 10</time> and <time id="1" units="days">>21</time>.</s>
+    <s id="9" section="results">Overall, 112 bacterial isolates were obtained from blood and lung aspirates in 110 children (11.5%), with the most common organisms being Staphylococcus aureus (n=47) and Streptococcus pneumoniae (n=22).</s>
+    <s id="10" section="results">In subgroup analysis, bacteraemia with any organism increased the risk of treatment failure at <time id="1">21 days</time> in the <group id="0" role="experiment"><short>chloramphenicol</short> group</group> (2.09, 1.41 to 3.10) but not in the <group id="1" type="experiment"><short>ampicillin plus gentamicin</short> group</group> (1.12, 0.59 to 2.13).</s>
+    <s id="11" section="results">Similarly, isolation of S pneumoniae increased the risk of treatment failure at <time id="1">day 21</time> (4.06, 2.73 to 6.03) and death (5.80, 2.62 to 12.85) in the <group id="0" role="experiment"><short>chloramphenicol</short> group</group> but not in the <group id="1" role="experiment"><short>ampicillin plus gentamicin</short> group</group>.</s>
+    <s id="12" section="results">No difference was found in <outcome id="0" type="bad">treatment failure</outcome> for children with S aureus bacteraemia in the 2 groups , but the power to detect a difference in this subgroup analysis was low .</s>
+    <s id="13" section="results">Independent predictors of <outcome id="0" type="bad">treatment failure</outcome> by multivariate analysis were hypoxaemia (oxygen saturation &lt;90%), receiving chloramphenicol, being female, and poor immunisation status.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate whether five days' treatment with injectable ampicillin plus gentamicin compared with chloramphenicol reduces treatment failure in children aged 2-59 months with community acquired very severe pneumonia in low resource settings. 
+DESIGN: Open label randomised controlled trial. 
+SETTING: Inpatient wards within tertiary care hospitals in Bangladesh, Ecuador, India, Mexico, Pakistan, Yemen, and Zambia. 
+PARTICIPANTS: Children aged 2-59 months with WHO defined very severe pneumonia. 
+INTERVENTION: Chloramphenicol versus a combination of ampicillin plus gentamicin. 
+MAIN OUTCOME MEASURES: Primary outcome measure was treatment failure at five days. 
+Secondary outcomes were treatment failure defined similarly among all participants evaluated at 48 hours and at 10 and 21 days. 
+RESULTS: More children failed treatment with chloramphenicol at day 5 (16% v 11%; relative risk 1.43, 95% confidence interval 1.03 to 1.97) and also by days 10 and 21. 
+Overall, 112 bacterial isolates were obtained from blood and lung aspirates in 110 children (11.5%), with the most common organisms being Staphylococcus aureus (n=47) and Streptococcus pneumoniae (n=22). 
+In subgroup analysis, bacteraemia with any organism increased the risk of treatment failure at 21 days in the chloramphenicol group (2.09, 1.41 to 3.10) but not in the ampicillin plus gentamicin group (1.12, 0.59 to 2.13). 
+Similarly, isolation of S pneumoniae increased the risk of treatment failure at day 21 (4.06, 2.73 to 6.03) and death (5.80, 2.62 to 12.85) in the chloramphenicol group but not in the ampicillin plus gentamicin group. 
+No difference was found in treatment failure for children with S aureus bacteraemia in the two groups, but the power to detect a difference in this subgroup analysis was low. 
+Independent predictors of treatment failure by multivariate analysis were hypoxaemia (oxygen saturation &lt;90%), receiving chloramphenicol, being female, and poor immunisation status. 
+CONCLUSION: Injectable ampicillin plus gentamicin is superior to injectable chloramphenicol for the treatment of community acquired very severe pneumonia in children aged 2-59 months in low resource settings. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN39543942.</fulltext>
+  <ignored>
+    <s id="2" section="design">Open label randomised controlled trial.</s>
+    <s id="3" section="setting">Inpatient wards within tertiary care hospitals in Bangladesh, Ecuador, India, Mexico, Pakistan, Yemen, and Zambia.</s>
+    <s id="4" section="participants">Children aged 2-59 months with WHO defined very severe pneumonia.</s>
+    <s id="5" section="intervention">Chloramphenicol versus a combination of ampicillin plus gentamicin.</s>
+    <s id="14" section="conclusion">Injectable ampicillin plus gentamicin is superior to injectable chloramphenicol for the treatment of community acquired very severe pneumonia in children aged 2-59 months in low resource settings.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN39543942.</s>
+  </ignored>
+</abstract>
+

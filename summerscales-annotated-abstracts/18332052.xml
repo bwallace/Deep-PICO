@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18332052">
+  <title>
+    <s id="0">Cluster randomised trial of a targeted multifactorial intervention to prevent falls among older people in hospital.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">24 elderly care wards in 12 hospitals in Sydney, Australia.</s>
+    <s id="4" section="participants">3999 patients , mean age 79 years , with a median hospital stay of <time id="0">7 days</time>.</s>
+    <s id="5" section="interventions">A nurse and physiotherapist each worked for 25 hours a week for 3 months in all intervention wards .</s>
+    <s id="9" section="results">Overall, 381 <outcome id="0" type="bad">falls</outcome> occurred during the study.</s>
+    <s id="10" section="results">No difference was found in <outcome id="0" type="bad">fall</outcome> rates during follow-up between <group id="0" role="experiment">intervention</group> and <group id="1" role="control">control wards</group>: respectively, 9.26 falls per 1000 bed days and 9.20 falls per 1000 bed days (P=0.96).</s>
+    <s id="11" section="results">The incidence rate ratio adjusted for individual lengths of stay and previous fall rates in the ward was 0.96 (95% confidence interval 0.72 to 1.28).</s>    
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the efficacy of a targeted multifactorial falls prevention programme in elderly care wards with relatively short lengths of stay. 
+DESIGN: Cluster randomised trial. 
+SETTING: 24 elderly care wards in 12 hospitals in Sydney, Australia. 
+PARTICIPANTS: 3999 patients, mean age 79 years, with a median hospital stay of seven days. 
+INTERVENTIONS: A nurse and physiotherapist each worked for 25 hours a week for three months in all intervention wards. 
+They provided a targeted multifactorial intervention that included a risk assessment of falls, staff and patient education, drug review, modification of bedside and ward environments, an exercise programme, and alarms for selected patients. 
+MAIN OUTCOME MEASURE: Falls during hospital stay. 
+RESULTS: Intervention and control wards were similar at baseline for previous rates of falls and individual patient characteristics. 
+Overall, 381 falls occurred during the study. 
+No difference was found in fall rates during follow-up between intervention and control wards: respectively, 9.26 falls per 1000 bed days and 9.20 falls per 1000 bed days (P=0.96). 
+The incidence rate ratio adjusted for individual lengths of stay and previous fall rates in the ward was 0.96 (95% confidence interval 0.72 to 1.28). 
+CONCLUSION: A targeted multifactorial falls prevention programme was not effective among older people in hospital wards with relatively short lengths of stay. 
+TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry ACTRNO 12605000467639.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the efficacy of a targeted multifactorial falls prevention programme in elderly care wards with relatively short lengths of stay.</s>
+    <s id="2" section="design">Cluster randomised trial.</s>
+    <s id="6" section="interventions">They provided a targeted multifactorial intervention that included a risk assessment of falls, staff and patient education, drug review, modification of bedside and ward environments, an exercise programme, and alarms for selected patients.</s>
+    <s id="7" section="main outcome measure">Falls during hospital stay.</s>
+    <s id="8" section="results">Intervention and control wards were similar at baseline for previous rates of falls and individual patient characteristics.</s>
+    <s id="12" section="conclusion">A targeted multifactorial falls prevention programme was not effective among older people in hospital wards with relatively short lengths of stay.</s>
+    <s id="13" section="trial registration">Australian New Zealand Clinical Trials Registry ACTRNO 12605000467639.</s>  
+  </ignored>
+</abstract>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17673732">
+  <title>
+    <s id="0">Screening versus routine practice in detection of atrial fibrillation in patients aged 65 or over: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">50 primary care centres in England, with further individual randomisation of patients in the intervention practices.</s>
+    <s id="4" section="participants">14802 patients aged 65 or over in 25 intervention and 25 control practices.</s>
+    <s id="6" section="interventions">Screening took place over 12 months in each practice from October 2001 to February 2003.</s>
+    <s id="12" section="conclusion">The preferred method of screening in patients aged 65 or over in primary care is opportunistic pulse taking with follow-up electrocardiography.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To assess whether screening improves the detection of atrial fibrillation (cluster randomisation) and to compare systematic and opportunistic screening. 
+DESIGN: Multicentred cluster randomised controlled trial, with subsidiary trial embedded within the intervention arm. 
+SETTING: 50 primary care centres in England, with further individual randomisation of patients in the intervention practices. 
+PARTICIPANTS: 14,802 patients aged 65 or over in 25 intervention and 25 control practices. 
+INTERVENTIONS: Patients in intervention practices were randomly allocated to systematic screening (invitation for electrocardiography) or opportunistic screening (pulse taking and invitation for electrocardiography if the pulse was irregular). 
+Screening took place over 12 months in each practice from October 2001 to February 2003. 
+No active screening took place in control practices. 
+MAIN OUTCOME MEASURE: Newly identified atrial fibrillation. 
+RESULTS: The detection rate of new cases of atrial fibrillation was 1.63% a year in the intervention practices and 1.04% in control practices (difference 0.59%, 95% confidence interval 0.20% to 0.98%). 
+Systematic and opportunistic screening detected similar numbers of new cases (1.62% v 1.64%, difference 0.02%, -0.5% to 0.5%). 
+CONCLUSION: Active screening for atrial fibrillation detects additional cases over current practice. 
+The preferred method of screening in patients aged 65 or over in primary care is opportunistic pulse taking with follow-up electrocardiography. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN19633732 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To assess whether screening improves the detection of atrial fibrillation (cluster randomisation) and to compare systematic and opportunistic screening.</s>
+    <s id="2" section="design">Multicentred cluster randomised controlled trial, with subsidiary trial embedded within the intervention arm.</s>
+    <s id="5" section="interventions">Patients in intervention practices were randomly allocated to systematic screening (invitation for electrocardiography) or opportunistic screening (pulse taking and invitation for electrocardiography if the pulse was irregular).</s>
+    <s id="7" section="interventions">No active screening took place in control practices.</s>
+    <s id="8" section="main outcome measure">Newly identified atrial fibrillation.</s>
+    <s id="9" section="results">The detection rate of new cases of atrial fibrillation was 1.63% a year in the intervention practices and 1.04% in control practices (difference 0.59%, 95% confidence interval 0.20% to 0.98%).</s>
+    <s id="10" section="results">Systematic and opportunistic screening detected similar numbers of new cases (1.62% v 1.64%, difference 0.02%, -0.5% to 0.5%).</s>
+    <s id="11" section="conclusion">Active screening for atrial fibrillation detects additional cases over current practice.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN19633732 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

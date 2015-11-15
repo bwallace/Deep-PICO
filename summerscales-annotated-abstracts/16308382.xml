@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16308382">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of
+      <group id="0">
+        <short>animal  facilitated  therapy</short>
+        with  dolphins
+      </group>
+      in the treatment of depression .
+    </s>
+  </title>
+  <annotated>
+    <s id="5" section="results">
+      Of the
+      <ps>30</ps>
+      patients randomly assigned to the 2 groups of treatment , 2 dropped out of the
+      <group id="0">treatment  group</group>
+      after the first week and 3 withdrew their consent in the
+      <group id="1">control  group</group>
+      after they had been randomly allocated .
+    </s>
+    <s id="7" section="results">
+      For the sample analysed by modified intention to treat and last observation carried forward , the mean differences for the
+      <outcome id="0:0">Hamilton</outcome>
+      and
+      <outcome id="0:1">Beck  scores</outcome>
+      between the 2 groups was highly significant ( P = 0.007 and P = 0.012 , respectively ) .
+    </s>
+    <s id="8" section="conclusions">
+      The
+      <group id="0">therapy</group>
+      was effective in alleviating symptoms of depression after
+      <time id="0">2  weeks</time>
+      of treatment .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of animal facilitated therapy with dolphins in the treatment of depression . To evaluate the effectiveness of animal facilitated therapy with dolphins , controlling for the influence of the natural setting , in the treatment of mild to moderate depression and in the context of the biophilia hypothesis . The study was carried out in Honduras , and recruitment took place in the United States and Honduras . Single blind , randomised , controlled trial . Outpatients , recruited through announcements on the internet , radio , newspapers , and hospitals . Of the 30 patients randomly assigned to the 2 groups of treatment , 2 dropped out of the treatment group after the first week and 3 withdrew their consent in the control group after they had been randomly allocated . For the participants who completed the study , the mean severity of the depressive symptoms was more reduced in the treatment group than in the control group ( Hamilton rating scale for depression , P = 0.002 ; Beck depression inventory , P = 0.006 ) . For the sample analysed by modified intention to treat and last observation carried forward , the mean differences for the Hamilton and Beck scores between the 2 groups was highly significant ( P = 0.007 and P = 0.012 , respectively ) . The therapy was effective in alleviating symptoms of depression after 2 weeks of treatment . Animal facilitated therapy with dolphins is an effective treatment for mild to moderate depression , which is based on a holistic approach , through interaction with animals in nature .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effectiveness of
+      <group id="0">
+        <short>animal  facilitated  therapy</short>
+        with  dolphins
+      </group>
+      , controlling for the influence of the natural setting , in the treatment of mild to moderate depression and in the context of the biophilia hypothesis .
+    </s>
+    <s id="2" section="setting">The study was carried out in Honduras , and recruitment took place in the United States and Honduras .</s>
+    <s id="3" section="design">Single blind , randomised , controlled trial .</s>
+    <s id="4" section="participants">Outpatients , recruited through announcements on the internet , radio , newspapers , and hospitals .</s>
+    <s id="6" section="results">
+      For the participants who completed the study , the
+      <outcome id="0">mean  severity  of  the  depressive  symptoms</outcome>
+      was more reduced in the
+      <group id="0">treatment  group</group>
+      than in the
+      <group id="1">control  group</group>
+      (
+      <outcome id="0:0">Hamilton  rating  scale  for  depression</outcome>
+      , P = 0.002 ;
+      <outcome id="0:1">Beck  depression  inventory</outcome>
+      , P = 0.006 ) .
+    </s>
+    <s id="9" section="conclusions">
+      <group id="0">
+        <short>Animal  facilitated  therapy</short>
+        with  dolphins
+      </group>
+      is an effective treatment for mild to moderate depression , which is based on a holistic approach , through
+      <group id="0">
+        <short>interaction  with  animals</short>
+        in  nature
+      </group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

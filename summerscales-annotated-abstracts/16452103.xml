@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16452103">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Sham  device</group>
+      v
+      <group id="1">inert  pill</group>
+      : randomised controlled trial of 2 placebo treatments .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">
+      A single blind randomised controlled trial created from
+      <time id="0">the  2  week  placebo  run  -  in  periods</time>
+      for 2 nested trials that compared acupuncture and amitriptyline with their respective placebo controls .
+    </s>
+    <s id="5" section="participants">
+      <ps>270</ps>
+      adults with arm pain due to repetitive use that had lasted at least 3 months despite treatment and who scored &gt; or = 3 on a 10 point pain scale .
+    </s>
+    <s id="6" section="interventions">
+      <group id="0">
+        Acupuncture  with
+        <short>sham  device</short>
+        twice  a  week  for  6  weeks
+      </group>
+      or
+      <group id="1">
+        <short>placebo  pill</short>
+        once  a  day  for  8  weeks
+      </group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">Arm  pain</outcome>
+      measured on a 10 point pain scale .
+    </s>
+    <s id="9" section="results">
+      <outcome id="0">Pain</outcome>
+      decreased during
+      <time id="0">the  2  week  placebo  run  -  in  period</time>
+      in both the
+      <group id="0">sham  device</group>
+      and
+      <group id="1">placebo  pill</group>
+      groups , but changes were not different between the groups ( - 0.14 , 95 % confidence interval - 0.52 to 0.25 , P = 0.49 ) .
+    </s>
+    <s id="11" section="results">
+      Longitudinal regression analyses that followed participants throughout
+      <time id="1">the  treatment  period</time>
+      showed significantly greater downward slopes per week on the 
+      <outcome id="0">10 point <short>arm  pain  scale</short></outcome>
+      in the
+      <group id="0">sham  device  group</group>
+      than in the
+      <group id="1">placebo  pill  group</group>
+      ( - 0.33 ( - 0.40 to - 0.26 ) v - 0.15 ( - 0.21 to - 0.09 ) , P = 0.0001 ) and on the
+      <outcome id="1">symptom  severity  scale</outcome>
+      ( - 0.07 ( - 0.09 to - 0.05 ) v - 0.05 ( - 0.06 to - 0.03 ) , P = 0.02 ) .
+    </s>
+    <s id="13" section="results">
+      <outcome id="4">
+        Reported
+        <short>adverse  effects</short>
+      </outcome>
+      were different in the 2 groups .
+    </s>
+    <s id="14" section="conclusions">
+      The
+      <group id="0">sham  device</group>
+      had greater effects than the
+      <group id="1">placebo  pill</group>
+      on
+      <outcome id="0">self  reported  pain</outcome>
+      and
+      <outcome id="0">severity  of  symptoms</outcome>
+      over
+      <time id="1">the  entire  course  of  treatment</time>
+      but not during
+      <time id="0">the  2  week  placebo  run  in</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Sham device v inert pill : randomised controlled trial of 2 placebo treatments . To investigate whether a sham device ( a validated sham acupuncture needle ) has a greater placebo effect than an inert pill in patients with persistent arm pain . A single blind randomised controlled trial created from the 2 week placebo run - in periods for 2 nested trials that compared acupuncture and amitriptyline with their respective placebo controls . Comparison of participants who remained on placebo continued beyond the run - in period to the end of the study . Academic medical centre . 270 adults with arm pain due to repetitive use that had lasted at least 3 months despite treatment and who scored &gt; or = 3 on a 10 point pain scale . Acupuncture with sham device twice a week for 6 weeks or placebo pill once a day for 8 weeks . Arm pain measured on a 10 point pain scale . Secondary outcomes were symptoms measured by the Levine symptom severity scale , function measured by Pransky 's upper extremity function scale , and grip strength . Pain decreased during the 2 week placebo run - in period in both the sham device and placebo pill groups , but changes were not different between the groups ( - 0.14 , 95 % confidence interval - 0.52 to 0.25 , P = 0.49 ) . Changes in severity scores for arm symptoms and grip strength were similar between groups , but arm function improved more in the placebo pill group ( 2.0 , 0.06 to 3.92 , P = 0.04 ) . Longitudinal regression analyses that followed participants throughout the treatment period showed significantly greater downward slopes per week on the 10 point arm pain scale in the sham device group than in the placebo pill group ( - 0.33 ( - 0.40 to - 0.26 ) v - 0.15 ( - 0.21 to - 0.09 ) , P = 0.0001 ) and on the symptom severity scale ( - 0.07 ( - 0.09 to - 0.05 ) v - 0.05 ( - 0.06 to - 0.03 ) , P = 0.02 ) . Differences were not significant , however , on the function scale or for grip strength . Reported adverse effects were different in the 2 groups . The sham device had greater effects than the placebo pill on self reported pain and severity of symptoms over the entire course of treatment but not during the 2 week placebo run in . Placebo effects seem to be malleable and depend on the behaviours embedded in medical rituals .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate whether a
+      <group id="0">
+        <short>sham  device</short>
+        (  a  validated  sham  acupuncture  needle  )
+      </group>
+      has a greater placebo effect than an
+      <group id="1">inert  pill</group>
+      in patients with persistent arm pain .
+    </s>
+    <s id="3" section="design">
+      Comparison of participants who remained on placebo continued beyond
+      <time id="0">the  run  -  in  period</time>
+      to
+      <time id="1">the  end  of  the  study</time>
+      .
+    </s>
+    <s id="4" section="setting">Academic medical centre .</s>
+    <s id="8" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">
+        <short>symptoms</short>
+        measured  by  the  Levine  symptom  severity  scale
+      </outcome>
+      ,
+      <outcome id="2">
+        <short>function</short>
+        measured  by  Pransky  's  upper  extremity  function  scale
+      </outcome>
+      , and
+      <outcome id="3">grip  strength</outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      Changes in severity scores for
+      <outcome id="1">arm  symptoms</outcome>
+      and
+      <outcome id="3">grip  strength</outcome>
+      were similar between groups , but
+      <outcome id="2">arm  function</outcome>
+      improved more in the
+      <group id="1">placebo  pill  group</group>
+      ( 2.0 , 0.06 to 3.92 , P = 0.04 ) .
+    </s>
+    <s id="12" section="results">
+      Differences were not significant , however , on the
+      <outcome id="2">function  scale</outcome>
+      or for
+      <outcome id="3">grip  strength</outcome>
+      .
+    </s>
+    <s id="15" section="conclusions">Placebo effects seem to be malleable and depend on the behaviours embedded in medical rituals .</s>
+  </ignored>
+</abstract>
+

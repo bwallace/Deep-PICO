@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16735333">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">telephone  contact</group>
+      on
+      <outcome id="0" type="bad">further  suicide  attempts</outcome>
+      in patients discharged from an emergency department : randomised controlled study .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To determine the effects over 1 year of
+      <group id="0">contacting  patients  by  telephone  1  month</group>
+      or
+      <group id="1">
+        <short>3  months  after  being  discharged</short>
+        from  an  emergency  department  for  deliberate  self  poisoning
+      </group>
+      compared with
+      <group id="2">usual  treatment</group>
+      .
+    </s>
+    <s id="3" section="setting">13 emergency departments in the north of France .</s>
+    <s id="4" section="participants">
+      <ps>605</ps>
+      people discharged from an emergency department after attempted suicide by deliberate self poisoning .
+    </s>
+    <s id="5" section="intervention">
+      The intervention consisted of
+      <group id="0">contacting  patients  by  telephone  at  1  month</group>
+      or
+      <group id="1">
+        <short>3  months  after  discharge</short>
+        from  an  emergency  department  for  attempted  suicide
+      </group>
+      to evaluate the success of recommended treatment or to adjust treatment .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      The primary outcome measures were
+      <outcome id="0" type="bad">
+        proportion  of  participants  who
+        <short>reattempted  suicide</short>
+        ,  number  of  deaths  by  suicide  ,  and  losses  to  follow  -  up
+      </outcome>
+      at
+      <time id="0">13  months  '  follow  -  up</time>
+      .
+    </s>
+    <s id="9" section="results">
+      On an intention to treat basis , the 3 groups did not differ significantly for
+      <outcome id="0" type="bad">further  suicide  attempts  ,  deaths  by  suicide  ,  or  losses  to  follow  -  up</outcome>
+      :
+      <group id="0">
+        contact  at
+        <time id="1">1  month</time>
+      </group>
+      (
+      <group id="0">intervention</group>
+      23 % (
+      <on group="0" outcome="0">34</on>
+      /
+      <gs group="0">147</gs>
+      ) v
+      <group id="2">controls</group>
+      30 % (
+      <on group="2" outcome="0">93</on>
+      /
+      <gs group="2">312</gs>
+      ) , difference 7 % , 95 % confidence interval - 2 % to 15 % ) ,
+      <group id="1">
+        <time id="2">3  months</time>
+      </group>
+      ( 25 % (
+      <on group="1" outcome="0">36</on>
+      /
+      <gs group="1">146</gs>
+      ) v 30 % , difference 5 % , - 4 % to 14 % ) .
+    </s>
+    <s id="10" section="results">
+      <group id="0">Participants  contacted  at  1  month</group>
+      were less likely at follow - up to report
+      <outcome id="0" type="bad">
+        having
+        <short>reattempted  suicide</short>
+      </outcome>
+      ( 12 % v 22 % in
+      <group id="2">control  group</group>
+      , difference 10 % , 2 % to 18 % ) .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        <short>Contacting  people  by  telephone  1  month</short>
+        after  being  discharged  from  an  emergency  department  for  deliberate  self  poisoning
+      </group>
+      may help reduce the
+      <outcome id="0" type="bad">
+        number  of
+        <short>reattempted  suicides</short>
+      </outcome>
+      over 1 year .
+    </s>
+  </annotated>
+  <fulltext>Effect of telephone contact on further suicide attempts in patients discharged from an emergency department : randomised controlled study . To determine the effects over 1 year of contacting patients by telephone 1 month or 3 months after being discharged from an emergency department for deliberate self poisoning compared with usual treatment . Multicentre , randomised controlled trial . 13 emergency departments in the north of France . 605 people discharged from an emergency department after attempted suicide by deliberate self poisoning . The intervention consisted of contacting patients by telephone at 1 month or 3 months after discharge from an emergency department for attempted suicide to evaluate the success of recommended treatment or to adjust treatment . Control patients received treatment as usual , in most cases referral back to their general practitioner . The primary outcome measures were proportion of participants who reattempted suicide , number of deaths by suicide , and losses to follow - up at 13 months ' follow - up . Secondary outcome measures were types and number of contacts with health care . On an intention to treat basis , the 3 groups did not differ significantly for further suicide attempts , deaths by suicide , or losses to follow - up : contact at 1 month ( intervention 23 % ( 34 / 147 ) v controls 30 % ( 93 / 312 ) , difference 7 % , 95 % confidence interval - 2 % to 15 % ) , 3 months ( 25 % ( 36 / 146 ) v 30 % , difference 5 % , - 4 % to 14 % ) . Participants contacted at 1 month were less likely at follow - up to report having reattempted suicide ( 12 % v 22 % in control group , difference 10 % , 2 % to 18 % ) . Contacting people by telephone 1 month after being discharged from an emergency department for deliberate self poisoning may help reduce the number of reattempted suicides over 1 year .</fulltext>
+  <ignored>
+    <s id="2" section="design">Multicentre , randomised controlled trial .</s>
+    <s id="6" section="intervention">
+      <group id="2">Control  patients</group>
+      received
+      <group id="2">treatment  as  usual</group>
+      , in most cases referral back to their general practitioner .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      Secondary outcome measures were
+      <outcome id="3">types  and  number  of  contacts  with  health  care</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

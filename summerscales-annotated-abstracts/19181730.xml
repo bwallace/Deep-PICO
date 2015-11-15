@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19181730">
+  <title>
+    <s id="0">Antenatal peer support workers and initiation of breast feeding: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Community antenatal clinics in 1 primary care trust in a multiethnic , deprived population .</s>
+    <s id="4" section="participants">66 antenatal clinics with 2511 pregnant women: 33 clinics including 1140 women were randomised to <group id="0" role="experiment">receive the <short>peer support worker service</short></group> and 33 clinics including 1371 women were randomised to <group id="1" role="control">receive <short>standard</short> care</group>.</s>
+    <s id="5" section="intervention">An antenatal peer support worker service planned to comprise a minimum of 2 contacts with women to provide advice , information , and support from approximately 24 weeks ' gestation within the antenatal clinic or at home .</s>
+    <s id="8" section="results">The sample was multiethnic, with only 9.4% of women being white British, and 70% were in the lowest 10th for deprivation.</s>
+    <s id="10" section="results">Data on initiation of breast feeding were obtained for 2398 of 2511 (95.5%) women (1083/<gs group="0">1140</gs> <group id="0" role="experiment">intervention</group> and 1315/<gs group="1">1371</gs> <group id="1" role="control">controls</group>).</s>
+    <s id="11" section="results">The groups did not differ for <outcome id="0" type="good">initiation of breast feeding</outcome>: 69.0% (<on group="0" outcome="0">747</on>/<gs group="0">1083</gs>) in the <group id="0" role="experiment"><short>intervention</short> group</group> and 68.1% (<on group="1" outcome="0">896</on>/<gs group="1">1315</gs>) in the <group id="1" role="control"><short>control</short> groups</group>; cluster adjusted odds ratio 1.11 (95% confidence interval 0.87 to 1.43).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effectiveness of an antenatal service using community based breastfeeding peer support workers on initiation of breast feeding. 
+DESIGN: Cluster randomised controlled trial. 
+SETTING: Community antenatal clinics in one primary care trust in a multiethnic, deprived population. 
+PARTICIPANTS: 66 antenatal clinics with 2511 pregnant women: 33 clinics including 1140 women were randomised to receive the peer support worker service and 33 clinics including 1371 women were randomised to receive standard care. 
+INTERVENTION: An antenatal peer support worker service planned to comprise a minimum of two contacts with women to provide advice, information, and support from approximately 24 weeks' gestation within the antenatal clinic or at home. 
+The trained peer support workers were of similar ethnic and sociodemographic backgrounds to their clinic population. 
+MAIN OUTCOME MEASURE: Initiation of breast feeding obtained from computerised maternity records of the hospitals where women from the primary care trust delivered. 
+RESULTS: The sample was multiethnic, with only 9.4% of women being white British, and 70% were in the lowest 10th for deprivation. 
+Most of the contacts with peer support workers took place in the antenatal clinics. 
+Data on initiation of breast feeding were obtained for 2398 of 2511 (95.5%) women (1083/1140 intervention and 1315/1371 controls). 
+The groups did not differ for initiation of breast feeding: 69.0% (747/1083) in the intervention group and 68.1% (896/1315) in the control groups; cluster adjusted odds ratio 1.11 (95% confidence interval 0.87 to 1.43). 
+Ethnicity, parity, and mode of delivery independently predicted initiation of breast feeding, but randomisation to the peer support worker service did not. 
+CONCLUSION: A universal service for initiation of breast feeding using peer support workers provided within antenatal clinics serving a multiethnic, deprived population was ineffective in increasing initiation rates. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN16126175.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effectiveness of an antenatal service using community based breastfeeding peer support workers on initiation of breast feeding.</s>
+    <s id="2" section="design">Cluster randomised controlled trial.</s>
+    <s id="6" section="intervention">The trained peer support workers were of similar ethnic and sociodemographic backgrounds to their clinic population.</s>
+    <s id="7" section="main outcome measure">Initiation of breast feeding obtained from computerised maternity records of the hospitals where women from the primary care trust delivered.</s>
+    <s id="9" section="results">Most of the contacts with peer support workers took place in the antenatal clinics.</s>
+    <s id="12" section="results">Ethnicity, parity, and mode of delivery independently predicted initiation of breast feeding, but randomisation to the peer support worker service did not.</s>
+    <s id="13" section="conclusion">A universal service for initiation of breast feeding using peer support workers provided within antenatal clinics serving a multiethnic, deprived population was ineffective in increasing initiation rates.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN16126175.</s>
+  </ignored>
+</abstract>
+

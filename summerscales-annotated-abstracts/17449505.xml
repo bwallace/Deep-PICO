@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17449505">
+  <title>
+    <s id="0">Cognitive behaviour therapy to prevent complicated grief among relatives and spouses bereaved by suicide: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Cluster randomised controlled trial with follow-up at <time id="0">13 months</time> after the suicide.</s>
+    <s id="4" section="participants">122 first degree relatives and spouses of 70 people who committed suicide; 39 families (<gs group="0">68</gs> participants) were allocated to <group id="0" role="experiment">intervention</group>, 31 families (<gs group="1">54</gs> participants) to <group id="1" role="control">control</group>.</s>
+    <s id="5" section="intervention">A family based, cognitive behaviour counselling programme of 4 sessions with a trained psychiatric nurse counsellor between 3 to 6 months after the suicide.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine the effectiveness of a family based grief counselling programme to prevent complicated grief among first degree relatives and spouses of someone who had committed suicide. 
+DESIGN: Cluster randomised controlled trial with follow-up at 13 months after the suicide. 
+SETTING: General practices in the Netherlands. 
+PARTICIPANTS: 122 first degree relatives and spouses of 70 people who committed suicide; 39 families (68 participants) were allocated to intervention, 31 families (54 participants) to control. 
+INTERVENTION: A family based, cognitive behaviour counselling programme of four sessions with a trained psychiatric nurse counsellor between three to six months after the suicide. 
+Control participants received usual care. 
+MAIN OUTCOME MEASURES: Self report complicated grief. 
+Secondary outcomes were the presence of maladaptive grief reactions, depression, suicidal ideation, and perceptions of being to blame for the suicide. 
+RESULTS: The intervention was not associated with a reduction in complicated grief (mean difference -0.61, 95% confidence interval -6.05 to 4.83; P=0.82). 
+Secondary outcomes were not affected either. 
+When adjusted for baseline inequalities, the intervention reduced the risk of perceptions of being to blame (odds ratio 0.18, 0.05 to 0.67; P=0.01) and maladaptive grief reactions (0.39, 0.15 to 1.01; P=0.06). 
+CONCLUSIONS: A cognitive behaviour grief counselling programme for families bereaved by suicide did not reduce the risk of complicated grief or suicidal ideation or the level of depression. 
+The programme may help to prevent maladaptive grief reactions and perceptions of blame among first degree relatives and spouses. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN66473618.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To examine the effectiveness of a family based grief counselling programme to prevent complicated grief among first degree relatives and spouses of someone who had committed suicide.</s>
+    <s id="3" section="setting">General practices in the Netherlands.</s>
+    <s id="6" section="intervention">Control participants received usual care.</s>
+    <s id="7" section="main outcome measures">Self report complicated grief.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were the presence of maladaptive grief reactions, depression, suicidal ideation, and perceptions of being to blame for the suicide.</s>
+    <s id="9" section="results">The intervention was not associated with a reduction in complicated grief (mean difference -0.61, 95% confidence interval -6.05 to 4.83; P=0.82).</s>
+    <s id="10" section="results">Secondary outcomes were not affected either.</s>
+    <s id="11" section="results">When adjusted for baseline inequalities, the intervention reduced the risk of perceptions of being to blame (odds ratio 0.18, 0.05 to 0.67; P=0.01) and maladaptive grief reactions (0.39, 0.15 to 1.01; P=0.06).</s>
+    <s id="12" section="conclusions">A cognitive behaviour grief counselling programme for families bereaved by suicide did not reduce the risk of complicated grief or suicidal ideation or the level of depression.</s>
+    <s id="13" section="conclusions">The programme may help to prevent maladaptive grief reactions and perceptions of blame among first degree relatives and spouses.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN66473618.</s>
+  </ignored>
+</abstract>
+

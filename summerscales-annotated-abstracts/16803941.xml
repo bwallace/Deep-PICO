@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16803941">
+  <title>
+    <s id="0" section="title">Improving women 's experience during speculum examinations at routine gynaecological visits : randomised clinical trial .</s>
+  </title>
+  <annotated>
+    <s id="4" section="patients">
+      <ps>197</ps>
+      adult women undergoing routine gynaecological examination and cervical smear .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        Women  's  perceived  levels  of
+        <short>physical  discomfort</short>
+      </outcome>
+      ,
+      <outcome id="1">
+        sense  of
+        <short>vulnerability</short>
+      </outcome>
+      , and
+      <outcome id="2">
+        sense  of
+        <short>control</short>
+        during  the  examination
+      </outcome>
+      , measured on 100 mm visual analogue scales .
+    </s>
+    <s id="7" section="results">
+      <group id="0">Women  undergoing  examination  without  stirrups</group>
+      had a reduction in
+      <outcome id="1">
+        mean  sense  of
+        <short>vulnerability</short>
+      </outcome>
+      from 23.6 to 13.1 ( 95 % confidence interval of the difference - 16.6 to - 4.4 ) .
+    </s>
+  </annotated>
+  <fulltext>Improving women 's experience during speculum examinations at routine gynaecological visits : randomised clinical trial . To determine if a standardised method of leg positioning without stirrups reduces the physical discomfort and sense of vulnerability and increases the sense of control among women undergoing speculum examination as part of a routine gynaecological examination . Randomised clinical trial . Family medicine outpatient clinic . 197 adult women undergoing routine gynaecological examination and cervical smear . Examination with or without stirrups . Women 's perceived levels of physical discomfort , sense of vulnerability , and sense of control during the examination , measured on 100 mm visual analogue scales . Women undergoing examination without stirrups had a reduction in mean sense of vulnerability from 23.6 to 13.1 ( 95 % confidence interval of the difference - 16.6 to - 4.4 ) . Mean physical discomfort was reduced from 30.4 to 17.2 ( - 19.7 to - 6.8 ) . There was no significant reduction in sense of loss of control . Women should be able to have gynaecological examinations without using stirrups to reduce the stress associated with speculum examinations . US Army Central Investigation Regulatory Office . Trial No DDEAMC 05-11 .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To determine if a
+      <group id="0">
+        standardised  method  of  leg  positioning
+        <short>without  stirrups</short>
+      </group>
+      reduces the
+      <outcome id="0">physical  discomfort</outcome>
+      and
+      <outcome id="1">
+        sense  of
+        <short>vulnerability</short>
+      </outcome>
+      and increases the
+      <outcome id="2">
+        sense  of
+        <short>control</short>
+      </outcome>
+      among women undergoing speculum examination as part of a routine gynaecological examination .
+    </s>
+    <s id="2" section="design">Randomised clinical trial .</s>
+    <s id="3" section="setting">Family medicine outpatient clinic .</s>
+    <s id="5" section="intervention">
+      <group id="1">Examination  with</group>
+      or
+      <group id="0">without  stirrups</group>
+      .
+    </s>
+    <s id="8" section="results">
+      <outcome id="0">
+        Mean
+        <short>physical  discomfort</short>
+      </outcome>
+      was reduced from 30.4 to 17.2 ( - 19.7 to - 6.8 ) .
+    </s>
+    <s id="9" section="results">
+      There was no significant reduction in
+      <outcome id="2">
+        sense  of
+        <short>loss  of  control</short>
+      </outcome>
+      .
+    </s>
+    <s id="10" section="conclusion">
+      Women should be able to have
+      <group id="0">
+        gynaecological  examinations
+        <short>without  using  stirrups</short>
+      </group>
+      to reduce the
+      <outcome id="3">
+        <short>stress</short>
+        associated  with  speculum  examinations
+      </outcome>
+      .
+    </s>
+    <s id="11" section="trial_registration">US Army Central Investigation Regulatory Office .</s>
+    <s id="12" section="trial_registration">Trial No DDEAMC 05-11 .</s>
+  </ignored>
+</abstract>
+

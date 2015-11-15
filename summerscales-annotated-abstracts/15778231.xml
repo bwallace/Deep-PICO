@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15778231">
+  <title>
+    <s id="0" section="title">
+      Effects of
+      <group id="1">acupuncture</group>
+      and
+      <group id="2">stabilising  exercises</group>
+      as adjunct to
+      <group id="0">standard  treatment</group>
+      in pregnant women with pelvic girdle pain : randomised single blind controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="design">Settings East Hospital , Gothenburg , and 27 maternity care centres in Sweden .</s>
+    <s id="4" section="participants">
+      <ps>386</ps>
+      pregnant women with pelvic girdle pain .
+    </s>
+    <s id="5" section="interventions">
+      Treatment for
+      <time id="0">6  weeks</time>
+      with
+      <group id="0">standard  treatment</group>
+      ( n =
+      <gs group="0">130</gs>
+      ) ,
+      <group id="1">standard  treatment  plus  acupuncture</group>
+      ( n =
+      <gs group="1">125</gs>
+      ) , or
+      <group id="2">standard  treatment  plus  stabilising  exercises</group>
+      ( n =
+      <gs group="2">131</gs>
+      ) .
+    </s>
+    <s id="7" section="results">
+      After treatment the
+      <group id="2">stabilising  exercise  group</group>
+      had less
+      <outcome id="0">pain</outcome>
+      than the
+      <group id="0">standard  group</group>
+      in the morning ( median difference = 9 , 95 % confidence interval 1.7 to 12.8 ; P = 0.0312 ) and in the evening ( 13 , 2.7 to 17.5 ; P = 0.0245 ) .
+    </s>
+    <s id="9" section="results">
+      Furthermore , the
+      <group id="1">acupuncture  group</group>
+      had less
+      <outcome id="0">pain</outcome>
+      than the
+      <group id="0">standard  treatment  group</group>
+      in the morning ( 12 , 5.9 to 17.3 ; P &lt; 0.001 ) and in the evening ( 27 , 13.3 to 29.5 ; P &lt; 0.001 ) .
+    </s>
+  </annotated>
+  <fulltext>Effects of acupuncture and stabilising exercises as adjunct to standard treatment in pregnant women with pelvic girdle pain : randomised single blind controlled trial . To compare the efficacy of standard treatment , standard treatment plus acupuncture , and standard treatment plus stabilising exercises for pelvic girdle pain during pregnancy . Randomised single blind controlled trial . Settings East Hospital , Gothenburg , and 27 maternity care centres in Sweden . 386 pregnant women with pelvic girdle pain . Treatment for 6 weeks with standard treatment ( n = 130 ) , standard treatment plus acupuncture ( n = 125 ) , or standard treatment plus stabilising exercises ( n = 131 ) . Primary outcome measure was pain ( visual analogue scale ) ; secondary outcome measure was assessment of severity of pelvic girdle pain by an independent examiner before and after treatment . After treatment the stabilising exercise group had less pain than the standard group in the morning ( median difference = 9 , 95 % confidence interval 1.7 to 12.8 ; P = 0.0312 ) and in the evening ( 13 , 2.7 to 17.5 ; P = 0.0245 ) . The acupuncture group , in turn , had less pain in the evening than the stabilising exercise group ( -14 , - 18.1 to - 3.3 ; P = 0.0130 ) . Furthermore , the acupuncture group had less pain than the standard treatment group in the morning ( 12 , 5.9 to 17.3 ; P &lt; 0.001 ) and in the evening ( 27 , 13.3 to 29.5 ; P &lt; 0.001 ) . Attenuation of pelvic girdle pain as assessed by the independent examiner was greatest in the acupuncture group . Acupuncture and stabilising exercises constitute efficient complements to standard treatment for the management of pelvic girdle pain during pregnancy . Acupuncture was superior to stabilising exercises in this study .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To compare the efficacy of
+      <group id="0">standard  treatment</group>
+      ,
+      <group id="1">standard  treatment  plus  acupuncture</group>
+      , and
+      <group id="2">standard  treatment  plus  stabilising  exercises</group>
+      for
+      <outcome id="0">
+        pelvic  girdle
+        <short>pain</short>
+        during  pregnancy
+      </outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised single blind controlled trial .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome measure was
+      <outcome id="0">
+        <short>pain</short>
+        (  visual  analogue  scale  )
+      </outcome>
+      ; secondary outcome measure was
+      <outcome id="1">
+        <short>assessment  of  severity  of  pelvic  girdle  pain</short>
+        by  an  independent  examiner
+      </outcome>
+      before and after treatment .
+    </s>
+    <s id="8" section="results">
+      The
+      <group id="1">acupuncture  group</group>
+      , in turn , had less
+      <outcome id="0">pain</outcome>
+      in the evening than the
+      <group id="2">stabilising  exercise  group</group>
+      ( -14 , - 18.1 to - 3.3 ; P = 0.0130 ) .
+    </s>
+    <s id="10" section="results">
+      <outcome id="1">
+        Attenuation  of  pelvic  girdle
+        <short>pain  as  assessed  by  the  independent  examiner</short>
+      </outcome>
+      was greatest in the
+      <group id="1">acupuncture  group</group>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="1">Acupuncture</group>
+      and
+      <group id="2">stabilising  exercises</group>
+      constitute efficient complements to
+      <group id="0">standard  treatment</group>
+      for
+      <outcome id="0">
+        the  management  of  pelvic  girdle
+        <short>pain</short>
+        during  pregnancy
+      </outcome>
+      .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="1">Acupuncture</group>
+      was superior to
+      <group id="2">stabilising  exercises</group>
+      in this study .
+    </s>
+  </ignored>
+</abstract>
+

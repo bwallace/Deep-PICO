@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18505757">
+  <title>
+    <s id="0">Befriending carers of people with dementia: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">236 family carers of people with primary progressive dementia.</s>
+    <s id="6" section="main outcome measures"><outcome id="0" type="bad">Carers' mood (hospital anxiety and depression scale-depression)</outcome> and <outcome id="1" type="good">health related <short>quality of life (EuroQoL)</short> at 15 months post-randomisation</outcome>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of a voluntary sector based befriending scheme in improving psychological wellbeing and quality of life for family carers of people with dementia. 
+DESIGN: Single blind randomised controlled trial. 
+SETTING: Community settings in East Anglia and London. 
+PARTICIPANTS: 236 family carers of people with primary progressive dementia. 
+INTERVENTION: Contact with a befriender facilitator and offer of match with a trained lay volunteer befriender compared with no befriender facilitator contact; all participants continued to receive "usual care." 
+MAIN OUTCOME MEASURES: Carers' mood (hospital anxiety and depression scale-depression) and health related quality of life (EuroQoL) at 15 months post-randomisation. 
+RESULTS: The intention to treat analysis showed no benefit for the intervention "access to a befriender facilitator" on the primary outcome measure or on any of the secondary outcome measures. 
+CONCLUSIONS: In common with many carers' services, befriending schemes are not taken up by all carers, and providing access to a befriending scheme is not effective in improving wellbeing. 
+Trial registration Current CONTROLLED TRIALS: ISRCTN08130075.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of a voluntary sector based befriending scheme in improving psychological wellbeing and quality of life for family carers of people with dementia.</s>
+    <s id="2" section="design">Single blind randomised controlled trial.</s>
+    <s id="3" section="setting">Community settings in East Anglia and London.</s>
+    <s id="5" section="intervention">Contact with a befriender facilitator and offer of match with a trained lay volunteer befriender compared with no befriender facilitator contact; all participants continued to receive "usual care."</s>
+    <s id="7" section="results">The intention to treat analysis showed no benefit for the intervention "access to a befriender facilitator" on the primary outcome measure or on any of the secondary outcome measures.</s>
+    <s id="8" section="conclusions">In common with many carers' services, befriending schemes are not taken up by all carers, and providing access to a befriending scheme is not effective in improving wellbeing.</s>
+    <s id="9" section="t controlled trials">ISRCTN08130075.</s>
+  </ignored>
+</abstract>
+

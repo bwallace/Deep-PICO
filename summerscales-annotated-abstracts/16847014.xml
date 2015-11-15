@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16847014">
+  <title>
+    <s id="0" section="title">
+      Comparison of
+      <group id="0">laparoscopic</group>
+      and
+      <group id="1">mini  incision  open  donor  nephrectomy</group>
+      : single blind , randomised controlled clinical trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 university medical centres , the Netherlands .</s>
+    <s id="4" section="participants">
+      <ps>100</ps>
+      living kidney donors .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      The primary outcome was
+      <outcome id="0">
+        <short>physical  fatigue</short>
+        using  the  multidimensional  fatigue  inventory  20  (  MFI-20  )
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      Compared with
+      <group id="1">mini  incision  open  donor  nephrectomy</group>
+      ,
+      <group id="0">laparoscopic  donor  nephrectomy</group>
+      resulted in longer
+      <outcome id="10">skin  to  skin  time</outcome>
+      ( median 221 v 164 minutes , P &lt; 0.001 ) , longer
+      <outcome id="11">warm  ischaemia  time</outcome>
+      ( 6 v 3 minutes , P &lt; 0.001 ) , less
+      <outcome id="12">blood  loss</outcome>
+      ( 100 v 240 ml , P &lt; 0.001 ) , and a similar
+      <outcome id="13">number  of  complications</outcome>
+      ( intraoperatively 12 % v 6 % , P = 0.49 , postoperatively both 6 % ) .
+    </s>
+    <s id="10" section="results">
+      After
+      <group id="0">laparoscopic  nephrectomy</group>
+      , donors required less
+      <outcome id="3">morphine</outcome>
+      ( 16 v 25 mg , P = 0.005 ) and shorter
+      <outcome id="2">hospital  stay</outcome>
+      ( 3 v 4 days , P = 0.003 ) .
+    </s>
+    <s id="11" section="results">
+      During
+      <time id="0">1  year  's  follow  -  up</time>
+      <outcome id="0">
+        mean
+        <short>physical  fatigue</short>
+      </outcome>
+      was less ( difference - 1.3 , 95 % confidence interval - 2.4 to - 0.1 ) and
+      <outcome id="1">physical  function</outcome>
+      was better ( difference 6.2 , 2.0 to 10.3 ) after
+      <group id="0">laparoscopic  nephrectomy</group>
+      .
+    </s>
+    <s id="12" section="results">
+      <outcome id="5">Function  of  the  graft</outcome>
+      and
+      <outcome id="6">graft  survival  rate  of  the  recipient</outcome>
+      at
+      <time id="0">1  year</time>
+      censored for death did not differ ( 100 % after
+      <group id="0">laparoscopic  nephrectomy</group>
+      and 98 % after
+      <group id="1">open  nephrectomy</group>
+      ) .
+    </s>
+  </annotated>
+  <fulltext>Comparison of laparoscopic and mini incision open donor nephrectomy : single blind , randomised controlled clinical trial . To determine the best approach for live donor nephrectomy to minimise discomfort to the donor and to provide good graft function . Single blind , randomised controlled trial . 2 university medical centres , the Netherlands . 100 living kidney donors . Participants were randomly assigned to either laparoscopic donor nephrectomy or to mini incision muscle splitting open donor nephrectomy . The primary outcome was physical fatigue using the multidimensional fatigue inventory 20 ( MFI-20 ) . Secondary outcomes were physical function using the SF-36 , hospital stay after surgery , pain , operating times , recipient graft function , and graft survival . Conversions did not occur . Compared with mini incision open donor nephrectomy , laparoscopic donor nephrectomy resulted in longer skin to skin time ( median 221 v 164 minutes , P &lt; 0.001 ) , longer warm ischaemia time ( 6 v 3 minutes , P &lt; 0.001 ) , less blood loss ( 100 v 240 ml , P &lt; 0.001 ) , and a similar number of complications ( intraoperatively 12 % v 6 % , P = 0.49 , postoperatively both 6 % ) . After laparoscopic nephrectomy , donors required less morphine ( 16 v 25 mg , P = 0.005 ) and shorter hospital stay ( 3 v 4 days , P = 0.003 ) . During 1 year 's follow - up mean physical fatigue was less ( difference - 1.3 , 95 % confidence interval - 2.4 to - 0.1 ) and physical function was better ( difference 6.2 , 2.0 to 10.3 ) after laparoscopic nephrectomy . Function of the graft and graft survival rate of the recipient at 1 year censored for death did not differ ( 100 % after laparoscopic nephrectomy and 98 % after open nephrectomy ) . Laparoscopic donor nephrectomy results in a better quality of life compared with mini incision open donor nephrectomy but equal safety and graft function .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To determine the best approach for live donor nephrectomy to minimise
+      <outcome id="7">discomfort  to  the  donor</outcome>
+      and to provide
+      <outcome id="5">good  graft  function</outcome>
+      .
+    </s>
+    <s id="2" section="design">Single blind , randomised controlled trial .</s>
+    <s id="5" section="interventions">
+      Participants were randomly assigned to either
+      <group id="0">laparoscopic  donor  nephrectomy</group>
+      or to
+      <group id="1">mini  incision  muscle  splitting  open  donor  nephrectomy</group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes were
+      <outcome id="1">
+        <short>physical  function</short>
+        using  the  SF-36
+      </outcome>
+      ,
+      <outcome id="2">hospital  stay  after  surgery</outcome>
+      ,
+      <outcome id="3">pain</outcome>
+      ,
+      <outcome id="4">operating  times</outcome>
+      ,
+      <outcome id="5">recipient  graft  function</outcome>
+      , and
+      <outcome id="6">graft  survival</outcome>
+      .
+    </s>
+    <s id="8" section="results">Conversions did not occur .</s>
+    <s id="13" section="conclusions">
+      <group id="0">Laparoscopic  donor  nephrectomy</group>
+      results in a better
+      <outcome id="8">quality  of  life</outcome>
+      compared with
+      <group id="1">mini  incision  open  donor  nephrectomy</group>
+      but equal
+      <outcome id="9">safety</outcome>
+      and
+      <outcome id="5">graft  function</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

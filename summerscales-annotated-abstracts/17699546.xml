@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17699546">
+  <title>
+    <s id="0">Acupuncture as an adjunct to exercise based physiotherapy for osteoarthritis of the knee: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">37 physiotherapy centres accepting primary care patients referred from general practitioners in the Midlands, United Kingdom.</s>
+    <s id="4" section="participants">352 adults aged 50 or more with a clinical diagnosis of knee osteoarthritis.</s>
+    <s id="5" section="interventions"><group id="0" role="control">Advice and exercise</group> (n=<gs group="0">116</gs>), <group id="1" role="experiment">advice and exercise plus <short>true acupuncture</short></group> (n=<gs group="1">117</gs>), and <group id="2" role="experiment">advice and exercise plus <short>non-penetrating acupuncture</short></group> (n=<gs group="2">119</gs>).</s>
+    <s id="6" section="main outcome measures">The primary outcome was change in scores on the Western Ontario and McMaster Universities osteoarthritis index pain subscale at <time id="0">six months</time>.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes included function, pain intensity, and unpleasantness of pain at <time id="1">2 weeks</time>, <time id="2">6 weeks</time>, <time id="3">6 months</time>, and <time id="4">12 months</time>.</s>
+    <s id="8" section="results">Follow-up rate at 6 months was 94%.</s>
+    <s id="10" section="results">At <time id="0">six months</time> mean <outcome id="0" type="good">reductions in pain</outcome> were <on group="0" outcome="0">2.28</on> (3.8) for <group id="0" role="control">advice and exercise</group>, <on group="1" outcome="0">2.32</on> (3.6) for <group id="1" role="experiment">advice and exercise plus <short>true acupuncture</short></group>, and <on group="2" outcome="0">2.53</on> (4.2) for <group id="2" role="experiment">advice and exercise plus <short>non-penetrating acupuncture</short></group>.</s>
+    <s id="13" section="results">Compared with advice and exercise alone there were small, statistically significant improvements in <outcome id="1" type="bad">pain intensity</outcome> and <outcome id="2" type="bad">unpleasantness</outcome> at <time id="1" units="weeks">2</time> and <time id="2">6 weeks</time> for true acupuncture and at all follow-up points for non-penetrating acupuncture.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the benefit of adding acupuncture to a course of advice and exercise delivered by physiotherapists for pain reduction in patients with osteoarthritis of the knee. 
+DESIGN: Multicentre, randomised controlled trial. 
+SETTING: 37 physiotherapy centres accepting primary care patients referred from general practitioners in the Midlands, United Kingdom. 
+PARTICIPANTS: 352 adults aged 50 or more with a clinical diagnosis of knee osteoarthritis. 
+INTERVENTIONS: Advice and exercise (n=116), advice and exercise plus true acupuncture (n=117), and advice and exercise plus non-penetrating acupuncture (n=119). 
+MAIN OUTCOME MEASURES: The primary outcome was change in scores on the Western Ontario and McMaster Universities osteoarthritis index pain subscale at six months. 
+Secondary outcomes included function, pain intensity, and unpleasantness of pain at two weeks, six weeks, six months, and 12 months. 
+RESULTS: Follow-up rate at six months was 94%. 
+The mean (SD) baseline pain score was 9.2 (3.8). 
+At six months mean reductions in pain were 2.28 (3.8) for advice and exercise, 2.32 (3.6) for advice and exercise plus true acupuncture, and 2.53 (4.2) for advice and exercise plus non-penetrating acupuncture. 
+Mean differences in change scores between advice and exercise alone and each acupuncture group were 0.08 (95% confidence interval -1.0 to 0.9) for advice and exercise plus true acupuncture and 0.25 (-0.8 to 1.3) for advice and exercise plus non-penetrating acupuncture. 
+Similar non-significant differences were seen at other follow-up points. 
+Compared with advice and exercise alone there were small, statistically significant improvements in pain intensity and unpleasantness at two and six weeks for true acupuncture and at all follow-up points for non-penetrating acupuncture. 
+CONCLUSION: The addition of acupuncture to a course of advice and exercise for osteoarthritis of the knee delivered by physiotherapists provided no additional improvement in pain scores. 
+Small benefits in pain intensity and unpleasantness were observed in both acupuncture groups, making it unlikely that this was due to acupuncture needling effects. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN88597683 [controlled-trials.com] 
+.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate the benefit of adding acupuncture to a course of advice and exercise delivered by physiotherapists for pain reduction in patients with osteoarthritis of the knee.</s>
+    <s id="2" section="design">Multicentre, randomised controlled trial.</s>
+    <s id="9" section="results">The mean (SD) baseline pain score was 9.2 (3.8).</s>
+    <s id="11" section="results">Mean differences in change scores between advice and exercise alone and each acupuncture group were 0.08 (95% confidence interval -1.0 to 0.9) for advice and exercise plus true acupuncture and 0.25 (-0.8 to 1.3) for advice and exercise plus non-penetrating acupuncture.</s>
+    <s id="12" section="results">Similar non-significant differences were seen at other follow-up points.</s>
+    <s id="14" section="conclusion">The addition of acupuncture to a course of advice and exercise for osteoarthritis of the knee delivered by physiotherapists provided no additional improvement in pain scores.</s>
+    <s id="15" section="conclusion">Small benefits in pain intensity and unpleasantness were observed in both acupuncture groups, making it unlikely that this was due to acupuncture needling effects.</s>
+    <s id="16" section="trial registration">Current Controlled Trials ISRCTN88597683 [controlled-trials.com]</s>
+    <s id="17" section="trial registration">.</s>
+  </ignored>
+</abstract>
+

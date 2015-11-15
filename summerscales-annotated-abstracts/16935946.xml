@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16935946">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Telephone  administered  cognitive  behaviour  therapy</group>
+      for treatment of obsessive compulsive disorder : randomised controlled non - inferiority trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">2 psychology outpatient departments in the United Kingdom .</s>
+    <s id="4" section="participants">
+      <ps>72</ps>
+      patients with obsessive compulsive disorder .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        10  weekly  sessions  of  exposure
+        <short>therapy  and  response  prevention  delivered  by  telephone</short>
+      </group>
+      or
+      <group id="1">face  to  face</group>
+      .
+    </s>
+    <s id="7" section="results">
+      Difference in the
+      <outcome id="0">
+        Yale  Brown
+        <short>obsessive  compulsive  disorder  checklist  score</short>
+      </outcome>
+      between the 2 treatments at
+      <time id="0">6  months</time>
+      was - 0.55 ( 95 % confidence interval - 4.26 to 3.15 ) .
+    </s>
+  </annotated>
+  <fulltext>Telephone administered cognitive behaviour therapy for treatment of obsessive compulsive disorder : randomised controlled non - inferiority trial . To compare the effectiveness of cognitive behaviour therapy delivered by telephone with the same therapy given face to face in the treatment of obsessive compulsive disorder . Randomised controlled non - inferiority trial . 2 psychology outpatient departments in the United Kingdom . 72 patients with obsessive compulsive disorder . 10 weekly sessions of exposure therapy and response prevention delivered by telephone or face to face . Yale Brown obsessive compulsive disorder scale , Beck depression inventory , and client satisfaction questionnaire . Difference in the Yale Brown obsessive compulsive disorder checklist score between the 2 treatments at 6 months was - 0.55 ( 95 % confidence interval - 4.26 to 3.15 ) . Patient satisfaction was high for both forms of treatment . The clinical outcome of cognitive behaviour therapy delivered by telephone was equivalent to treatment delivered face to face and similar levels of satisfaction were reported . Current Controlled Trials ISRCTN500103984 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To compare the effectiveness of
+      <group id="0">
+        cognitive  behaviour
+        <short>therapy  delivered  by  telephone</short>
+      </group>
+      with the
+      <group id="1">same  therapy  given  face  to  face</group>
+      in the treatment of obsessive compulsive disorder .
+    </s>
+    <s id="2" section="design">Randomised controlled non - inferiority trial .</s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        Yale  Brown
+        <short>obsessive  compulsive  disorder  scale</short>
+      </outcome>
+      ,
+      <outcome id="1">Beck  depression  inventory</outcome>
+      , and
+      <outcome id="2">client  satisfaction  questionnaire</outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <outcome id="2">Patient  satisfaction</outcome>
+      was high for both forms of treatment .
+    </s>
+    <s id="9" section="conclusion">
+      The clinical outcome of
+      <group id="0">
+        cognitive  behaviour
+        <short>therapy  delivered  by  telephone</short>
+      </group>
+      was equivalent to
+      <group id="1">treatment  delivered  face  to  face</group>
+      and similar levels of
+      <outcome id="2">satisfaction</outcome>
+      were reported .
+    </s>
+    <s id="10" section="trial_registration">Current Controlled Trials ISRCTN500103984 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

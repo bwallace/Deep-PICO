@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18420663">
+  <title>
+    <s id="0">Cost effectiveness of self monitoring of blood glucose in patients with non-insulin treated type 2 diabetes: economic evaluation of data from the DiGEM trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To assess the cost effectiveness of self monitoring of blood glucose alone or with additional training in incorporating the results into self care, in addition to standardised usual care for patients with non-insulin treated type 2 diabetes.</s>
+    <s id="3" section="design">Data on resource use from the randomised controlled diabetes glycaemic education and monitoring (DiGEM) trial covered 12 months before baseline and <time id="0">12 months</time> of trial follow-up.</s>
+    <s id="4" section="design">Quality of life was measured at baseline and 12 months using the EuroQol EQ-5D questionnaire.</s>
+    <s id="6" section="participants">453 patients with non-insulin treated type 2 diabetes.</s>
+    <s id="9" section="results"><outcome id="0" type="bad"><short>average costs</short> of intervention</outcome> were <on outcome="0" group="0">pound89 (euro113; $179)</on> for <group id="0" role="control">standardised usual care</group>, <on outcome="0" group="1">pound181</on> for <group id="1" role="experiment">less intensive self monitoring</group>, and <on outcome="0" group="2">pound173</on> for <group id="2" role="experiment">>more intensive self monitoring</group>, showing an <outcome id="2">additional cost per patient</outcome> of <on outcome="1" group="1">pound92</on> (95% confidence interval pound80 to pound103) in the less intensive group and <on outcome="0" group="2">pound84</on> ( pound73 to pound96) in the more intensive group.</s>
+    <s id="11" section="results">An initial <outcome id="1" type="bad"><short>negative impact</short> of self monitoring on quality of life</outcome> occurred, averaging -0.027 (95% confidence interval-0.069 to 0.015) for the less intensive self monitoring group and -0.075 (-0.119 to -0.031) for the more intensive group.</s>
+    <s id="12" section="conclusions">Self monitoring of blood glucose with or without additional training in incorporating the results into self care was associated with higher costs and lower quality of life in patients with non-insulin treated type 2 diabetes.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the cost effectiveness of self monitoring of blood glucose alone or with additional training in incorporating the results into self care, in addition to standardised usual care for patients with non-insulin treated type 2 diabetes. 
+DESIGN: Incremental cost utility analysis from a healthcare perspective. 
+Data on resource use from the randomised controlled diabetes glycaemic education and monitoring (DiGEM) trial covered 12 months before baseline and 12 months of trial follow-up. 
+Quality of life was measured at baseline and 12 months using the EuroQol EQ-5D questionnaire. 
+SETTING: Primary care in the United Kingdom. 
+PARTICIPANTS: 453 patients with non-insulin treated type 2 diabetes. 
+INTERVENTIONS: Standardised usual care (control) compared with additional self monitoring of blood glucose alone (less intensive self monitoring) or with training in self interpretation of the results (more intensive self monitoring). 
+MAIN OUTCOME MEASURES: Quality adjusted life years and healthcare costs (sterling in 2005-6 prices). 
+RESULTS: The average costs of intervention were pound89 (euro113; $179) for standardised usual care, pound181 for less intensive self monitoring, and pound173 for more intensive self monitoring, showing an additional cost per patient of pound92 (95% confidence interval pound80 to pound103) in the less intensive group and pound84 ( pound73 to pound96) in the more intensive group. 
+No other significant cost difference was detected between the groups. 
+An initial negative impact of self monitoring on quality of life occurred, averaging -0.027 (95% confidence interval-0.069 to 0.015) for the less intensive self monitoring group and -0.075 (-0.119 to -0.031) for the more intensive group. 
+CONCLUSIONS: Self monitoring of blood glucose with or without additional training in incorporating the results into self care was associated with higher costs and lower quality of life in patients with non-insulin treated type 2 diabetes. 
+In light of this, and no clinically significant differences in other outcomes, self monitoring of blood glucose is unlikely to be cost effective in addition to standardised usual care. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN47464659.</fulltext>
+  <ignored>
+    <s id="2" section="design">Incremental cost utility analysis from a healthcare perspective.</s>
+    <s id="5" section="setting">Primary care in the United Kingdom.</s>
+    <s id="7" section="interventions">Standardised usual care (control) compared with additional self monitoring of blood glucose alone (less intensive self monitoring) or with training in self interpretation of the results (more intensive self monitoring).</s>
+    <s id="8" section="main outcome measures">Quality adjusted life years and healthcare costs (sterling in 2005-6 prices).</s>
+    <s id="10" section="results">No other significant cost difference was detected between the groups.</s>
+    <s id="13" section="conclusions">In light of this, and no clinically significant differences in other outcomes, self monitoring of blood glucose is unlikely to be cost effective in addition to standardised usual care.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN47464659.</s>
+  </ignored>
+</abstract>
+

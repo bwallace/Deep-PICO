@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19837741">
+  <title>
+    <s id="0">The PRaCTICaL study of nurse led, intensive care follow-up programmes for improving long term outcomes from critical illness: a pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 UK hospitals ( 2 teaching hospitals and 1 district general hospital ) .</s>
+    <s id="4" section="participants">286 patients aged &gt;or=18 years were recruited after discharge from intensive care between September 2006 and October 2007.</s>
+    <s id="6" section="main outcome measures"> Health related quality of life (measured with the SF-36 questionnaire) at <time id="0">12 months</time> after randomisation.</s>
+    <s id="8" section="results">286 patients were recruited and 192 completed <time id="0">1 year</time> follow - up .</s>
+    <s id="9" section="results">At <time id="0">12 months</time>, there was no evidence of a difference in the <outcome id="0" type="good"><short>SF-36 physical</short> component score</outcome> (mean 42.0 (SD 10.6) v 40.8 (SD 11.9), effect size 1.1 (95% CI -1.9 to 4.2), P=0.46) or the <outcome id="1" type="good"><short>SF-36 mental</short> component score</outcome> (effect size 0.4 (-3.0 to 3.7), P=0.83).</s>    
+  </annotated>
+  <fulltext>OBJECTIVES: To test the hypothesis that nurse led follow-up programmes are effective and cost effective in improving quality of life after discharge from intensive care. 
+DESIGN: A pragmatic, non-blinded, multicentre, randomised controlled trial. 
+SETTING: Three UK hospitals (two teaching hospitals and one district general hospital). 
+PARTICIPANTS: 286 patients aged &gt;or=18 years were recruited after discharge from intensive care between September 2006 and October 2007. 
+INTERVENTION: Nurse led intensive care follow-up programmes versus standard care. 
+Main outcome measure(s) Health related quality of life (measured with the SF-36 questionnaire) at 12 months after randomisation. 
+A cost effectiveness analysis was also performed. 
+RESULTS: 286 patients were recruited and 192 completed one year follow-up. 
+At 12 months, there was no evidence of a difference in the SF-36 physical component score (mean 42.0 (SD 10.6) v 40.8 (SD 11.9), effect size 1.1 (95% CI -1.9 to 4.2), P=0.46) or the SF-36 mental component score (effect size 0.4 (-3.0 to 3.7), P=0.83). 
+There were no statistically significant differences in secondary outcomes or subgroup analyses. 
+Follow-up programmes were significantly more costly than standard care and are unlikely to be considered cost effective. 
+CONCLUSIONS: A nurse led intensive care follow-up programme showed no evidence of being effective or cost effective in improving patients' quality of life in the year after discharge from intensive care. 
+Further work should focus on the roles of early physical rehabilitation, delirium, cognitive dysfunction, and relatives in recovery from critical illness. 
+Intensive care units should review their follow-up programmes in light of these results. 
+TRIAL REGISTRATION: ISRCTN 24294750.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To test the hypothesis that nurse led follow-up programmes are effective and cost effective in improving quality of life after discharge from intensive care.</s>
+    <s id="2" section="design">A pragmatic, non-blinded, multicentre, randomised controlled trial.</s>
+    <s id="5" section="intervention">Nurse led intensive care follow-up programmes versus standard care.</s>
+    <s id="7" section="main outcome measures">A cost effectiveness analysis was also performed.</s>
+    <s id="10" section="results">There were no statistically significant differences in secondary outcomes or subgroup analyses.</s>
+    <s id="11" section="results">Follow-up programmes were significantly more costly than standard care and are unlikely to be considered cost effective.</s>
+    <s id="12" section="conclusions">A nurse led intensive care follow-up programme showed no evidence of being effective or cost effective in improving patients' quality of life in the year after discharge from intensive care.</s>
+    <s id="13" section="conclusions">Further work should focus on the roles of early physical rehabilitation, delirium, cognitive dysfunction, and relatives in recovery from critical illness.</s>
+    <s id="14" section="conclusions">Intensive care units should review their follow-up programmes in light of these results.</s>
+    <s id="15" section="trial registration">ISRCTN 24294750.</s>
+  </ignored>
+</abstract>
+

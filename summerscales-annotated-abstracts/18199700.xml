@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18199700">
+  <title>
+    <s id="0">The impact of response to the results of diagnostic tests for malaria: cost-benefit analysis.</s>
+  </title>
+  <annotated>
+    <s id="5" section="methods">Data were obtained from a clinical trial of 2425 patients carried out in 3 settings of varying transmission .</s>
+    <s id="7" section="results">At the levels of prescription of antimalarial drugs to patients with negative tests that have been found in observational studies and trials, neither test methodis likely to be cost beneficial, incurring costs 10-250% higher, depending on transmission rate, than would have been the case with fully consistent responses to all test results.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: Rapid diagnostic tests for malaria seem cost effective in standard analyses, but these do not take account of clinicians' response to test results. 
+This study tested the impact of clinicians' response to rapid diagnostic test or microscopy results on the costs and benefits of testing at different levels of malaria transmission and in different age groups. 
+DESIGN: Cost-benefit analysis using a decision tree model and clinical data on the effectiveness of diagnostic tests for malaria, their costs, and clinicians' response to test results. 
+SETTING: Tanzania. 
+METHODS: Data were obtained from a clinical trial of 2425 patients carried out in three settings of varying transmission. 
+RESULTS: At moderate and low levels of malaria transmission, rapid diagnostic tests were more cost beneficial than microscopy, and both more so than presumptive treatment, but only where response was consistent with test results. 
+At the levels of prescription of antimalarial drugs to patients with negative tests that have been found in observational studies and trials, neither test methodis likely to be cost beneficial, incurring costs 10-250% higher, depending on transmission rate, than would have been the case with fully consistent responses to all test results. 
+Microscopy becomes more cost beneficial than rapid diagnostic tests when its sensitivity under operational conditions approaches that of rapid diagnostic tests. 
+CONCLUSIONS: Improving diagnostic methods, including rapid diagnostic tests, can reduce costs and enhance the benefits of effective antimalarial drugs, but only if the consistency of response to test results is also improved. 
+Investing in methods to improve rational response to tests is essential. 
+Economic evaluations of diagnostic tests should take into account whether clinicians' response is consistent with test results.</fulltext>
+  <ignored>
+    <s id="1" section="objective">Rapid diagnostic tests for malaria seem cost effective in standard analyses, but these do not take account of clinicians' response to test results.</s>
+    <s id="2" section="objective">This study tested the impact of clinicians' response to rapid diagnostic test or microscopy results on the costs and benefits of testing at different levels of malaria transmission and in different age groups.</s>
+    <s id="3" section="design">Cost-benefit analysis using a decision tree model and clinical data on the effectiveness of diagnostic tests for malaria, their costs, and clinicians' response to test results.</s>
+    <s id="4" section="setting">Tanzania.</s>
+    <s id="6" section="results">At moderate and low levels of malaria transmission, rapid diagnostic tests were more cost beneficial than microscopy, and both more so than presumptive treatment, but only where response was consistent with test results.</s>
+    <s id="8" section="results">Microscopy becomes more cost beneficial than rapid diagnostic tests when its sensitivity under operational conditions approaches that of rapid diagnostic tests.</s>
+    <s id="9" section="conclusions">Improving diagnostic methods, including rapid diagnostic tests, can reduce costs and enhance the benefits of effective antimalarial drugs, but only if the consistency of response to test results is also improved.</s>
+    <s id="10" section="conclusions">Investing in methods to improve rational response to tests is essential.</s>
+    <s id="11" section="conclusions">Economic evaluations of diagnostic tests should take into account whether clinicians' response is consistent with test results.</s>
+  </ignored>
+</abstract>
+

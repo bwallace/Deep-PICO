@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19589822">
+  <title>
+    <s id="0">Effect of unsupervised home based proprioceptive training on recurrences of ankle sprain: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Randomised controlled trial , with <time id="0">1 year</time> follow - up .</s>
+    <s id="4" section="participants">522 athletes , aged 12- 70 , who had sustained a lateral ankle sprain up to 2 months before inclusion ; <gs group="0">256</gs> ( 120 female and 136 male ) in the <group id="0" role="experiment">intervention group</group> ; <gs group="1">266</gs> ( 128 female and 138 male ) in the <group id="1" role="control">control group</group> .</s>
+    <s id="6" section="intervention">Athletes allocated to the intervention group additionally received an 8 week home based proprioceptive training programme .</s>
+    <s id="8" section="results">During the <time id="0">1 year</time> follow - up , 145 athletes <outcome id="0" type="bad">reported a <short>recurrent</short> ankle sprain</outcome> : <on group="0" outcome="0">56</on> ( 22 % ) in the <group id="0" role="experiment">intervention group</group> and <on group="1" outcome="0">89</on> ( 33 % ) in the <group id="1" role="control">control group</group> .</s>
+    <s id="9" section="results">9 athletes needed to be treated to prevent 1 recurrence ( <outcome id="1" type="bad">number needed to treat</outcome> ) .</s>
+    <s id="10" section="results">The <group id="0" role="experiment">intervention programme</group> was associated with a 35% reduction in risk of recurrence.</s>
+    <s id="12" section="results">This effect was found for <outcome id="0" type="bad">self reported <short>recurrent</short> ankle sprains</outcome> (relative risk 0.63, 95% confidence interval 0.45 to 0.88), recurrent ankle sprains leading to <outcome id="2" type="bad">loss of sports time</outcome> (0.53, 0.32 to 0.88), and recurrent ankle sprains resulting in <outcome id="3" type="bad">healthcare costs or lost productivity costs</outcome> (0.25, 0.12 to 0.50).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of an unsupervised proprioceptive training programme on recurrences of ankle sprain after usual care in athletes who had sustained an acute sports related injury to the lateral ankle ligament. 
+DESIGN: Randomised controlled trial, with one year follow-up. 
+SETTING: Primary care. 
+PARTICIPANTS: 522 athletes, aged 12-70, who had sustained a lateral ankle sprain up to two months before inclusion; 256 (120 female and 136 male) in the intervention group; 266 (128 female and 138 male) in the control group. 
+INTERVENTION: Both groups received treatment according to usual care. 
+Athletes allocated to the intervention group additionally received an eight week home based proprioceptive training programme. 
+MAIN OUTCOME MEASURE: Self reported recurrence of ankle sprain. 
+RESULTS: During the one year follow-up, 145 athletes reported a recurrent ankle sprain: 56 (22%) in the intervention group and 89 (33%) in the control group. 
+Nine athletes needed to be treated to prevent one recurrence (number needed to treat). 
+The intervention programme was associated with a 35% reduction in risk of recurrence. 
+Cox regression analysis showed significantly fewer recurrent ankle sprains in the intervention than in the control group. 
+This effect was found for self reported recurrent ankle sprains (relative risk 0.63, 95% confidence interval 0.45 to 0.88), recurrent ankle sprains leading to loss of sports time (0.53, 0.32 to 0.88), and recurrent ankle sprains resulting in healthcare costs or lost productivity costs (0.25, 0.12 to 0.50). 
+No significant differences were found between medically treated athletes in the intervention group and medically treated controls. 
+Athletes in the intervention group who were not medically treated had a significantly lower risk of recurrence than controls who were not medically treated. 
+CONCLUSIONS: The use of a proprioceptive training programme after usual care of an ankle sprain is effective for the prevention of self reported recurrences. 
+This proprioceptive training was specifically beneficial in athletes whose original sprain was not medically treated. 
+TRIAL REGISTRATION: ISTRCN34177180.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of an unsupervised proprioceptive training programme on recurrences of ankle sprain after usual care in athletes who had sustained an acute sports related injury to the lateral ankle ligament.</s>
+    <s id="3" section="setting">Primary care.</s>
+    <s id="5" section="intervention">Both groups received treatment according to usual care.</s>
+    <s id="7" section="main outcome measure">Self reported recurrence of ankle sprain.</s>
+    <s id="11" section="results">Cox regression analysis showed significantly fewer recurrent ankle sprains in the intervention than in the control group.</s>
+    <s id="13" section="results">No significant differences were found between medically treated athletes in the intervention group and medically treated controls.</s>
+    <s id="14" section="results">Athletes in the intervention group who were not medically treated had a significantly lower risk of recurrence than controls who were not medically treated.</s>
+    <s id="15" section="conclusions">The use of a proprioceptive training programme after usual care of an ankle sprain is effective for the prevention of self reported recurrences.</s>
+    <s id="16" section="conclusions">This proprioceptive training was specifically beneficial in athletes whose original sprain was not medically treated.</s>
+    <s id="17" section="trial registration">ISTRCN34177180.</s>
+  </ignored>
+</abstract>
+

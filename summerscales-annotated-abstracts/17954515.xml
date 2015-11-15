@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17954515">
+  <title>
+    <s id="0">Rapid tranquillisation in psychiatric emergency settings in Brazil: pragmatic randomised controlled trial of intramuscular haloperidol versus intramuscular haloperidol plus promethazine.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">316 patients who needed urgent intramuscular sedation because of agitation, dangerous behaviour, or both.</s>
+    <s id="5" section="interventions"><group id="1" role="control">Open treatment with intramuscular haloperidol 5-10 mg</group> or <group id="0" role="experiment">intramuscular haloperidol 5-10 mg plus intramuscular promethazine up to 50 mg</group>; doses were at the discretion of the prescribing clinician.</s>
+    <s id="6" section="main outcome measures">The primary outcome was proportion tranquil or asleep by 20 minutes.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were asleep by 20 minutes; tranquil or asleep by 40, 60, and 120 minutes; physically restrained or given additional drugs within 2 hours; severe adverse events; another episode of agitation or aggression; additional visit from the doctor during the subsequent 24 hours; overall antipsychotic load in the first 24 hours; and still in hospital after 2 weeks.</s>
+    <s id="8" section="results">Primary outcome data were available for 311 (98.4%) people, 77% of whom were thought to have a psychotic illness.</s>
+    <s id="9" section="results"><group id="0" role="experiment">Patients allocated <short>haloperidol plus promethazine</short></group> were more likely to be <outcome id="0" type="good">tranquil or asleep by 20 minutes</outcome> than <group id="1" role="control">those who received <short>intramuscular haloperidol alone</short></group> (relative risk 1.30, 95% confidence interval 1.10 to 1.55; number needed to treat 6, 95% confidence interval 4 to 16; P=0.002).</s>
+    <s id="10" section="results">No differences were found after 20 minutes.</s>
+    <s id="11" section="results">However, <on group="1" outcome="1">10</on> cases of <outcome id="1" type="bad">acute dystonia</outcome> occurred, all in the <group id="1" role="control">haloperidol alone group</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether haloperidol alone results in swifter and safer tranquillisation and sedation than haloperidol plus promethazine. 
+DESIGN: Pragmatic randomised open trial (January-July 2004). 
+SETTING: Psychiatric emergency room, Rio de Janeiro, Brazil. 
+PARTICIPANTS: 316 patients who needed urgent intramuscular sedation because of agitation, dangerous behaviour, or both. 
+INTERVENTIONS: Open treatment with intramuscular haloperidol 5-10 mg or intramuscular haloperidol 5-10 mg plus intramuscular promethazine up to 50 mg; doses were at the discretion of the prescribing clinician. 
+MAIN OUTCOME MEASURES: The primary outcome was proportion tranquil or asleep by 20 minutes. 
+Secondary outcomes were asleep by 20 minutes; tranquil or asleep by 40, 60, and 120 minutes; physically restrained or given additional drugs within 2 hours; severe adverse events; another episode of agitation or aggression; additional visit from the doctor during the subsequent 24 hours; overall antipsychotic load in the first 24 hours; and still in hospital after 2 weeks. 
+RESULTS: Primary outcome data were available for 311 (98.4%) people, 77% of whom were thought to have a psychotic illness. 
+Patients allocated haloperidol plus promethazine were more likely to be tranquil or asleep by 20 minutes than those who received intramuscular haloperidol alone (relative risk 1.30, 95% confidence interval 1.10 to 1.55; number needed to treat 6, 95% confidence interval 4 to 16; P=0.002). 
+No differences were found after 20 minutes. 
+However, 10 cases of acute dystonia occurred, all in the haloperidol alone group. 
+CONCLUSIONS: Haloperidol plus promethazine is a better option than haloperidol alone in terms of speed of onset of action and safety. 
+Enough data are now available to change guidelines that continue to recommend treatments that leave people exposed to longer periods of aggression than necessary and patients vulnerable to distressing and unsafe adverse effects. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN83261243 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether haloperidol alone results in swifter and safer tranquillisation and sedation than haloperidol plus promethazine.</s>
+    <s id="2" section="design">Pragmatic randomised open trial (January-July 2004).</s>
+    <s id="3" section="setting">Psychiatric emergency room, Rio de Janeiro, Brazil.</s>
+    <s id="12" section="conclusions">Haloperidol plus promethazine is a better option than haloperidol alone in terms of speed of onset of action and safety.</s>
+    <s id="13" section="conclusions">Enough data are now available to change guidelines that continue to recommend treatments that leave people exposed to longer periods of aggression than necessary and patients vulnerable to distressing and unsafe adverse effects.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN83261243 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

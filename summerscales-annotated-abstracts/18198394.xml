@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18198394">
+  <title>
+    <s id="0">Vascular events in healthy older women receiving calcium supplementation: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">1471 postmenopausal women (mean age 74): <gs group="0">732</gs> were randomised to <group id="0" role="experiment">calcium supplementation</group> and <gs group="1">739</gs> to <group id="1" role="control">placebo</group>.</s>
+    <s id="5" section="main outcome measures">Adverse cardiovascular events over 5 years : death , sudden death , myocardial infarction , angina , other chest pain , stroke , transient ischaemic attack , and a composite end point of myocardial infarction , stroke , or sudden death .</s>
+    <s id="6" section="results"><outcome id="0" type="bad">Myocardial infarction</outcome> was more commonly reported in the <group id="0" role="experiment"><short>calcium</short> group</group> than in the <group id="1" role="control"><short>placebo</short> group</group> (45 events in 31 women v 19 events in 14 women, P=0.01).</s>
+    <s id="7" section="results">The composite end point of <outcome id="0" type="bad">myocardial infarction</outcome>, <outcome id="1" type="bad">stroke</outcome>, or <outcome id="2" type="bad">sudden death</outcome> was also more common in the <group id="0" role="experiment"><short>calcium</short> group</group> (101 events in 69 women v 54 events in 42 women, P=0.008).</s>
+    <s id="8" section="results">After adjudication <outcome id="0" type="bad">myocardial infarction</outcome> remained more common in the <group id="0" role="experiment"><short>calcium</short> group</group> (24 events in 21 women v 10 events in 10 women, relative risk 2.12, 95% confidence interval 1.01 to 4.47).</s>
+    <s id="9" section="results">For the composite end point 61 events were verified in 51 women in the <group id="0" role="experiment"><short>calcium</short> group</group> and 36 events in 35 women in the <group id="1" role="control"><short>placebo</short> group</group> (relative risk 1.47, 0.97 to 2.23).</s>
+    <s id="11" section="results">The respective rate ratios were 1.67 (95% confidence intervals 0.98 to 2.87) and 1.43 (1.01 to 2.04); event rates: <group id="1" role="control">placebo</group> 16.3/1000 person years, <group id="0" role="experiment">calcium</group> 23.3/1000 person years.</s>
+    <s id="15" section="trial registration">Australian Clinical Trials Registry ACTRN 012605000242628.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effect of calcium supplementation on myocardial infarction, stroke, and sudden death in healthy postmenopausal women. 
+DESIGN: Randomised, placebo controlled trial. 
+SETTING: Academic medical centre in an urban setting in New Zealand. 
+PARTICIPANTS: 1471 postmenopausal women (mean age 74): 732 were randomised to calcium supplementation and 739 to placebo. 
+MAIN OUTCOME MEASURES: Adverse cardiovascular events over five years: death, sudden death, myocardial infarction, angina, other chest pain, stroke, transient ischaemic attack, and a composite end point of myocardial infarction, stroke, or sudden death. 
+RESULTS: Myocardial infarction was more commonly reported in the calcium group than in the placebo group (45 events in 31 women v 19 events in 14 women, P=0.01). 
+The composite end point of myocardial infarction, stroke, or sudden death was also more common in the calcium group (101 events in 69 women v 54 events in 42 women, P=0.008). 
+After adjudication myocardial infarction remained more common in the calcium group (24 events in 21 women v 10 events in 10 women, relative risk 2.12, 95% confidence interval 1.01 to 4.47). 
+For the composite end point 61 events were verified in 51 women in the calcium group and 36 events in 35 women in the placebo group (relative risk 1.47, 0.97 to 2.23). 
+When unreported events were added from the national database of hospital admissions in New Zealand the relative risk of myocardial infarction was 1.49 (0.86 to 2.57) and that of the composite end point was 1.21 (0.84 to 1.74). 
+The respective rate ratios were 1.67 (95% confidence intervals 0.98 to 2.87) and 1.43 (1.01 to 2.04); event rates: placebo 16.3/1000 person years, calcium 23.3/1000 person years. 
+For stroke (including unreported events) the relative risk was 1.37 (0.83 to 2.28) and the rate ratio was 1.45 (0.88 to 2.49). 
+CONCLUSION: Calcium supplementation in healthy postmenopausal women is associated with upward trends in cardiovascular event rates. 
+This potentially detrimental effect should be balanced against the likely benefits of calcium on bone. 
+TRIAL REGISTRATION: Australian Clinical Trials Registry ACTRN 012605000242628.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effect of calcium supplementation on myocardial infarction, stroke, and sudden death in healthy postmenopausal women.</s>
+    <s id="2" section="design">Randomised, placebo controlled trial.</s>
+    <s id="3" section="setting">Academic medical centre in an urban setting in New Zealand.</s>
+    <s id="10" section="results">When unreported events were added from the national database of hospital admissions in New Zealand the relative risk of myocardial infarction was 1.49 (0.86 to 2.57) and that of the composite end point was 1.21 (0.84 to 1.74).</s>
+    <s id="12" section="results">For stroke (including unreported events) the relative risk was 1.37 (0.83 to 2.28) and the rate ratio was 1.45 (0.88 to 2.49).</s>
+    <s id="13" section="conclusion">Calcium supplementation in healthy postmenopausal women is associated with upward trends in cardiovascular event rates.</s>
+    <s id="14" section="conclusion">This potentially detrimental effect should be balanced against the likely benefits of calcium on bone.</s>
+  </ignored>
+</abstract>
+

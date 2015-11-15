@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16763247">
+  <title>
+    <s id="0" section="title">
+      Effectiveness of
+      <group id="0">
+        discontinuing  antibiotic  treatment  after
+        <short>3  days</short>
+      </group>
+      versus
+      <group id="1">8  days</group>
+      in mild to moderate - severe community acquired pneumonia : randomised , double blind study .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To compare the effectiveness of
+      <group id="0">
+        discontinuing  treatment  with  amoxicillin  after
+        <short>3  days</short>
+      </group>
+      or
+      <group id="1">8  days</group>
+      in adults admitted to hospital with mild to moderate - severe community acquired pneumonia who substantially improved after an initial 3 days ' treatment .
+    </s>
+    <s id="3" section="setting">9 secondary and tertiary care hospitals in the Netherlands .</s>
+    <s id="4" section="participants">Adults with mild to moderate - severe community acquired pneumonia ( pneumonia severity index score &lt; or = 110 ) .</s>
+    <s id="5" section="interventions">
+      Patients who had substantially improved after 3 days ' treatment with intravenous amoxicillin were randomly assigned to
+      <group id="1">oral  amoxicillin</group>
+      ( n =
+      <gs group="1">63</gs>
+      ) or
+      <group id="0">placebo</group>
+      ( n =
+      <gs group="0">56</gs>
+      ) 3 times daily for 5 days .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      The primary outcome measure was the
+      <outcome id="0">clinical  success  rate</outcome>
+      at
+      <time id="0">day  10</time>
+      . Secondary outcome measures were the
+      <outcome id="0">clinical  success  rate</outcome>
+      at
+      <time id="1">day  28</time>
+      ,
+      <outcome id="1">symptom  resolution</outcome>
+      ,
+      <outcome id="2">radiological  success  rates</outcome>
+      at
+      <time id="0">days  10</time>
+      and
+      <time id="1">28</time>
+      , and
+      <outcome id="3" type="bad">adverse  events</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      Baseline characteristics were comparable , with the exception of symptom severity , which was worse in the
+      <group id="0">3  day  treatment  group</group>
+      .
+    </s>
+    <s id="8" section="results">
+      In the
+      <group id="0">3  day</group>
+      and
+      <group id="1">8  day  treatment</group>
+      groups the
+      <outcome id="0">clinical  success  rate</outcome>
+      at
+      <time id="0">day  10</time>
+      was 93 % for both ( difference 0.1 % , 95 % confidence interval --9 % to 10 % ) and at
+      <time id="1">day  28</time>
+      was 90 % compared with 88 % ( difference 2.0 %, --9 % to 15 % ) .
+    </s>
+    <s id="10" section="results">
+      <outcome id="2">Radiological  success  rates</outcome>
+      were 86 % compared with 83 % at
+      <time id="0">day  10</time>
+      ( difference 3 %, --10 % to 16 % ) and 86 % compared with 79 % at
+      <time id="1">day  28</time>
+      ( difference 6 %, --7 % to 20 % ) .
+    </s>
+    <s id="11" section="results">
+      <on group="0" outcome="3">6</on>
+      patients ( 11 % ) in the
+      <group id="0">placebo  group</group>
+      and
+      <on group="1" outcome="3">13</on>
+      patients ( 21 % ) in the
+      <group id="1">active  treatment  group</group>
+      reported
+      <outcome id="3" type="bad">adverse  events</outcome>
+      ( P = 0.1 ) .
+    </s>
+    <s id="12" section="conclusions">
+      <group id="0">
+        Discontinuing  amoxicillin  treatment  after
+        <short>3  days</short>
+      </group>
+      is not inferior to
+      <group id="1">
+        discontinuing  it  after
+        <short>8  days</short>
+      </group>
+      in adults admitted to hospital with mild to moderate - severe community acquired pneumonia who substantially improved after an initial 3 days ' treatment .
+    </s>
+  </annotated>
+  <fulltext>Effectiveness of discontinuing antibiotic treatment after 3 days versus 8 days in mild to moderate - severe community acquired pneumonia : randomised , double blind study . To compare the effectiveness of discontinuing treatment with amoxicillin after 3 days or 8 days in adults admitted to hospital with mild to moderate - severe community acquired pneumonia who substantially improved after an initial 3 days ' treatment . Randomised , double blind , placebo controlled non - inferiority trial . 9 secondary and tertiary care hospitals in the Netherlands . Adults with mild to moderate - severe community acquired pneumonia ( pneumonia severity index score &lt; or = 110 ) . Patients who had substantially improved after 3 days ' treatment with intravenous amoxicillin were randomly assigned to oral amoxicillin ( n = 63 ) or placebo ( n = 56 ) 3 times daily for 5 days . The primary outcome measure was the clinical success rate at day 10 . Secondary outcome measures were the clinical success rate at day 28 , symptom resolution , radiological success rates at days 10 and 28 , and adverse events . Baseline characteristics were comparable , with the exception of symptom severity , which was worse in the 3 day treatment group . In the 3 day and 8 day treatment groups the clinical success rate at day 10 was 93 % for both ( difference 0.1 % , 95 % confidence interval --9 % to 10 % ) and at day 28 was 90 % compared with 88 % ( difference 2.0 %, --9 % to 15 % ) . Both groups had similar resolution of symptoms . Radiological success rates were 86 % compared with 83 % at day 10 ( difference 3 %, --10 % to 16 % ) and 86 % compared with 79 % at day 28 ( difference 6 %, --7 % to 20 % ) . 6 patients ( 11 % ) in the placebo group and 13 patients ( 21 % ) in the active treatment group reported adverse events ( P = 0.1 ) . Discontinuing amoxicillin treatment after 3 days is not inferior to discontinuing it after 8 days in adults admitted to hospital with mild to moderate - severe community acquired pneumonia who substantially improved after an initial 3 days ' treatment .</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised , double blind , placebo controlled non - inferiority trial .</s>
+    <s id="9" section="results">
+      Both groups had similar
+      <outcome id="1">resolution  of  symptoms</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

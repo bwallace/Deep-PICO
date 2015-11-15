@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19638648">
+  <title>
+    <s id="0">Options for managing low grade cervical abnormalities detected at screening: cost effectiveness study.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">4201 women with low grade abnormalities.</s>
+    <s id="6" section="main outcome measures">Data on resource use collected from participants throughout the duration of the trial (36 months), enabling the estimation of both the direct (health care) and indirect (time and travel) costs of management.</s>
+    <s id="7" section="main outcome measures"><outcome id="1" type="good">Quality of life</outcome> assessed at recruitment and at 12, 18, 24, and 30 months, using the EQ-5D instrument.</s>
+    <s id="8" section="main outcome measures">Economic outcomes expressed as costs per case of cervical intraepithelial neoplasia ( grade II or worse ) detected , by trial arm , as confirmed at exit , and cost utility ratios ( cost per quality adjusted life year ( QALY ) gained ) for the 3 pairwise comparisons of trial arms .</s>
+    <s id="9" section="results">The mean 3 year <outcome id="0" type="good">discounted costs</outcome> of <group id="0" role="control">surveillance</group> , <group id="1" role="experiment">immediate treatment</group> , and <group id="2" type="experiment">biopsy and recall</group> were <on group="0" outcome="0">pound150.20 (euro177, $249)</on>, <on group="0" outcome="0">pound240.30 (euro283, $415)</on>, and <on group="0" outcome="0">pound241.10 (euro284, $4000)</on>, respectively, viewed from the health service perspective.</s>
+    <s id="10" section="results">From the social perspective, mean discounted costs were pound204.40 (euro241, $339), pound339.90 (euro440, $563), and pound327.50 (euro386, $543), respectively.</s>
+    <s id="11" section="results">Estimated at the means , the incremental cost effectiveness ratios indicated that immediate treatment was dominated by the other 2 management methods , although it did offer the lowest cost per case of cervical intraepithelial neoplasia detected and treated .</s>
+    <s id="14" section="conclusion">Judged within the time frame of the TOMBOLA evaluation , there is no compelling economic reason to favour any 1 follow - up method over either of the others .</s>
+    
+  </annotated>
+  <fulltext>OBJECTIVE: To estimate the cost effectiveness of alternative methods of managing low grade cervical cytological abnormalities detected at routine screening. 
+Design Cost analysis within multicentre individually randomised controlled trial. 
+SETTING: Grampian, Tayside, and Nottingham. 
+PARTICIPANTS: 4201 women with low grade abnormalities. 
+INTERVENTIONS: Cytological surveillance or referral to colposcopy for biopsy and recall if necessary or referral to colposcopy with immediate treatment based on colposcopic appearance. 
+MAIN OUTCOME MEASURES: Data on resource use collected from participants throughout the duration of the trial (36 months), enabling the estimation of both the direct (health care) and indirect (time and travel) costs of management. 
+Quality of life assessed at recruitment and at 12, 18, 24, and 30 months, using the EQ-5D instrument. 
+Economic outcomes expressed as costs per case of cervical intraepithelial neoplasia (grade II or worse) detected, by trial arm, as confirmed at exit, and cost utility ratios (cost per quality adjusted life year (QALY) gained) for the three pairwise comparisons of trial arms. 
+RESULTS: The mean three year discounted costs of surveillance, immediate treatment, and biopsy and recall were pound150.20 
+(euro177, $249), pound240.30 
+(euro283, $415), and pound241.10 
+(euro284, $4000), respectively, viewed from the health service perspective. 
+From the social perspective, mean discounted costs were pound204.40 
+(euro241, $339), pound339.90 
+(euro440, $563), and pound327.50 
+(euro386, $543), respectively. 
+Estimated at the means, the incremental cost effectiveness ratios indicated that immediate treatment was dominated by the other two management methods, although it did offer the lowest cost per case of cervical intraepithelial neoplasia detected and treated. 
+The pronounced skews in the distributions indicated that probabilistic uncertainty analysis would offer more meaningful estimates of cost effectiveness. 
+The observed differences in the cost effectiveness ratios between trial arms were not significant. 
+CONCLUSION: Judged within the time frame of the TOMBOLA evaluation, there is no compelling economic reason to favour any one follow-up method over either of the others. 
+TRIAL REGISTRATION: ISRCTN 34841617.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To estimate the cost effectiveness of alternative methods of managing low grade cervical cytological abnormalities detected at routine screening.</s>
+    <s id="2" section="objective">Design Cost analysis within multicentre individually randomised controlled trial.</s>
+    <s id="3" section="setting">Grampian, Tayside, and Nottingham.</s>
+    <s id="5" section="interventions">Cytological surveillance or referral to colposcopy for biopsy and recall if necessary or referral to colposcopy with immediate treatment based on colposcopic appearance.</s>
+    <s id="12" section="results">The pronounced skews in the distributions indicated that probabilistic uncertainty analysis would offer more meaningful estimates of cost effectiveness.</s>
+    <s id="13" section="results">The observed differences in the cost effectiveness ratios between trial arms were not significant.</s>
+    <s id="15" section="trial registration">ISRCTN 34841617.</s>  
+  </ignored>
+</abstract>
+

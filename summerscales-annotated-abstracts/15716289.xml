@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15716289">
+  <title>
+    <s id="0" section="title">
+      Cost effectiveness of
+      <group id="0">
+        nurse  led  secondary  prevention
+        <short>clinics</short>
+      </group>
+      for coronary heart disease in primary care : follow up of a randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To establish the cost effectiveness of
+      <group id="0">
+        nurse  led  secondary  prevention
+        <short>clinics</short>
+      </group>
+      for coronary heart disease based on 4 years ' follow up of a randomised controlled trial .
+    </s>
+    <s id="3" section="setting">19 general practices in north east Scotland .</s>
+    <s id="4" section="participants">
+      <ps>1343</ps>
+      patients (
+      <gs group="0">673</gs>
+      in
+      <group id="0">intervention  group</group>
+      and
+      <gs group="1">670</gs>
+      in
+      <group id="1">control  group</group>
+      , as originally randomised ) aged under 80 years with a diagnosis of coronary heart disease but without terminal illness or dementia and not housebound .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="4"><short>cost</short> of the intervention
+      ( clinics and drugs )</outcome> was 136 pounds sterling ( 254 dollars ; 195 euros ) per patient higher ( 1998 -9 prices ) in the
+      <group id="0">intervention  group</group>
+      , but the difference in other NHS costs , although lower for the
+      <group id="0">intervention  group</group>
+      , was not statistically significant .
+    </s>
+    <s id="8" section="results">
+      Overall ,
+      <on group="0" outcome="5">28</on>
+      fewer
+      <outcome id="5" type="bad">deaths</outcome>
+      occurred in the
+      <group id="0">intervention  group</group>
+      leading to a gain in
+      <outcome id="6">mean  life  years  per  patient</outcome>
+      of 0.110 and of 0.124 QALYs .
+    </s>
+    <s id="9" section="results">
+      The
+      <outcome id="2">incremental  cost  per  life  year  saved</outcome>
+      was 1236 pounds sterling and that
+      <outcome id="3">per  QALY</outcome>
+      was 1097 pounds sterling .
+    </s>
+  </annotated>
+  <fulltext>Cost effectiveness of nurse led secondary prevention clinics for coronary heart disease in primary care : follow up of a randomised controlled trial . To establish the cost effectiveness of nurse led secondary prevention clinics for coronary heart disease based on 4 years ' follow up of a randomised controlled trial . Cost effectiveness analysis . 19 general practices in north east Scotland . 1343 patients ( 673 in intervention group and 670 in control group , as originally randomised ) aged under 80 years with a diagnosis of coronary heart disease but without terminal illness or dementia and not housebound . Nurse led clinics to promote medical and lifestyle components of secondary prevention . Costs of clinics ; overall costs to health service ; and cost per life year and per quality adjusted life year ( QALY ) gained , expressed as incremental gain in intervention group compared with control group . The cost of the intervention ( clinics and drugs ) was 136 pounds sterling ( 254 dollars ; 195 euros ) per patient higher ( 1998 -9 prices ) in the intervention group , but the difference in other NHS costs , although lower for the intervention group , was not statistically significant . Overall , 28 fewer deaths occurred in the intervention group leading to a gain in mean life years per patient of 0.110 and of 0.124 QALYs . The incremental cost per life year saved was 1236 pounds sterling and that per QALY was 1097 pounds sterling . Nurse led clinics for the secondary prevention of coronary heart disease in primary care seem to be cost effective compared with most interventions in health care , with the main gains in life years saved .</fulltext>
+  <ignored>
+    <s id="2" section="design">Cost effectiveness analysis .</s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Nurse  led
+        <short>clinics</short>
+      </group>
+      to promote medical and lifestyle components of secondary prevention .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Costs  of</outcome>
+      <group id="0">clinics</group>
+      ;
+      <outcome id="1">overall  costs  to  health  service</outcome>
+      ; and
+      <outcome id="2">cost  per  life  year</outcome>
+      and
+      <outcome id="3">
+        per  quality  adjusted  life  year  (
+        <short>QALY</short>
+        )  gained
+      </outcome>
+      , expressed as incremental gain in
+      <group id="0">intervention  group</group>
+      compared with
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="10" section="conclusion">
+      <group id="0">
+        Nurse  led
+        <short>clinics</short>
+      </group>
+      for the secondary prevention of coronary heart disease in primary care seem to be cost effective compared with
+      <group id="1">
+        <short>most  interventions</short>
+        in  health  care
+      </group>
+      , with the main gains in
+      <outcome id="6">life  years  saved</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

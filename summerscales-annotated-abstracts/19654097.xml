@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19654097">
+  <title>
+    <s id="0">Laparoscopic fundoplication compared with medical management for gastro-oesophageal reflux disease: cost effectiveness study.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">The model compared <group id="0" role="experiment">laparoscopic surgery</group> and <group id="1" role="control">continued proton pump inhibitors</group> in male patients aged 45 and stable on GORD medication.</s>
+    <s id="8" section="results"> The base case model indicated that surgery is likely to be considered cost effective on average with an incremental <outcome id="0" type="good">cost effectiveness</outcome> ratio of pound2648 (euro3110; US$4385) per quality adjusted life year and that the probability that surgery is cost effective is 0.94 at a threshold incremental <outcome id="0" type="good">cost effectiveness</outcome> ratio of pound20 000.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To describe the long term costs, health benefits, and cost effectiveness of laparoscopic surgery compared with those of continued medical management for patients with gastro-oesophageal reflux disease (GORD). 
+DESIGN: We estimated resource use and costs for the first year on the basis of data from the REFLUX trial. 
+A Markov model was used to extrapolate cost and health benefit over a lifetime using data collected in the REFLUX trial and other sources. 
+PARTICIPANTS: The model compared laparoscopic surgery and continued proton pump inhibitors in male patients aged 45 and stable on GORD medication. 
+INTERVENTION: Laparoscopic surgery versus continued medical management. 
+MAIN OUTCOME MEASURES: We estimated quality adjusted life years and GORD related costs to the health service over a lifetime. 
+Sensitivity analyses considered other plausible scenarios, in particular size and duration of treatment effect and the GORD symptoms of patients in whom surgery is unsuccessful. 
+Main results The base case model indicated that surgery is likely to be considered cost effective on average with an incremental cost effectiveness ratio of pound2648 (euro3110; US$4385) per quality adjusted life year and that the probability that surgery is cost effective is 0.94 at a threshold incremental cost effectiveness ratio of pound20 000. 
+The results were sensitive to some assumptions within the extrapolation modelling. 
+CONCLUSION: Surgery seems to be more cost effective on average than medical management in many of the scenarios examined in this study. 
+Surgery might not be cost effective if the treatment effect does not persist over the long term, if patients who return to medical management have poor health related quality of life, or if proton pump inhibitors were cheaper. 
+Further follow-up of patients from the REFLUX trial may be valuable. 
+TRIAL REGISTRATION: ISRCTN15517081.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To describe the long term costs, health benefits, and cost effectiveness of laparoscopic surgery compared with those of continued medical management for patients with gastro-oesophageal reflux disease (GORD).</s>
+    <s id="2" section="design">We estimated resource use and costs for the first year on the basis of data from the REFLUX trial.</s>
+    <s id="3" section="design">A Markov model was used to extrapolate cost and health benefit over a lifetime using data collected in the REFLUX trial and other sources.</s>
+    <s id="5" section="intervention">Laparoscopic surgery versus continued medical management.</s>
+    <s id="6" section="main outcome measures">We estimated quality adjusted life years and GORD related costs to the health service over a lifetime.</s>
+    <s id="7" section="main outcome measures">Sensitivity analyses considered other plausible scenarios, in particular size and duration of treatment effect and the GORD symptoms of patients in whom surgery is unsuccessful.</s>
+    <s id="9" section="main outcome measures">The results were sensitive to some assumptions within the extrapolation modelling.</s>
+    <s id="10" section="conclusion">Surgery seems to be more cost effective on average than medical management in many of the scenarios examined in this study.</s>
+    <s id="11" section="conclusion">Surgery might not be cost effective if the treatment effect does not persist over the long term, if patients who return to medical management have poor health related quality of life, or if proton pump inhibitors were cheaper.</s>
+    <s id="12" section="conclusion">Further follow-up of patients from the REFLUX trial may be valuable.</s>
+    <s id="13" section="trial registration">ISRCTN15517081.</s>
+  </ignored>
+</abstract>
+

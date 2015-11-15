@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15746106">
+  <title>
+    <s id="0" section="title">
+      Incidence and risk factors for
+      <outcome id="0:1" type="bad">
+        non  -  alcoholic
+        <short>steatohepatitis</short>
+      </outcome>
+      : prospective study of
+      <ps>5408</ps>
+      women enrolled in Italian
+      <group id="0">tamoxifen</group>
+      chemoprevention trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting_and_participants">
+      <ps>5408</ps>
+      healthy women who had had hysterectomies , recruited into the Italian
+      <group id="0">tamoxifen</group>
+      chemoprevention trial from 58 centres in Italy .
+    </s>
+    <s id="4" section="intervention">
+      Women were randomly assigned to receive
+      <group id="0">
+        <short>tamoxifen</short>
+        (  20  mg  daily  )
+      </group>
+      or
+      <group id="1">placebo</group>
+      for
+      <time id="0">5  years</time>
+      .
+    </s>
+    <s id="5" section="main_outcome_measure">
+      Development of
+      <outcome id="0" type="bad">
+        non-alcoholic
+        <short>fatty  liver</short>
+        disease
+      </outcome>
+      in all women with normal baseline liver function who showed at least 2 elevations of alanine aminotransferase ( &gt; or = 1.5 times upper limit of normal ) over
+      <time id="1">a  6  month  period</time>
+      .
+    </s>
+    <s id="6" section="results">
+      During follow up , 64 women met the predefined criteria : 12 tested positive for hepatitis C virus , and the remaining 52 were suspected of having developed
+      <outcome id="0" type="bad">
+        non-alcoholic
+        <short>fatty  liver</short>
+        disease
+      </outcome>
+      (
+      <on group="0" outcome="0">34</on>
+      <group id="0">tamoxifen</group>
+      ,
+      <on group="1" outcome="0">18</on>
+      <group id="1">placebo</group>
+      )--hazard ratio = 2.0 ( 95 % confidence interval 1.1 to 3.5 ; P = 0.04 ) .
+    </s>
+    <s id="7" section="results">
+      In all 52 women ultrasonography confirmed the presence of
+      <outcome id="0" type="bad">fatty  liver</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      20 women had liver biopsies : 15 were diagnosed as having mild to moderate
+      <outcome id="0:1" type="bad">steatohepatitis</outcome>
+      (
+      <on group="0" outcome="0:1">12</on>
+      <group id="0">tamoxifen</group>
+      ,
+      <on group="1" outcome="0:1">3</on>
+      <group id="1">placebo</group>
+      ) , and 5 had
+      <outcome id="0" type="bad"><short>fatty liver</short>
+      alone</outcome> (
+      <on group="0" outcome="0">1</on>
+      <group id="0">tamoxifen</group>
+      ,
+      <on group="1" outcome="0">4</on>
+      <group id="1">placebo</group>
+      ) .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">Tamoxifen</group>
+      was associated with higher risk of development of
+      <outcome id="0:1" type="bad">
+        non  -  alcoholic
+        <short>steatohepatitis</short>
+      </outcome>
+      only in overweight and obese women with features of metabolic syndrome , but the disease , in both the
+      <group id="0">tamoxifen</group>
+      and the
+      <group id="1">placebo  group</group>
+      , after 10 years of follow up seems to be indolent .
+    </s>
+  </annotated>
+  <fulltext>Incidence and risk factors for non - alcoholic steatohepatitis : prospective study of 5408 women enrolled in Italian tamoxifen chemoprevention trial . To assess the incidence , cofactors , and excess risk of development of non-alcoholic fatty liver disease , including non - alcoholic steatohepatitis , attributable to tamoxifen in women . Prospective , randomised , double blind , placebo controlled trial . 5408 healthy women who had had hysterectomies , recruited into the Italian tamoxifen chemoprevention trial from 58 centres in Italy . Women were randomly assigned to receive tamoxifen ( 20 mg daily ) or placebo for 5 years . Development of non-alcoholic fatty liver disease in all women with normal baseline liver function who showed at least 2 elevations of alanine aminotransferase ( &gt; or = 1.5 times upper limit of normal ) over a 6 month period . During follow up , 64 women met the predefined criteria : 12 tested positive for hepatitis C virus , and the remaining 52 were suspected of having developed non-alcoholic fatty liver disease ( 34 tamoxifen , 18 placebo )--hazard ratio = 2.0 ( 95 % confidence interval 1.1 to 3.5 ; P = 0.04 ) . In all 52 women ultrasonography confirmed the presence of fatty liver . Other factors associated with the development of non - alcoholic fatty liver disease included overweight ( 2.4 , 1.2 to 4.8 ) , obesity ( 3.6 , 1.7 to 7.6 ) , hypercholesterolaemia ( 3.4 , 1.4 to 7.8 ) , and arterial hypertension ( 2.0 , 1.0 to 3.8 ) . 20 women had liver biopsies : 15 were diagnosed as having mild to moderate steatohepatitis ( 12 tamoxifen , 3 placebo ) , and 5 had fatty liver alone ( 1 tamoxifen , 4 placebo ) . No clinical , biochemical , ultrasonic , or histological signs suggestive of progression to cirrhosis were observed after a median follow up of 8.7 years . Tamoxifen was associated with higher risk of development of non - alcoholic steatohepatitis only in overweight and obese women with features of metabolic syndrome , but the disease , in both the tamoxifen and the placebo group , after 10 years of follow up seems to be indolent .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the incidence , cofactors , and excess risk of development of
+      <outcome id="0" type="bad">
+        non  -  alcoholic
+        <short>fatty  liver</short>
+        disease
+      </outcome>
+      , including
+      <outcome id="0:1" type="bad">
+        non  -  alcoholic
+        <short>steatohepatitis</short>
+      </outcome>
+      , attributable to
+      <group id="0">tamoxifen</group>
+      in women .
+    </s>
+    <s id="2" section="design">Prospective , randomised , double blind , placebo controlled trial .</s>
+    <s id="8" section="results">
+      Other factors associated with the development of
+      <outcome id="0" type="bad">
+        non  -  alcoholic
+        <short>fatty  liver</short>
+        disease
+      </outcome>
+      included overweight ( 2.4 , 1.2 to 4.8 ) , obesity ( 3.6 , 1.7 to 7.6 ) , hypercholesterolaemia ( 3.4 , 1.4 to 7.8 ) , and arterial hypertension ( 2.0 , 1.0 to 3.8 ) .
+    </s>
+    <s id="10" section="results">No clinical , biochemical , ultrasonic , or histological signs suggestive of progression to cirrhosis were observed after a median follow up of 8.7 years .</s>
+  </ignored>
+</abstract>
+

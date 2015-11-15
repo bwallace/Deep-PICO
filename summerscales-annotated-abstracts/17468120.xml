@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17468120">
+  <title>
+    <s id="0">Low dose aspirin and cognitive function in the women's health study cognitive cohort.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To determine whether low dose aspirin protects women aged 65 or more against cognitive decline.</s>
+    <s id="4" section="participants">6377 women aged 65 or more.</s>
+    <s id="6" section="main outcome measures">Women had 3 cognitive assessments at 2 year intervals by telephone.</s>
+    <s id="7" section="main outcome measures">The battery to assess cognition included 5 tests measuring general cognition, verbal memory, and category fluency.</s>
+    <s id="9" section="main outcome measures">The key secondary outcome was a verbal memory score, averaging performance on 4 measures of verbal memory.</s>
+    <s id="10" section="results">At the initial <outcome id="0" type="good">assessment (mean 5.6 years after randomisation) cognitive performance</outcome> in the <group id="0" role="experiment"><short>aspirin</short> group</group> was similar to that of the <group id="1" role="control"><short>placebo</short> group</group> (mean difference in global score -0.01, 95% confidence interval -0.04 to 0.02).</s>
+    <s id="11" section="results"><outcome id="1" type="good">Mean <short>decline in the global score</short> from the first to the final cognitive assessment</outcome> was also similar in <group id="0" role="experiment">the aspirin</group> compared with <group id="1" role="control"><short>placebo</short> groups</group> (mean difference 0.01, -0.02 to 0.04).</s>
+    <s id="12" section="results">The <outcome id="2" type="good">risk of substantial decline</outcome> (in the worst 10th centile of decline) was also comparable between the groups (relative risk 0.92, 0.77 to 1.10).</s>
+    <s id="14" section="conclusion">Long term use of low dose aspirin does not provide overall benefits for cognition among generally healthy women aged 65 or more.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether low dose aspirin protects women aged 65 or more against cognitive decline. 
+DESIGN: Cohort study within both arms of the women's health study, a randomised, double blind, placebo controlled trial of low dose aspirin for the primary prevention of cardiovascular disease and cancer, 1992-5. 
+SETTING: Women's health study, 1998-2004. 
+PARTICIPANTS: 6377 women aged 65 or more. 
+INTERVENTIONS: Low dose aspirin (100 mg on alternate days) or placebo for a mean of 9.6 years. 
+MAIN OUTCOME MEASURES: Women had three cognitive assessments at two year intervals by telephone. 
+The battery to assess cognition included five tests measuring general cognition, verbal memory, and category fluency. 
+The primary prespecified outcome was a global score, averaging performance across all tests. 
+The key secondary outcome was a verbal memory score, averaging performance on four measures of verbal memory. 
+RESULTS: At the initial assessment (mean 5.6 years after randomisation) cognitive performance in the aspirin group was similar to that of the placebo group (mean difference in global score -0.01, 95% confidence interval -0.04 to 0.02). 
+Mean decline in the global score from the first to the final cognitive assessment was also similar in the aspirin compared with placebo groups (mean difference 0.01, -0.02 to 0.04). 
+The risk of substantial decline (in the worst 10th centile of decline) was also comparable between the groups (relative risk 0.92, 0.77 to 1.10). 
+Findings were similar for verbal memory; however, a 20% lower risk was observed for decline in category fluency with aspirin (relative risk 0.80, 0.67 to 0.97). 
+CONCLUSION: Long term use of low dose aspirin does not provide overall benefits for cognition among generally healthy women aged 65 or more.</fulltext>
+  <ignored>
+    <s id="2" section="design">Cohort study within both arms of the women's health study, a randomised, double blind, placebo controlled trial of low dose aspirin for the primary prevention of cardiovascular disease and cancer, 1992-5.</s>
+    <s id="3" section="setting">Women's health study, 1998-2004.</s>
+    <s id="5" section="interventions">Low dose aspirin (100 mg on alternate days) or placebo for a mean of 9.6 years.</s>
+    <s id="8" section="main outcome measures">The primary prespecified outcome was a global score, averaging performance across all tests.</s>
+    <s id="13" section="results">Findings were similar for verbal memory; however, a 20% lower risk was observed for decline in category fluency with aspirin (relative risk 0.80, 0.67 to 0.97).</s>
+  </ignored>
+</abstract>
+

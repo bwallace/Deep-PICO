@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16339217">
+  <title>
+    <s id="0" section="title">
+      Economic evaluation of a
+      <group id="0">
+        <short>general  practitioner  with  special  interests</short>
+        led  dermatology  service
+      </group>
+      in primary care .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">General practitioner with special interest dermatology service covering 29 general practices in Bristol .</s>
+    <s id="5" section="interventions">
+      Participants were randomised 2 : 1 to receive either
+      <group id="0">
+        care  by
+        <short>general  practitioner  with  special  interest</short>
+        service
+      </group>
+      or
+      <group id="1">usual  hospital  outpatient  care</group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="4">Cost  effectiveness</outcome>
+      , using the 2 primary outcomes of
+      <outcome id="4:0">dermatology  life  quality  index  scores</outcome>
+      and
+      <outcome id="4:1">
+        improved
+        <short>patient  perceived  access</short>
+      </outcome>
+      , was assessed by
+      <outcome id="4:2">incremental  cost  effectiveness  ratios</outcome>
+      and
+      <outcome id="4:3">cost  effectiveness  acceptability  curves</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="0">Costs  to  the  NHS</outcome>
+      for
+      <group id="0">patients  attending  the  general  practitioner  with  special  interest  service</group>
+      were 208 pounds sterling ( 361 dollars ; 308 euro ) compared with 118 pounds sterling for
+      <group id="1">hospital  outpatient  care</group>
+      .
+    </s>
+    <s id="10" section="results">
+      Based on analysis with imputation of missing data ,
+      <outcome id="1">costs  to  patients</outcome>
+      and
+      <outcome id="2">companions</outcome>
+      were 48 pounds sterling and 51 pounds sterling , respectively ;
+      <outcome id="3">costs  of  lost  production</outcome>
+      were 27 pounds sterling and 34 pounds sterling , respectively .
+    </s>
+    <s id="11" section="results">
+      The
+      <outcome id="4:2">incremental  cost  effectiveness  ratios</outcome>
+      for
+      <group id="0">general  practitioner  with  special  interest  care</group>
+      over
+      <group id="1">outpatient  care</group>
+      were 540 pounds sterling per 1 point gain in the
+      <outcome id="4:0">dermatology  life  quality  index</outcome>
+      and 66 pounds sterling per 10 point change in the
+      <outcome id="4:1">access  scale</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Economic evaluation of a general practitioner with special interests led dermatology service in primary care . To carry out an economic evaluation of a general practitioner with special interest service for non - urgent skin problems compared with hospital outpatient care . Cost effectiveness analysis and cost consequences analysis alongside a randomised controlled trial . General practitioner with special interest dermatology service covering 29 general practices in Bristol . Adults referred to a hospital dermatology clinic who were potentially suitable for management by a general practitioner with special interest . Participants were randomised 2 : 1 to receive either care by general practitioner with special interest service or usual hospital outpatient care . Costs to NHS , patients , and companions , and costs of lost production . Cost effectiveness , using the 2 primary outcomes of dermatology life quality index scores and improved patient perceived access , was assessed by incremental cost effectiveness ratios and cost effectiveness acceptability curves . Cost consequences are presented in relation to all costs and both primary and secondary outcomes from the trial . Costs to the NHS for patients attending the general practitioner with special interest service were 208 pounds sterling ( 361 dollars ; 308 euro ) compared with 118 pounds sterling for hospital outpatient care . Based on analysis with imputation of missing data , costs to patients and companions were 48 pounds sterling and 51 pounds sterling , respectively ; costs of lost production were 27 pounds sterling and 34 pounds sterling , respectively . The incremental cost effectiveness ratios for general practitioner with special interest care over outpatient care were 540 pounds sterling per 1 point gain in the dermatology life quality index and 66 pounds sterling per 10 point change in the access scale . The general practitioner with special interest service for dermatology is more costly than hospital outpatient care , but this additional cost needs to be weighed against improved access and broadly similar health outcomes .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To carry out an economic evaluation of a
+      <group id="0">
+        <short>general  practitioner  with  special  interest</short>
+        service  for  non  -  urgent  skin  problems
+      </group>
+      compared with
+      <group id="1">hospital  outpatient  care</group>
+      .
+    </s>
+    <s id="2" section="design">Cost effectiveness analysis and cost consequences analysis alongside a randomised controlled trial .</s>
+    <s id="4" section="participants">
+      Adults referred to a hospital dermatology clinic who were potentially suitable for
+      <group id="0">
+        management  by  a
+        <short>general  practitioner  with  special  interest</short>
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Costs  to  NHS</outcome>
+      ,
+      <outcome id="1">patients</outcome>
+      , and
+      <outcome id="2">companions</outcome>
+      , and
+      <outcome id="3">costs  of  lost  production</outcome>
+      .
+    </s>
+    <s id="8" section="main_outcome_measures">Cost consequences are presented in relation to all costs and both primary and secondary outcomes from the trial .</s>
+    <s id="12" section="conclusions">
+      The
+      <group id="0">
+        <short>general  practitioner  with  special  interest</short>
+        service  for  dermatology
+      </group>
+      is more costly than
+      <group id="1">hospital  outpatient  care</group>
+      , but this additional cost needs to be weighed against
+      <outcome id="5">improved  access</outcome>
+      and
+      <outcome id="6">broadly  similar  health  outcomes</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

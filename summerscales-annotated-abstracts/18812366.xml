@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18812366">
+  <title>
+    <s id="0">Effects of improved home heating on asthma in community dwelling children: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Households in 5 communities in New Zealand .</s>
+    <s id="4" section="participants">409 children aged 6-12 years with doctor diagnosed asthma.</s>
+    <s id="7" section="main outcome measures">The primary outcome was change in lung function ( peak expiratory flow rate and forced expiratory volume in 1 second , FEV(1) ) .</s>
+    <s id="9" section="main outcome measures">At the end of winter 2005 (baseline) and winter 2006 (follow-up) parents reported their child's general health, use of health services, overall respiratory health, and housing conditions.</s>
+    <s id="10" section="main outcome measures">Nitrogen dioxide levels were measured monthly for 4 months and temperatures in the living room and child 's bedroom were recorded hourly .</s>
+    <s id="11" section="results">Improvements in <outcome id="0" type="good">lung function</outcome> were not significant (difference in mean FEV(1) 130.7 ml, 95% confidence interval -20.3 to 281.7).</s>
+    <s id="12" section="results">Compared with children in the <group id="0" role="control">control group</group>, however, children in the <group id="1" role="experiment">intervention group</group> had 1.80 fewer <outcome id="1" type="bad">days off school</outcome> (95% confidence interval 0.11 to 3.13), 0.40 fewer <outcome id="2" type="bad">visits to a doctor for asthma</outcome> (0.11 to 0.62), and 0.25 fewer <outcome id="3" type="bad">visits to a pharmacist for asthma</outcome> (0.09 to 0.32).</s>
+    <s id="13" section="results">Children in the intervention group also had fewer reports of poor health (adjusted odds ratio 0.48, 95% confidence interval 0.31 to 0.74), less <outcome id="4" type="bad">sleep disturbed by wheezing</outcome> (0.55, 0.35 to 0.85), less <outcome id="5" type="bad">dry cough at night</outcome> (0.52, 0.32 to 0.83), and reduced scores for lower <outcome id="6" type="bad">respiratory tract symptoms</outcome> (0.77, 0.73 to 0.81) than children in the <group id="0" role="control">control group</group>.</s>
+    <s id="14" section="results">The <group id="1" role="experiment">intervention</group> was associated with a <outcome id="7">mean <short>temperature rise</short> in the living room of 1.10 degrees C (95% confidence interval 0.54 degrees C to 1.64 degrees C) and in the child's bedroom of 0.57 degrees C</outcome> (0.05 degrees C to 1.08 degrees C). Lower levels of nitrogen dioxide were measured in the living rooms of the intervention households than in those of the control households (geometric mean 8.5 microg/m(3) v 15.7 microg/m(3), P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess whether non-polluting, more effective home heating (heat pump, wood pellet burner, flued gas) has a positive effect on the health of children with asthma. 
+DESIGN: Randomised controlled trial. 
+SETTING: Households in five communities in New Zealand. 
+PARTICIPANTS: 409 children aged 6-12 years with doctor diagnosed asthma. 
+INTERVENTIONS: Installation of a non-polluting, more effective home heater before winter. 
+The control group received a replacement heater at the end of the trial. 
+MAIN OUTCOME MEASURES: The primary outcome was change in lung function (peak expiratory flow rate and forced expiratory volume in one second, FEV(1)). 
+Secondary outcomes were child reported respiratory tract symptoms and daily use of preventer and reliever drugs. 
+At the end of winter 2005 (baseline) and winter 2006 (follow-up) parents reported their child's general health, use of health services, overall respiratory health, and housing conditions. 
+Nitrogen dioxide levels were measured monthly for four months and temperatures in the living room and child's bedroom were recorded hourly. 
+RESULTS: Improvements in lung function were not significant (difference in mean FEV(1) 130.7 ml, 95% confidence interval -20.3 to 281.7). 
+Compared with children in the control group, however, children in the intervention group had 1.80 fewer days off school (95% confidence interval 0.11 to 3.13), 0.40 fewer visits to a doctor for asthma (0.11 to 0.62), and 0.25 fewer visits to a pharmacist for asthma (0.09 to 0.32). 
+Children in the intervention group also had fewer reports of poor health (adjusted odds ratio 0.48, 95% confidence interval 0.31 to 0.74), less sleep disturbed by wheezing (0.55, 0.35 to 0.85), less dry cough at night (0.52, 0.32 to 0.83), and reduced scores for lower respiratory tract symptoms (0.77, 0.73 to 0.81) than children in the control group. 
+The intervention was associated with a mean temperature rise in the living room of 1.10 degrees C (95% confidence interval 0.54 degrees C to 1.64 degrees C) and in the child's bedroom of 0.57 degrees C (0.05 degrees C to 1.08 degrees C). Lower levels of nitrogen dioxide were measured in the living rooms of the intervention households than in those of the control households (geometric mean 8.5 microg/m(3) v 15.7 microg/m(3), P&lt;0.001). 
+A similar effect was found in the children's bedrooms (7.3 microg/m(3) v 10.9 microg/m(3), P&lt;0.001). 
+CONCLUSION: Installing non-polluting, more effective heating in the homes of children with asthma did not significantly improve lung function but did significantly reduce symptoms of asthma, days off school, healthcare utilisation, and visits to a pharmacist. 
+TRIAL REGISTRATION: Clinical Trials NCT00489762.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess whether non-polluting, more effective home heating (heat pump, wood pellet burner, flued gas) has a positive effect on the health of children with asthma.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="5" section="interventions">Installation of a non-polluting, more effective home heater before winter.</s>
+    <s id="6" section="interventions">The control group received a replacement heater at the end of the trial.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were child reported respiratory tract symptoms and daily use of preventer and reliever drugs.</s>
+    <s id="15" section="results">A similar effect was found in the children's bedrooms (7.3 microg/m(3) v 10.9 microg/m(3), P&lt;0.001).</s>
+    <s id="16" section="conclusion">Installing non-polluting, more effective heating in the homes of children with asthma did not significantly improve lung function but did significantly reduce symptoms of asthma, days off school, healthcare utilisation, and visits to a pharmacist.</s>
+    <s id="17" section="trial registration">Clinical Trials NCT00489762.</s>
+  </ignored>
+</abstract>
+

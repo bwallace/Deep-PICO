@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17611232">
+  <title>
+    <s id="0">Antibiotic treatment for pyelonephritis in children: multicentre randomised controlled non-inferiority trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">28 paediatric units in north east Italy.</s>
+    <s id="4" section="participants">502 children aged 1 month to &lt;7 years with clinical pyelonephritis.</s>
+    <s id="5" section="intervention"><group id="0" role="control">Oral co-amoxiclav</group> (50 mg/kg/day in three doses for 10 days) or <group id="1" role="experiment"><short>parenteral ceftriaxone</short> (50 mg/kg/day in a single parenteral dose) for three days, followed by oral co-amoxiclav</group> (50 mg/kg/day in three divided doses for seven days).</s>
+    <s id="7" section="main outcome measures">Secondary measures of efficacy were <outcome id="1" type="good">time to defervescence</outcome> (&lt;37 degrees C), reduction in inflammatory indices, and percentage with sterile urine after 72 hours.</s>
+    <s id="8" section="main outcome measures">An exploratory subgroup analysis was conducted in the children in whom pyelonephritis was confirmed by dimercaptosuccinic acid (DMSA) scintigraphy within 10 days after study entry.</s>
+    <s id="9" section="results">Intention to treat analysis showed no significant differences between <group id="0" role="control">oral</group> (n=<gs group="0">244</gs>) and <group id="1" role="experiment">parenteral</group> (n=<gs group="1">258</gs>) treatment, both in the primary outcome (<outcome id="0" type="bad">scarring scintigraphy</outcome> at <time id="0">12 months</time> <on outcome="0" group="0">27</on>/<gs group="0">197</gs> (13.7%) v <on outcome="0" group="1">36</on>/<gs group="1">203</gs> (17.7%), difference in risk -4%, 95% confidence interval -11.1% to 3.1%) and secondary outcomes (<outcome id="1" type="good">time to defervescence</outcome> 36.9 hours (SD 19.7) v 34.3 hours (SD 20), mean difference 2.6 (-0.9 to 6.0); <outcome id="2" type="good">white cell count</outcome> 9.8x10(9)/l (SD 3.5) v 9.5x10(9)/l (SD 3.1), mean difference 0.3 (-0.3 to 0.9); <outcome id="3" type="good">percentage with <short>sterile urine</short></outcome> <on group="0" outcome="3">185</on>/<gs group="0">186</gs> v <on group="1" outcome="3">203</on>/<gs group="1">204</gs>, risk difference -0.05% (-1.5% to 1.4%)).</s>
+	<s id="10" section="results">Similar results were found in the subgroup of 278 children with confirmed acute pyelonephritis on <outcome id="0" type="bad">scintigraphy</outcome> at study entry.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the efficacy of oral antibiotic treatment alone with treatment started parenterally and completed orally in children with a first episode of acute pyelonephritis. 
+DESIGN: Multicentre, randomised controlled, open labelled, parallel group, non-inferiority trial. 
+SETTING: 28 paediatric units in north east Italy. 
+PARTICIPANTS: 502 children aged 1 month to &lt;7 years with clinical pyelonephritis. 
+INTERVENTION: Oral co-amoxiclav (50 mg/kg/day in three doses for 10 days) or parenteral ceftriaxone (50 mg/kg/day in a single parenteral dose) for three days, followed by oral co-amoxiclav (50 mg/kg/day in three divided doses for seven days). 
+Main outcomes measures Primary outcome was the rate of renal scarring. 
+Secondary measures of efficacy were time to defervescence (&lt;37 degrees C), reduction in inflammatory indices, and percentage with sterile urine after 72 hours. 
+An exploratory subgroup analysis was conducted in the children in whom pyelonephritis was confirmed by dimercaptosuccinic acid (DMSA) scintigraphy within 10 days after study entry. 
+RESULTS: Intention to treat analysis showed no significant differences between oral (n=244) and parenteral (n=258) treatment, both in the primary outcome (scarring scintigraphy at 12 months 27/197 (13.7%) v 36/203 (17.7%), difference in risk -4%, 95% confidence interval -11.1% to 3.1%) and secondary outcomes (time to defervescence 36.9 hours (SD 19.7) v 34.3 hours (SD 20), mean difference 2.6 (-0.9 to 6.0); white cell count 9.8x10(9)/l (SD 3.5) v 9.5x10(9)/l (SD 3.1), mean difference 0.3 (-0.3 to 0.9); percentage with sterile urine 185/186 v 203/204, risk difference -0.05% (-1.5% to 1.4%)). 
+Similar results were found in the subgroup of 278 children with confirmed acute pyelonephritis on scintigraphy at study entry. 
+CONCLUSIONS: Treatment with oral antibiotics is as effective as parenteral then oral treatment in the management of the first episode of clinical pyelonephritis in children. 
+TRIAL REGISTRATION: Clinical Trials NCT00161330 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the efficacy of oral antibiotic treatment alone with treatment started parenterally and completed orally in children with a first episode of acute pyelonephritis.</s>
+    <s id="2" section="design">Multicentre, randomised controlled, open labelled, parallel group, non-inferiority trial.</s>
+    <s id="6" section="main outcomes measures"> Primary outcome was the rate of renal scarring.</s>
+    <s id="11" section="conclusions">Treatment with oral antibiotics is as effective as parenteral then oral treatment in the management of the first episode of clinical pyelonephritis in children.</s>
+    <s id="12" section="trial registration">Clinical Trials NCT00161330 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

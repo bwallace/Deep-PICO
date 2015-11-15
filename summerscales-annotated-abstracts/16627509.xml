@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16627509">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Age  related  ,  structured  educational  programmes</group>
+      for the management of atopic dermatitis in children and adolescents : multicentre , randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 hospitals in Germany .</s>
+    <s id="4" section="participants">Parents of children with atopic dermatitis aged 3 months to 7 years ( n = 274 ) and 8-12 years ( n = 102 ) , adolescents with atopic dermatitis aged 13-18 years ( n = 70 ) , and controls ( n = 244 , n = 83 , and n = 50 , respectively ) .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        <short>Group  sessions  of  standardised  intervention  programmes  for  atopic  dermatitis</short>
+        once  weekly  for  6  weeks
+      </group>
+      or
+      <group id="1">no  education</group>
+      (
+      <group id="1">control  group</group>
+      ) .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Severity  of  eczema</short>
+        (  scoring  of  atopic  dermatitis  scale  )
+      </outcome>
+      ,
+      <outcome id="1">
+        <short>subjective  severity</short>
+        (  standardised  questionnaires  )
+      </outcome>
+      , and
+      <outcome id="2">
+        <short>quality  of  life</short>
+        for  parents  of  affected  children  aged  less  than  13  years
+      </outcome>
+      , over
+      <time id="0">12  months</time>
+      .
+    </s>
+    <s id="7" section="results">
+      Significant improvements in
+      <outcome id="0">severity  of  eczema</outcome>
+      and
+      <outcome id="1">subjective  severity</outcome>
+      were seen in
+      <group id="0">all  intervention  groups</group>
+      compared with
+      <group id="1">control  groups</group>
+      ( total score for severity : age 3 months to 7 years - 17.5 , 95 % confidence intervals - 19.6 to - 15.3 v - 12.2 , - 14.3 to - 10.1 ; age 8-12 years - 16.0 , - 20.0 to - 12.0 v - 7.8 , - 11.4 ; - 4.3 ; and age 13-18 years - 19.7 , - 23.7 to - 15.7 v - 5.2 , - 10.5 to 0.1 ) .
+    </s>
+    <s id="8" section="results">
+      Parents of affected children aged less than 7 years experienced significantly better improvement in
+      <outcome id="2">all  5  quality  of  life  subscales</outcome>
+      , whereas parents of affected children aged 8-12 years experienced significantly better improvement in
+      <outcome id="2">3  of  5  quality  of  life  subscales</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Age related , structured educational programmes for the management of atopic dermatitis in children and adolescents : multicentre , randomised controlled trial . To determine the effects of age related , structured educational programmes on the management of moderate to severe atopic dermatitis in childhood and adolescence . Multicentre , randomised controlled trial . 7 hospitals in Germany . Parents of children with atopic dermatitis aged 3 months to 7 years ( n = 274 ) and 8-12 years ( n = 102 ) , adolescents with atopic dermatitis aged 13-18 years ( n = 70 ) , and controls ( n = 244 , n = 83 , and n = 50 , respectively ) . Group sessions of standardised intervention programmes for atopic dermatitis once weekly for 6 weeks or no education ( control group ) . Severity of eczema ( scoring of atopic dermatitis scale ) , subjective severity ( standardised questionnaires ) , and quality of life for parents of affected children aged less than 13 years , over 12 months . Significant improvements in severity of eczema and subjective severity were seen in all intervention groups compared with control groups ( total score for severity : age 3 months to 7 years - 17.5 , 95 % confidence intervals - 19.6 to - 15.3 v - 12.2 , - 14.3 to - 10.1 ; age 8-12 years - 16.0 , - 20.0 to - 12.0 v - 7.8 , - 11.4 ; - 4.3 ; and age 13-18 years - 19.7 , - 23.7 to - 15.7 v - 5.2 , - 10.5 to 0.1 ) . Parents of affected children aged less than 7 years experienced significantly better improvement in all 5 quality of life subscales , whereas parents of affected children aged 8-12 years experienced significantly better improvement in 3 of 5 quality of life subscales . Age related educational programmes for the control of atopic dermatitis in children and adolescents are effective in the long term management of the disease .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the effects of
+      <group id="0">age  related  ,  structured  educational  programmes</group>
+      on the management of moderate to severe atopic dermatitis in childhood and adolescence .
+    </s>
+    <s id="2" section="design">Multicentre , randomised controlled trial .</s>
+    <s id="9" section="conclusion">
+      <group id="0">Age  related  educational  programmes</group>
+      for the control of atopic dermatitis in children and adolescents are effective in the long term management of the disease .
+    </s>
+  </ignored>
+</abstract>
+

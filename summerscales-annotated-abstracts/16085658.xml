@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16085658">
+  <title>
+    <s id="0" section="title">
+      Single blind , randomised , comparative study of the
+      <group id="0">Bug  Buster  kit</group>
+      and
+      <group id="1">
+        over  the  counter
+        <short>pediculicide</short>
+        treatments
+      </group>
+      against
+      <outcome id="0">head  lice</outcome>
+      in the United Kingdom .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">4 counties in England and 1 county in Scotland .</s>
+    <s id="4" section="participants">
+      <ps>133</ps>
+      young people aged 2-15 years with head louse infestation :
+      <gs group="0">56</gs>
+      were allocated to the
+      <group id="0">Bug  Buster  kit</group>
+      and
+      <gs group="1">70</gs>
+      to
+      <group id="1">pediculicides  treatment</group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="0">
+        <short>Presence  of  head  lice</short>
+        2-4  days  after
+        <time id="0">end  of  treatment</time>
+      </outcome>
+      : day 5 for the
+      <group id="1">pediculicides</group>
+      and day 15 for the
+      <group id="0">Bug  Buster  kit</group>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0">cure  rate</outcome>
+      using the
+      <group id="0">Bug  Buster  kit</group>
+      was significantly greater than that for the
+      <group id="1">pediculicides</group>
+      ( 57 % v 13 % ; relative risk 4.4 , 95 % confidence interval 2.3 to 8.5 ) .
+    </s>
+  </annotated>
+  <fulltext>Single blind , randomised , comparative study of the Bug Buster kit and over the counter pediculicide treatments against head lice in the United Kingdom . To compare the effectiveness of the Bug Buster kit with a single treatment of over the counter pediculicides for eliminating head lice . Single blind , multicentre , randomised , comparative clinical study . 4 counties in England and 1 county in Scotland . 133 young people aged 2-15 years with head louse infestation : 56 were allocated to the Bug Buster kit and 70 to pediculicides treatment . Home use of proprietary pediculicides ( organophosphate or pyrethroid ) or the Bug Buster kit . Presence of head lice 2-4 days after end of treatment : day 5 for the pediculicides and day 15 for the Bug Buster kit . The cure rate using the Bug Buster kit was significantly greater than that for the pediculicides ( 57 % v 13 % ; relative risk 4.4 , 95 % confidence interval 2.3 to 8.5 ) . Number needed to treat for the Bug Buster kit compared with the pediculicides was 2.26 . The Bug Buster kit was the most effective over the counter treatment for head louse infestation in the community when compared with pediculicides .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the effectiveness of the
+      <group id="0">Bug  Buster  kit</group>
+      with a
+      <group id="1">
+        single  treatment  of  over  the  counter
+        <short>pediculicides</short>
+      </group>
+      for
+      <outcome id="0">eliminating  head  lice</outcome>
+      .
+    </s>
+    <s id="2" section="design">Single blind , multicentre , randomised , comparative clinical study .</s>
+    <s id="5" section="interventions">
+      <group id="1">
+        Home  use  of  proprietary
+        <short>pediculicides</short>
+        (  organophosphate  or  pyrethroid  )
+      </group>
+      or the
+      <group id="0">Bug  Buster  kit</group>
+      .
+    </s>
+    <s id="8" section="results">
+      Number needed to treat for the
+      <group id="0">Bug  Buster  kit</group>
+      compared with the
+      <group id="1">pediculicides</group>
+      was 2.26 .
+    </s>
+    <s id="9" section="conclusion">
+      The
+      <group id="0">Bug  Buster  kit</group>
+      was the most effective over the counter treatment for head louse infestation in the community when compared with
+      <group id="1">pediculicides</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

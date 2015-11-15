@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18056743">
+  <title>
+    <s id="0">Advice to use topical or oral ibuprofen for chronic knee pain in older people: randomised controlled trial and patient preference study.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">26 general practices.</s>
+    <s id="4" section="participants">People aged &gt; or =50 with knee pain: 282 in randomised trial and 303 in preference study.</s>
+    <s id="7" section="results">Changes in global WOMAC scores at 12 months were equivalent.</s>
+    <s id="8" section="results">In the randomised trial the difference (topical minus oral) was 2 points (95% confidence interval -2 to 6); in the preference study, it was 1 point (-4 to 6).</s>
+    <s id="12" section="results">In the <group id="1" role="experiment">topical group</group> more participants <outcome id="0" type="bad">had chronic pain grade III or IV</outcome> at <time id="1">three months</time>, and more participants <outcome id="1" type="bad">changed treatment</outcome> because of ineffectiveness.</s>
+    <s id="13" section="conclusions">Advice to use oral or topical preparations has an equivalent effect on knee pain over 1 year, and there are more minor side effects with oral NSAIDs.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether older patients with chronic knee pain should be advised to use topical or oral non-steroidal anti-inflammatory drugs (NSAIDs). 
+DESIGN: Randomised controlled trial and patient preference study. 
+SETTING: 26 general practices. 
+PARTICIPANTS: People aged &gt; or =50 with knee pain: 282 in randomised trial and 303 in preference study. 
+INTERVENTIONS: Advice to use topical or oral ibuprofen. 
+Primary outcome measures WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, major and minor adverse effects. 
+RESULTS: Changes in global WOMAC scores at 12 months were equivalent. 
+In the randomised trial the difference (topical minus oral) was two points (95% confidence interval -2 to 6); in the preference study, it was one point (-4 to 6). 
+There were no differences in major adverse effects in the trial or study. 
+The only significant differences in secondary outcomes were in the randomised trial. 
+The oral group had more respiratory adverse effects (17% v 7%,95% confidence interval for difference -17% to -2%), the change in serum creatinine was 3.7 mmol/l less favourable (0.9 micromol/l to 6.5 micromol/l); and more participants changed treatments because of adverse effects (16% v 1%, -16% to -5%). 
+In the topical group more participants had chronic pain grade III or IV at three months, and more participants changed treatment because of ineffectiveness. 
+CONCLUSIONS: Advice to use oral or topical preparations has an equivalent effect on knee pain over one year, and there are more minor side effects with oral NSAIDs. 
+Topical NSAIDs may be a useful alternative to oral NSAIDs. 
+TRIAL REGISTRATION: ISRCTN 79353052.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether older patients with chronic knee pain should be advised to use topical or oral non-steroidal anti-inflammatory drugs (NSAIDs).</s>
+    <s id="2" section="design">Randomised controlled trial and patient preference study.</s>
+    <s id="5" section="interventions">Advice to use topical or oral ibuprofen.</s>
+    <s id="6" section="interventions">Primary outcome measures WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, major and minor adverse effects.</s>
+    <s id="9" section="results">There were no differences in major adverse effects in the trial or study.</s>
+    <s id="10" section="results">The only significant differences in secondary outcomes were in the randomised trial.</s>
+    <s id="11" section="results">The oral group had more respiratory adverse effects (17% v 7%,95% confidence interval for difference -17% to -2%), the change in serum creatinine was 3.7 mmol/l less favourable (0.9 micromol/l to 6.5 micromol/l); and more participants changed treatments because of adverse effects (16% v 1%, -16% to -5%).</s>
+    <s id="14" section="conclusions">Topical NSAIDs may be a useful alternative to oral NSAIDs.</s>
+    <s id="15" section="trial registration">ISRCTN 79353052.</s>  
+  </ignored>
+</abstract>
+

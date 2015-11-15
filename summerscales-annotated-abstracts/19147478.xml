@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19147478">
+  <title>
+    <s id="0">Comparing hospital and telephone follow-up after treatment for breast cancer: randomised equivalence trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">A 2 centre randomised equivalence trial in which women remained in the study for a mean of <time id="0">24 months</time> .</s>
+    <s id="3" section="setting">Outpatient clinics in 2 NHS hospital trusts in the north west of England.</s> 
+    <s id="4" section="participants">374 women treated for breast cancer who were at low to moderate risk of recurrence .</s>
+    <s id="7" section="results">The 95% confidence interval for difference in <outcome id="1" type="good">mean <short>state-trait</short> scores adjusted for treatment received</outcome> (-3.33 to 2.07) was within the predefined equivalence region (-3.5 to 3.5).</s>
+    <s id="10" section="results"><outcome id="0" type="bad">Recurrences</outcome> were few (4.5%), with no differences between groups for time to detection (median 60.5 (range 37-131) days in <group id="0" role="experiment"><short>hospital</short> group</group> v 39.0 (10-152) days in <group id="1" role="control"><short>telephone</short> group</group>; P=0.228).</s>
+   
+  </annotated>
+  <fulltext>OBJECTIVE: To compare traditional hospital follow-up with telephone follow-up by specialist nurses after treatment for breast cancer. 
+DESIGN: A two centre randomised equivalence trial in which women remained in the study for a mean of 24 months. 
+SETTING: Outpatient clinics in two NHS hospital trusts in the north west of England PARTICIPANTS: 374 women treated for breast cancer who were at low to moderate risk of recurrence. 
+INTERVENTIONS: Participants were randomised to traditional hospital follow-up (consultation, clinical examination, and mammography as per hospital policy) or telephone follow-up by specialist nurses (consultation with structured intervention and mammography according to hospital policy). 
+MAIN OUTCOME MEASURES: Psychological morbidity (state-trait anxiety inventory, general health questionnaire (GHQ-12)), participants' needs for information, participants' satisfaction, clinical investigations ordered, and time to detection of recurrent disease. 
+RESULTS: The 95% confidence interval for difference in mean state-trait scores adjusted for treatment received (-3.33 to 2.07) was within the predefined equivalence region (-3.5 to 3.5). 
+The women in the telephone group were no more anxious as a result of foregoing clinic examinations and face-to-face consultations and reported higher levels of satisfaction than those attending hospital clinics (intention to treat P&lt;0.001). 
+The numbers of clinical investigations ordered did not differ between groups. 
+Recurrences were few (4.5%), with no differences between groups for time to detection (median 60.5 (range 37-131) days in hospital group v 39.0 (10-152) days in telephone group; P=0.228). 
+CONCLUSIONS: Telephone follow-up was well received by participants, with no physical or psychological disadvantage. 
+It is suitable for women at low to moderate risk of recurrence and those with long travelling distances or mobility problems and decreases the burden on busy hospital clinics. 
+TRIAL REGISTRATION: National Cancer Research Institute 1477.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare traditional hospital follow-up with telephone follow-up by specialist nurses after treatment for breast cancer.</s>
+    <s id="4" section="interventions">Participants were randomised to traditional hospital follow-up (consultation, clinical examination, and mammography as per hospital policy) or telephone follow-up by specialist nurses (consultation with structured intervention and mammography according to hospital policy).</s>
+    <s id="6" section="main outcome measures">Psychological morbidity (state-trait anxiety inventory, general health questionnaire (GHQ-12)), participants' needs for information, participants' satisfaction, clinical investigations ordered, and time to detection of recurrent disease.</s>
+    <s id="8" section="results">The women in the telephone group were no more anxious as a result of foregoing clinic examinations and face-to-face consultations and reported higher levels of satisfaction than those attending hospital clinics (intention to treat P&lt;0.001).</s>
+    <s id="9" section="results">The numbers of clinical investigations ordered did not differ between groups.</s>
+    <s id="11" section="conclusions">Telephone follow-up was well received by participants, with no physical or psychological disadvantage.</s>
+    <s id="12" section="conclusions">It is suitable for women at low to moderate risk of recurrence and those with long travelling distances or mobility problems and decreases the burden on busy hospital clinics.</s>
+    <s id="13" section="trial registration">National Cancer Research Institute 1477.</s>  
+  </ignored>
+</abstract>
+

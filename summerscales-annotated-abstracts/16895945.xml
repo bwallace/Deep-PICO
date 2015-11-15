@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16895945">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Immediate  computed  tomography</group>
+      or
+      <group id="1">admission  for  observation</group>
+      after mild head injury : cost comparison in randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">
+      39 acute hospitals in Sweden PARTICIPANTS :
+      <ps>2602</ps>
+      patients ( aged &gt; or = 6) with mild head injury .
+    </s>
+    <s id="5" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Direct  and  indirect  costs</short>
+        related  to  the  mild  head  injury  during
+        <time id="0">the  acute</time>
+        and
+        <time id="1">3  month  follow  -  up  period</time>
+      </outcome>
+      .
+    </s>
+    <s id="6" section="results">
+      Outcome after
+      <time id="1">3  months</time>
+      was similar for both strategies ( non - significantly in favour of
+      <group id="0">computed  tomography</group>
+      ) .
+    </s>
+    <s id="7" section="results">
+      For the acute stage and complications , the
+      <outcome id="0">cost</outcome>
+      was 461 euros ( 314 pounds sterling , 582 dollars ) per patient in the
+      <group id="0">computed  tomography  group</group>
+      and 677 euros ( 462 pounds sterling , 854 dollars ) in the
+      <group id="1">observation  group</group>
+      ; an average of 32 % less in the
+      <group id="0">computed  tomography  group</group>
+      ( 216 euros , 95 % confidence interval - 272 to - 164 ; P &lt; 0.001 ) .
+    </s>
+    <s id="9" section="results">
+      After
+      <time id="0">3  months</time>
+      , total costs were 718 euros and 914 euros per patient - that is , 196 euros less in the
+      <group id="0">computed  tomography  group</group>
+      ( - 281 to - 114 ; P &lt; 0.001 ) .
+    </s>
+  </annotated>
+  <fulltext>Immediate computed tomography or admission for observation after mild head injury : cost comparison in randomised controlled trial . To compare the costs of immediate computed tomography during triage for admission with those of observation in hospital in patients with mild head injury . Prospective cost effectiveness analysis within a multicentre , pragmatic randomised trial . 39 acute hospitals in Sweden PARTICIPANTS : 2602 patients ( aged &gt; or = 6) with mild head injury . Immediate computed tomography or admission for observation . Direct and indirect costs related to the mild head injury during the acute and 3 month follow - up period . Outcome after 3 months was similar for both strategies ( non - significantly in favour of computed tomography ) . For the acute stage and complications , the cost was 461 euros ( 314 pounds sterling , 582 dollars ) per patient in the computed tomography group and 677 euros ( 462 pounds sterling , 854 dollars ) in the observation group ; an average of 32 % less in the computed tomography group ( 216 euros , 95 % confidence interval - 272 to - 164 ; P &lt; 0.001 ) . Sensitivity analysis showed that computed tomography was the most cost effective strategy under a broad range of assumptions . After 3 months , total costs were 718 euros and 914 euros per patient - that is , 196 euros less in the computed tomography group ( - 281 to - 114 ; P &lt; 0.001 ) . The lower cost of the computed tomography strategy at the acute stage thus remained unchanged during follow - up . Patients with mild head injury attending an emergency department can be managed more cost effectively with computed tomography rather than admission for observation in hospital . ISRCTN81464462 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare the costs of
+      <group id="0">
+        <short>immediate  computed  tomography</short>
+        during  triage  for  admission
+      </group>
+      with those of
+      <group id="1">observation  in  hospital</group>
+      in patients with mild head injury .
+    </s>
+    <s id="2" section="design">Prospective cost effectiveness analysis within a multicentre , pragmatic randomised trial .</s>
+    <s id="4" section="interventions">
+      <group id="0">Immediate  computed  tomography</group>
+      or
+      <group id="1">admission  for  observation</group>
+      .
+    </s>
+    <s id="8" section="results">
+      Sensitivity analysis showed that
+      <group id="0">computed  tomography</group>
+      was the most cost effective strategy under a broad range of assumptions .
+    </s>
+    <s id="10" section="results">
+      The lower cost of the
+      <group id="0">computed  tomography  strategy</group>
+      at
+      <time id="0">the  acute</time>
+      stage thus remained unchanged during follow - up .
+    </s>
+    <s id="11" section="conclusion">
+      Patients with mild head injury attending an emergency department can be managed more cost effectively with
+      <group id="0">computed  tomography</group>
+      rather than
+      <group id="1">
+        <short>admission  for  observation</short>
+        in  hospital
+      </group>
+      .
+    </s>
+    <s id="12" section="trial_registration">ISRCTN81464462 .</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16356945">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Partner  notification</short>
+        of  chlamydia  infection
+      </group>
+      in primary care : randomised controlled trial and analysis of resource use .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">27 general practices in the Bristol and Birmingham areas .</s>
+    <s id="4" section="participants">
+      <ps>140</ps>
+      men and women with chlamydia ( index cases ) diagnosed by screening of a home collected urine sample or vulval swab specimen .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome was the
+      <outcome id="0" type="good">
+        proportion  of  index  cases  with
+        <short>at  least  1  treated  sexual  partner</short>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Specified secondary outcomes included the
+      <outcome id="1">
+        <short>number  of  sexual  contacts  elicited</short>
+        during  a  sexual  history
+      </outcome>
+      ,
+      <outcome id="2">positive  test  result  for  chlamydia</outcome>
+      <time id="0">6  weeks</time>
+      after treatment , and the
+      <outcome id="3">
+        <short>cost  of  each  strategy</short>
+        in  2003  sterling  prices
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      65.3 % (
+      <on group="0" outcome="0">47</on>
+      /
+      <gs group="0">72</gs>
+      ) of
+      <group id="0">participants  receiving  practice  nurse  led  partner  notification</group>
+      had
+      <outcome id="0" type="good">at  least  1  partner  treated</outcome>
+      compared with 52.9 % (
+      <on group="1" outcome="0">39</on>
+      /
+      <gs group="1">68</gs>
+      ) of
+      <group id="1">those  referred  to  a  genitourinary  medicine  clinic</group>
+      ( risk difference 12.4 % , 95 % confidence interval - 1.8 % to 26.5 % ) .
+    </s>
+    <s id="9" section="results">
+      Of
+      <gs group="1">68</gs>
+      <group id="1">participants  referred  to  the  clinic</group>
+      ,
+      <on group="1" outcome="4">21</on>
+      ( 31 % )
+      <outcome id="4" type="bad">did  not  attend</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Partner notification of chlamydia infection in primary care : randomised controlled trial and analysis of resource use . To evaluate the effectiveness of a practice nurse led strategy to improve the notification and treatment of partners of people with chlamydia infection . Randomised controlled trial . 27 general practices in the Bristol and Birmingham areas . 140 men and women with chlamydia ( index cases ) diagnosed by screening of a home collected urine sample or vulval swab specimen . Partner notification at the general practice immediately after diagnosis by trained practice nurses , with telephone follow up by a health adviser ; or referral to a specialist health adviser at a genitourinary medicine clinic . Primary outcome was the proportion of index cases with at least 1 treated sexual partner . Specified secondary outcomes included the number of sexual contacts elicited during a sexual history , positive test result for chlamydia 6 weeks after treatment , and the cost of each strategy in 2003 sterling prices . 65.3 % ( 47 / 72 ) of participants receiving practice nurse led partner notification had at least 1 partner treated compared with 52.9 % ( 39 / 68 ) of those referred to a genitourinary medicine clinic ( risk difference 12.4 % , 95 % confidence interval - 1.8 % to 26.5 % ) . Of 68 participants referred to the clinic , 21 ( 31 % ) did not attend . The costs per index case were 32.55 pounds sterling for the practice nurse led strategy and 32.62 pounds sterling for the specialist referral strategy . Practice based partner notification by trained nurses with telephone follow up by health advisers is at least as effective as referral to a specialist health adviser at a genitourinary medicine clinic , and costs the same . Trial registration Clinical trials : NCT00112255 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effectiveness of a
+      <group id="0">practice  nurse  led  strategy</group>
+      to improve the
+      <outcome id="0" type="good">
+        <short>notification  and  treatment  of  partners</short>
+        of  people  with  chlamydia  infection
+      </outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        <short>Partner  notification</short>
+        at  the  general  practice  immediately  after  diagnosis  by  trained  practice  nurses  ,  with  telephone  follow  up  by  a  health  adviser
+      </group>
+      ; or
+      <group id="1">
+        <short>referral  to  a  specialist  health  adviser</short>
+        at  a  genitourinary  medicine  clinic
+      </group>
+      .
+    </s>
+    <s id="10" section="results">
+      The
+      <outcome id="3">costs  per  index  case</outcome>
+      were 32.55 pounds sterling for the
+      <group id="0">practice  nurse  led  strategy</group>
+      and 32.62 pounds sterling for the
+      <group id="1">specialist  referral  strategy</group>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        <short>Practice  based  partner  notification</short>
+        by  trained  nurses  with  telephone  follow  up  by  health  advisers
+      </group>
+      is at least as effective as
+      <group id="1">
+        <short>referral  to  a  specialist  health  adviser</short>
+        at  a  genitourinary  medicine  clinic
+      </group>
+      , and costs the same .
+    </s>
+    <s id="12" section="conclusion">Trial registration Clinical trials : NCT00112255 .</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17626056">
+  <title>
+    <s id="0">Main morbidities recorded in the women's international study of long duration oestrogen after menopause (WISDOM): a randomised controlled trial of hormone replacement therapy in postmenopausal women.</s>
+  </title>
+  <annotated>
+    <s id="5" section="participants">At early closure of the trial, 56583 had been screened, 8980 entered run-in, and 5692 (26% of target of 22,300) started treatment.</s>
+    <s id="6" section="interventions"><group id="0" role="control"><short>Oestrogen only</short> therapy(conjugated equine oestrogens 0.625 mg orally daily)</group>  or <group id="1" role="experiment"><short>combined hormone</short> therapy (conjugated equine oestrogens plus medroxyprogesterone acetate 2.5/5.0 mg orally daily)</group>.</s>
+    <s id="11" section="results">total 6498 women years) in those enrolled, after the publication of early results from the women's health initiative study.</s>
+    <s id="13" section="results">When <group id="1" role="experiment"><short>combined hormone</short> therapy</group> (n=<gs group="1">2196</gs>) was compared with <group id="0" role="control">placebo</group> (n=<gs group="0">2189</gs>), there was a significant increase in the number of <outcome id="0" type="bad">major <short>cardiovascular</short> events</outcome> (<on group="1" outcome="0">7</on> v <on group="0" outcome="0">0</on>, P=0.016) and <outcome id="1" type="bad">venous thromboembolisms</outcome> (<on group="1" outcome="1">22</on> v <on group="0" outcome="1">3</on>, hazard ratio 7.36 (95% CI 2.20 to 24.60)).</s>
+    <s id="14" section="results">There were no statistically significant differences in numbers of <outcome id="2" type="bad">breast or other <short>cancers</short></outcome> (<on group="1" outcome="0">22</on> v <on group="0" outcome="0">25</on>, hazard ratio 0.88 (0.49 to 1.56)), <outcome id="3" type="bad"><short>cerebrovascular</short> events</outcome> (<on group="1" outcome="3">14</on> v <on group="0" outcome="3">19</on>, 0.73 (0.37 to 1.46)), <outcome id="4" type="bad">fractures</outcome> (<on group="1" outcome="4">40</on> v <on group="0" outcome="4">58</on>, 0.69 (0.46 to 1.03)), and <outcome id="5"> type="bad">overall deaths</outcome> (<on group="1" outcome="5">8</on> v <on group="0" outcome="5">5</on>, 1.60 (0.52 to 4.89)).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the long term risks and benefits of hormone replacement therapy (combined hormone therapy versus placebo, and oestrogen alone versus combined hormone therapy). 
+DESIGN: Multicentre, randomised, placebo controlled, double blind trial. 
+SETTING: General practices in UK (384), Australia (91), and New Zealand (24). 
+PARTICIPANTS: Postmenopausal women aged 50-69 years at randomisation. 
+At early closure of the trial, 56,583 had been screened, 8980 entered run-in, and 5692 (26% of target of 22,300) started treatment. 
+INTERVENTIONS: Oestrogen only therapy (conjugated equine oestrogens 0.625 mg orally daily) or combined hormone therapy (conjugated equine oestrogens plus medroxyprogesterone acetate 2.5/5.0 mg orally daily). 
+Ten years of treatment planned. 
+MAIN OUTCOME MEASURES: Primary outcomes: major cardiovascular disease, osteoporotic fractures, and breast cancer. 
+Secondary outcomes: other cancers, death from all causes, venous thromboembolism, cerebrovascular disease, dementia, and quality of life. 
+RESULTS: The trial was prematurely closed during recruitment, after a median follow-up of 11.9 months (interquartile range 7.1-19.6, 
+total 6498 women years) in those enrolled, after the publication of early results from the women's health initiative study. 
+The mean age of randomised women was 62.8 (SD 4.8) years. 
+When combined hormone therapy (n=2196) was compared with placebo (n=2189), there was a significant increase in the number of major cardiovascular events (7 v 0, P=0.016) and venous thromboembolisms (22 v 3, hazard ratio 7.36 (95% CI 2.20 to 24.60)). 
+There were no statistically significant differences in numbers of breast or other cancers (22 v 25, hazard ratio 0.88 (0.49 to 1.56)), cerebrovascular events (14 v 19, 0.73 (0.37 to 1.46)), fractures (40 v 58, 0.69 (0.46 to 1.03)), and overall deaths (8 v 5, 1.60 (0.52 to 4.89)). 
+Comparison of combined hormone therapy (n=815) versus oestrogen therapy (n=826) outcomes revealed no significant differences. 
+CONCLUSIONS: Hormone replacement therapy increases cardiovascular and thromboembolic risk when started many years after the menopause. 
+The results are consistent with the findings of the women's health initiative study and secondary prevention studies. 
+Research is needed to assess the long term risks and benefits of starting hormone replacement therapy near the menopause, when the effect may be different. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN 63718836.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the long term risks and benefits of hormone replacement therapy (combined hormone therapy versus placebo, and oestrogen alone versus combined hormone therapy).</s>
+    <s id="2" section="design">Multicentre, randomised, placebo controlled, double blind trial.</s>
+    <s id="3" section="setting">General practices in UK (384), Australia (91), and New Zealand (24).</s>
+    <s id="4" section="participants">Postmenopausal women aged 50-69 years at randomisation.</s>
+    <s id="7" section="interventions">Ten years of treatment planned.</s>
+    <s id="8" section="main outcome measures">Primary outcomes: major cardiovascular disease, osteoporotic fractures, and breast cancer.</s>
+    <s id="9" section="main outcome measures">Secondary outcomes: other cancers, death from all causes, venous thromboembolism, cerebrovascular disease, dementia, and quality of life.</s>
+    <s id="10" section="results">The trial was prematurely closed during recruitment, after a median follow-up of 11.9 months (interquartile range 7.1-19.6,</s>
+    <s id="12" section="results">The mean age of randomised women was 62.8 (SD 4.8) years.</s>
+    <s id="15" section="results">Comparison of combined hormone therapy (n=815) versus oestrogen therapy (n=826) outcomes revealed no significant differences.</s>
+    <s id="16" section="conclusions">Hormone replacement therapy increases cardiovascular and thromboembolic risk when started many years after the menopause.</s>
+    <s id="17" section="conclusions">The results are consistent with the findings of the women's health initiative study and secondary prevention studies.</s>
+    <s id="18" section="conclusions">Research is needed to assess the long term risks and benefits of starting hormone replacement therapy near the menopause, when the effect may be different.</s>
+    <s id="19" section="trial registration">Current Controlled Trials ISRCTN 63718836.</s>  
+</ignored>
+</abstract>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17307761">
+  <title>
+    <s id="0">Benefits of supervised group exercise programme for women being treated for early stage breast cancer: pragmatic randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To determine functional and psychological benefits of a 12 week supervised group exercise programme during treatment for early stage breast cancer, with 6 month follow-up.</s>
+    <s id="4" section="participants">203 women entered the study; 177 completed the <time id="0">six month</time> follow-up.</s>
+    <s id="5" section="interventions"><group id="0" role="experiment">Supervised 12 week <short>group exercise</short> programme in addition to usual care</group>, compared with <group id="1" role="control">usual care</group>.</s>
+    <s id="6" section="main outcome measures">Functional assessment of cancer therapy (FACT) questionnaire, Beck depression inventory, positive and negative affect scale, body mass index, 7 day recall of physical activity, 12 minute walk test, and assessment of shoulder mobility.</s>
+    <s id="7" section="results">Mixed effects models with adjustment for baseline values, study site, treatment at baseline, and age gave intervention effect estimates (intervention minus control) at 12 weeks of 129 (95% confidence interval 83 to 176) for <outcome id="0" type="good"><short>metres walked</short> in 12 minutes</outcome>, 182 (75 to 289) for <outcome id="1" type="good">minutes of moderate intensity <short>activity</short> reported in a week</outcome>, 2.6 (1.6 to 3.7) for <outcome id="2" type="good">shoulder mobility</outcome>, 2.5 (1.0 to 3.9) for <outcome id="3" type="good">breast cancer specific subscale of <short>quality of life</short></outcome>, and 4.0 (1.8 to 6.3) for <outcome id="4" type="good">positive mood</outcome>.</s>
+    <s id="9" section="results">At the <time id="0">6 months</time> follow-up, most of these effects were maintained and an intervention effect for breast cancer specific quality of life emerged.</s>
+    <s id="11" section="conclusion">Supervised group exercise provided functional and psychological benefit after a 12 week intervention and 6 months later.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To determine functional and psychological benefits of a 12 week supervised group exercise programme during treatment for early stage breast cancer, with six month follow-up. 
+DESIGN: Pragmatic randomised controlled prospective open trial. 
+SETTING: Three National Health Service oncology clinics in Scotland and community exercise facilities. 
+PARTICIPANTS: 203 women entered the study; 177 completed the six month follow-up. 
+INTERVENTIONS: Supervised 12 week group exercise programme in addition to usual care, compared with usual care. 
+MAIN OUTCOME MEASURES: Functional assessment of cancer therapy (FACT) questionnaire, Beck depression inventory, positive and negative affect scale, body mass index, seven day recall of physical activity, 12 minute walk test, and assessment of shoulder mobility. 
+RESULTS: Mixed effects models with adjustment for baseline values, study site, treatment at baseline, and age gave intervention effect estimates (intervention minus control) at 12 weeks of 129 (95% confidence interval 83 to 176) for metres walked in 12 minutes, 182 (75 to 289) for minutes of moderate intensity activity reported in a week, 2.6 (1.6 to 3.7) for shoulder mobility, 2.5 (1.0 to 3.9) for breast cancer specific subscale of quality of life, and 4.0 (1.8 to 6.3) for positive mood. 
+No significant effect was seen for general quality of life (FACT-G), which was the primary outcome. 
+At the six month follow-up, most of these effects were maintained and an intervention effect for breast cancer specific quality of life emerged. 
+No adverse effects were noted. 
+CONCLUSION: Supervised group exercise provided functional and psychological benefit after a 12 week intervention and six months later. 
+Clinicians should encourage activity for their patients. 
+Policy makers should consider the inclusion of exercise opportunities in cancer rehabilitation services. 
+Trial registration Current controlled trials ISRCTN12587864 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="2" section="design">Pragmatic randomised controlled prospective open trial.</s>
+    <s id="3" section="setting">Three National Health Service oncology clinics in Scotland and community exercise facilities.</s>
+    <s id="8" section="results">No significant effect was seen for general quality of life (FACT-G), which was the primary outcome.</s>
+    <s id="10" section="results">No adverse effects were noted.</s>
+    <s id="12" section="conclusion">Clinicians should encourage activity for their patients.</s>
+    <s id="13" section="conclusion">Policy makers should consider the inclusion of exercise opportunities in cancer rehabilitation services.</s>
+    <s id="14" section="conclusion">Trial registration Current controlled trials ISRCTN12587864 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

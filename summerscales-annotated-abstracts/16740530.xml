@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16740530">
+  <title>
+    <s id="0" section="title">
+      Randomised , controlled trial of
+      <group id="0">alternating  pressure  mattresses</group>
+      compared with
+      <group id="1">alternating  pressure  overlays</group>
+      for the
+      <outcome id="0">prevention  of  pressure  ulcers</outcome>
+      : PRESSURE ( pressure relieving support surfaces ) trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">11 hospitals in 6 NHS trusts .</s>
+    <s id="4" section="participants">
+      <ps>1972</ps>
+      people admitted to hospital as acute or elective patients .
+    </s>
+    <s id="5" section="interventions">
+      Participants were randomised to an
+      <group id="0">alternating  pressure  mattress</group>
+      ( n =
+      <gs group="0">982</gs>
+      ) or an
+      <group id="1">alternating  pressure  overlay</group>
+      ( n =
+      <gs group="1">990</gs>
+      ) .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      The
+      <outcome id="0">
+        proportion  of  participants
+        <short>developing  a  new  pressure  ulcer  of  grade  2  or  worse</short>
+      </outcome>
+      ;
+      <outcome id="3">
+        time  to  development  of
+        <short>new  pressure  ulcers</short>
+      </outcome>
+      ;
+      <outcome id="4">
+        proportions  of  participants
+        <short>
+          developing  a  new  ulcer  within
+          <time id="0">30  days</time>
+        </short>
+      </outcome>
+      ;
+      <outcome id="1">healing  of  existing  pressure  ulcers</outcome>
+      ; and
+      <outcome id="2">patient  acceptability</outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      Intention to treat analysis found no difference in the
+      <outcome id="0">
+        proportions  of  participants
+        <short>developing  a  new  pressure  ulcer  of  grade  2  or  worse</short>
+      </outcome>
+      ( 10.7 %
+      <group id="1">overlay  patients</group>
+      , 10.3 %
+      <group id="0">mattress  patients</group>
+      ; difference 0.4 % , 95 % confidence interval --2.3 % to 3.1 % , P = 0.75 ) .
+    </s>
+    <s id="10" section="trial_registration">ISRCTN 78646179 .</s>
+  </annotated>
+  <fulltext>Randomised , controlled trial of alternating pressure mattresses compared with alternating pressure overlays for the prevention of pressure ulcers : PRESSURE ( pressure relieving support surfaces ) trial . To compare whether differences exist between alternating pressure overlays and alternating pressure mattresses in the development of new pressure ulcers , healing of existing pressure ulcers , and patient acceptability . Pragmatic , open , multicentre , randomised controlled trial . 11 hospitals in 6 NHS trusts . 1972 people admitted to hospital as acute or elective patients . Participants were randomised to an alternating pressure mattress ( n = 982 ) or an alternating pressure overlay ( n = 990 ) . The proportion of participants developing a new pressure ulcer of grade 2 or worse ; time to development of new pressure ulcers ; proportions of participants developing a new ulcer within 30 days ; healing of existing pressure ulcers ; and patient acceptability . Intention to treat analysis found no difference in the proportions of participants developing a new pressure ulcer of grade 2 or worse ( 10.7 % overlay patients , 10.3 % mattress patients ; difference 0.4 % , 95 % confidence interval --2.3 % to 3.1 % , P = 0.75 ) . More overlay patients requested change owing to dissatisfaction ( 23.3 % ) than mattress patients ( 18.9 % , P = 0.02 ) . No difference was found between alternating pressure mattresses and alternating pressure overlays in the proportion of people who develop a pressure ulcer . ISRCTN 78646179 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To compare whether differences exist between
+      <group id="1">alternating  pressure  overlays</group>
+      and
+      <group id="0">alternating  pressure  mattresses</group>
+      in the
+      <outcome id="0">
+        development  of
+        <short>new  pressure  ulcers</short>
+      </outcome>
+      ,
+      <outcome id="1">healing  of  existing  pressure  ulcers</outcome>
+      , and
+      <outcome id="2">patient  acceptability</outcome>
+      .
+    </s>
+    <s id="2" section="design">Pragmatic , open , multicentre , randomised controlled trial .</s>
+    <s id="8" section="results">
+      More
+      <group id="1">overlay  patients</group>
+      <outcome id="2">requested  change</outcome>
+      owing to dissatisfaction ( 23.3 % ) than
+      <group id="0">mattress  patients</group>
+      ( 18.9 % , P = 0.02 ) .
+    </s>
+    <s id="9" section="conclusion">
+      No difference was found between
+      <group id="0">alternating  pressure  mattresses</group>
+      and
+      <group id="1">alternating  pressure  overlays</group>
+      in the
+      <outcome id="0">
+        proportion  of  people  who
+        <short>develop  a  pressure  ulcer</short>
+      </outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

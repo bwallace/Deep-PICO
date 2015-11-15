@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17670909">
+  <title>
+    <s id="0">Antenatal education and postnatal support strategies for improving rates of exclusive breast feeding: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">450 women with uncomplicated pregnancies.</s>
+    <s id="5" section="main outcome measures">Primary outcomes were rates of exclusive breast feeding at discharge from hospital and <time id="0">two weeks</time>, <time id="1">six weeks</time>, <time id="2">three months</time>, and <time id="3">six months</time> after delivery.</s>
+    <s id="7" section="results">Compared with <group id="2" role="control">women who received routine care</group>, women in the <group id="1" role="experiment"><short>postnatal support</short> group</group> were more likely to <outcome id="0" type="good">breastfeed exclusively</outcome> at <time id="0">two weeks</time> (relative risk 1.82, 95% confidence interval 1.14 to 2.90), <time id="1">six weeks</time> (1.85, 1.11 to 3.09), <time id="2">three months</time> (1.87, 1.03 to 3.41), and <time id="3">six months</time> (2.12, 1.03 to 4.37) postnatally.</s>
+    <s id="8" section="results"><group id="2" role="experiment">Women receiving <short>antenatal education</short></group> were more likely to breast feed exclusively at <time id="1">six weeks</time> (1.73, 1.04 to 2.90), <time id="2">three months</time> (1.92, 1.07 to 3.48), and <time id="3">six months</time> (2.16, 1.05 to 4.43) postnatally.</s>
+    <s id="9" section="results">The numbers <outcome id="0" type="good">needed to treat to achieve one woman <short>exclusively breast feeding</short></outcome> at <time id="3">six months</time> were <on group="1" outcome="0" time="3">11</on> (6 to 80) for <group id="1" role="experiment">postnatal support</group> and <on group="2" outcome="0" time="3">10</on> (6 to 60) for <group id="2" role="control">antenatal education</group>.</s>
+    <s id="10" section="results"><group id="1" role="experiment">Women who received <short>postnatal support</short></group> were more likely to <outcome id="0" type="good">exclusively or predominantly breast feed</outcome> 2 weeks after delivery compared with <group id="2" role="control">women who received <short>antenatal education</short></group> (1.53, 1.01 to 2.31).</s>
+    <s id="11" section="results">The rate of any breastfeeding <time id="1">six weeks</time> after delivery was also higher in  the<group id="1" role="experiment"><short>postnatal support</short> group</group> compared with <group id="2" role="control">women who received <short>routine care</short></group> (1.16, 1.02 to 1.31).</s>
+    <s id="12" section="conclusions">Antenatal breast feeding education and postnatal lactation support, as single interventions based in hospital both significantly improve rates of exclusive breast feeding up to 6 months after delivery.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether antenatal breast feeding education alone or postnatal lactation support alone improves rates of exclusive breast feeding compared with routine hospital care. 
+DESIGN: Randomised controlled trial. 
+SETTING: A tertiary hospital in Singapore. 
+PARTICIPANTS: 450 women with uncomplicated pregnancies. 
+MAIN OUTCOME MEASURES: Primary outcomes were rates of exclusive breast feeding at discharge from hospital and two weeks, six weeks, three months, and six months after delivery. 
+Secondary outcomes were rates of any breast feeding. 
+RESULTS: Compared with women who received routine care, women in the postnatal support group were more likely to breastfeed exclusively at two weeks (relative risk 1.82, 95% confidence interval 1.14 to 2.90), six weeks (1.85, 1.11 to 3.09), three months (1.87, 1.03 to 3.41), and six months (2.12, 1.03 to 4.37) postnatally. 
+Women receiving antenatal education were more likely to breast feed exclusively at six weeks (1.73, 1.04 to 2.90), three months (1.92, 1.07 to 3.48), and six months (2.16, 1.05 to 4.43) postnatally. 
+The numbers needed to treat to achieve one woman exclusively breast feeding at six months were 11 (6 to 80) for postnatal support and 10 (6 to 60) for antenatal education. 
+Women who received postnatal support were more likely to exclusively or predominantly breast feed two weeks after delivery compared with women who received antenatal education (1.53, 1.01 to 2.31). 
+The rate of any breastfeeding six weeks after delivery was also higher in the postnatal support group compared with women who received routine care (1.16, 1.02 to 1.31). 
+CONCLUSIONS: Antenatal breast feeding education and postnatal lactation support, as single interventions based in hospital both significantly improve rates of exclusive breast feeding up to six months after delivery. 
+Postnatal support was marginally more effective than antenatal education. 
+TRIAL REGISTRATION: Clinical Trials NCT00270920 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate whether antenatal breast feeding education alone or postnatal lactation support alone improves rates of exclusive breast feeding compared with routine hospital care.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">A tertiary hospital in Singapore.</s>
+    <s id="6" section="main outcome measures">Secondary outcomes were rates of any breast feeding.</s>
+    <s id="13" section="conclusions">Postnatal support was marginally more effective than antenatal education.</s>
+    <s id="14" section="trial registration">Clinical Trials NCT00270920 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

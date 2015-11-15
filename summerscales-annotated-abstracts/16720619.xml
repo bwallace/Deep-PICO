@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16720619">
+  <title>
+    <s id="0" section="title">Randomised controlled trial of 4 commercial weight loss programmes in the UK : initial findings from the BBC " diet trials " .</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To compare the effectiveness of 4 commercial weight loss diets available to adults in the United Kingdom .</s>
+    <s id="2" section="design">6 month multicentre randomised unblinded controlled trial .</s>
+    <s id="5" section="main_outcome_measures">
+      <outcome id="1">Weight</outcome>
+      and
+      <outcome id="0">body  fat  changes</outcome>
+      over
+      <time id="0">6  months</time>
+      .
+    </s>
+    <s id="6" section="results">
+      All diets resulted in
+      <outcome id="0">
+        significant
+        <short>loss  of  body  fat</short>
+      </outcome>
+      and
+      <outcome id="1">weight</outcome>
+      over
+      <time id="0">6  months</time>
+      .
+    </s>
+    <s id="8" section="results">
+      In an intention to treat analysis ,
+      <outcome id="1">
+        average
+        <short>weight  loss</short>
+      </outcome>
+      was 5.9 kg and
+      <outcome id="0">
+        average
+        <short>fat  loss</short>
+      </outcome>
+      was 4.4 kg over 6 months .
+    </s>
+    <s id="9" section="results">
+      The
+      <group id="0">Atkins  diet</group>
+      resulted in significantly higher
+      <outcome id="1">weight  loss</outcome>
+      during
+      <time id="1">the  first  4  weeks</time>
+      , but by the end was no more or less effective than the other diets .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of 4 commercial weight loss programmes in the UK : initial findings from the BBC " diet trials " . To compare the effectiveness of 4 commercial weight loss diets available to adults in the United Kingdom . 6 month multicentre randomised unblinded controlled trial . Community based sample of otherwise healthy overweight and obese adults . Dr Atkins ' new diet revolution , Slim-Fast plan , Weight Watchers pure points programme , and Rosemary Conley 's eat yourself slim diet and fitness plan . Weight and body fat changes over 6 months . All diets resulted in significant loss of body fat and weight over 6 months . Groups did not differ significantly but loss of body fat and weight was greater in all groups compared with the control group . In an intention to treat analysis , average weight loss was 5.9 kg and average fat loss was 4.4 kg over 6 months . The Atkins diet resulted in significantly higher weight loss during the first 4 weeks , but by the end was no more or less effective than the other diets . Clinically useful weight loss and fat loss can be achieved in adults who are motivated to follow commercial diets for a substantial period . Given the limited resources for weight management in the NHS , healthcare practitioners should discuss with their patients programmes known to be effective . Clinical trials NCT00327821 .</fulltext>
+  <ignored>
+    <s id="3" section="setting">Community based sample of otherwise healthy overweight and obese adults .</s>
+    <s id="4" section="interventions">
+      <group id="0">Dr  Atkins  '  new  diet  revolution</group>
+      ,
+      <group id="1">Slim-Fast  plan</group>
+      ,
+      <group id="2">
+        <short>Weight  Watchers</short>
+        pure  points  programme
+      </group>
+      , and
+      <group id="3">Rosemary  Conley  's  eat  yourself  slim  diet  and  fitness  plan</group>
+      .
+    </s>
+    <s id="7" section="results">
+      Groups did not differ significantly but
+      <outcome id="0">loss  of  body  fat</outcome>
+      and
+      <outcome id="1">weight</outcome>
+      was greater in all groups compared with the
+      <group id="4">control  group</group>
+      .
+    </s>
+    <s id="10" section="conclusions">
+      <outcome id="1">
+        Clinically  useful
+        <short>weight  loss</short>
+      </outcome>
+      and
+      <outcome id="0">fat  loss</outcome>
+      can be achieved in adults who are motivated to follow commercial diets for a substantial period .
+    </s>
+    <s id="11" section="conclusions">Given the limited resources for weight management in the NHS , healthcare practitioners should discuss with their patients programmes known to be effective .</s>
+    <s id="12" section="trial_registration">Clinical trials NCT00327821 .</s>
+  </ignored>
+</abstract>
+

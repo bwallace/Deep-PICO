@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16061499">
+  <title>
+    <s id="0" section="title">
+      Randomised trial of
+      <group id="0">telephone  intervention</group>
+      in chronic heart failure : DIAL trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">51 centres in Argentina ( public and private hospitals and ambulatory settings ) .</s>
+    <s id="4" section="participants">
+      <ps>1518</ps>
+      outpatients with stable chronic heart failure and optimal drug treatment randomised , stratified by attending cardiologist , to
+      <group id="0">telephone  intervention</group>
+      or
+      <group id="1">usual  care</group>
+      .
+    </s>
+    <s id="8" section="results">
+      The
+      <gs group="1">758</gs>
+      patients in the
+      <group id="1">usual  care  group</group>
+      were more likely to be
+      <outcome id="1">
+        admitted  for
+        <short>worsening  heart  failure</short>
+      </outcome>
+      or to
+      <outcome id="0">die</outcome>
+      ( 235 events , 31 % ) than the
+        <gs group="0">760</gs>
+        patients  who  received  <group id="0">the  telephone  intervention
+      </group>
+      ( 200 events , 26.3 % ) ( relative risk reduction = 20 % , 95 % confidence interval 3 to 34 , P = 0.026 ) .
+    </s>
+    <s id="9" section="results">
+      This benefit was mostly due to a significant reduction in
+      <outcome id="1">
+        admissions  for
+        <short>heart  failure</short>
+      </outcome>
+      ( relative risk reduction = 29 % , P = 0.005 ) .
+    </s>
+    <s id="11" section="results">
+      At
+      <time id="0">the  end  of  the  study</time>
+      the
+      <group id="0">intervention  group</group>
+      had a better
+      <outcome id="2">quality  of  life</outcome>
+      than the
+      <group id="1">usual  care  group</group>
+      ( <outcome id="8">mean total score on <short>Minnesota living with heart failure questionnaire</short></outcome> 30.6 v 35 , P = 0.001 ) .
+    </s>
+  </annotated>
+  <fulltext>Randomised trial of telephone intervention in chronic heart failure : DIAL trial . To determine whether a centralised telephone intervention reduces the incidence of death or admission for worsening heart failure in outpatients with chronic heart failure . Multicentre randomised controlled trial . 51 centres in Argentina ( public and private hospitals and ambulatory settings ) . 1518 outpatients with stable chronic heart failure and optimal drug treatment randomised , stratified by attending cardiologist , to telephone intervention or usual care . Education , counselling , and monitoring by nurses through frequent telephone follow - up in addition to usual care , delivered from a single centre . All cause mortality or admission to hospital for worsening heart failure . Complete follow - up was available in 99.5 % of patients . The 758 patients in the usual care group were more likely to be admitted for worsening heart failure or to die ( 235 events , 31 % ) than the 760 patients who received the telephone intervention ( 200 events , 26.3 % ) ( relative risk reduction = 20 % , 95 % confidence interval 3 to 34 , P = 0.026 ) . This benefit was mostly due to a significant reduction in admissions for heart failure ( relative risk reduction = 29 % , P = 0.005 ) . Mortality was similar in both groups . At the end of the study the intervention group had a better quality of life than the usual care group ( mean total score on Minnesota living with heart failure questionnaire 30.6 v 35 , P = 0.001 ) . This simple , centralised heart failure programme was effective in reducing the primary end point through a significant reduction in admissions to hospital for heart failure .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether a
+      <group id="0">
+        centralised
+        <short>telephone  intervention</short>
+      </group>
+      reduces the
+      <outcome id="0">
+        incidence  of
+        <short>death</short>
+      </outcome>
+      or
+      <outcome id="1">
+        admission  for
+        <short>worsening  heart  failure</short>
+      </outcome>
+      in outpatients with chronic heart failure .
+    </s>
+    <s id="2" section="design">Multicentre randomised controlled trial .</s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Education  ,  counselling  ,  and  monitoring  by  nurses  through  frequent
+        <short>telephone  follow  -  up</short>
+        in  addition  to  usual  care  ,  delivered  from  a  single  centre
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="0">
+        All  cause
+        <short>mortality</short>
+      </outcome>
+      or
+      <outcome id="1">
+        admission  to  hospital  for
+        <short>worsening  heart  failure</short>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">Complete follow - up was available in 99.5 % of patients .</s>
+    <s id="10" section="results">
+      <outcome id="0">Mortality</outcome>
+      was similar in both groups .
+    </s>
+    <s id="12" section="conclusions">
+      This
+      <group id="0">
+        simple  ,  centralised
+        <short>heart  failure  programme</short>
+      </group>
+      was effective in reducing the primary end point through a significant reduction in
+      <outcome id="1">
+        admissions  to  hospital  for
+        <short>heart  failure</short>
+      </outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

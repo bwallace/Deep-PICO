@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19959590">
+  <title>
+    <s id="0">Effect of a very low energy diet on moderate and severe obstructive sleep apnoea in obese men: a randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="objective">Design Single centre , 2 arm , parallel , randomised , controlled , open label trial .</s>
+    <s id="5" section="objective">Participants 63 obese men (body mass index 30-40, age 30-65 years) with moderate to severe obstructive sleep apnoea (apnoea-hypopnoea index (AHI) &gt;or=15), treated with continuous positive airway pressure.</s>
+    <s id="6" section="interventions">The <group id="0" role="experiment">intervention group</group> received a liquid very low energy diet ( 2.3 MJ/ day ) for 7 weeks to promote weight loss , followed by 2 weeks of gradual introduction of normal food , reaching 6.3 MJ / day at week 9 . The <group id="1" role="control">control group</group> adhered to their usual diet during the 9 weeks of follow - up .</s>
+    <s id="9" section="results"> Of the 63 eligible patients, <gs group="0">30</gs> were randomised to <group id="0" role="experiment">intervention</group> and <gs group="1">33</gs> to <group id="1" role="control">control</group>.</s>
+    <s id="10" section="results">2 patients in the <group id="1" role="control">control group</group> were dissatisfied with allocation and immediately discontinued .</s>
+    <s id="12" section="results">Both groups had a <outcome id="0" type="good">mean AHI</outcome> of 37 events/h (SD 15) at baseline.</s>
+    <s id="13" section="results">At <time id="0">week 9</time>, the <group id="0" role="experiment">intervention group</group>'s <outcome id="1" type="bad">mean body weight</outcome> was 20 kg (95% confidence interval 18 to 21) lower than that of the <group id="1" role="control">control group</group>, while its mean AHI was 23 events/h (15 to 30) lower.</s>
+    <s id="14" section="main outcome measure">In <group id="0" role="experiment">the intervention group</group> , <on group="0" outcome="2">5</on> of 30 ( 17 % ) were <outcome id="2" type="good">disease free after the energy restricted diet</outcome> ( AHI &lt;5 ) , with <on group="0" outcome="2">15</on> of 30 ( 50 % ) <outcome id="3" type="good">having mild disease</outcome> ( AHI 5-14.9 ) , whereas the AHI of all patients in <group id="1" role="control">the control group</group> except 1 remained at 15 or higher .</s>
+    <s id="15" section="results">In a subgroup analysis of the <group id="0" role="experiment">intervention group</group>, baseline AHI significantly modified the effectiveness of treatment, with a greater improvement in AHI in patients with severe obstructive sleep apnoea (AHI &gt;30) at baseline compared with those with moderate (AHI 15-30) sleep apnoea (AHI -38 v -12, P&lt;0.001), despite similar weight loss (-19.2 v -18.2 kg, P=0.55).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effect of weight loss induced by a very low energy diet on moderate and severe obstructive sleep apnoea in obese men. 
+Design Single centre, two arm, parallel, randomised, controlled, open label trial. 
+Blocked randomisation procedure used for treatment allocation. 
+Setting Outpatient obesity clinic in a university hospital in Stockholm, Sweden. 
+Participants 63 obese men (body mass index 30-40, age 30-65 years) with moderate to severe obstructive sleep apnoea (apnoea-hypopnoea index (AHI) &gt;or=15), treated with continuous positive airway pressure. 
+INTERVENTIONS: The intervention group received a liquid very low energy diet (2.3 MJ/day) for seven weeks to promote weight loss, followed by two weeks of gradual introduction of normal food, reaching 6.3 MJ/day at week 9. The control group adhered to their usual diet during the nine weeks of follow-up. 
+MAIN OUTCOME MEASURE: AHI, the major disease severity index for obstructive sleep apnoea. 
+Data from all randomised patients were included in an intention to treat analysis (baseline carried forward for missing data). 
+Results Of the 63 eligible patients, 30 were randomised to intervention and 33 to control. 
+Two patients in the control group were dissatisfied with allocation and immediately discontinued. 
+All other patients completed the trial. 
+Both groups had a mean AHI of 37 events/h (SD 15) at baseline. 
+At week 9, the intervention group's mean body weight was 20 kg (95% confidence interval 18 to 21) lower than that of the control group, while its mean AHI was 23 events/h (15 to 30) lower. 
+In the intervention group, five of 30 (17%) were disease free after the energy restricted diet (AHI &lt;5), with 15 of 30 (50%) having mild disease (AHI 5-14.9), whereas the AHI of all patients in the control group except one remained at 15 or higher. 
+In a subgroup analysis of the intervention group, baseline AHI significantly modified the effectiveness of treatment, with a greater improvement in AHI in patients with severe obstructive sleep apnoea (AHI &gt;30) at baseline compared with those with moderate (AHI 15-30) sleep apnoea (AHI -38 v -12, P&lt;0.001), despite similar weight loss (-19.2 v -18.2 kg, P=0.55). 
+Conclusion Treatment with a low energy diet improved obstructive sleep apnoea in obese men, with the greatest effect in patients with severe disease. 
+Long term treatment studies are needed to validate weight loss as a primary treatment strategy for obstructive sleep apnoea. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN70090382.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effect of weight loss induced by a very low energy diet on moderate and severe obstructive sleep apnoea in obese men.</s>
+    <s id="3" section="objective">Blocked randomisation procedure used for treatment allocation.</s>
+    <s id="4" section="objective">Setting Outpatient obesity clinic in a university hospital in Stockholm, Sweden.</s>
+    <s id="7" section="main outcome measure">AHI, the major disease severity index for obstructive sleep apnoea.</s>
+    <s id="8" section="main outcome measure">Data from all randomised patients were included in an intention to treat analysis (baseline carried forward for missing data).</s>
+    <s id="11" section="main outcome measure">All other patients completed the trial.</s>
+    <s id="16" section="main outcome measure">Conclusion Treatment with a low energy diet improved obstructive sleep apnoea in obese men, with the greatest effect in patients with severe disease.</s>
+    <s id="17" section="main outcome measure">Long term treatment studies are needed to validate weight loss as a primary treatment strategy for obstructive sleep apnoea.</s>
+    <s id="18" section="trial registration">Current Controlled Trials ISRCTN70090382.</s>
+  </ignored>
+</abstract>
+

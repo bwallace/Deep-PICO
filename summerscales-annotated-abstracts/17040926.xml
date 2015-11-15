@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17040926">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Self  management</short>
+        of  arthritis
+      </group>
+      in primary care : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">74 general practices in the United Kingdom .</s>
+    <s id="4" section="participants">
+      <ps>812</ps>
+      patients aged 50 and over with osteoarthritis of hips or knees ( or both ) and pain or disability ( or both ) .
+    </s>
+    <s id="5" section="intervention">
+      Participants were randomised to
+      <group id="0">
+        6  sessions  of
+        <short>self  management</short>
+        of  arthritis  and  an  education  booklet
+      </group>
+      (
+      <group id="0">intervention  group</group>
+      ) or the
+      <group id="0">education  booklet  alone</group>
+      (
+      <group id="1">control  group</group>
+      ) .
+    </s>
+    <s id="8" section="main_outcome_measures">
+      Data were collected at
+      <time id="0">baseline</time>
+      ,
+      <time id="1">4  months</time>
+      , and
+      <time id="2">12  months</time>
+      .
+    </s>
+    <s id="9" section="results">
+      Response rates were 80 % and 76 % at
+      <time id="1">4</time>
+      and
+      <time id="2">12  months</time>
+      .
+    </s>
+    <s id="10" section="results">
+      The 2 groups showed significant differences at
+      <time id="2">12  months</time>
+      on the
+      <outcome id="2">
+        <short>anxiety  subscore</short>
+        of  the  hospital  anxiety  and  depression  scale
+      </outcome>
+      ( mean difference - 0.62 , 95 % confidence interval - 1.08 to - 0.16 ) ,
+      <outcome id="3">
+        arthritis  self  efficacy  scale  for
+        <short>pain</short>
+      </outcome>
+      ( 0.98 , 0.07 to 1.89 ) , and
+      <outcome id="4">
+        self  efficacy  for
+        <short>other  aspects  of  management</short>
+      </outcome>
+      ( 1.58 , 0.25 to 2.90 ) .
+    </s>
+    <s id="12" section="results">
+      No significant difference was seen in
+      <outcome id="7">
+        number  of
+        <short>visits  to  the  general  practitioner</short>
+      </outcome>
+      at
+      <time id="2">12  months</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Self management of arthritis in primary care : randomised controlled trial . To evaluate clinical effectiveness of a self management programme for arthritis in patients in primary care with osteoarthritis . Randomised controlled trial . 74 general practices in the United Kingdom . 812 patients aged 50 and over with osteoarthritis of hips or knees ( or both ) and pain or disability ( or both ) . Participants were randomised to 6 sessions of self management of arthritis and an education booklet ( intervention group ) or the education booklet alone ( control group ) . Primary outcome was quality of life , as assessed by the short form health survey ( SF-36 ) . Several other physical and psychosocial secondary outcomes were assessed . Data were collected at baseline , 4 months , and 12 months . Response rates were 80 % and 76 % at 4 and 12 months . The 2 groups showed significant differences at 12 months on the anxiety subscore of the hospital anxiety and depression scale ( mean difference - 0.62 , 95 % confidence interval - 1.08 to - 0.16 ) , arthritis self efficacy scale for pain ( 0.98 , 0.07 to 1.89 ) , and self efficacy for other aspects of management ( 1.58 , 0.25 to 2.90 ) . Results were similar for intention to treat and per protocol analyses . No significant difference was seen in number of visits to the general practitioner at 12 months . The self management of arthritis programme reduced anxiety and improved participants ' perceived self efficacy to manage symptoms , but it had no significant effect on pain , physical functioning , or contact with primary care . Current Controlled Trials ISRCTN79115352 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate clinical effectiveness of a
+      <group id="0">
+        <short>self  management  programme</short>
+        for  arthritis
+      </group>
+      in patients in primary care with osteoarthritis .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome was
+      <outcome id="0">
+        <short>quality  of  life</short>
+        ,  as  assessed  by  the  short  form  health  survey  (  SF-36  )
+      </outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">Several other physical and psychosocial secondary outcomes were assessed .</s>
+    <s id="11" section="results">Results were similar for intention to treat and per protocol analyses .</s>
+    <s id="13" section="conclusions">
+      The
+      <group id="0">
+        <short>self  management</short>
+        of  arthritis  programme
+      </group>
+      reduced
+      <outcome id="2">anxiety</outcome>
+      and improved
+      <outcome id="4">
+        participants  '  perceived
+        <short>self  efficacy  to  manage  symptoms</short>
+      </outcome>
+      , but it had no significant effect on
+      <outcome id="3">pain</outcome>
+      ,
+      <outcome id="8">physical  functioning</outcome>
+      , or
+      <outcome id="7">contact  with  primary  care</outcome>
+      .
+    </s>
+    <s id="14" section="trial_registration">Current Controlled Trials ISRCTN79115352 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

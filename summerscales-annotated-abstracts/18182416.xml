@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18182416">
+  <title>
+    <s id="0">Comparison of analgesic effects and patient tolerability of nabilone and dihydrocodeine for chronic neuropathic pain: randomised, crossover, double blind study.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Randomised, double blind, crossover trial of 14 weeks' duration comparing dihydrocodeine and nabilone.</s>
+    <s id="3" section="setting">Outpatient units of 3 hospitals in the United Kingdom .</s>
+    <s id="4" section="participants">96 patients with chronic neuropathic pain, aged 23-84 years.</s>
+    <s id="5" section="main outcome measures">The primary outcome was difference between <group id="0" role="experiment">nabilone</group> and <group id="1" role="experiment">dihydrocodeine</group> in <outcome id="0" type="bad"><short>pain</short>, as measured by the mean visual analogue score</outcome> computed over the last 2 weeks of each treatment period.</s>
+    <s id="8" section="intervention">Patients received a <group id="1" role="experiment">maximum daily dose of 240 mg <short>dihydrocodeine</short></group> or <group id="0" role="experiment">2 mg <short>nabilone</short></group> at the end of each escalating treatment period of 6 weeks.</s>
+    <s id="9" section="intervention">Treatment periods were separated by a 2 week washout period.</s>
+    <s id="10" section="results"> <outcome id="0" type="good">Mean baseline visual analogue score</outcome> was 69.6 mm (range 29.4-95.2) on a 0-100 mm scale.</s>
+    <s id="11" section="results">73 patients were included in the available case analysis and 64 patients in the per protocol analysis.</s>
+    <s id="12" section="results">The mean score was 6.0 mm longer for <group id="0" role="experiment">nabilone</group> than for <group id="1" role="experiment">dihydrocodeine</group> (95% confidence interval 1.4 to 10.5) in the available case analysis and 5.6 mm (10.3 to 0.8) in the per protocol analysis.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the analgesic efficacy and side effects of the synthetic cannabinoid nabilone with those of the weak opioid dihydrocodeine for chronic neuropathic pain. 
+DESIGN: Randomised, double blind, crossover trial of 14 weeks' duration comparing dihydrocodeine and nabilone. 
+SETTING: Outpatient units of three hospitals in the United Kingdom. 
+PARTICIPANTS: 96 patients with chronic neuropathic pain, aged 23-84 years. 
+MAIN OUTCOME MEASURES: The primary outcome was difference between nabilone and dihydrocodeine in pain, as measured by the mean visual analogue score computed over the last 2 weeks of each treatment period. 
+Secondary outcomes were changes in mood, quality of life, sleep, and psychometric function. 
+Side effects were measured by a questionnaire. 
+INTERVENTION: Patients received a maximum daily dose of 240 mg dihydrocodeine or 2 mg nabilone at the end of each escalating treatment period of 6 weeks. 
+Treatment periods were separated by a 2 week washout period. 
+RESULTS: Mean baseline visual analogue score was 69.6 mm (range 29.4-95.2) on a 0-100 mm scale. 
+73 patients were included in the available case analysis and 64 patients in the per protocol analysis. 
+The mean score was 6.0 mm longer for nabilone than for dihydrocodeine (95% confidence interval 1.4 to 10.5) in the available case analysis and 5.6 mm (10.3 to 0.8) in the per protocol analysis. 
+Side effects were more frequent with nabilone. 
+CONCLUSION: Dihydrocodeine provided better pain relief than the synthetic cannabinoid nabilone and had slightly fewer side effects, although no major adverse events occurred for either drug. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN15330757 controlled-trials.com] 
+.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the analgesic efficacy and side effects of the synthetic cannabinoid nabilone with those of the weak opioid dihydrocodeine for chronic neuropathic pain.</s>
+    <s id="6" section="main outcome measures">Secondary outcomes were changes in mood, quality of life, sleep, and psychometric function.</s>
+    <s id="7" section="main outcome measures">Side effects were measured by a questionnaire.</s>
+    <s id="13" section="intervention">Side effects were more frequent with nabilone.</s>
+    <s id="14" section="conclusion">Dihydrocodeine provided better pain relief than the synthetic cannabinoid nabilone and had slightly fewer side effects, although no major adverse events occurred for either drug.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN15330757 controlled-trials.com]</s>
+    <s id="16" section="trial registration">.</s>
+  </ignored>
+</abstract>
+

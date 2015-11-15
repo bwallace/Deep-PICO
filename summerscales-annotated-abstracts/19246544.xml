@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19246544">
+  <title>
+    <s id="0">Information sheets for patients with acute chest pain: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">700 consecutive patients with acute chest pain and no clear diagnosis at initial presentation.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were <outcome id="1" type="bad">depression</outcome> ( hospital anxiety and depression scale ) , <outcome id="2" type ="good">health related quality of life ( <short>SF-36</short> )</outcome> , patient satisfaction , presentation with <outcome id="3" type="bad">further chest pain within 1 month</outcome> , <outcome id="3" type="bad">lifestyle change</outcome> ( smoking cessation , diet , exercise ) , <outcome id="4" type="good">further information sought from other sources</outcome> , and planned healthcare seeking behaviour in response to further pain .</s>
+    <s id="8" section="results">494 of 700 (70.6%) patients responded.</s>
+    <s id="9" section="results">Compared with <group id="0" role="control">those receiving <short>standard verbal advice</short></group> <group id="1" role="experiment">those receiving advice and an <short>information sheet</short></group> had lower mean hospital anxiety and <short>depression</short> scale scores for <outcome id="0" type="bad">anxiety</outcome> (<on group="1" outcome="0">7.61</on> v <on group="0" outcome="0">8.63</on>, difference 1.02, 95% confidence interval 0.20 to 1.84) and <outcome id="1" type="bad">depression</outcome> (<on group="1" outcome="1">4.14</on> v <on group="0" outcome="1">5.28</on>, difference 1.14, 0.41 to 1.86) and higher <outcome id="2" type="good">scores for mental health and perception of general health on the <short>SF-36</short></outcome>.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To determine whether providing an information sheet to patients with acute chest pain reduces anxiety, improves health related quality of life, improves satisfaction with care, or alters subsequent symptoms or actions. 
+DESIGN: Single centre, non-blinded, randomised controlled trial. 
+SETTING: Chest pain unit of an emergency department. 
+PARTICIPANTS: 700 consecutive patients with acute chest pain and no clear diagnosis at initial presentation. 
+INTERVENTIONS: After a diagnostic assessment patients were randomised to receive either standard verbal advice or verbal advice followed by an information sheet. 
+MAIN OUTCOME MEASURES: The primary outcome was anxiety (hospital anxiety and depression scale). 
+Secondary outcomes were depression (hospital anxiety and depression scale), health related quality of life (SF-36), patient satisfaction, presentation with further chest pain within one month, lifestyle change (smoking cessation, diet, exercise), further information sought from other sources, and planned healthcare seeking behaviour in response to further pain. 
+RESULTS: 494 of 700 (70.6%) patients responded. 
+Compared with those receiving standard verbal advice those receiving advice and an information sheet had lower mean hospital anxiety and depression scale scores for anxiety (7.61 v 8.63, difference 1.02, 95% confidence interval 0.20 to 1.84) and depression (4.14 v 5.28, difference 1.14, 0.41 to 1.86) and higher scores for mental health and perception of general health on the SF-36. 
+The information sheet had no significant effect on satisfaction with care, subsequent symptoms, lifestyle change, information seeking, or planned actions in the event of further pain. 
+CONCLUSIONS: Provision of an information sheet to patients with acute chest pain can reduce anxiety and depression and improve mental health and perception of general health but does not alter satisfaction with care or other outcomes. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN85248020.</fulltext>
+  <ignored>
+    <s id="1" section="objectives">To determine whether providing an information sheet to patients with acute chest pain reduces anxiety, improves health related quality of life, improves satisfaction with care, or alters subsequent symptoms or actions.</s>
+    <s id="2" section="design">Single centre, non-blinded, randomised controlled trial.</s>
+    <s id="3" section="setting">Chest pain unit of an emergency department.</s>
+    <s id="5" section="interventions">After a diagnostic assessment patients were randomised to receive either standard verbal advice or verbal advice followed by an information sheet.</s>
+    <s id="6" section="main outcome measures">The primary outcome was anxiety (hospital anxiety and depression scale).</s>
+    <s id="10" section="results">The information sheet had no significant effect on satisfaction with care, subsequent symptoms, lifestyle change, information seeking, or planned actions in the event of further pain.</s>
+    <s id="11" section="conclusions">Provision of an information sheet to patients with acute chest pain can reduce anxiety and depression and improve mental health and perception of general health but does not alter satisfaction with care or other outcomes.</s>
+    <s id="12" section="trial registration">Current Controlled Trials ISRCTN85248020.</s>
+  </ignored>
+</abstract>
+

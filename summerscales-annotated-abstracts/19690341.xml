@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19690341">
+  <title>
+    <s id="0">Lifestyle interventions for knee pain in overweight and obese adults aged &gt; or = 45: economic evaluation of randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To estimate the cost effectiveness of 4 different lifestyle interventions for knee pain .</s>
+    <s id="3" section="setting">5 general practices in the United Kingdom .</s>
+    <s id="4" section="participants">389 adults aged &gt; or = 45 with self reported knee pain and body mass index (BMI) &gt; or = 28.</s>
+    <s id="6" section="interventions">Participants received home visits over a 2 year period .</s>
+    <s id="7" section="main outcome measure">Incremental cost per quality adjusted life year ( QALY ) gained over 2 years from a health service perspective .</s>
+    <s id="8" section="results">Advice leaflet was associated with a mean change in cost of -31 pounds sterling, and a <outcome id="0" type="good">mean QALY gain</outcome> of 0.085.</s>
+    <s id="10" section="results"><group id="0" role="experiment">Dietary intervention plus strengthening exercises</group> had a mean cost of 647 pounds sterling and a mean <outcome id="0" type="bad">QALY gain</outcome> of 0.147 and was estimated to have an incremental cost of 10,469 pounds sterling per QALY gain (relative to leaflet provision), and a 23.1% probability of being cost effective at a 20,000 pounds sterling/QALY threshold.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To estimate the cost effectiveness of four different lifestyle interventions for knee pain. 
+DESIGN: Cost utility analysis of randomised controlled trial. 
+SETTING: Five general practices in the United Kingdom. 
+PARTICIPANTS: 389 adults aged &gt; or = 45 with self reported knee pain and body mass index (BMI) &gt; or = 28. 
+INTERVENTIONS: Dietary intervention plus quadriceps strengthening exercises, dietary intervention, quadriceps strengthening exercises, and leaflet provision. 
+Participants received home visits over a two year period. 
+MAIN OUTCOME MEASURE: Incremental cost per quality adjusted life year (QALY) gained over two years from a health service perspective. 
+RESULTS: Advice leaflet was associated with a mean change in cost of -31 pounds sterling, and a mean QALY gain of 0.085. 
+Both strengthening exercises and dietary intervention were more effective (0.090 and 0.133 mean QALY gain, respectively) but were not cost effective. 
+Dietary intervention plus strengthening exercises had a mean cost of 647 pounds sterling and a mean QALY gain of 0.147 and was estimated to have an incremental cost of 10,469 pounds sterling per QALY gain (relative to leaflet provision), and a 23.1% probability of being cost effective at a 20,000 pounds sterling/QALY threshold. 
+CONCLUSION: Dietary intervention plus strengthening exercises was estimated to be cost effective for individuals with knee pain, but with a large level of uncertainty. 
+TRIAL REGISTRATION: ISRCTN93206785.</fulltext>
+  <ignored>
+    <s id="2" section="design">Cost utility analysis of randomised controlled trial.</s>
+    <s id="5" section="interventions">Dietary intervention plus quadriceps strengthening exercises, dietary intervention, quadriceps strengthening exercises, and leaflet provision.</s>
+    <s id="9" section="results">Both strengthening exercises and dietary intervention were more effective (0.090 and 0.133 mean QALY gain, respectively) but were not cost effective.</s>
+    <s id="11" section="conclusion">Dietary intervention plus strengthening exercises was estimated to be cost effective for individuals with knee pain, but with a large level of uncertainty.</s>
+    <s id="12" section="trial registration">ISRCTN93206785.</s>
+  </ignored>
+</abstract>
+

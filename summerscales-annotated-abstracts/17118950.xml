@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17118950">
+  <title>
+    <s id="0">Impact of a theoretically based sex education programme (SHARE) delivered by teachers on NHS registered conceptions and terminations: final results of cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">NHS records of women who had attended 25 secondary schools in east Scotland.</s>
+    <s id="4" section="participants">4196 women (99.5% of those eligible).</s>
+    <s id="6" section="main outcome measure"><outcome id="0" type="bad">NHS recorded <short>conceptions</short></outcome> and <outcome id="1" type="bad">terminations</outcome> for the achieved sample linked at age 20.</s> 
+    <s id="7" section="results">In an "intention to treat" analysis there were no significant differences between the groups in <outcome id="0" type="bad">registered <short>conceptions</short></outcome> per 1000 pupils (<on outcome="0" group="0">300</on> <group id="0" role="experiment">SHARE</group> v <on outcome="0" group="1">274</on> <group id="1" role="control">control</group>; difference 26, 95% confidence interval -33 to 86) and <outcome id="1" type="bad">terminations</outcome> per 1000 pupils (<on outcome="1" group="0">127</on> v <on outcome="1" group="1">112</on>; difference 15, -13 to 42) between ages 16 and 20.</s> 
+    <s id="8" section="conclusions">This specially designed sex education programme did not reduce <outcome id="0" type="bad"><short>conceptions</short></outcome> or <outcome id="1" type="bad">terminations</outcome> by age 20 compared with conventional provision.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the impact of a theoretically based sex education programme (SHARE) delivered by teachers compared with conventional education in terms of conceptions and terminations registered by the NHS. 
+DESIGN: Follow-up of cluster randomised trial 4.5 years after intervention. 
+SETTING: NHS records of women who had attended 25 secondary schools in east Scotland. 
+PARTICIPANTS: 4196 women (99.5% of those eligible). 
+INTERVENTION: SHARE programme (intervention group) v existing sex education (control group). 
+MAIN OUTCOME MEASURE: NHS recorded conceptions and terminations for the achieved sample linked at age 20. 
+RESULTS: In an "intention to treat" analysis there were no significant differences between the groups in registered conceptions per 1000 pupils (300 SHARE v 274 control; difference 26, 95% confidence interval -33 to 86) and terminations per 1000 pupils (127 v 112; difference 15, -13 to 42) between ages 16 and 20. 
+CONCLUSIONS: This specially designed sex education programme did not reduce conceptions or terminations by age 20 compared with conventional provision.
+The lack of effect was not due to quality of delivery. 
+Enhancing teacher led school sex education beyond conventional provision in eastern Scotland is unlikely to reduce terminations in teenagers. 
+TRIAL REGISTRATION: ISRCTN48719575 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the impact of a theoretically based sex education programme (SHARE) delivered by teachers compared with conventional education in terms of conceptions and terminations registered by the NHS.</s>
+    <s id="2" section="design">Follow-up of cluster randomised trial 4.5 years after intervention.</s>
+    <s id="5" section="intervention">SHARE programme (intervention group) v existing sex education (control group).</s>
+    <s id="9" section="conclusions">The lack of effect was not due to quality of delivery.</s>
+    <s id="10" section="conclusions">Enhancing teacher led school sex education beyond conventional provision in eastern Scotland is unlikely to reduce terminations in teenagers.</s>
+    <s id="11" section="trial registration">ISRCTN48719575 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

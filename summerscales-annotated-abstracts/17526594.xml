@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17526594">
+  <title>
+    <s id="0">Equitable utilisation of Indian community based health insurance scheme among its rural membership: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">Participants 713 claimants at baseline (2003) and 1440 claimants 2 years later among scheme members in 16 rural sub-districts.</s>
+    <s id="8" section="results">Between 2003 and 2005, the <outcome id="0" type="good">mean <short>socioeconomic status</short> of SEWA Insurance members</outcome> (relative to the rural population of Gujarat) increased significantly.</s>
+    <s id="9" section="results"><outcome id="0" type="good">Rates of claims</outcome> also increased significantly, on average by 21.6 per 1000 members (P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate alternative strategies for improving the uptake of benefits of a community based health insurance scheme by its poorest members. 
+DESIGN: Prospective cluster randomised controlled trial. 
+SETTING: Self Employed Women's Association (SEWA) community based health insurance scheme in rural India. 
+Participants 713 claimants at baseline (2003) and 1440 claimants two years later among scheme members in 16 rural sub-districts. 
+INTERVENTIONS: After sales service with supportive supervision, prospective reimbursement, both packages, and neither package, randomised by sub-district. 
+MAIN OUTCOME MEASURES: The primary outcome was socioeconomic status of claimants relative to members living in the same sub-district. 
+Secondary outcomes were enrolment rates in SEWA Insurance, mean socioeconomic status of the insured population relative to the general rural population, and rate of claim submission. 
+RESULTS: Between 2003 and 2005, the mean socioeconomic status of SEWA Insurance members (relative to the rural population of Gujarat) increased significantly. 
+Rates of claims also increased significantly, on average by 21.6 per 1000 members (P&lt;0.001). 
+However, differences between the intervention groups and the standard scheme were not significant. 
+No systematic effect of time or interventions on the socioeconomic status of claimants relative to members in the same sub-district was found. 
+CONCLUSIONS: Neither intervention was sufficient to ensure that the poorer members in each sub-district were able to enjoy the greater share of the scheme benefits. 
+Claim submission increased as a result of interventions that seem to have strengthened awareness of and trust in a community based health insurance scheme. 
+Trial registration Clinical trials NCT00421629.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate alternative strategies for improving the uptake of benefits of a community based health insurance scheme by its poorest members.</s>
+    <s id="2" section="design">Prospective cluster randomised controlled trial.</s>
+    <s id="3" section="setting">Self Employed Women's Association (SEWA) community based health insurance scheme in rural India.</s>
+    <s id="5" section="interventions">After sales service with supportive supervision, prospective reimbursement, both packages, and neither package, randomised by sub-district.</s>
+    <s id="6" section="main outcome measures">The primary outcome was socioeconomic status of claimants relative to members living in the same sub-district.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were enrolment rates in SEWA Insurance, mean socioeconomic status of the insured population relative to the general rural population, and rate of claim submission.</s>
+    <s id="10" section="results">However, differences between the intervention groups and the standard scheme were not significant.</s>
+    <s id="11" section="results">No systematic effect of time or interventions on the socioeconomic status of claimants relative to members in the same sub-district was found.</s>
+    <s id="12" section="conclusions">Neither intervention was sufficient to ensure that the poorer members in each sub-district were able to enjoy the greater share of the scheme benefits.</s>
+    <s id="13" section="conclusions">Claim submission increased as a result of interventions that seem to have strengthened awareness of and trust in a community based health insurance scheme.</s>
+    <s id="14" section="conclusions">Trial registration Clinical trials NCT00421629.</s>
+  </ignored>
+</abstract>
+

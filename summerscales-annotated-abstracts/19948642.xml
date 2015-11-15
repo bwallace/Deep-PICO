@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19948642">
+  <title>
+    <s id="0">Are people with negative diabetes screening tests falsely reassured?</s>
+    <s id="1">Parallel group cohort study embedded in the ADDITION (Cambridge) randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">15 practices (10 <group id="0" role="experiment">screening</group>, 5 <group id="0" role="experiment">control</group>) in the ADDITION (Cambridge) trial.</s>
+    <s id="5" section="participants">5334 adults (aged 40-69) in the top quarter for risk of having undiagnosed type 2 diabetes (<gs group="1">964</gs> controls and <gs group="0">4370</gs> screening attenders).</s>
+    <s id="8" section="results">After the initial test, people who screened negative reported significantly (but slightly) lower <outcome id="0" type="bad">perceived comparative risk</outcome> (mean difference -0.16, 95% confidence interval -0.30 to -0.02; P=0.04) than the control group at the equivalent time point; no differences were evident at <time id="0" units="months">3-6</time> and <time id="1">12-15 months</time>.</s>
+    <s id="10" section="conclusions">Implementing a widespread programme of primary care based stepwise screening for type 2 diabetes is unlikely to cause an adverse shift in the population distribution of plasma glucose and cardiovascular risk resulting from an increase in unhealthy behaviours arising from false reassurance among people who screen negative.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess whether receiving a negative test result at primary care based stepwise diabetes screening results in false reassurance. 
+DESIGN: Parallel group cohort study embedded in a randomised controlled trial. 
+SETTING: 15 practices (10 screening, 5 control) in the ADDITION (Cambridge) trial. 
+PARTICIPANTS: 5334 adults (aged 40-69) in the top quarter for risk of having undiagnosed type 2 diabetes (964 controls and 4370 screening attenders). 
+MAIN OUTCOME MEASURES: Perceived personal and comparative risk of diabetes, intentions for behavioural change, and self rated health measured after an initial random blood glucose test and at 3-6 and 12-15 months later (equivalent time points for controls). 
+RESULTS: A linear mixed effects model with control for clustering by practice found no significant differences between controls and people who screened negative for diabetes in perceived personal risk, behavioural intentions, or self rated health after the first appointment or at 3-6 months or 12-15 months later. 
+After the initial test, people who screened negative reported significantly (but slightly) lower perceived comparative risk (mean difference -0.16, 95% confidence interval -0.30 to -0.02; P=0.04) than the control group at the equivalent time point; no differences were evident at 3-6 and 12-15 months. 
+CONCLUSIONS: A negative test result at diabetes screening does not seem to promote false reassurance, whether this is expressed as lower perceived risk, lower intentions for health related behavioural change, or higher self rated health. 
+Implementing a widespread programme of primary care based stepwise screening for type 2 diabetes is unlikely to cause an adverse shift in the population distribution of plasma glucose and cardiovascular risk resulting from an increase in unhealthy behaviours arising from false reassurance among people who screen negative. 
+Trial registration Current controlled trials ISRCTN99175498.</fulltext>
+  <ignored>
+    <s id="2" section="objective">To assess whether receiving a negative test result at primary care based stepwise diabetes screening results in false reassurance.</s>
+    <s id="3" section="design">Parallel group cohort study embedded in a randomised controlled trial.</s>
+    <s id="6" section="main outcome measures">Perceived personal and comparative risk of diabetes, intentions for behavioural change, and self rated health measured after an initial random blood glucose test and at 3-6 and 12-15 months later (equivalent time points for controls).</s>
+    <s id="7" section="results">A linear mixed effects model with control for clustering by practice found no significant differences between controls and people who screened negative for diabetes in perceived personal risk, behavioural intentions, or self rated health after the first appointment or at 3-6 months or 12-15 months later.</s>
+    <s id="9" section="conclusions">A negative test result at diabetes screening does not seem to promote false reassurance, whether this is expressed as lower perceived risk, lower intentions for health related behavioural change, or higher self rated health.</s>
+    <s id="11" section="conclusions">Trial registration Current controlled trials ISRCTN99175498.</s>
+  </ignored>
+</abstract>
+

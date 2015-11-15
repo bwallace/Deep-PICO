@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16885182">
+  <title>
+    <s id="0" section="title">
+      Safety and efficacy of
+      <group id="0">
+        routine  postoperative
+        <short>ibuprofen</short>
+      </group>
+      for pain and disability related to
+      <outcome id="2">ectopic  bone  formation</outcome>
+      after hip replacement surgery ( HIPAID ) : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">20 orthopaedic surgery centres in Australia and New Zealand .</s>
+    <s id="4" section="participants">
+      <ps>902</ps>
+      patients undergoing elective primary or revision total hip replacement surgery .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        14  days  '  treatment  with
+        <short>ibuprofen</short>
+        (  1200  mg  daily  )
+      </group>
+      or
+      <group id="0">matching  placebo</group>
+      started within 24 hours of surgery .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        Changes  in  self  reported
+        <short>hip  pain</short>
+      </outcome>
+      and
+      <outcome id="1">
+        <short>physical  function</short>
+        <time id="0">6  to  12  months  after  surgery</time>
+      </outcome>
+      ( Western Ontario and McMaster University Arthritis index ) .
+    </s>
+    <s id="7" section="results">
+      There were no significant differences between the groups for
+      <outcome id="0">
+        improvements  in
+        <short>hip  pain</short>
+      </outcome>
+      ( mean difference - 0.1 , 95 % confidence interval - 0.4 to 0.2 , P = 0.6 ) or
+      <outcome id="1">physical  function</outcome>
+      ( - 0.1 , - 0.4 to 0.2 , P = 0.5 ) , despite a decreased
+      <outcome id="2">
+        risk  of
+        <short>ectopic  bone  formation</short>
+      </outcome>
+      ( relative risk 0.69 , 0.56 to 0.83 ) associated with
+      <group id="0">ibuprofen</group>
+      .
+    </s>
+  </annotated>
+  <fulltext>Safety and efficacy of routine postoperative ibuprofen for pain and disability related to ectopic bone formation after hip replacement surgery ( HIPAID ) : randomised controlled trial . To determine the benefits and risks of a non - steroidal anti - inflammatory drug ( NSAID ) as prophylaxis for ectopic bone formation in patients undergoing total hip replacement ( or revision ) surgery . Double blind randomised placebo controlled clinical trial , stratified by treatment site and surgery ( primary or revision ) . 20 orthopaedic surgery centres in Australia and New Zealand . 902 patients undergoing elective primary or revision total hip replacement surgery . 14 days ' treatment with ibuprofen ( 1200 mg daily ) or matching placebo started within 24 hours of surgery . Changes in self reported hip pain and physical function 6 to 12 months after surgery ( Western Ontario and McMaster University Arthritis index ) . There were no significant differences between the groups for improvements in hip pain ( mean difference - 0.1 , 95 % confidence interval - 0.4 to 0.2 , P = 0.6 ) or physical function ( - 0.1 , - 0.4 to 0.2 , P = 0.5 ) , despite a decreased risk of ectopic bone formation ( relative risk 0.69 , 0.56 to 0.83 ) associated with ibuprofen . There was a significantly increased risk of major bleeding complications n the ibuprofen group during the admission period ( 2.09 , 1.00 to 4.39 ) . These data do not support the use of routine prophylaxis with NSAIDs in patients undergoing total hip replacement surgery . NCT00145730 .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To determine the benefits and risks of a
+      <group id="0">
+        <short>non  -  steroidal  anti  -  inflammatory  drug</short>
+        (  NSAID  )
+      </group>
+      as prophylaxis for
+      <outcome id="2">ectopic  bone  formation</outcome>
+      in patients undergoing total hip replacement ( or revision ) surgery .
+    </s>
+    <s id="2" section="design">Double blind randomised placebo controlled clinical trial , stratified by treatment site and surgery ( primary or revision ) .</s>
+    <s id="8" section="results">
+      There was a significantly increased
+      <outcome id="3">
+        risk  of
+        <short>major  bleeding  complications</short>
+      </outcome>
+      n the
+      <group id="0">ibuprofen  group</group>
+      during the admission period ( 2.09 , 1.00 to 4.39 ) .
+    </s>
+    <s id="9" section="conclusions">
+      These data do not support the use of
+      <group id="0">routine  prophylaxis  with  NSAIDs</group>
+      in patients undergoing total hip replacement surgery .
+    </s>
+    <s id="10" section="trial_registration">NCT00145730 .</s>
+  </ignored>
+</abstract>
+

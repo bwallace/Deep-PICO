@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19622553">
+  <title>
+    <s id="0">Effectiveness of quinine versus artemether-lumefantrine for treating uncomplicated falciparum malaria in Ugandan children: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">175 children aged 6 to 59 months with uncomplicated malaria.</s>
+    <s id="6" section="main outcome measures">Primary outcomes were parasitological cure rates after <time id="0">28</time> days of follow-up unadjusted and adjusted by genotyping to distinguish recrudescence from new infections.</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were adherence to study drug, presence of gametocytes, recovery of haemoglobin concentration from baseline at day 28, and safety profiles.</s>
+    <s id="8" section="results">Using survival analysis the <outcome id="0" type="good">cure rate unadjusted by genotyping</outcome> was <on group="0" outcome="0">96%</on> for the <group id="0" role="experiment">artemether-lumefantrine group</group> compared with <on group="1" outcome="0">64%</on> for the <group id="1" role="control">quinine group</group> (hazard ratio 10.7, 95% confidence interval 3.3 to 35.5, P=0.001).</s>
+    <s id="9" section="results">In the <group id="1" role="control">quinine group</group> 69% (<on group="1" outcome="1">18</on>/<gs group="1">26</gs>) of <outcome id="1" type="bad">parasitological failures</outcome> were due to recrudescence compared with <on outcome="1" group="0">0</on> in the <group id="0" role="experiment">artemether-lumefantrine group</group>.</s>
+    <s id="11" section="results">Having <outcome id="2" type="bad">adherence levels</outcome> of 80% or more was associated with a decreased risk of treatment failure (0.44, 0.19 to 1.02, P=0.06).</s>
+    <s id="12" section="results">Adverse events did not differ between the 2 groups .</s>
+    <s id="13" section="conclusions">The effectiveness of a <group id="1" role="control">7 day course of <short>quinine</short></group> for the treatment of uncomplicated malaria in Ugandan children was significantly lower than that of <group id="0" role="experiment">artemether-lumefantrine</group> .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the effectiveness of oral quinine with that of artemether-lumefantrine in treating uncomplicated malaria in children. 
+DESIGN: Randomised, open label effectiveness study. 
+SETTING: Outpatient clinic of Uganda's national referral hospital in Kampala. 
+PARTICIPANTS: 175 children aged 6 to 59 months with uncomplicated malaria. 
+INTERVENTIONS: Participants were randomised to receive oral quinine or artemether-lumefantrine administered by care givers at home. 
+MAIN OUTCOME MEASURES: Primary outcomes were parasitological cure rates after 28 days of follow-up unadjusted and adjusted by genotyping to distinguish recrudescence from new infections. 
+Secondary outcomes were adherence to study drug, presence of gametocytes, recovery of haemoglobin concentration from baseline at day 28, and safety profiles. 
+RESULTS: Using survival analysis the cure rate unadjusted by genotyping was 96% for the artemether-lumefantrine group compared with 64% for the quinine group (hazard ratio 10.7, 95% confidence interval 3.3 to 35.5, P=0.001). 
+In the quinine group 69% (18/26) of parasitological failures were due to recrudescence compared with none in the artemether-lumefantrine group. 
+The mean adherence to artemether-lumefantrine was 94.5% compared with 85.4% to quinine (P=0.0008). 
+Having adherence levels of 80% or more was associated with a decreased risk of treatment failure (0.44, 0.19 to 1.02, P=0.06). 
+Adverse events did not differ between the two groups. 
+CONCLUSIONS: The effectiveness of a seven day course of quinine for the treatment of uncomplicated malaria in Ugandan children was significantly lower than that of artemether-lumefantrine. 
+These findings question the advisability of the recommendation for quinine therapy for uncomplicated malaria in Africa. 
+TRIAL REGISTRATION: ClinicalTrials.gov 
+NCT00540202.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the effectiveness of oral quinine with that of artemether-lumefantrine in treating uncomplicated malaria in children.</s>
+    <s id="2" section="design">Randomised, open label effectiveness study.</s>
+    <s id="3" section="setting">Outpatient clinic of Uganda's national referral hospital in Kampala.</s>
+    <s id="5" section="interventions">Participants were randomised to receive oral quinine or artemether-lumefantrine administered by care givers at home.</s>
+    <s id="10" section="results">The mean adherence to artemether-lumefantrine was 94.5% compared with 85.4% to quinine (P=0.0008).</s>
+    <s id="14" section="conclusions">These findings question the advisability of the recommendation for quinine therapy for uncomplicated malaria in Africa.</s>
+    <s id="15" section="trial registration">ClinicalTrials.gov</s>
+    <s id="16" section="trial registration">NCT00540202.</s>
+  </ignored>
+</abstract>
+

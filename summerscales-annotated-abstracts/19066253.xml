@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19066253">
+  <title>
+    <s id="0">Comprehensive warm-up programme to prevent injuries in young female footballers: cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">125 football clubs from the south , east , and middle of Norway ( 65 clusters in the intervention group ; 60 in the control group ) followed for <time id="0">1 league season ( 8 months )</time> .</s>
+    <s id="4" section="participants">1892 female players aged 13-17 (<gs group="0">1055</gs> players in the <group id="0" role="experiment"><short>intervention</short> group</group>; <gs group="1">837</gs> players in the <group id="1" role="control"><short>control</short> group</group>).</s>
+    <s id="7" section="results">During <time id="0">1 season</time> , 264 players had <outcome id="0" type="bad">relevant injuries</outcome> : <on group="0" outcome="0">121</on> players in the <group id="0" role="experiment"><short>intervention</short> group</group> and <on group="1" outcome="0">143</on> in the <group id="1" role="control"><short>control</short> group</group> ( rate ratio 0.71 , 95 % confidence interval 0.49 to 1.03 ) .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine the effect of a comprehensive warm-up programme designed to reduce the risk of injuries in female youth football. 
+DESIGN: Cluster randomised controlled trial with clubs as the unit of randomisation. 
+SETTING: 125 football clubs from the south, east, and middle of Norway (65 clusters in the intervention group; 60 in the control group) followed for one league season (eight months). 
+PARTICIPANTS: 1892 female players aged 13-17 (1055 players in the intervention group; 837 players in the control group). 
+INTERVENTION: A comprehensive warm-up programme to improve strength, awareness, and neuromuscular control during static and dynamic movements. 
+MAIN OUTCOME MEASURE: Injuries to the lower extremity (foot, ankle, lower leg, knee, thigh, groin, and hip). 
+RESULTS: During one season, 264 players had relevant injuries: 121 players in the intervention group and 143 in the control group (rate ratio 0.71, 95% confidence interval 0.49 to 1.03). 
+In the intervention group there was a significantly lower risk of injuries overall (0.68, 0.48 to 0.98), overuse injuries (0.47, 0.26 to 0.85), and severe injuries (0.55, 0.36 to 0.83). 
+CONCLUSION: Though the primary outcome of reduction in lower extremity injury did not reach significance, the risk of severe injuries, overuse injuries, and injuries overall was reduced. 
+This indicates that a structured warm-up programme can prevent injuries in young female football players. 
+TRIAL REGISTRATION: ISRCTN10306290.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To examine the effect of a comprehensive warm-up programme designed to reduce the risk of injuries in female youth football.</s>
+    <s id="2" section="design">Cluster randomised controlled trial with clubs as the unit of randomisation.</s>
+    <s id="5" section="intervention">A comprehensive warm-up programme to improve strength, awareness, and neuromuscular control during static and dynamic movements.</s>
+    <s id="6" section="main outcome measure">Injuries to the lower extremity (foot, ankle, lower leg, knee, thigh, groin, and hip).</s>
+    <s id="8" section="results">In the intervention group there was a significantly lower risk of injuries overall (0.68, 0.48 to 0.98), overuse injuries (0.47, 0.26 to 0.85), and severe injuries (0.55, 0.36 to 0.83).</s>
+    <s id="9" section="conclusion">Though the primary outcome of reduction in lower extremity injury did not reach significance, the risk of severe injuries, overuse injuries, and injuries overall was reduced.</s>
+    <s id="10" section="conclusion">This indicates that a structured warm-up programme can prevent injuries in young female football players.</s>
+    <s id="11" section="trial registration">ISRCTN10306290.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17954513">
+  <title>
+    <s id="0">Reduced in-hospital mortality after improved management of children under 5 years admitted to hospital with malaria: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="5" section="participants">951 children aged 3 months to 5 years admitted to hospital with a diagnosis of malaria randomised to normal or intervention wards.</s>
+    <s id="8" section="interventions">Personnel in the intervention ward <group id="0" role="experiment">received a small financial incentive ($50 (25 pounds sterling; 35 euros)/month for nurses and $160 for doctors)</group> and <group id="1" role="control"> their compliance with standard case management</group> was closely monitored.</s>
+    <s id="9" section="main outcome measures"><outcome id="0" type="bad">In-hospital mortality</outcome> and <outcome id="2" type="bad">cumulative mortality within 4 weeks of hospital admission</outcome>.</s>
+    <s id="12" section="results"><outcome id="1" type="bad">Cumulative mortality 4 weeks after discharge</outcome> was also lower in the intervention group (0.61, 0.40 to 0.95).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To test whether strict implementation of a standardised protocol for the management of malaria and provision of a financial incentive for health workers reduced mortality. 
+DESIGN: Randomised controlled intervention trial. 
+SETTING: Paediatric ward at the national hospital in Guinea-Bissau. 
+All children admitted to hospital with severe malaria received free drug kits. 
+PARTICIPANTS: 951 children aged 3 months to 5 years admitted to hospital with a diagnosis of malaria randomised to normal or intervention wards. 
+INTERVENTIONS: Before the start of the study, all personnel were trained in the use of the standardised guidelines for the management of malaria, including strict follow-up procedures. 
+Nurses and doctors were randomised to work on intervention or control wards. 
+Personnel in the intervention ward received a small financial incentive ($50 (25 pounds sterling; 35 euros)/month for nurses and $160 for doctors) and their compliance with standard case management was closely monitored. 
+MAIN OUTCOME MEASURES: In-hospital mortality and cumulative mortality within 4 weeks of hospital admission. 
+RESULTS: In-hospital mortality was 5% for the intervention group and 10% in the control group (risk ratio 0.48, 95% confidence interval 0.29 to 0.79). 
+The effect may have been stronger in patients with positive malaria slides (0.36, 0.16 to 0.80). 
+Cumulative mortality 4 weeks after discharge was also lower in the intervention group (0.61, 0.40 to 0.95). 
+CONCLUSIONS: Supervising healthcare workers to adhere to a standardised treatment protocol was associated with greatly reduced in-hospital mortality. 
+Financial incentives may be important for the dedication and compliance of staff members. 
+TRIAL REGISTRATION: Clinical Trials NCT00465777 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To test whether strict implementation of a standardised protocol for the management of malaria and provision of a financial incentive for health workers reduced mortality.</s>
+    <s id="2" section="design">Randomised controlled intervention trial.</s>
+    <s id="3" section="setting">Paediatric ward at the national hospital in Guinea-Bissau.</s>
+    <s id="4" section="setting">All children admitted to hospital with severe malaria received free drug kits.</s>
+    <s id="6" section="interventions">Before the start of the study, all personnel were trained in the use of the standardised guidelines for the management of malaria, including strict follow-up procedures.</s>
+    <s id="7" section="interventions">Nurses and doctors were randomised to work on intervention or control wards.</s>
+    <s id="10" section="results">In-hospital mortality was 5% for the intervention group and 10% in the control group (risk ratio 0.48, 95% confidence interval 0.29 to 0.79).</s>
+    <s id="11" section="results">The effect may have been stronger in patients with positive malaria slides (0.36, 0.16 to 0.80).</s>
+    <s id="13" section="conclusions">Supervising healthcare workers to adhere to a standardised treatment protocol was associated with greatly reduced in-hospital mortality.</s>
+    <s id="14" section="conclusions">Financial incentives may be important for the dedication and compliance of staff members.</s>
+    <s id="15" section="trial registration">Clinical Trials NCT00465777 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

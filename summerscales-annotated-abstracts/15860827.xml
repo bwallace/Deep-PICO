@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15860827">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial of
+      <group id="0">
+        <short>calcium  and  supplementation  with  cholecalciferol</short>
+        (  vitamin  D3  )
+      </group>
+      for
+      <outcome id="0">prevention  of  fractures</outcome>
+      in primary care .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To assess whether
+      <group id="0">
+        <short>supplementation  with  calcium  and  cholecaliferol</short>
+        (  vitamin  D3  )
+      </group>
+      reduces the
+      <outcome id="0">risk  of  fracture</outcome>
+      in women with 1 or more risk factors for fracture of the hip .
+    </s>
+    <s id="4" section="participants">
+      <ps>3314</ps>
+      women aged 70 and over with 1 or more risk factors for hip fracture : any previous fracture , low body weight ( &lt; 58 kg ) , smoker , family history of hip fracture , or fair or poor self reported health .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        <short>Daily  oral  supplementation</short>
+        using  1000  mg  calcium  with  800  IU  cholecaliferol  and  information  leaflet  on  dietary  calcium  intake  and  prevention  of  falls
+      </group>
+      , or
+      <group id="0">leaflet  only</group>
+      (
+      <group id="1">control  group</group>
+      ) .
+    </s>
+    <s id="7" section="results">
+      69 % of the women who completed the follow - up questionnaire at
+      <time id="0">24  months</time>
+      were
+      <outcome id="1">still  taking  supplements</outcome>
+      ( 55 % with inclusion of randomised participants known to be alive ) .
+    </s>
+    <s id="8" section="results">
+      After a median follow - up of
+      <time id="1">25  months</time>
+      ( range 18 to 42 months ) ,
+      <outcome id="0">clinical  fracture  rates</outcome>
+      were lower than expected in both groups but did not significantly differ for
+      <outcome id="0">all  clinical  fractures</outcome>
+      ( odds ratio for fracture in
+      <group id="0">supplemented  group</group>
+      1.01 , 95 % confidence interval 0.71 to 1.43 ) .
+    </s>
+    <s id="10" section="results">
+      The odds of a woman having a
+      <outcome id="2">fall</outcome>
+      at
+      <time id="2">6</time>
+      and
+      <time id="3">12  months</time>
+      was 0.99 and 0.98 , respectively .
+    </s>
+    <s id="12" section="conclusion">
+      We found no evidence that
+      <group id="0">calcium  and  vitamin  D  supplementation</group>
+      reduces the
+      <outcome id="0">risk  of  clinical  fractures</outcome>
+      in women with 1 or more risk factors for hip fracture .
+    </s>
+  </annotated>
+  <fulltext>Randomised controlled trial of calcium and supplementation with cholecalciferol ( vitamin D3 ) for prevention of fractures in primary care . To assess whether supplementation with calcium and cholecaliferol ( vitamin D3 ) reduces the risk of fracture in women with 1 or more risk factors for fracture of the hip . Pragmatic open randomised controlled trial . Practice nurse led clinics in primary care . 3314 women aged 70 and over with 1 or more risk factors for hip fracture : any previous fracture , low body weight ( &lt; 58 kg ) , smoker , family history of hip fracture , or fair or poor self reported health . Daily oral supplementation using 1000 mg calcium with 800 IU cholecaliferol and information leaflet on dietary calcium intake and prevention of falls , or leaflet only ( control group ) . Primary outcome measure was all clinical fractures and secondary outcome measures were adherence to treatment , falls , and quality of life ( measured with the SF-12 ) . 69 % of the women who completed the follow - up questionnaire at 24 months were still taking supplements ( 55 % with inclusion of randomised participants known to be alive ) . After a median follow - up of 25 months ( range 18 to 42 months ) , clinical fracture rates were lower than expected in both groups but did not significantly differ for all clinical fractures ( odds ratio for fracture in supplemented group 1.01 , 95 % confidence interval 0.71 to 1.43 ) . The odds ratio for hip fracture was 0.75 ( 0.31 to 1.78 ) . The odds of a woman having a fall at 6 and 12 months was 0.99 and 0.98 , respectively . Quality of life did not significantly differ between the groups . We found no evidence that calcium and vitamin D supplementation reduces the risk of clinical fractures in women with 1 or more risk factors for hip fracture . Registration ISRCTN26118436 , controlled trials registry .</fulltext>
+  <ignored>
+    <s id="2" section="design">Pragmatic open randomised controlled trial .</s>
+    <s id="3" section="setting">Practice nurse led clinics in primary care .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary outcome measure was
+      <outcome id="0">all  clinical  fractures</outcome>
+      and secondary outcome measures were
+      <outcome id="1">adherence  to  treatment</outcome>
+      ,
+      <outcome id="2">falls</outcome>
+      , and
+      <outcome id="3">quality  of  life</outcome>
+      ( measured with the SF-12 ) .
+    </s>
+    <s id="9" section="results">
+      The odds ratio for
+      <outcome id="0">hip  fracture</outcome>
+      was 0.75 ( 0.31 to 1.78 ) .
+    </s>
+    <s id="11" section="results">
+      <outcome id="3">Quality  of  life</outcome>
+      did not significantly differ between the groups .
+    </s>
+    <s id="13" section="conclusion">Registration ISRCTN26118436 , controlled trials registry .</s>
+  </ignored>
+</abstract>
+

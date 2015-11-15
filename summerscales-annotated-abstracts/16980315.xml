@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16980315">
+  <title>
+    <s id="0" section="title">
+      A randomised controlled trial of
+      <group id="0">acupuncture  care</group>
+      for persistent low back pain : cost effectiveness analysis .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">3 private acupuncture clinics and 18 general practices in York , England .</s>
+    <s id="4" section="participants">
+      <ps>241</ps>
+      adults aged 18 - 65 with non - specific low back pain of 4-52 weeks ' duration .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        10  individualised
+        <short>acupuncture</short>
+        treatments  over  3  months  from  acupuncturists  trained  in  traditional  Chinese  medicine
+      </group>
+      ( n =
+      <gs group="0">160</gs>
+      ) or
+      <group id="1">
+        <short>usual  care</short>
+        only
+      </group>
+      ( n =
+      <gs group="1">81</gs>
+      ) .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="0">
+        Incremental
+        <short>cost  per  quality  adjusted  life  year</short>
+        (  QALY  )  gained  over  2  years
+      </outcome>
+      .
+    </s>
+    <s id="7" section="results">
+      <outcome id="1">Total  costs</outcome>
+      to the United Kingdom 's health service during the 2 year study period were higher on average for the
+      <group id="0">acupuncture  group</group>
+      ( 460 pounds sterling ; 673 euros ; 859 dollars ) than for the
+      <group id="1">usual  care  group</group>
+      ( 345 pounds sterling ) because of the costs associated with
+      <group id="0">initial  treatment</group>
+      .
+    </s>
+    <s id="8" section="results">
+      The
+      <outcome id="2">
+        mean
+        <short>incremental  health  gain</short>
+      </outcome>
+      from
+      <group id="0">acupuncture</group>
+      at
+      <time id="0">12  months</time>
+      was 0.012 QALYs ( 95 % confidence interval - 0.033 to 0.058 ) and at
+      <time id="1">24  months</time>
+      was 0.027 QALYs ( - 0.056 to 0.110 ) , leading to a base case estimate of 4241 pounds sterling per QALY gained .
+    </s>
+    <s id="10" section="results">
+      The probabilistic sensitivity analysis showed
+      <group id="0">acupuncture</group>
+      to have a more than 90 % chance of being cost effective at a pound20 000 cost per QALY threshold .
+    </s>
+  </annotated>
+  <fulltext>A randomised controlled trial of acupuncture care for persistent low back pain : cost effectiveness analysis . To evaluate the cost effectiveness of acupuncture in the management of persistent non - specific low back pain . Cost effectiveness analysis of a randomised controlled trial . 3 private acupuncture clinics and 18 general practices in York , England . 241 adults aged 18 - 65 with non - specific low back pain of 4-52 weeks ' duration . 10 individualised acupuncture treatments over 3 months from acupuncturists trained in traditional Chinese medicine ( n = 160 ) or usual care only ( n = 81 ) . Incremental cost per quality adjusted life year ( QALY ) gained over 2 years . Total costs to the United Kingdom 's health service during the 2 year study period were higher on average for the acupuncture group ( 460 pounds sterling ; 673 euros ; 859 dollars ) than for the usual care group ( 345 pounds sterling ) because of the costs associated with initial treatment . The mean incremental health gain from acupuncture at 12 months was 0.012 QALYs ( 95 % confidence interval - 0.033 to 0.058 ) and at 24 months was 0.027 QALYs ( - 0.056 to 0.110 ) , leading to a base case estimate of 4241 pounds sterling per QALY gained . This result was robust to sensitivity analysis . The probabilistic sensitivity analysis showed acupuncture to have a more than 90 % chance of being cost effective at a pound20 000 cost per QALY threshold . A short course of traditional acupuncture for persistent non - specific low back pain in primary care confers a modest health benefit for minor extra cost to the NHS compared with usual care . Acupuncture care for low back pain seems to be cost effective in the longer term . ISRCTN80764175 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the cost effectiveness of
+      <group id="0">acupuncture</group>
+      in the management of persistent non - specific low back pain .
+    </s>
+    <s id="2" section="design">Cost effectiveness analysis of a randomised controlled trial .</s>
+    <s id="9" section="results">This result was robust to sensitivity analysis .</s>
+    <s id="11" section="conclusion">
+      A
+      <group id="0">
+        short  course  of
+        <short>traditional  acupuncture</short>
+      </group>
+      for persistent non - specific low back pain in primary care confers a
+      <outcome id="0">
+        modest
+        <short>health  benefit</short>
+      </outcome>
+      for
+      <outcome id="1">
+        minor  extra
+        <short>cost</short>
+      </outcome>
+      to the NHS compared with
+      <group id="1">usual  care</group>
+      .
+    </s>
+    <s id="12" section="conclusion">
+      <group id="0">Acupuncture  care</group>
+      for low back pain seems to be cost effective in the longer term .
+    </s>
+    <s id="13" section="trial_registration">ISRCTN80764175 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

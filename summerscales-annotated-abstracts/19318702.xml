@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19318702">
+  <title>
+    <s id="0">Effect of food intake during labour on obstetric outcome: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">2426 nulliparous, non-diabetic women at term, with a singleton cephalic presenting fetus and in labour with a cervical dilatation of less than 6 cm.</s>
+    <s id="8" section="results">The <outcome id="3" type="good">spontaneous <short>vaginal delivery</short> rate</outcome> was the same in both groups (44%; relative risk 0.99, 95% confidence interval 0.90 to 1.08).</s>
+    <s id="9" section="results">No clinically important differences were found in the duration of labour(geometric mean: eating, 597 min v water, 612 min; ratio of geometric means 0.98, 95% confidence interval 0.93 to 1.03), the <outcome id="1" type="good"><short>caesarean delivery</short> rate</outcome> (30% v 30%; relative risk 0.99, 0.87 to 1.12), or the incidence of <outcome id="2" type="bad">vomiting</outcome> (35% v 34%; relative risk 1.05, 0.9 to 1.2).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate the effect of feeding during labour on obstetric and neonatal outcomes. 
+DESIGN: Prospective randomised controlled trial. 
+SETTING: Birth centre in London teaching hospital. 
+PARTICIPANTS: 2426 nulliparous, non-diabetic women at term, with a singleton cephalic presenting fetus and in labour with a cervical dilatation of less than 6 cm. 
+INTERVENTION: Consumption of a light diet or water during labour. 
+MAIN OUTCOME MEASURES: The primary outcome measure was spontaneous vaginal delivery rate. 
+Other outcomes measured included duration of labour, need for augmentation of labour, instrumental and caesarean delivery rates, incidence of vomiting, and neonatal outcome. 
+RESULTS: The spontaneous vaginal delivery rate was the same in both groups (44%; relative risk 0.99, 95% confidence interval 0.90 to 1.08). 
+No clinically important differences were found in the duration of labour (geometric mean: eating, 597 min v water, 612 min; ratio of geometric means 0.98, 95% confidence interval 0.93 to 1.03), the caesarean delivery rate (30% v 30%; relative risk 0.99, 0.87 to 1.12), or the incidence of vomiting (35% v 34%; relative risk 1.05, 0.9 to 1.2). 
+Neonatal outcomes were also similar. 
+CONCLUSIONS: Consumption of a light diet during labour did not influence obstetric or neonatal outcomes in participants, nor did it increase the incidence of vomiting. 
+Women who are allowed to eat in labour have similar lengths of labour and operative delivery rates to those allowed water only. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN33298015.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate the effect of feeding during labour on obstetric and neonatal outcomes.</s>
+    <s id="2" section="design">Prospective randomised controlled trial.</s>
+    <s id="3" section="setting">Birth centre in London teaching hospital.</s>
+    <s id="5" section="intervention">Consumption of a light diet or water during labour.</s>
+    <s id="6" section="main outcome measures">The primary outcome measure was spontaneous vaginal delivery rate.</s>
+    <s id="7" section="main outcome measures">Other outcomes measured included duration of labour, need for augmentation of labour, instrumental and caesarean delivery rates, incidence of vomiting, and neonatal outcome.</s>
+    <s id="10" section="results">Neonatal outcomes were also similar.</s>
+    <s id="11" section="conclusions">Consumption of a light diet during labour did not influence obstetric or neonatal outcomes in participants, nor did it increase the incidence of vomiting.</s>
+    <s id="12" section="conclusions">Women who are allowed to eat in labour have similar lengths of labour and operative delivery rates to those allowed water only.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN33298015.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18056740">
+  <title>
+    <s id="0">Hemiarthroplasty or internal fixation for intracapsular displaced femoral neck fractures: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">222 patients; 165 (74%) women, mean age 83 years.</s>
+    <s id="5" section="participants">Inclusion criteria were age above 60 ability to walk before the fracture, and no major hip pathology, regardless of cognitive function.</s>
+    <s id="6" section="interventions"><group id="0" role="experiment">Closed reduction and two parallel screws</group> (<gs group="0">112</gs> patients) and <group id="1" role="experiment">bipolar cemented hemiarthroplasty</group> (<gs group="1">110</gs> patients).</s>
+    <s id="7" section="interventions">Follow-up at 4, 12, and <time id="2">24 months</time> .</s>
+    <s id="10" section="results">Mean <outcome id="0" type="good">Harris hip score</outcome> in the <group id="1" role="experiment"><short>hemiarthroplasty</short> group</group> was 8.2 points higher (95% confidence interval 2.8 to 13.5 points, P=0.003) at <time id="0">four months</time> and 6.7 points (1.5 to 11.9 points, P=0.01) higher at <time id="1">12 months</time>.</s>
+    <s id="11" section="results">Mean <outcome id="1" type="good">Eq-5d index score</outcome> at <time id="2">24 months</time> was 0.13 higher in the <group id="1" role="experiment"><short>hemiarthroplasty</short> group</group> (0.01 to 0.25, P=0.03).</s>
+    <s id="12" section="results">The <outcome id="2" type="good">Eq-5d visual analogue scale</outcome> was 8.7 points higher in the <group id="1" role="experiment"><short>hemiarthroplasty</short> group</group> after 4 months (1.9 to 15.6, P=0.01).</s>
+    <s id="13" section="results">After 12 and <time id="2">24 months</time> the percentage scoring 95 or 100 on the <outcome id="3" type="good">Barthel index</outcome> was higher in the <group id="1" role="experiment"><short>hemiarthroplasty</short> group</group> (relative risk 0.67, 0.47 to 0.95, P=0.02.</s>
+    <s id="15" section="results"><outcome id="4" type="bad">Complications</outcome> occurred in <on group="0" outcome="4">56</on> (50%) patients in the <group id="0" role="experiment"><short>internal fixation</short> group</group> and <on group="1" outcome="4">16</on> (15%) in the <group id="1" role="experiment"><short>hemiarthroplasty</short> group</group> (3.44, 2.11 to 5.60, P&lt;0.001).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the functional results after displaced fractures of the femoral neck treated with internal fixation or hemiarthroplasty. 
+DESIGN: Randomised trial with blinding of assessments of functional results. 
+SETTING: University hospital. 
+PARTICIPANTS: 222 patients; 165 (74%) women, mean age 83 years. 
+Inclusion criteria were age above 60, ability to walk before the fracture, and no major hip pathology, regardless of cognitive function. 
+INTERVENTIONS: Closed reduction and two parallel screws (112 patients) and bipolar cemented hemiarthroplasty (110 patients). 
+Follow-up at 4, 12, and 24 months. 
+MAIN OUTCOME MEASURES: Hip function (Harris hip score), health related quality of life (Eq-5d), activities of daily living (Barthel index). 
+In all cases high scores indicate better function. 
+RESULTS: Mean Harris hip score in the hemiarthroplasty group was 8.2 points higher (95% confidence interval 2.8 to 13.5 points, P=0.003) at four months and 6.7 points (1.5 to 11.9 points, P=0.01) higher at 12 months. 
+Mean Eq-5d index score at 24 months was 0.13 higher in the hemiarthroplasty group (0.01 to 0.25, P=0.03). 
+The Eq-5d visual analogue scale was 8.7 points higher in the hemiarthroplasty group after 4 months (1.9 to 15.6, P=0.01). 
+After 12 and 24 months the percentage scoring 95 or 100 on the Barthel index was higher in the hemiarthroplasty group (relative risk 0.67, 0.47 to 0.95, P=0.02. 
+and 0.63, 0.42 to 0.94, P=0.02, respectively). 
+Complications occurred in 56 (50%) patients in the internal fixation group and 16 (15%) in the hemiarthroplasty group (3.44, 2.11 to 5.60, P&lt;0.001). 
+In each group 39 patients (35%) died within 24 months (0.98, 0.69 to 1.40, P=0.92) CONCLUSIONS: Hemiarthroplasty is associated with better functional outcome than internal fixation in treatment of displaced fractures of the femoral neck in elderly patients. 
+TRIAL REGISTRATION: NCT00464230.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the functional results after displaced fractures of the femoral neck treated with internal fixation or hemiarthroplasty.</s>
+    <s id="2" section="design">Randomised trial with blinding of assessments of functional results.</s>
+    <s id="3" section="setting">University hospital.</s>
+    <s id="8" section="main outcome measures">Hip function (Harris hip score), health related quality of life (Eq-5d), activities of daily living (Barthel index).</s>
+    <s id="9" section="main outcome measures">In all cases high scores indicate better function.</s>
+    <s id="14" section="results">and 0.63, 0.42 to 0.94, P=0.02, respectively).</s>
+    <s id="16" section="conclusions">Hemiarthroplasty is associated with better functional outcome than internal fixation in treatment of displaced fractures of the femoral neck in elderly patients.</s>
+    <s id="17" section="trial registration">NCT00464230.</s>
+  </ignored>
+</abstract>
+

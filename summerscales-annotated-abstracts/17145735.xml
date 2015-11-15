@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17145735">
+  <title>
+    <s id="0">Side effects of phenobarbital and carbamazepine in childhood epilepsy: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To compare the behavioural side effects associated with 2 commonly used antiepilepsy drugs - <group id="0" role="experiment"><short>phenobarbital</short></group> and <group id="1" role="experiment"><short>carbamazepine</short></group> - in children in Bangladesh.</s>
+    <s id="4" section="participants">108 children aged 2-15 with generalised tonic-clonic (n=<gs group="0">51</gs>) or partial and secondary generalised seizures (n=<gs group="1">57</gs>).</s>
+    <s id="6" section="results">91 children were followed up for <time id="0">12 months</time>.</s>
+    <s id="8" section="results">Side effects were compared in 85 children.</s>
+    <s id="9" section="results">In the last quarter of the <time id="0">12 months</time> follow-up, 71 children were <outcome id="1" type="good">seizure free</outcome> after one year's treatment.</s>
+    <s id="10" section="results"><on group="0" outcome="1">32</on> in the <group id="0" role="experiment">phenobarbital group</group> and <on group="1" outcome="1">39</on> in the <group id="1" role="experiment">carbamazepine group</group> <outcome id="1" type="good">had no seizures</outcome> in <time id="1">74</time> and <time id="2">102 days</time> after randomisation, respectively.</s>
+    <s id="11" section="results">Ten children had <outcome id="2" type="bad">increased <short>behavioural problems</short>, which were unacceptable</outcome> in four (<on group="0" outcome="2">one</on> in the <group id="0" role="experiment">phenobarbital group</group> and <on group="1" outcome="2">three</on> in the <group id="1" role="experiment">carbamazepine group</group>).</s>
+    <s id="12" section="results">Independent t tests, however, showed no difference between the 2 trial drugs.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the behavioural side effects associated with two commonly used antiepilepsy drugs-phenobarbital and carbamazepine-in children in Bangladesh. 
+DESIGN: Prospective randomised controlled single centre trial. 
+SETTING: Specialist children's hospital in Dhaka, Bangladesh. 
+PARTICIPANTS: 108 children aged 2-15 with generalised tonic-clonic (n=51) or partial and secondary generalised seizures (n=57). 
+MAIN OUTCOME MEASURES: Seizure control and behavioural side effects. 
+RESULTS: 91 children were followed up for 12 months. 
+Six required a change of antiepilepsy drug. 
+Side effects were compared in 85 children. 
+In the last quarter of the 12 month follow-up, 71 children were seizure free after one year's treatment. 
+Thirty two in the phenobarbital group and 39 in the carbamazepine group had no seizures in 74 and 102 days after randomisation, respectively. 
+Ten children had increased behavioural problems, which were unacceptable in four (one in the phenobarbital group and three in the carbamazepine group). 
+Independent t tests, however, showed no difference between the two trial drugs. 
+CONCLUSION: There was no excess in behavioural side effects with phenobarbital in children with epilepsy in a country with limited resources. 
+Trial registration NCT00381537.</fulltext>
+  <ignored>
+    <s id="2" section="design">Prospective randomised controlled single centre trial.</s>
+    <s id="3" section="setting">Specialist children's hospital in Dhaka, Bangladesh.</s>
+    <s id="5" section="main outcome measures">Seizure control and behavioural side effects.</s>
+    <s id="7" section="results">Six required a change of antiepilepsy drug.</s>
+    <s id="13" section="conclusion">There was no excess in behavioural side effects with phenobarbital in children with epilepsy in a country with limited resources.</s>
+    <s id="14" section="conclusion">Trial registration NCT00381537.</s>
+  </ignored>
+</abstract>
+

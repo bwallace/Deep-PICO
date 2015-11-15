@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19074232">
+  <title>
+    <s id="0">Randomised controlled trial of Alexander technique lessons, exercise, and massage (ATEAM) for chronic and recurrent back pain: economic evaluation.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Cost consequences study and cost effectiveness analysis at 12 month follow-up of a factorial randomised controlled trial.</s>
+    <s id="3" section="participants">579 patients with chronic or recurrent low back pain recruited from primary care.</s>
+    <s id="4" section="interventions"><group id="0" role="control"><short>Normal care</short> (control)</group> , <group id="1" role="experiment">massage</group> , and 6 or <group id="3" role="experiment"><short>24 lessons</short> in the Alexander technique</group>.</s>
+    <s id="9" section="results"><outcome id="0" type="bad">Intervention costs</outcome> ranged from pound30 for exercise prescription to pound596 for <group id="3" role="experiment">24 lessons in <short>Alexander</short> technique plus exercise</group>.</s>
+    <s id="10" section="results"><outcome id="1" type="bad">Cost of health services</outcome> ranged from <on group="3" outcome="1">pound50</on> for <group id="3" role="experiment"><short>24 lessons</short> in Alexander technique</group> to pound124 for exercise.</s>
+    <s id="12" section="results">For 2 - stage therapy , <group id="2" role="experiment"><short>6 lessons</short> in Alexander technique</group> combined with exercise was the best value ( additional pound64 per point on disability score , pound43 per additional pain - free day , pound5332 per QALY gain ) .</s>
+    <s id="13" section="conclusions">An exercise prescription and 6 lessons in Alexander technique alone were both more than 85 % likely to be cost effective at values above pound20 000 per QALY , but the Alexander technique performed better than exercise on the full range of outcomes .</s>
+    <s id="14" section="conclusions">A combination of 6 lessons in Alexander technique lessons followed by exercise was the most effective and cost effective option .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: An economic evaluation of therapeutic massage, exercise, and lessons in the Alexander technique for treating persistent back pain. 
+DESIGN: Cost consequences study and cost effectiveness analysis at 12 month follow-up of a factorial randomised controlled trial. 
+PARTICIPANTS: 579 patients with chronic or recurrent low back pain recruited from primary care. 
+INTERVENTIONS: Normal care (control), massage, and six or 24 lessons in the Alexander technique. 
+Half of each group were randomised to a prescription for exercise from a doctor plus behavioural counselling from a nurse. 
+MAIN OUTCOME MEASURES: Costs to the NHS and to participants. 
+Comparison of costs with Roland-Morris disability score (number of activities impaired by pain), days in pain, and quality adjusted life years (QALYs). 
+Comparison of NHS costs with QALY gain, using incremental cost effectiveness ratios and cost effectiveness acceptability curves. 
+RESULTS: Intervention costs ranged from pound30 for exercise prescription to pound596 for 24 lessons in Alexander technique plus exercise. 
+Cost of health services ranged from pound50 for 24 lessons in Alexander technique to pound124 for exercise. 
+Incremental cost effectiveness analysis of single therapies showed that exercise offered best value ( pound61 per point on disability score, pound9 per additional pain-free day, pound2847 per QALY gain). 
+For two-stage therapy, six lessons in Alexander technique combined with exercise was the best value (additional pound64 per point on disability score, pound43 per additional pain-free day, pound5332 per QALY gain). 
+CONCLUSIONS: An exercise prescription and six lessons in Alexander technique alone were both more than 85% likely to be cost effective at values above pound20 000 per QALY, but the Alexander technique performed better than exercise on the full range of outcomes. 
+A combination of six lessons in Alexander technique lessons followed by exercise was the most effective and cost effective option.</fulltext>
+  <ignored>
+    <s id="1" section="objective">An economic evaluation of therapeutic massage, exercise, and lessons in the Alexander technique for treating persistent back pain.</s>
+    <s id="5" section="interventions">Half of each group were randomised to a prescription for exercise from a doctor plus behavioural counselling from a nurse.</s>
+    <s id="6" section="main outcome measures">Costs to the NHS and to participants.</s>
+    <s id="7" section="main outcome measures">Comparison of costs with Roland-Morris disability score (number of activities impaired by pain), days in pain, and quality adjusted life years (QALYs).</s>
+    <s id="8" section="main outcome measures">Comparison of NHS costs with QALY gain, using incremental cost effectiveness ratios and cost effectiveness acceptability curves.</s>
+    <s id="11" section="results">Incremental cost effectiveness analysis of single therapies showed that exercise offered best value ( pound61 per point on disability score, pound9 per additional pain-free day, pound2847 per QALY gain).</s>
+  </ignored>
+</abstract>
+

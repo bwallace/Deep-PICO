@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17855283">
+  <title>
+    <s id="0">Objectively monitored patching regimens for treatment of amblyopia: randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objectives">To compare visual outcome in response to 2 prescribed rates of occlusion (six hours a day and 12 hours a day).</s>
+    <s id="3" section="setting">Research clinics in 2 London hospitals.</s>
+    <s id="4" section="participants">97 children with a confirmed diagnosis of amblyopia associated with strabismus, anisometropia, or both.</s>
+    <s id="5" section="interventions">18 week period of wearing glasses (refractive adaptation) followed by occlusion prescribed ("patching") for 6 or 12 hours a day.</s>
+    <s id="8" section="results">Ninety were eligible for occlusion but <lost>10</lost> dropped out in this phase, leaving 80 children who were randomised a prescribed dose rate of six (n=<gs group="0">40</gs>) or 12 (n=<gs group="1">40</gs>) hours a day.</s>
+    <s id="9" section="results">The mean <outcome id="0" type="good">change in visual acuity of the amblyopic eye</outcome> was not significantly different (P=0.64) between the two groups (<on group="0" outcome="0">0.26</on> (95% confidence interval 0.21 to 0.31) log units in <group id="0" role="experiment"><short>six hour</short> group</group>; <on group="1" outcome="0">0.24</on> (0.19 to 0.29) log units in <group id="1" role="experiment"><short>12 hour</short> group</group>).</s>
+    <s id="10" section="results">he mean <outcome id="1" type="good">dose rates (hours a day) actually received</outcome>, however, were also not significantly different (<on group="0" outcome="1">4.2</on> (3.7 to 4.7) in <group id="0" role="experiment"><short>six hour</short> group</group> v <on group="1" outcome="1">6.2</on> (5.1 to 7.3) in <group id="1" role="experiment"><short>12 hour</short> group</group>; P=0.06).</s>
+    <s id="11" section="results">The visual outcome was similar for those children who received 3 to 6 hours a day or more than 6 to 12 hours a day, but significantly better than that in children who received less than 3 hours a day.</s>
+    <s id="12" section="results">Children aged under 4 required significantly less occlusion than older children.</s>
+  </annotated>
+  <fulltext>OBJECTIVES: To compare visual outcome in response to two prescribed rates of occlusion (six hours a day and 12 hours a day). 
+DESIGN: Unmasked randomised trial. 
+SETTING: Research clinics in two London hospitals. 
+PARTICIPANTS: 97 children with a confirmed diagnosis of amblyopia associated with strabismus, anisometropia, or both. 
+INTERVENTIONS: 18 week period of wearing glasses (refractive adaptation) followed by occlusion prescribed ("patching") for six or 12 hours a day. 
+MAIN OUTCOME MEASURES: Visual acuity measured by logMAR letter recognition; objectively monitored rate of occlusion (hours a day). 
+RESULTS: The mean age of children at study entry was 5.6 (SD 1.5) years. 
+Ninety were eligible for occlusion but 10 dropped out in this phase, leaving 80 children who were randomised to a prescribed dose rate of six (n=40) or 12 (n=40) hours a day. 
+The mean change in visual acuity of the amblyopic eye was not significantly different (P=0.64) between the two groups (0.26 (95% confidence interval 0.21 to 0.31) log units in six hour group; 0.24 (0.19 to 0.29) log units in 12 hour group). 
+The mean dose rates (hours a day) actually received, however, were also not significantly different (4.2 (3.7 to 4.7) in six hour group v 6.2 (5.1 to 7.3) in 12 hour group; P=0.06). 
+The visual outcome was similar for those children who received three to six hours a day or more than six to 12 hours a day, but significantly better than that in children who received less than three hours a day. 
+Children aged under 4 required significantly less occlusion than older children. 
+Visual outcome was not influenced by type of amblyopia. 
+CONCLUSIONS: Substantial (six hours a day) and maximal (12 hours a day) prescribed occlusion results in similar visual outcome. 
+On average, the occlusion dose received in the maximal group was only 50% more than in the substantial group and in both groups was much less than that prescribed. 
+Younger children required the least occlusion. 
+TRIALS REGISTRATION: Clinical Trials NCT00274664.</fulltext>
+  <ignored>
+    <s id="2" section="design">Unmasked randomised trial.</s>
+    <s id="6" section="main outcome measures">Visual acuity measured by logMAR letter recognition; objectively monitored rate of occlusion (hours a day).</s>
+    <s id="7" section="results">The mean age of children at study entry was 5.6 (SD 1.5) years.</s>
+    <s id="13" section="results">Visual outcome was not influenced by type of amblyopia.</s>
+    <s id="14" section="conclusions">Substantial (six hours a day) and maximal (12 hours a day) prescribed occlusion results in similar visual outcome.</s>
+    <s id="15" section="conclusions">On average, the occlusion dose received in the maximal group was only 50% more than in the substantial group and in both groups was much less than that prescribed.</s>
+    <s id="16" section="conclusions">Younger children required the least occlusion.</s>
+    <s id="17" section="trials registration">Clinical Trials NCT00274664.</s>
+  </ignored>
+</abstract>
+

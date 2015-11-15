@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19366752">
+  <title>
+    <s id="0">Improving quality of mother-infant relationship and infant attachment in socioeconomically deprived community in South Africa: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">449 pregnant women.</s>
+    <s id="5" section="interventions">The <group id="0" role="experiment">intervention</group> was delivered from late pregnancy and for 6 months postpartum .</s>
+    <s id="9" section="main outcome measures">Primary outcomes : quality of mother - infant interactions at <time id="0" units="months">6</time> and <time id="1">12 months</time> postpartum ; <outcome id="2" type="good">infant attachment security</outcome> at 18 months .</s>
+    <s id="10" section="main outcome measures">Secondary outcome : <outcome id="3" type="bad">maternal depression</outcome> at <time id="0" units="months">6</time> and <time id="1">12 months</time>.</s>
+    <s id="12" section="results">At both <time id="0" units="months">6</time> and <time id="1">12 months</time>, compared with control mothers , mothers in the intervention group were significantly more <outcome id="0" type="good">sensitive</outcome> ( 6 months : mean difference = 0.77 (SD 0.37), t=2.10, P&lt;0.05, d=0.24; 12 months: mean difference=0.42 (0.18), t=-2.04 , P&lt;0.05, d=0.26) and less <outcome id="1" type="good">intrusive</outcome> (6 months: mean difference=0.68 (0.36), t=2.28, P&lt;0.05, d=0.26; 12 months: mean difference=-1.76 (0.86), t=2.28 , P&lt;0.05, d=0.24) in their interactions with their infants.</s>
+    <s id="13" section="results">The <group id="0" role="experiment">intervention</group> was also associated with a higher rate of <outcome id="2" type="good">secure infant attachments</outcome> at 18 months (<on group="0" outcome="2">116</on>/<gs group="0">156</gs> (74%) v <on group="1" outcome="2">102</on>/<gs group="1">162</gs> (63%); Wald=4.74, odds ratio=1.70, P&lt;0.05).</s>
+    <s id="14" section="results">Although the prevalence of <outcome id="3" type="bad">maternal depressive disorder</outcome> was not significantly reduced , the <group id="0" role="experiment">intervention</group> had a benefit in terms of <outcome id="3" type="bad">maternal depressed mood</outcome> at 6 months ( z = 2.05, P=0.04) on the Edinburgh postnatal depression scale).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the efficacy of an intervention designed to improve the mother-infant relationship and security of infant attachment in a South African peri-urban settlement with marked adverse socioeconomic circumstances. 
+DESIGN: Randomised controlled trial. 
+SETTING: Khayelitsha, a peri-urban settlement in South Africa. 
+PARTICIPANTS: 449 pregnant women. 
+INTERVENTIONS: The intervention was delivered from late pregnancy and for six months postpartum. 
+Women were visited in their homes by previously untrained lay community workers who provided support and guidance in parenting. 
+The purpose of the intervention was to promote sensitive and responsive parenting and secure infant attachment to the mother. 
+Women in the control group received no therapeutic input from the research team. 
+MAIN OUTCOME MEASURES: Primary outcomes: quality of mother-infant interactions at six and 12 months postpartum; infant attachment security at 18 months. 
+Secondary outcome: maternal depression at six and 12 months. 
+RESULTS: The intervention was associated with significant benefit to the mother-infant relationship. 
+At both six and 12 months, compared with control mothers, mothers in the intervention group were significantly more sensitive (6 months: mean difference=0.77 
+(SD 0.37), t=2.10, P&lt;0.05, d=0.24; 12 months: mean difference=0.42 (0.18), t=-2.04 , P&lt;0.05, d=0.26) and less intrusive (6 months: mean difference=0.68 (0.36), t=2.28, P&lt;0.05, d=0.26; 12 months: mean difference=-1.76 (0.86), t=2.28 , P&lt;0.05, d=0.24) in their interactions with their infants. 
+The intervention was also associated with a higher rate of secure infant attachments at 18 months (116/156 (74%) v 102/162 (63%); Wald=4.74, odds ratio=1.70, 
+P&lt;0.05). 
+Although the prevalence of maternal depressive disorder was not significantly reduced, the intervention had a benefit in terms of maternal depressed mood at six months (z=2.05, P=0.04) on the Edinburgh postnatal depression scale). 
+CONCLUSIONS: The intervention, delivered by local lay women, had a significant positive impact on the quality of the mother-infant relationship and on security of infant attachment, factors known to predict favourable child development. 
+If these effects persist, and if they are replicated, this intervention holds considerable promise for use in the developing world. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN25664149.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the efficacy of an intervention designed to improve the mother-infant relationship and security of infant attachment in a South African peri-urban settlement with marked adverse socioeconomic circumstances.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Khayelitsha, a peri-urban settlement in South Africa.</s>
+    <s id="6" section="interventions">Women were visited in their homes by previously untrained lay community workers who provided support and guidance in parenting.</s>
+    <s id="7" section="interventions">The purpose of the intervention was to promote sensitive and responsive parenting and secure infant attachment to the mother.</s>
+    <s id="8" section="interventions">Women in the control group received no therapeutic input from the research team.</s>
+    <s id="11" section="results">The intervention was associated with significant benefit to the mother-infant relationship.</s>  
+    <s id="15" section="conclusions">The intervention, delivered by local lay women, had a significant positive impact on the quality of the mother-infant relationship and on security of infant attachment, factors known to predict favourable child development.</s>
+    <s id="16" section="conclusions">If these effects persist, and if they are replicated, this intervention holds considerable promise for use in the developing world.</s>
+    <s id="17" section="trial registration">Current Controlled Trials ISRCTN25664149.</s>
+  </ignored>
+</abstract>
+

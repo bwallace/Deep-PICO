@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19336497">
+  <title>
+    <s id="0">The effect of high dose inhaled corticosteroids on wheeze in infants after respiratory syncytial virus infection: randomised double blind placebo controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">Paediatric departments of 19 Dutch clinical centres.</s>
+    <s id="4" section="participants">243 previously healthy infants (126 boys, 117 girls) aged less than 13 months and admitted to hospital with respiratory syncytial virus infection.</s>
+    <s id="5" section="interventions">200 mug extra fine hydrofluoroalkane ( HFA ) beclometasone dipropionate twice daily or matched placebo administered by a pressurised metered dose inhaler and a spacer during the first 3 months after hospital admission .</s>
+    <s id="6" section="main outcome measure">The primary outcome was the number of days with wheeze in the year after the 3 month intervention period .</s>gro
+    <s id="7" section="results">Of the 243 eligible infants, <gs group="0">119</gs> were randomised to <group id="0" role="experiment">receive <short>beclometasone</short></group> and <gs group="1">124</gs> to <group id="1" role="control">receive <short>placebo</short></group>.</s>
+    <s id="8" section="results">No significant difference was found in the <outcome id="0" type="bad">number of days with wheeze</outcome> between the 2 groups ( total days , 1761 / 33568 in the <group id="0" role="experiment"><short>beclometasone</short> group</group> v 2301 / 36556 in <group id="1" role="control"><short>placebo</short> group</group> , P = 0.31 ) and the <outcome id="1" type="bad">proportion of infants with wheeze</outcome> did not differ between the groups ( 61 % in the <group id="0" role="experiment">beclometasone group</group> v 62 % in the <group id="1" role="control"><short>placebo</short> group</group> , P = 0.90 ) .</s>
+    <s id="9" section="results">In the predefined subgroup of infants who did not need mechanical ventilation (n=221), <group id="0" role="experiment">beclometasone</group> reduced the <outcome id="0" type="bad">number of days with wheeze</outcome> by 32% (relative reduction in total days, 1315 / 30405 in the <group id="0" role="experiment">beclometasone group</group> v 2120 / 33149 in the <group id="1" role="control">placebo group</group>, P=0.046).</s>
+    <s id="10" section="results">This reduction was most pronounced during the first 6 months of the follow - up year after intervention .</s>
+    <s id="11" section="results">The <outcome id="1" type="bad">proportion of infants with wheeze</outcome> did not differ between the groups the (59% in <group id="0" role="experiment"><short>beclometasone</short> group</group> v 60% in the <group id="1" role="control"><short>placebo</short> group</group>, P=0.89).</s>
+    <s id="12" section="conclusions">Early initiated high dose extra fine HFA beclometasone to infants during the first 3 months after hospital admission for respiratory syncytial virus infection has no major effect on recurrent wheeze .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether early initiated anti-inflammatory therapy with prolonged high dose inhaled glucocorticoids influences the occurrence and severity of recurrent wheeze after respiratory syncytial virus related lower respiratory tract infections. 
+DESIGN: Randomised double blind placebo controlled trial. 
+SETTING: Paediatric departments of 19 Dutch clinical centres. 
+PARTICIPANTS: 243 previously healthy infants (126 boys, 117 girls) aged less than 13 months and admitted to hospital with respiratory syncytial virus infection. 
+INTERVENTIONS: 200 mug extra fine hydrofluoroalkane (HFA) beclometasone dipropionate twice daily or matched placebo administered by a pressurised metered dose inhaler and a spacer during the first three months after hospital admission. 
+MAIN OUTCOME MEASURE: The primary outcome was the number of days with wheeze in the year after the three month intervention period. 
+RESULTS: Of the 243 eligible infants, 119 were randomised to receive beclometasone and 124 to receive placebo. 
+No significant difference was found in the number of days with wheeze between the two groups (total days, 1761/33 568 in the beclometasone group v 2301/36 556 in the placebo group, P=0.31) and the proportion of infants with wheeze did not differ between the groups (61% in the beclometasone group v 62% in the placebo group, P=0.90). 
+In the predefined subgroup of infants who did not need mechanical ventilation (n=221), beclometasone reduced the number of days with wheeze by 32% (relative reduction in total days, 1315/30 405 in the beclometasone group v 2120/33 149 in the placebo group, P=0.046). 
+This reduction was most pronounced during the first six months of the follow-up year after intervention. 
+The proportion of infants with wheeze did not differ between the groups (59% in the beclometasone group v 60% in the placebo group, P=0.89). 
+CONCLUSIONS: Early initiated high dose extra fine HFA beclometasone to infants during the first three months after hospital admission for respiratory syncytial virus infection has no major effect on recurrent wheeze. 
+The general use of such treatment during lower respiratory tract infection with respiratory syncytial virus should not be advocated. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN12352714.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether early initiated anti-inflammatory therapy with prolonged high dose inhaled glucocorticoids influences the occurrence and severity of recurrent wheeze after respiratory syncytial virus related lower respiratory tract infections.</s>
+    <s id="2" section="design">Randomised double blind placebo controlled trial.</s>
+    <s id="13" section="conclusions">The general use of such treatment during lower respiratory tract infection with respiratory syncytial virus should not be advocated.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN12352714.</s>
+  </ignored>
+</abstract>
+

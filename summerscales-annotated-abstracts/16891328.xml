@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16891328">
+  <title>
+    <s id="0" section="title">
+      Effect of needle size on
+      <outcome id="5">immunogenicity</outcome>
+      and
+      <outcome id="0">
+        <short>reactogenicity</short>
+        of  vaccines
+      </outcome>
+      in infants : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">18 general practices within 2 UK primary care trusts .</s>
+    <s id="4" section="participants">
+      <ps>696</ps>
+      healthy infants vaccinated at 2 , 3 , and 4 months of age , with
+      <time id="0">follow  -  up  to  5  months  of  age</time>
+      .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Combined  diphtheria  ,  tetanus  ,  whole  cell  pertussis  ,  and  Haemophilus  influenzae  type  b  vaccine  and  a  serogroup  C  meningococcal  glycoconjugate  vaccine  administered  using  either  a
+        <short>wide  ,  long  needle</short>
+        (  23  gauge  /  0.6  mm  diameter  ,  25  mm  )
+      </group>
+      ,
+      <group id="1">
+        a
+        <short>narrow  ,  short  needle</short>
+        (  25  gauge  /  0.5  mm  diameter  ,  16  mm  )
+      </group>
+      , or
+      <group id="2">
+        a
+        <short>narrow  ,  long  needle</short>
+        (  25  gauge  ,  25  mm  )
+      </group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Local  and  general  reactions</short>
+        recorded  by  parents  for  3  days  after  each  dose
+      </outcome>
+      ; and
+      <outcome id="1">diphtheria</outcome>
+      ,
+      <outcome id="2">tetanus</outcome>
+      , and
+      <outcome id="3">H  influenzae  type  b  antibody  concentrations</outcome>
+      and
+      <outcome id="4">
+        <short>functional  antibody  against  serogroup  C  Neisseria  meningitidis</short>
+        28-42  days  after  the  third  dose
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      At all 3 doses 1 less infant experienced
+      <outcome id="0">local  reactions</outcome>
+      at days 1 , 2 , or 3 for every 6 to 8 vaccinated .
+    </s>
+    <s id="12" section="conclusions">
+      Long ( 25 mm ) needles for infant immunisations can significantly reduce
+      <outcome id="0">
+        <short>vaccine  reactogenicity</short>
+        at  each  dose
+      </outcome>
+      while achieving comparable
+      <outcome id="5">immunogenicity</outcome>
+      to that of short ( 16 mm ) needles .
+    </s>
+  </annotated>
+  <fulltext>Effect of needle size on immunogenicity and reactogenicity of vaccines in infants : randomised controlled trial . To assess the immunogenicity of vaccines for infants and to investigate whether the incidence of reactogenicity is reduced after each immunisation dose using needles of varying lengths and gauges . Randomised controlled trial . 18 general practices within 2 UK primary care trusts . 696 healthy infants vaccinated at 2 , 3 , and 4 months of age , with follow - up to 5 months of age . Combined diphtheria , tetanus , whole cell pertussis , and Haemophilus influenzae type b vaccine and a serogroup C meningococcal glycoconjugate vaccine administered using either a wide , long needle ( 23 gauge / 0.6 mm diameter , 25 mm ) , a narrow , short needle ( 25 gauge / 0.5 mm diameter , 16 mm ) , or a narrow , long needle ( 25 gauge , 25 mm ) . Local and general reactions recorded by parents for 3 days after each dose ; and diphtheria , tetanus , and H influenzae type b antibody concentrations and functional antibody against serogroup C Neisseria meningitidis 28-42 days after the third dose . Local reactions to diphtheria , tetanus , whole cell pertussis , H influenzae type b vaccinations decreased significantly with wide , long needles compared with narrow , short needles . At all 3 doses 1 less infant experienced local reactions at days 1 , 2 , or 3 for every 6 to 8 vaccinated . Significantly fewer infants vaccinated with the long needle experienced severe local reactions . Non - inferiority of the immune response was shown using a wide , long needle rather than a narrow , short needle for serogroup C meningococcal glycoconjugate vaccine and for diphtheria but not for H influenzae type b or tetanus , although no evidence was found of a decrease . Little difference was found between needles of the same length but different gauges in local reaction or immune response . Long ( 25 mm ) needles for infant immunisations can significantly reduce vaccine reactogenicity at each dose while achieving comparable immunogenicity to that of short ( 16 mm ) needles . Trial registration Current Controlled Trials ISRCTN62032215 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To assess the
+      <outcome id="5">immunogenicity  of  vaccines</outcome>
+      for infants and to investigate whether the incidence of
+      <outcome id="0">reactogenicity</outcome>
+      is reduced after each immunisation dose using needles of varying lengths and gauges .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="7" section="results">
+      <outcome id="0">
+        <short>Local  reactions</short>
+        to  diphtheria  ,  tetanus  ,  whole  cell  pertussis  ,  H  influenzae  type  b  vaccinations
+      </outcome>
+      decreased significantly with
+      <group id="0">wide  ,  long  needles</group>
+      compared with
+      <group id="1">narrow  ,  short  needles</group>
+      .
+    </s>
+    <s id="9" section="results">
+      Significantly fewer infants vaccinated with the long needle experienced
+      <outcome id="0">severe  local  reactions</outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      <outcome id="1">Non  -  inferiority  of  the  immune  response</outcome>
+      was shown using a
+      <group id="0">wide  ,  long  needle</group>
+      rather than a
+      <group id="1">narrow  ,  short  needle</group>
+      for serogroup C meningococcal glycoconjugate vaccine and for diphtheria but not for H influenzae type b or tetanus , although no evidence was found of a decrease .
+    </s>
+    <s id="11" section="results">
+      Little difference was found between needles of the same length but different gauges in
+      <outcome id="0">local  reaction</outcome>
+      or
+      <outcome id="1">immune  response</outcome>
+      .
+    </s>
+    <s id="13" section="conclusions">Trial registration Current Controlled Trials ISRCTN62032215 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

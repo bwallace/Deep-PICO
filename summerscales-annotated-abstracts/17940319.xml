@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17940319">
+  <title>
+    <s id="0">Plant based insect repellent and insecticide treated bed nets to protect against malaria in areas of early evening biting vectors: double blind randomised placebo controlled clinical trial in the Bolivian Amazon.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">4008 individuals in 860 households.</s>
+    <s id="5" section="interventions">All individuals slept under treated nets; <group id="0" role="experiment">1 group also used a plant based insect <short>repellent</short></group> each evening, a <group id="1" role="control">second group used <short>placebo</short></group>.</s>
+    <s id="7" section="results">We analysed 15,174 person months at risk and found a highly significant 80% reduction in <outcome id="0" type="good">episodes of P vivax</outcome> in the <group id="0" role="experiment">group that used treated nets and <short>repellent</short></group> (incidence rate ratio 0.20, 95% confidence interval 0.11 to 0.38, P&lt;0.001).</s>
+   
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the effectiveness in reducing malaria of combining an insect repellent with insecticide treated bed nets compared with the nets alone in an area where vector mosquitoes feed in the early evening. 
+DESIGN: A double blind, placebo controlled cluster-randomised clinical study. 
+SETTING: Rural villages and peri-urban districts in the Bolivian Amazon. 
+PARTICIPANTS: 4008 individuals in 860 households. 
+INTERVENTIONS: All individuals slept under treated nets; one group also used a plant based insect repellent each evening, a second group used placebo. 
+MAIN OUTCOME MEASURE: Episodes of Plasmodium falciparum or P vivax malaria confirmed by rapid diagnostic test or blood slide, respectively. 
+RESULTS: We analysed 15,174 person months at risk and found a highly significant 80% reduction in episodes of P vivax in the group that used treated nets and repellent (incidence rate ratio 0.20, 95% confidence interval 0.11 to 0.38, P&lt;0.001). 
+Numbers of P falciparum cases during the study were small and, after adjustment for age, an 82% protective effect was observed, although this was not significant (0.18, 0.02 to 1.40, P=0.10). 
+Reported episodes of fever with any cause were reduced by 58% in the group that used repellent (0.42, 0.31 to 0.56, P&lt;0.001). 
+CONCLUSIONS: Insect repellents can provide protection against malaria. 
+In areas where vectors feed in the early evening, effectiveness of treated nets can be significantly increased by using repellent between dusk and bedtime. 
+This has important implications in malaria vector control programmes outside Africa and shows that the combined use of treated nets and insect repellents, as advocated for most tourists travelling to high risk areas, is fully justified. 
+REGISTRATION: NCT 00144716.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the effectiveness in reducing malaria of combining an insect repellent with insecticide treated bed nets compared with the nets alone in an area where vector mosquitoes feed in the early evening.</s>
+    <s id="2" section="design">A double blind, placebo controlled cluster-randomised clinical study.</s>
+    <s id="3" section="setting">Rural villages and peri-urban districts in the Bolivian Amazon.</s>
+    <s id="6" section="main outcome measure">Episodes of Plasmodium falciparum or P vivax malaria confirmed by rapid diagnostic test or blood slide, respectively.</s>
+    <s id="8" section="results">Numbers of P falciparum cases during the study were small and, after adjustment for age, an 82% protective effect was observed, although this was not significant (0.18, 0.02 to 1.40, P=0.10).</s>
+    <s id="9" section="results">Reported episodes of fever with any cause were reduced by 58% in the group that used repellent (0.42, 0.31 to 0.56, P&lt;0.001).</s>
+    <s id="10" section="conclusions">Insect repellents can provide protection against malaria.</s>
+    <s id="11" section="conclusions">In areas where vectors feed in the early evening, effectiveness of treated nets can be significantly increased by using repellent between dusk and bedtime.</s>
+    <s id="12" section="conclusions">This has important implications in malaria vector control programmes outside Africa and shows that the combined use of treated nets and insect repellents, as advocated for most tourists travelling to high risk areas, is fully justified.</s>
+    <s id="13" section="registration">NCT 00144716.</s>
+  </ignored>
+</abstract>
+

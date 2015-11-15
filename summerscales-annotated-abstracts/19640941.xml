@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19640941">
+  <title>
+    <s id="0">Effect of using an interactive booklet about childhood respiratory tract infections in primary care consultations on reconsulting and antibiotic prescribing: a cluster randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">61 general practices in Wales and England.</s>
+    <s id="4" section="participants">558 children (6 months to 14 years) presenting to primary care with an acute respiratory tract infection (7 days or less).</s>
+    <s id="6" section="participants">3 withdrew and <lost>27</lost> were lost to follow - up , leaving 528 ( 94.6 % ) with main outcome data .</s>
+    <s id="9" section="main outcome measures">The proportion of children who attended a face - to - face consultation about the same illness during the 2 week follow - up period .</s>
+    <s id="11" section="results"><outcome id="0" type="bad">Reconsultation</outcome> occurred in 12.9% of children in the <group id="0" role="experiment">intervention group</group> and 16.2% in the <group id="1" role="control">control group</group> (absolute risk reduction 3.3%, 95% confidence interval -2.7% to 9.3%, P=0.29).</s>
+    <s id="13" section="results"><outcome id="1" type="bad">Antibiotics were prescribed</outcome> at the index consultation to 19.5% of children in the <group id="0" role="experiment">intervention group</group> and 40.8% of children in the <group id="1" role="control">the control group</group> (absolute risk reduction 21.3%, 95% confidence interval 13.7 to 28.9), P&lt;0.001).</s>
+    <s id="16" section="results"><outcome id="2" type="good">Satisfaction</outcome> , <outcome id="3" type="good">reassurance</outcome> , and <outcome id="4" type="good">parental enablement scores</outcome> were not significantly different between the 2 groups .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To establish whether an interactive booklet on respiratory tract infections in children reduces reconsultation for the same illness episode, reduces antibiotic use, and affects future consulting intentions, while maintaining parental satisfaction with care. 
+DESIGN: Pragmatic cluster randomised controlled trial. 
+SETTING: 61 general practices in Wales and England. 
+PARTICIPANTS: 558 children (6 months to 14 years) presenting to primary care with an acute respiratory tract infection (7 days or less). 
+Children with suspected pneumonia, asthma or a serious concomitant illness, or needing immediate hospital admission were excluded. 
+Three withdrew and 27 were lost to follow-up, leaving 528 (94.6%) with main outcome data. 
+INTERVENTIONS: Clinicians in the intervention group were trained in the use of an interactive booklet on respiratory tract infections and asked to use the booklet during consultations with recruited patients (and provide it as a take home resource). 
+Clinicians in the control group conducted their consultations as usual. 
+MAIN OUTCOME MEASURES: The proportion of children who attended a face-to-face consultation about the same illness during the two week follow-up period. 
+Secondary outcomes included antibiotic prescribing, antibiotic consumption, future consulting intentions, and parental satisfaction, reassurance, and enablement. 
+RESULTS: Reconsultation occurred in 12.9% of children in the intervention group and 16.2% in the control group (absolute risk reduction 3.3%, 95% confidence interval -2.7% to 9.3%, P=0.29). 
+Using multilevel modelling (at the practice and individual level) to account for clustering, no significant difference in reconsulting was noted (odds ratio 0.75; 0.41 to 1.38). 
+Antibiotics were prescribed at the index consultation to 19.5% of children in the intervention group and 40.8% of children in the control group (absolute risk reduction 21.3%, 95% confidence interval 13.7 to 28.9), P&lt;0.001). 
+A significant difference was still present after adjusting for clustering (odds ratio 0.29; 0.14 to 0.60). 
+There was also a significant difference in the proportion of parents who said they would consult in the future if their child developed a similar illness (odds ratio 0.34; 0.20 to 0.57). 
+Satisfaction, reassurance, and parental enablement scores were not significantly different between the two groups. 
+CONCLUSIONS: Use of a booklet on respiratory tract infections in children within primary care consultations led to important reductions in antibiotic prescribing and reduced intention to consult without reducing satisfaction with care. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN46104365.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To establish whether an interactive booklet on respiratory tract infections in children reduces reconsultation for the same illness episode, reduces antibiotic use, and affects future consulting intentions, while maintaining parental satisfaction with care.</s>
+    <s id="2" section="design">Pragmatic cluster randomised controlled trial.</s>
+    <s id="5" section="participants">Children with suspected pneumonia, asthma or a serious concomitant illness, or needing immediate hospital admission were excluded.</s>
+    <s id="7" section="interventions">Clinicians in the intervention group were trained in the use of an interactive booklet on respiratory tract infections and asked to use the booklet during consultations with recruited patients (and provide it as a take home resource).</s>
+    <s id="8" section="interventions">Clinicians in the control group conducted their consultations as usual.</s>
+    <s id="10" section="main outcome measures">Secondary outcomes included antibiotic prescribing, antibiotic consumption, future consulting intentions, and parental satisfaction, reassurance, and enablement.</s>
+    <s id="12" section="results">Using multilevel modelling (at the practice and individual level) to account for clustering, no significant difference in reconsulting was noted (odds ratio 0.75; 0.41 to 1.38).</s>
+    <s id="14" section="results">A significant difference was still present after adjusting for clustering (odds ratio 0.29; 0.14 to 0.60).</s>
+    <s id="15" section="results">There was also a significant difference in the proportion of parents who said they would consult in the future if their child developed a similar illness (odds ratio 0.34; 0.20 to 0.57).</s>
+    <s id="17" section="conclusions">Use of a booklet on respiratory tract infections in children within primary care consultations led to important reductions in antibiotic prescribing and reduced intention to consult without reducing satisfaction with care.</s>
+    <s id="18" section="trial registration">Current Controlled Trials ISRCTN46104365.</s>
+  </ignored>
+</abstract>
+

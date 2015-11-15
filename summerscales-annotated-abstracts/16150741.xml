@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16150741">
+  <title>
+    <s id="0" section="title">
+      Effect of a
+      <group id="0">multifaceted  intervention</group>
+      on
+      <outcome id="0">
+        <short>number  of  antimicrobial  prescriptions</short>
+        for  suspected  urinary  tract  infections
+      </outcome>
+      in residents of nursing homes : cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">
+      <ps>24</ps>
+      nursing homes in Ontario , Canada , and Idaho , United States .
+    </s>
+    <s id="4" section="participants">
+      <gs group="0">12</gs>
+      nursing homes allocated to a
+      <group id="0">multifaceted  intervention</group>
+      and
+      <gs group="1">12</gs>
+      allocated to
+      <group id="1">usual  care</group>
+      .
+    </s>
+    <s id="5" section="participants">Outcomes were measured in 4217 residents .</s>
+    <s id="6" section="interventions">
+      <group id="0">
+        Diagnostic  and  treatment  algorithm  for  urinary  tract  infections  implemented  at  the  nursing  home  level  using  a
+        <short>multifaceted  approach</short>
+        -  -  small  group  interactive  sessions  for  nurses  ,  videotapes  ,  written  material  ,  outreach  visits  ,  and  1  on  1  interviews  with  physicians
+      </group>
+      .
+    </s>
+    <s id="8" section="results">
+      Fewer
+      <outcome id="0">
+        <short>courses  of  antimicrobials</short>
+        for  suspected  urinary  tract  infections
+      </outcome>
+      per 1000 resident days were prescribed in the
+      <group id="0">intervention  nursing  homes</group>
+      than in the
+      <group id="1">usual  care  homes</group>
+      ( 1.17 v 1.59 courses ; weighted mean difference - 0.49 , 95 % confidence intervals - 0.93 to - 0.06 ) .
+    </s>
+    <s id="10" section="results">
+      The difference in
+      <outcome id="1">total  antimicrobial  use</outcome>
+      per 1000 resident days between
+      <group id="0">intervention</group>
+      and
+      <group id="1">usual  care  groups</group>
+      was not significantly different ( 3.52 v 3.93 ; weighted mean difference - 0.37 , - 1.17 to 0.44 ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of a multifaceted intervention on number of antimicrobial prescriptions for suspected urinary tract infections in residents of nursing homes : cluster randomised controlled trial . To assess whether a multifaceted intervention can reduce the number of prescriptions for antimicrobials for suspected urinary tract infections in residents of nursing homes . Cluster randomised controlled trial . 24 nursing homes in Ontario , Canada , and Idaho , United States . 12 nursing homes allocated to a multifaceted intervention and 12 allocated to usual care . Outcomes were measured in 4217 residents . Diagnostic and treatment algorithm for urinary tract infections implemented at the nursing home level using a multifaceted approach - - small group interactive sessions for nurses , videotapes , written material , outreach visits , and 1 on 1 interviews with physicians . Number of antimicrobials prescribed for suspected urinary tract infections , total use of antimicrobials , admissions to hospital , and deaths . Fewer courses of antimicrobials for suspected urinary tract infections per 1000 resident days were prescribed in the intervention nursing homes than in the usual care homes ( 1.17 v 1.59 courses ; weighted mean difference - 0.49 , 95 % confidence intervals - 0.93 to - 0.06 ) . Antimicrobials for suspected urinary tract infection represented 28.4 % of all courses of drugs prescribed in the intervention nursing homes compared with 38.6 % prescribed in the usual care homes ( weighted mean difference - 9.6 % , - 16.9 % to - 2.4 % ) . The difference in total antimicrobial use per 1000 resident days between intervention and usual care groups was not significantly different ( 3.52 v 3.93 ; weighted mean difference - 0.37 , - 1.17 to 0.44 ) . No significant difference was found in admissions to hospital or mortality between the study arms . A multifaceted intervention using algorithms can reduce the number of antimicrobial prescriptions for suspected urinary tract infections in residents of nursing homes .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess whether a
+      <group id="0">multifaceted  intervention</group>
+      can reduce the
+      <outcome id="0">
+        <short>number  of  prescriptions  for  antimicrobials</short>
+        for  suspected  urinary  tract  infections
+      </outcome>
+      in residents of nursing homes .
+    </s>
+    <s id="2" section="design">Cluster randomised controlled trial .</s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Number  of  antimicrobials  prescribed</short>
+        for  suspected  urinary  tract  infections
+      </outcome>
+      ,
+      <outcome id="1">total  use  of  antimicrobials</outcome>
+      ,
+      <outcome id="2">admissions  to  hospital</outcome>
+      , and
+      <outcome id="3">deaths</outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="0">Antimicrobials  for  suspected  urinary  tract  infection</outcome>
+      represented 28.4 % of all courses of drugs prescribed in the
+      <group id="0">intervention  nursing  homes</group>
+      compared with 38.6 % prescribed in the
+      <group id="1">usual  care  homes</group>
+      ( weighted mean difference - 9.6 % , - 16.9 % to - 2.4 % ) .
+    </s>
+    <s id="11" section="results">
+      No significant difference was found in
+      <outcome id="2">admissions  to  hospital</outcome>
+      or
+      <outcome id="3">mortality</outcome>
+      between the study arms .
+    </s>
+    <s id="12" section="conclusion">
+      A
+      <group id="0">multifaceted  intervention  using  algorithms</group>
+      can reduce the
+      <outcome id="0">
+        <short>number  of  antimicrobial  prescriptions</short>
+        for  suspected  urinary  tract  infections
+      </outcome>
+      in residents of nursing homes .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17855282">
+  <title>
+    <s id="0">Effect of prolonged and exclusive breast feeding on risk of allergy and asthma: cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">31 Belarussian maternity hospitals and their affiliated polyclinics.</s>
+    <s id="4" section="participants">A total of 17046 mother-infant pairs were enrolled, of whom 13,889 (81.5%) were followed up at age <time id="0">6.5 years</time>.</s>
+    <s id="6" section="main outcome measures">International study of asthma and allergies in childhood (ISAAC) questionnaire and skin prick tests of 5 inhalant antigens.</s>
+    <s id="7" section="results">The <group id="0" role="experiment">experimental intervention</group> led to a large increase in <outcome id="0" type="good">exclusive breast feeding</outcome> at <time id="0">3 months</time> (44.3% v 6.4%; P&lt;0.001) and a significantly higher prevalence of <outcome id="1" type="good"><short>any breast feeding</short> at all ages up to and including <time id="1">12 months</time></outcome>.</s>
+    <s id="9" section="results">In fact, after exclusion of 6 sites (three <group id="0" role="experiment">experimental</group> and 3 <group id="1" role="control">control</group>) with suspiciously high rates of positive skin prick tests, <outcome id="1" type="bad">risks</outcome> were significantly increased in <group id="0" role="experiment">the experimental group</group> for 4 of the 5 antigens.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess whether exclusive and prolonged breast feeding reduces the risk of childhood asthma and allergy by age 6.5 years. 
+DESIGN: Cluster randomised trial. 
+SETTING: 31 Belarussian maternity hospitals and their affiliated polyclinics. 
+PARTICIPANTS: A total of 17,046 mother-infant pairs were enrolled, of whom 13,889 (81.5%) were followed up at age 6.5 years. 
+INTERVENTION: Breastfeeding promotion intervention modelled on the WHO/UNICEF baby friendly hospital initiative. 
+MAIN OUTCOME MEASURES: International study of asthma and allergies in childhood (ISAAC) questionnaire and skin prick tests of five inhalant antigens. 
+RESULTS: The experimental intervention led to a large increase in exclusive breast feeding at 3 months (44.3% v 6.4%; P&lt;0.001) and a significantly higher prevalence of any breast feeding at all ages up to and including 12 months. 
+The experimental group had no reduction in risks of allergic symptoms and diagnoses or positive skin prick tests. 
+In fact, after exclusion of six sites (three experimental and three control) with suspiciously high rates of positive skin prick tests, risks were significantly increased in the experimental group for four of the five antigens. 
+CONCLUSIONS: These results do not support a protective effect of prolonged and exclusive breast feeding on asthma or allergy. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN37687716 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess whether exclusive and prolonged breast feeding reduces the risk of childhood asthma and allergy by age 6.5 years.</s>
+    <s id="2" section="design">Cluster randomised trial.</s>
+    <s id="5" section="intervention">Breastfeeding promotion intervention modelled on the WHO/UNICEF baby friendly hospital initiative.</s>
+    <s id="8" section="results">The experimental group had no reduction in risks of allergic symptoms and diagnoses or positive skin prick tests.</s>
+    <s id="10" section="conclusions">These results do not support a protective effect of prolonged and exclusive breast feeding on asthma or allergy.</s>
+    <s id="11" section="trial registration">Current Controlled Trials ISRCTN37687716 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

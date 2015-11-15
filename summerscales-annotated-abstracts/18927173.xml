@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18927173">
+  <title>
+    <s id="0">The prevention of progression of arterial disease and diabetes (POPADAD) trial: factorial randomised placebo controlled trial of aspirin and antioxidants in patients with diabetes and asymptomatic peripheral arterial disease.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">16 hospital centres in Scotland, supported by 188 primary care groups.</s>
+    <s id="4" section="participants">1276 adults aged 40 or more with type 1 or type 2 diabetes and an ankle brachial pressure index of 0.99 or less but no symptomatic cardiovascular disease.</s>
+    <s id="5" section="interventions">Daily, 100 mg <group id="0" role="experiment">aspirin tablet plus antioxidant capsule</group> (n=<gs group="0">320</gs>), <group id="1" role="experiment">aspirin tablet plus placebo capsule</group> (n=<gs group="1">318</gs>), <group id="2" role="experiment">placebo tablet plus antioxidant capsule</group> (n=<gs group="2">320</gs>), or <group id="3" role="control">placebo tablet plus placebo capsule</group> (n=<gs group="3">318</gs>).</s>
+    <s id="6" section="main outcome measures"><outcome id="0" type="bad">2 hierarchical composite primary end points of death from coronary heart disease or stroke</outcome> , <outcome id="1" type="bad"> non - fatal myocardial infarction or stroke</outcome> , or <outcome id="2" type="bad">amputation above the ankle for critical limb ischaemia</outcome> ; and <outcome id="3" type="bad">death from coronary heart disease or stroke</outcome> .</s>
+    <s id="8" section="results">Overall, 116 of 638 primary events occurred in the aspirin groups compared with 117 of 638 in the no aspirin groups (18.2% v 18.3%): hazard ratio 0.98 (95% confidence interval 0.76 to 1.26).</s>
+    <s id="9" section="results">43 <outcome id="2" type="bad">deaths from coronary heart disease or stroke</outcome> occurred in the aspirin groups compared with 35 in the no aspirin groups ( 6.7 % v 5.5 % ) : 1.23 ( 0.79 to 1.93 ) .</s>
+    <s id="10" section="results">Among the antioxidant groups 117 of 640 (18.3%) primary events occurred compared with 116 of 636 (18.2%) in the no antioxidant groups (1.03, 0.79 to 1.33).</s>
+    <s id="11" section="results">42 ( 6.6 % ) <outcome id="2" type="bad">deaths from coronary heart disease or stroke </outcome> occurred in the antioxidant groups compared with 36 ( 5.7 % ) in the no antioxidant groups ( 1.21 , 0.78 to 1.89 ) .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether aspirin and antioxidant therapy, combined or alone, are more effective than placebo in reducing the development of cardiovascular events in patients with diabetes mellitus and asymptomatic peripheral arterial disease. 
+DESIGN: Multicentre, randomised, double blind, 2x2 factorial, placebo controlled trial. 
+SETTING: 16 hospital centres in Scotland, supported by 188 primary care groups. 
+PARTICIPANTS: 1276 adults aged 40 or more with type 1 or type 2 diabetes and an ankle brachial pressure index of 0.99 or less but no symptomatic cardiovascular disease. 
+INTERVENTIONS: Daily, 100 mg aspirin tablet plus antioxidant capsule (n=320), aspirin tablet plus placebo capsule (n=318), placebo tablet plus antioxidant capsule (n=320), or placebo tablet plus placebo capsule (n=318). 
+MAIN OUTCOME MEASURES: Two hierarchical composite primary end points of death from coronary heart disease or stroke, non-fatal myocardial infarction or stroke, or amputation above the ankle for critical limb ischaemia; and death from coronary heart disease or stroke. 
+RESULTS: No evidence was found of any interaction between aspirin and antioxidant. 
+Overall, 116 of 638 primary events occurred in the aspirin groups compared with 117 of 638 in the no aspirin groups (18.2% v 18.3%): hazard ratio 0.98 (95% confidence interval 0.76 to 1.26). 
+Forty three deaths from coronary heart disease or stroke occurred in the aspirin groups compared with 35 in the no aspirin groups (6.7% v 5.5%): 1.23 (0.79 to 1.93). 
+Among the antioxidant groups 117 of 640 (18.3%) primary events occurred compared with 116 of 636 (18.2%) in the no antioxidant groups (1.03, 0.79 to 1.33). 
+Forty two (6.6%) deaths from coronary heart disease or stroke occurred in the antioxidant groups compared with 36 (5.7%) in the no antioxidant groups (1.21, 0.78 to 1.89). 
+CONCLUSION: This trial does not provide evidence to support the use of aspirin or antioxidants in primary prevention of cardiovascular events and mortality in the population with diabetes studied. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN53295293.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether aspirin and antioxidant therapy, combined or alone, are more effective than placebo in reducing the development of cardiovascular events in patients with diabetes mellitus and asymptomatic peripheral arterial disease.</s>
+    <s id="2" section="design">Multicentre, randomised, double blind, 2x2 factorial, placebo controlled trial.</s>
+    <s id="7" section="results">No evidence was found of any interaction between aspirin and antioxidant.</s>
+    <s id="12" section="conclusion">This trial does not provide evidence to support the use of aspirin or antioxidants in primary prevention of cardiovascular events and mortality in the population with diabetes studied.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN53295293.</s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19773329">
+  <title>
+    <s id="0">Economic evaluation of arthritis self management in primary care.</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">74 general practices in the United Kingdom.</s>
+    <s id="4" section="participants">812 patients aged 50 or more with osteoarthritis of the hips or knees, or both, and pain or disability, or both.</s>
+    <s id="5" section="interventions">Randomisation to either 6 sessions of an <group id="0" role="experiment">arthritis <short>self management</short> programme plus an education booklet</group> ( intervention group ) or the <group id="1" role="control">education booklet alone</group> ( standard care control group ) .</s>
+    <s id="6" section="main outcome measures"><outcome id="0" type="bad">Total health and social care costs</outcome> and <outcome id="1" type="bad">total societal costs</outcome> at <time id="0">12 months</time>; cost effectiveness (incremental cost effectiveness ratios and cost effectiveness acceptability curves) on basis of <outcome id="2" type="good">quality of life (<short>SF-36</short>, primary outcome measure)</outcome>, <outcome id="3" type="good">EuroQol visual analogue scale</outcome>, and <outcome id="3" type="good">quality adjusted life years (<short>QALYs</short>)</outcome>.</s>
+    <s id="7" section="results">At <time id="0">12 months</time> <outcome id="0" type="bad">health and social care costs</outcome> in the <group id="0" role="experiment">intervention group</group> were pound101 higher (95% confidence interval pound3 to pound176) than those in the <group id="1" role="control">control group</group> because the additional costs of the <group id="0" role="experiment">arthritis <short>self management</short> programme</group> did not seem to be fully offset by savings elsewhere.</s>
+    <s id="8" section="results">There were no significant differences in <outcome id="1" type="bad">societal costs</outcome> (which were up to 13 times the size of health and social care costs) or any of the outcomes.</s>
+    <s id="9" section="results">From the health and social care perspective the intervention was dominated by the control on the basis of QALYs (which were non-significantly lower in the intervention group) and had incremental <outcome id="4" type="good">cost effectiveness</outcome> ratios between pound279 and pound13 473 for the other outcomes.</s>
+    <s id="11" section="results">Probabilities of the <group id="0" role="experiment">arthritis self management programme</group> 's <outcome id="4" type="good">cost effectiveness</outcome> ranged between 12 % and 97 % ( for thresholds ranging pound0 to pound1000 ) based on 1 point improvements in <outcome id="2" type="good">SF-36</outcome> outcomes , but the clinical significance of this is debatable .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the cost effectiveness of a self management programme plus education booklet for arthritis in primary care. 
+DESIGN: Cost effectiveness and cost utility analysis from health and social care and societal perspectives alongside a randomised controlled trial. 
+SETTING: 74 general practices in the United Kingdom. 
+PARTICIPANTS: 812 patients aged 50 or more with osteoarthritis of the hips or knees, or both, and pain or disability, or both. 
+INTERVENTIONS: Randomisation to either six sessions of an arthritis self management programme plus an education booklet (intervention group) or the education booklet alone (standard care control group). 
+MAIN OUTCOME MEASURES: Total health and social care costs and total societal costs at 12 months; cost effectiveness (incremental cost effectiveness ratios and cost effectiveness acceptability curves) on basis of quality of life (SF-36, primary outcome measure), EuroQol visual analogue scale, and quality adjusted life years (QALYs). 
+RESULTS: At 12 months health and social care costs in the intervention group were pound101 higher (95% confidence interval pound3 to pound176) than those in the control group because the additional costs of the arthritis self management programme did not seem to be fully offset by savings elsewhere. 
+There were no significant differences in societal costs (which were up to 13 times the size of health and social care costs) or any of the outcomes. 
+From the health and social care perspective the intervention was dominated by the control on the basis of QALYs (which were non-significantly lower in the intervention group) and had incremental cost effectiveness ratios between pound279 and pound13 473 for the other outcomes. 
+From the societal perspective the intervention seemed superior to the control owing to non-significantly lower costs and non-significantly better outcomes on all measures except QALYs. 
+Probabilities of the arthritis self management programme's cost effectiveness ranged between 12% and 97% (for thresholds ranging pound0 to pound1000) based on one point improvements in SF-36 outcomes, but the clinical significance of this is debatable. 
+Probabilities of cost effectiveness on the basis of the visual analogue scale and QALYs were low. 
+CONCLUSIONS: Cost effectiveness of an arthritis self management programme is not suggested on the basis of current National Institute for Health and Clinical Excellence cost perspectives and QALY thresholds. 
+The probability of cost effectiveness is greater when broader costs and other quality of life outcomes are considered. 
+These results suggest that the cost effectiveness of the Department of Health's expert patients programme cannot be assumed across all clinical conditions and that further rigorous evaluations for other conditions may be needed. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN79115352.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the cost effectiveness of a self management programme plus education booklet for arthritis in primary care.</s>
+    <s id="2" section="design">Cost effectiveness and cost utility analysis from health and social care and societal perspectives alongside a randomised controlled trial.</s>
+    <s id="10" section="results">From the societal perspective the intervention seemed superior to the control owing to non-significantly lower costs and non-significantly better outcomes on all measures except QALYs.</s>
+    <s id="12" section="results">Probabilities of cost effectiveness on the basis of the visual analogue scale and QALYs were low.</s>
+    <s id="13" section="conclusions">Cost effectiveness of an arthritis self management programme is not suggested on the basis of current National Institute for Health and Clinical Excellence cost perspectives and QALY thresholds.</s>
+    <s id="14" section="conclusions">The probability of cost effectiveness is greater when broader costs and other quality of life outcomes are considered.</s>
+    <s id="15" section="conclusions">These results suggest that the cost effectiveness of the Department of Health's expert patients programme cannot be assumed across all clinical conditions and that further rigorous evaluations for other conditions may be needed.</s>
+    <s id="16" section="trial registration">Current Controlled Trials ISRCTN79115352.</s>
+  </ignored>
+</abstract>
+

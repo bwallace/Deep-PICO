@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17517761">
+  <title>
+    <s id="0">Accuracy of liquid based versus conventional cytology: overall results of new technologies for cervical cancer screening: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Women aged 25-60 attending for a new screening round: <gs group="1">22466</gs> were assigned to <group id="1" role="control">the conventional arm</group> and <gs group="0">22708</gs> were assigned to <group id="0" role="experiment">the experimental arm</group>.</s>
+    <s id="6" section="main outcome measure">Relative sensitivity for cervical intraepithelial neoplasia of grade 2 or more at blindly reviewed histology, with atypical cells of undetermined significance or more severe cytology considered a positive result.</s>
+    <s id="7" section="results">In an intention to screen analysis <group id="0" role="experiment"><short>liquid</short> based cytology</group> showed no significant increase in <outcome id="0" type="bad">sensitivity for <short>cervical intraepithelial neoplasia</short> of grade 2 or more</outcome> (relative sensitivity 1.17, 95% confidence interval 0.87 to 1.56) whereas the <outcome id="3" type="good">positive predictive value was reduced</outcome> (relative positive predictive value v <group id="1" role="control">conventional cytology</group> 0.58, 0.44 to 0.77).</s>
+    <s id="8" section="results"><group id="0" role="experiment"><short>liquid</short> based cytology</group> detected <outcome id="1" type="bad">more lesions of grade 1 or more</outcome> (relative sensitivity 1.68, 1.40 to 2.02), with a larger increase among women aged 25-34 (P for heterogeneity 0.0006), but did not detect <outcome id="2" type="bad">more lesions of grade 3 or more</outcome> (relative sensitivity 0.84, 0.56 to 1.25).</s>
+    <s id="11" section="results">The relative frequency of women with at least 1 unsatisfactory result was lower with ><group id="0" role="experiment"><short>liquid</short> based cytology</group> (0.62, 0.56 to 0.69).</s>
+    <s id="12" section="conclusion">><group id="0" role="experiment">Liquid based cytology</group> showed no statistically significant difference in sensitivity to ><group id="1" role="control">conventional cytology</group> for detection of cervical intraepithelial neoplasia of grade 2 or more.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To compare the accuracy of conventional cytology with liquid based cytology for primary screening of cervical cancer. 
+DESIGN: Randomised controlled trial. 
+SETTING: Nine screening programmes in Italy. 
+PARTICIPANTS: Women aged 25-60 attending for a new screening round: 22 466 were assigned to the conventional arm and 22 708 were assigned to the experimental arm. 
+INTERVENTIONS: Conventional cytology compared with liquid based cytology and testing for human papillomavirus. 
+MAIN OUTCOME MEASURE: Relative sensitivity for cervical intraepithelial neoplasia of grade 2 or more at blindly reviewed histology, with atypical cells of undetermined significance or more severe cytology considered a positive result. 
+RESULTS: In an intention to screen analysis liquid based cytology showed no significant increase in sensitivity for cervical intraepithelial neoplasia of grade 2 or more (relative sensitivity 1.17, 95% confidence interval 0.87 to 1.56) whereas the positive predictive value was reduced (relative positive predictive value v conventional cytology 0.58, 0.44 to 0.77). 
+Liquid based cytology detected more lesions of grade 1 or more (relative sensitivity 1.68, 1.40 to 2.02), with a larger increase among women aged 25-34 (P for heterogeneity 0.0006), but did not detect more lesions of grade 3 or more (relative sensitivity 0.84, 0.56 to 1.25). 
+Results were similar when only low grade intraepithelial lesions or more severe cytology were considered a positive result. 
+No evidence was found of heterogeneity between centres or of improvement with increasing time from start of the study. 
+The relative frequency of women with at least one unsatisfactory result was lower with liquid based cytology (0.62, 0.56 to 0.69). 
+CONCLUSION: Liquid based cytology showed no statistically significant difference in sensitivity to conventional cytology for detection of cervical intraepithelial neoplasia of grade 2 or more. 
+More positive results were found, however, leading to a lower positive predictive value. 
+A large reduction in unsatisfactory smears was evident. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN81678807 [controlled-trials.com].</fulltext>
+  <ignored>
+    <s id="1" section="objective">To compare the accuracy of conventional cytology with liquid based cytology for primary screening of cervical cancer.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="3" section="setting">Nine screening programmes in Italy.</s>
+    <s id="5" section="interventions">Conventional cytology compared with liquid based cytology and testing for human papillomavirus.</s>
+    <s id="9" section="results">Results were similar when only low grade intraepithelial lesions or more severe cytology were considered a positive result.</s>
+    <s id="10" section="results">No evidence was found of heterogeneity between centres or of improvement with increasing time from start of the study.</s>
+    <s id="13" section="conclusion">More positive results were found, however, leading to a lower positive predictive value.</s>
+    <s id="14" section="conclusion">A large reduction in unsatisfactory smears was evident.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN81678807 [controlled-trials.com].</s>
+  </ignored>
+</abstract>
+

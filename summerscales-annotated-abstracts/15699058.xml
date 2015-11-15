@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15699058">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Exercises</group>
+      to prevent
+      <outcome id="0" type="bad">
+        lower  limb
+        <short>injuries</short>
+      </outcome>
+      in youth sports : cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">
+      120 team handball clubs from central and eastern Norway ( 61 clubs in the
+      <group id="0">intervention  group</group>
+      , 59 in the
+      <group id="1">control  group</group>
+      ) followed for
+      <time id="0">1  league  season</time>
+      (
+      <time id="0">8  months</time>
+      ) .
+    </s>
+    <s id="4" section="participants">
+      <ps>1837</ps>
+      players aged 15-17 years ;
+      <gs group="0">958</gs>
+      players ( 808 female and 150 male ) in the
+      <group id="0">intervention  group</group>
+      ;
+      <gs group="1">879</gs>
+      players ( 778 female and 101 male ) in the
+      <group id="1">control  group</group>
+      .
+    </s>
+    <s id="7" section="results">
+      During the season , 129
+      <outcome id="0" type="bad">
+        acute  knee  or  ankle
+        <short>injuries</short>
+      </outcome>
+      occurred ,
+      <on group="1" outcome="0">81</on>
+      <outcome id="0" type="bad">injuries</outcome>
+      in the
+      <group id="1">control  group</group>
+      ( 0.9 ( SE 0.09 )
+      <outcome id="0" type="bad"><short>injuries</short>
+      per 1000 player hours</outcome> ; 0.3 ( SE 0.17 ) in training v 5.3 ( SE 0.06 ) during matches ) and
+      <on group="0" outcome="0">48</on>
+      <outcome id="0" type="bad">injuries</outcome>
+      in the
+      <group id="0">intervention  group</group>
+      ( 0.5 ( SE 0.11 )
+      <outcome id="0" type="bad"><short>injuries</short>
+      per 1000 player hours</outcome> ; 0.2 ( SE 0.18 ) in training v 2.5 ( SE 0.06 ) during matches ) .
+    </s>
+    <s id="8" section="results">
+      Fewer
+      <outcome id="1" type="bad">injured  players</outcome>
+      were in the
+      <group id="0">intervention  group</group>
+      than in the
+      <group id="1">control  group</group>
+      (
+      <on group="0" outcome="1">46</on>
+      ( 4.8 % ) v (
+      <on group="1" outcome="1">76</on>
+      ( 8.6 % ) ; relative risk
+      <group id="0">intervention  group</group>
+      v
+      <group id="1">control  group</group>
+      0.53 , 95 % confidence interval 0.35 to 0.81 ) .
+    </s>
+  </annotated>
+  <fulltext>Exercises to prevent lower limb injuries in youth sports : cluster randomised controlled trial . To investigate the effect of a structured warm - up programme designed to reduce the incidence of knee and ankle injuries in young people participating in sports . Cluster randomised controlled trial with clubs as the unit of randomisation . 120 team handball clubs from central and eastern Norway ( 61 clubs in the intervention group , 59 in the control group ) followed for 1 league season ( 8 months ) . 1837 players aged 15-17 years ; 958 players ( 808 female and 150 male ) in the intervention group ; 879 players ( 778 female and 101 male ) in the control group . A structured warm - up programme to improve running , cutting , and landing technique as well as neuromuscular control , balance , and strength . The rate of acute injuries to the knee or ankle . During the season , 129 acute knee or ankle injuries occurred , 81 injuries in the control group ( 0.9 ( SE 0.09 ) injuries per 1000 player hours ; 0.3 ( SE 0.17 ) in training v 5.3 ( SE 0.06 ) during matches ) and 48 injuries in the intervention group ( 0.5 ( SE 0.11 ) injuries per 1000 player hours ; 0.2 ( SE 0.18 ) in training v 2.5 ( SE 0.06 ) during matches ) . Fewer injured players were in the intervention group than in the control group ( 46 ( 4.8 % ) v ( 76 ( 8.6 % ) ; relative risk intervention group v control group 0.53 , 95 % confidence interval 0.35 to 0.81 ) . A structured programme of warm - up exercises can prevent knee and ankle injuries in young people playing sports . Preventive training should therefore be introduced as an integral part of youth sports programmes .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate the effect of a
+      <group id="0">
+        structured
+        <short>warm  -  up  programme</short>
+      </group>
+      designed to reduce the
+      <outcome id="0" type="bad">
+        incidence  of  knee  and  ankle
+        <short>injuries</short>
+      </outcome>
+      in young people participating in sports .
+    </s>
+    <s id="2" section="design">Cluster randomised controlled trial with clubs as the unit of randomisation .</s>
+    <s id="5" section="intervention">
+      A
+      <group id="0">
+        structured
+        <short>warm  -  up  programme</short>
+      </group>
+      to improve running , cutting , and landing technique as well as neuromuscular control , balance , and strength .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      The
+      <outcome id="0" type="bad">
+        rate  of  acute
+        <short>injuries</short>
+        to  the  knee  or  ankle
+      </outcome>
+      .
+    </s>
+    <s id="9" section="conclusion">
+      A
+      <group id="0">
+        <short>structured  programme</short>
+        of  warm  -  up  exercises
+      </group>
+      can prevent
+      <outcome id="0" type="bad">
+        knee  and  ankle
+        <short>injuries</short>
+      </outcome>
+      in young people playing sports .
+    </s>
+    <s id="10" section="conclusion">
+      <group id="0">Preventive  training</group>
+      should therefore be introduced as an integral part of youth sports programmes .
+    </s>
+  </ignored>
+</abstract>
+

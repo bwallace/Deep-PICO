@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19875425">
+  <title>
+    <s id="0">Implementation of the Canadian C-Spine Rule: prospective 12 centre cluster randomised trial.</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">Participants 11824 alert and stable adults presenting with blunt trauma to the head or neck at 1 of 12 hospitals .</s>
+    <s id="5" section="interventions"><gs group="0">6</gs> hospitals were randomly allocated to the <group id="0" role="experiment">intervention</group> and <gs group="1">6</gs> to the <group id="1" role="control">control</group>.</s>
+    <s id="8" section="main outcome measure"><outcome id="0" type="bad">Diagnostic imaging rate of the cervical spine</outcome> during 2 12 month before and after periods .</s>
+    <s id="10" section="results">From the before to the after periods, the <group id="0" role="experiment">intervention group</group> showed a relative reduction in <outcome id="0" type="bad">cervical spine imaging</outcome> of 12.8% (95% confidence interval 9% to 16%; 61.7% v 53.3%; P=0.01) and the <group id="1" role="control">control group</group> a relative increase of 12.5% (7% to 18%; 52.8% v 58.9%; P=0.03).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effectiveness of an active strategy to implement the validated Canadian C-Spine Rule into multiple emergency departments. 
+DESIGN: Matched pair cluster randomised trial. 
+SETTING: University and community emergency departments in Canada. 
+Participants 11 824 alert and stable adults presenting with blunt trauma to the head or neck at one of 12 hospitals. 
+INTERVENTIONS: Six hospitals were randomly allocated to the intervention and six to the control. 
+At the intervention sites, active strategies were used to implement the Canadian C-Spine Rule, including education, policy, and real time reminders on radiology requisitions. 
+No specific intervention was introduced to alter the behaviour of doctors requesting cervical spine imaging at the control sites. 
+MAIN OUTCOME MEASURE: Diagnostic imaging rate of the cervical spine during two 12 month before and after periods. 
+RESULTS: Patients were balanced between control and intervention sites. 
+From the before to the after periods, the intervention group showed a relative reduction in cervical spine imaging of 12.8% (95% confidence interval 9% to 16%; 61.7% v 53.3%; P=0.01) and the control group a relative increase of 12.5% (7% to 18%; 52.8% v 58.9%; P=0.03). 
+These changes were significant when both groups were compared (P&lt;0.001). 
+No fractures were missed and no adverse outcomes occurred. 
+CONCLUSIONS: Implementation of the Canadian C-Spine Rule led to a significant decrease in imaging without injuries being missed or patient morbidity. 
+Final imaging rates were much lower at intervention sites than at most US hospitals. 
+Widespread implementation of this rule could lead to reduced healthcare costs and more efficient patient flow in busy emergency departments worldwide. 
+TRIAL REGISTRATION: Clinical trials NCT00290875.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To evaluate the effectiveness of an active strategy to implement the validated Canadian C-Spine Rule into multiple emergency departments.</s>
+    <s id="2" section="design">Matched pair cluster randomised trial.</s>
+    <s id="3" section="setting">University and community emergency departments in Canada.</s>
+    <s id="6" section="interventions">At the intervention sites, active strategies were used to implement the Canadian C-Spine Rule, including education, policy, and real time reminders on radiology requisitions.</s>
+    <s id="7" section="interventions">No specific intervention was introduced to alter the behaviour of doctors requesting cervical spine imaging at the control sites.</s>
+    <s id="9" section="results">Patients were balanced between control and intervention sites.</s>
+    <s id="11" section="results">These changes were significant when both groups were compared (P&lt;0.001).</s>
+    <s id="12" section="results">No fractures were missed and no adverse outcomes occurred.</s>
+    <s id="13" section="conclusions">Implementation of the Canadian C-Spine Rule led to a significant decrease in imaging without injuries being missed or patient morbidity.</s>
+    <s id="14" section="conclusions">Final imaging rates were much lower at intervention sites than at most US hospitals.</s>
+    <s id="15" section="conclusions">Widespread implementation of this rule could lead to reduced healthcare costs and more efficient patient flow in busy emergency departments worldwide.</s>
+    <s id="16" section="trial registration">Clinical trials NCT00290875.</s>
+  </ignored>
+</abstract>
+

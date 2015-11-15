@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17923721">
+  <title>
+    <s id="0">Preventing childhood obesity: two year follow-up results from the Christchurch obesity prevention programme in schools (CHOPPS).</s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">Of the original sample of 644 children aged 7-11, 511 children were tracked and measurements were obtained from 434 children 3 years after baseline.</s>
+    <s id="5" section="intervention">The intervention was conducted over 1 school year, with 4 sessions of focused education promoting a healthy diet and discouraging the consumption of carbonated drinks.</s>
+    <s id="9" section="results">At <time id="0">3 years after baseline</time> <outcome id="0" type="bad">the age and sex specific BMI z scores (SD scores)</outcome> had increased in <group id="1" role="control">the control group</group> by 0.10 (SD 0.53) but decreased in the <group id="0" role="experiment">intervention group</group> by -0.01 (SD 0.58), with a mean difference of 0.10 (95% confidence interval -0.00 to 0.21, P=0.06).</s>
+    <s id="10" section="results">The prevalence of <outcome id="1" type="bad">overweight</outcome> increased in both the <group id="0" role="experiment">intervention</group> and <group id="1" role="control">control group</group> at <time id="0">3 years</time> and the significant difference between the groups seen at <time id="1">12 months</time> was no longer evident.</s>
+    <s id="12" section="results">The <outcome id="2" type="bad">waist circumference</outcome> increased in both groups after <time id="0">3 years</time> with a mean difference of 0.09 (-0.06 to 0.26, P=0.25).</s>
+    <s id="13" section="conclusions">These longitudinal results show that after a simple year long intervention the difference in prevalence of overweight in children seen at <time id="1">12 months</time> was not sustained at <time id="0">3 years</time>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the long term effects of an obesity prevention programme in schools. 
+DESIGN: Longitudinal results after a cluster randomised controlled trial. 
+SETTING: Schools in southwest England. 
+PARTICIPANTS: Of the original sample of 644 children aged 7-11, 511 children were tracked and measurements were obtained from 434 children three years after baseline. 
+INTERVENTION: The intervention was conducted over one school year, with four sessions of focused education promoting a healthy diet and discouraging the consumption of carbonated drinks. 
+MAIN OUTCOME MEASURES: Anthropometric measures of height, weight, and waist circumference. 
+Body mass index (BMI) converted to z scores (SD scores) and to centile values with growth reference curves. 
+Waist circumference was also converted to z scores (SD scores). 
+RESULTS: At three years after baseline the age and sex specific BMI z scores (SD scores) had increased in the control group by 0.10 (SD 0.53) but decreased in the intervention group by -0.01 (SD 0.58), with a mean difference of 0.10 (95% confidence interval -0.00 to 0.21, P=0.06). 
+The prevalence of overweight increased in both the intervention and control group at three years and the significant difference between the groups seen at 12 months was no longer evident. 
+The BMI increased in the control group by 2.14 (SD 1.64) and the intervention group by 1.88 (SD 1.71), with mean difference of 0.26 (-0.07 to 0.58, P= 0.12). 
+The waist circumference increased in both groups after three years with a mean difference of 0.09 (-0.06 to 0.26, P=0.25). 
+CONCLUSIONS: These longitudinal results show that after a simple year long intervention the difference in prevalence of overweight in children seen at 12 months was not sustained at three years.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the long term effects of an obesity prevention programme in schools.</s>
+    <s id="2" section="design">Longitudinal results after a cluster randomised controlled trial.</s>
+    <s id="3" section="setting">Schools in southwest England.</s>
+    <s id="6" section="main outcome measures">Anthropometric measures of height, weight, and waist circumference.</s>
+    <s id="7" section="main outcome measures">Body mass index (BMI) converted to z scores (SD scores) and to centile values with growth reference curves.</s>
+    <s id="8" section="main outcome measures">Waist circumference was also converted to z scores (SD scores).</s>
+    <s id="11" section="results">The BMI increased in the control group by 2.14 (SD 1.64) and the intervention group by 1.88 (SD 1.71), with mean difference of 0.26 (-0.07 to 0.58, P= 0.12).</s>
+  </ignored>
+</abstract>
+

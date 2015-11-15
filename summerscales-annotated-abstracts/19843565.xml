@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19843565">
+  <title>
+    <s id="0">Supervised exercise therapy versus usual care for patellofemoral pain syndrome: an open label randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="5" section="interventions">The <group id="0" role="experiment">intervention group</group> received a standardised exercise programme for 6 weeks tailored to individual performance and supervised by a physical therapist, and were instructed to practise the tailored exercises at home for 3 months.</s>
+    <s id="8" section="main outcome measures">The primary outcomes were self reported recovery (7 point Likert scale), pain at rest and pain on activity (0-10 point numerical rating scale), and function (0-100 point Kujala patellofemoral score) at <time id="0">3 months</time> and <time id="1">12 months</time> follow-up.</s>
+    <s id="9" section="results">A total of 131 participants were included in the study: <gs group="0">65</gs> in the <group id="0" role="experiment">intervention group</group> and <gs group="1">66</gs> in the <group id="1" role="control">control group</group>.</s>
+    <s id="10" section="results">After <time id="0">3 months</time>, <group id="0" role="experiment">the intervention group</group> showed better outcomes than the <group id="1" role="experiment">control group</group> with regard to <outcome id="0" type="bad">pain at rest</outcome> (adjusted difference -1.07, 95% confidence interval -1.92 to -0.22; effect size 0.47), <outcome id="1" type="bad">pain on activity</outcome> (-1.00, -1.91 to -0.08; 0.45), and <outcome id="2" type="good">function</outcome> (4.92, 0.14 to 9.72; 0.34).</s>
+    <s id="11" section="results">At <time id="1">12 months</time>, the <group id="0" role="experiment">intervention group</group> continued to show better outcomes than the <group id="1" role="experiment">control group</group> with regard to pain (adjusted difference in <outcome id="0" type="bad">pain at rest</outcome> -1.29, -2.16 to -0.42; effect size 0.56; <outcome id="1" type="bad">pain on activity</outcome> -1.19, -2.22 to -0.16; effect size 0.54), but not <outcome id="2" type="good">function</outcome> (4.52, -0.73 to 9.76).</s>
+    <s id="12" section="results">A higher proportion of patients in the <group id="0" role="experiment">exercise group</group> than in the <group id="1" role="experiment">control group</group> <outcome id="3" type="good">reported recovery</outcome> ( 41.9 % v 35.0 % at <time id="0">3 months</time> and 62.1 % v 50.8 % at <time id="1">12 months</time> ) , although the differences in self reported recovery between the 2 groups were not statistically significant .</s>
+    <s id="13" section="results">Predefined subgroup analyses revealed that <group id="2" role="experiment">patients recruited by sport physicians</group> (n=<gs group="2">30</gs>) did not benefit from the intervention, whereas <group id="3" role="experiment">those recruited by general practitioners</group> (n=<gs group="3">101</gs>) showed significant and clinically relevant differences in <outcome id="1" type="bad">pain and function</outcome> in favour of <group id="0" role="experiment">the intervention group</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the effectiveness of supervised exercise therapy compared with usual care with respect to recovery, pain, and function in patients with patellofemoral pain syndrome. 
+DESIGN: Open label randomised controlled trial. 
+SETTING: General practice and sport physician practice. 
+PARTICIPANTS: Patients with a new episode of patellofemoral pain syndrome recruited by their general practitioner or sport physician. 
+INTERVENTIONS: The intervention group received a standardised exercise programme for 6 weeks tailored to individual performance and supervised by a physical therapist, and were instructed to practise the tailored exercises at home for 3 months. 
+The control group were assigned usual care, which comprised a "wait and see" approach of rest during periods of pain and refraining from pain provoking activities. 
+Both the intervention group and the control group received written information about patellofemoral pain syndrome and general instructions for home exercises. 
+MAIN OUTCOME MEASURES: The primary outcomes were self reported recovery (7 point Likert scale), pain at rest and pain on activity (0-10 point numerical rating scale), and function (0-100 point Kujala patellofemoral score) at 3 months and 12 months follow-up. 
+RESULTS: A total of 131 participants were included in the study: 65 in the intervention group and 66 in the control group. 
+After 3 months, the intervention group showed better outcomes than the control group with regard to pain at rest (adjusted difference -1.07, 95% confidence interval -1.92 to -0.22; effect size 0.47), pain on activity (-1.00, -1.91 to -0.08; 0.45), and function (4.92, 0.14 to 9.72; 0.34). 
+At 12 months, the intervention group continued to show better outcomes than the control group with regard to pain (adjusted difference in pain at rest -1.29, -2.16 to -0.42; effect size 0.56; pain on activity -1.19, -2.22 to -0.16; effect size 0.54), but not function (4.52, -0.73 to 9.76). 
+A higher proportion of patients in the exercise group than in the control group reported recovery (41.9% v 35.0% at 3 months and 62.1% v 50.8% at 12 months), although the differences in self reported recovery between the two groups were not statistically significant. 
+Predefined subgroup analyses revealed that patients recruited by sport physicians (n=30) did not benefit from the intervention, whereas those recruited by general practitioners (n=101) showed significant and clinically relevant differences in pain and function in favour of the intervention group. 
+CONCLUSION: Supervised exercise therapy resulted in less pain and better function at short term and long term follow-up compared with usual care in patients with patellofemoral pain syndrome in general practice. 
+Exercise therapy did not produce a significant difference in the rate of self reported recovery. 
+TRIAL REGISTRATION: ISRCTN83938749.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the effectiveness of supervised exercise therapy compared with usual care with respect to recovery, pain, and function in patients with patellofemoral pain syndrome.</s>
+    <s id="2" section="design">Open label randomised controlled trial.</s>
+    <s id="3" section="setting">General practice and sport physician practice.</s>
+    <s id="4" section="participants">Patients with a new episode of patellofemoral pain syndrome recruited by their general practitioner or sport physician.</s>
+    <s id="6" section="interventions">The control group were assigned usual care, which comprised a "wait and see" approach of rest during periods of pain and refraining from pain provoking activities.</s>
+    <s id="7" section="interventions">Both the intervention group and the control group received written information about patellofemoral pain syndrome and general instructions for home exercises.</s>
+    <s id="14" section="conclusion">Supervised exercise therapy resulted in less pain and better function at short term and long term follow-up compared with usual care in patients with patellofemoral pain syndrome in general practice.</s>
+    <s id="15" section="conclusion">Exercise therapy did not produce a significant difference in the rate of self reported recovery.</s>
+    <s id="16" section="trial registration">ISRCTN83938749.</s>
+  </ignored>
+</abstract>
+

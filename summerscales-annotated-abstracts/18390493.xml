@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18390493">
+  <title>
+    <s id="0">Components of placebo effect: randomised controlled trial in patients with irritable bowel syndrome.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To investigate whether placebo effects can experimentally be separated into the response to 3 components -assessment and observation , a therapeutic ritual ( placebo treatment ) , and a supportive patient - practitioner relationship - and then progressively combined to produce incremental clinical improvement in patients with irritable bowel syndrome .</s>
+    <s id="3" section="design">A 6 week single blind 3 arm randomised controlled trial .</s>
+    <s id="5" section="participants">262 adults (76% women), mean (SD) age 39 (14), diagnosed by Rome II criteria for and with a score of &gt; or =150 on the symptom severity scale.</s>
+    <s id="6" section="interventions">For <time id="0">3 weeks</time> either <group id="0" role="control">waiting list ( <short>observation</short> )</group> , <group id="1" role="experiment">placebo acupuncture alone ( " <short>limited</short> " )</group> , or <group id="2" role="experiment">placebo acupuncture with a patient - practitioner relationship augmented by warmth , attention , and confidence ( " <short>augmented</short> " )</group>.</s>
+    <s id="7" section="interventions">At <time id="0">3 weeks</time> , half of the patients were randomly assigned to continue in their originally assigned group for an additional 3 weeks .</s>
+    <s id="9" section="results">At <time id="0">3 weeks</time> , scores on the <outcome id="0" type="good">global improvement scale</outcome> were <on group="0" outcome="0">3.8</on> ( SD 1.0 ) v <on group="0" outcome="0">4.3</on> ( SD 1.4 ) v <on group="0" outcome="0">5.0</on> ( SD 1.3 ) for <group id="0" role="control">waiting list</group> versus " <group id="1" role="experiment">limited</group> " versus " <group id="2" role="experiment">augmented</group> , " respectively ( P &lt; 0.001 for trend ) .</s>
+    <s id="10" section="results">The proportion of patients <outcome id="1" type="good">reporting adequate relief</outcome> showed a similar pattern: 28% on <group id="0" role="experiment">waiting list</group>, 44% in <group id="1" role="experiment">limited group</group>, and 62% in <group id="2" role="experiment">augmented group</group> (P&lt;0.001 for trend).</s>
+    <s id="11" section="results">The same trend in response existed in <outcome id="2" type="bad">symptom severity</outcome> score (<on group="0" outcome="2">30</on> (63) v <on group="1" outcome="2">42</on> (67) v <on group="2" outcome="2">82</on> (89), P&lt;0.001) and <outcome id="2" type="good">quality of life</outcome> (3.6 (8.1) v 4.1 (9.4) v 9.3 (14.0), P&lt;0.001).</s>
+    <s id="15" section="results">Results were similar at <time id="1">6 week</time> follow - up .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether placebo effects can experimentally be separated into the response to three components-assessment and observation, a therapeutic ritual (placebo treatment), and a supportive patient-practitioner relationship-and then progressively combined to produce incremental clinical improvement in patients with irritable bowel syndrome. 
+To assess the relative magnitude of these components. 
+DESIGN: A six week single blind three arm randomised controlled trial. 
+SETTING: Academic medical centre. 
+PARTICIPANTS: 262 adults (76% women), mean (SD) age 39 (14), diagnosed by Rome II criteria for and with a score of &gt; or =150 on the symptom severity scale. 
+INTERVENTIONS: For three weeks either waiting list (observation), placebo acupuncture alone ("limited"), or placebo acupuncture with a patient-practitioner relationship augmented by warmth, attention, and confidence ("augmented"). 
+At three weeks, half of the patients were randomly assigned to continue in their originally assigned group for an additional three weeks. 
+MAIN OUTCOME MEASURES: Global improvement scale (range 1-7), adequate relief of symptoms, symptom severity score, and quality of life. 
+RESULTS: At three weeks, scores on the global improvement scale were 3.8 (SD 1.0) v 4.3 (SD 1.4) v 5.0 (SD 1.3) for waiting list versus "limited" versus "augmented," respectively (P&lt;0.001 for trend). 
+The proportion of patients reporting adequate relief showed a similar pattern: 28% on waiting list, 44% in limited group, and 62% in augmented group (P&lt;0.001 for trend). 
+The same trend in response existed in symptom severity score (30 (63) v 42 (67) v 82 (89), P&lt;0.001) and quality of life (3.6 (8.1) v 4.1 (9.4) v 9.3 (14.0), P&lt;0.001). 
+All pairwise comparisons between augmented and limited patient-practitioner relationship were significant: global improvement scale (P&lt;0.001), 
+adequate relief of symptoms (P&lt;0.001), 
+symptom severity score (P=0.007), quality of life (P=0.01). 
+Results were similar at six week follow-up. 
+CONCLUSION: Factors contributing to the placebo effect can be progressively combined in a manner resembling a graded dose escalation of component parts. 
+Non-specific effects can produce statistically and clinically significant outcomes and the patient-practitioner relationship is the most robust component. 
+TRIAL REGISTRATION: Clinical Trials NCT00065403.</fulltext>
+  <ignored>
+    <s id="2" section="objective">To assess the relative magnitude of these components.</s>
+    <s id="4" section="setting">Academic medical centre.</s>
+    <s id="8" section="main outcome measures">Global improvement scale (range 1-7), adequate relief of symptoms, symptom severity score, and quality of life.</s>
+    <s id="12" section="results">All pairwise comparisons between augmented and limited patient-practitioner relationship were significant: global improvement scale (P&lt;0.001),</s>
+    <s id="13" section="results">adequate relief of symptoms (P&lt;0.001),</s>
+    <s id="14" section="results">symptom severity score (P=0.007), quality of life (P=0.01).</s>
+    <s id="16" section="conclusion">Factors contributing to the placebo effect can be progressively combined in a manner resembling a graded dose escalation of component parts.</s>
+    <s id="17" section="conclusion">Non-specific effects can produce statistically and clinically significant outcomes and the patient-practitioner relationship is the most robust component.</s>
+    <s id="18" section="trial registration">Clinical Trials NCT00065403.</s>
+  </ignored>
+</abstract>
+

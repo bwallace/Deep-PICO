@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18171718">
+  <title>
+    <s id="0">Community occupational therapy for older patients with dementia and their care givers: cost effectiveness study.</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">Patients 135 patients aged &gt; or =65 with mild to moderate dementia living in the community and their primary care givers.</s>
+    <s id="5" section="intervention">10 sessions of occupational therapy over 5 weeks , including cognitive and behavioural interventions , to train patients in the use of aids to compensate for cognitive decline and care givers in coping behaviours and supervision .</s>
+    <s id="6" section="main outcome measures">Incremental cost effectiveness ratio expressed as the difference in <outcome id="0" type="bad">mean total care costs</outcome> per successful treatment ( that is , a combined patient and care giver outcome measure of clinically relevant improvement on process , performance , and competence scales ) at <time id="0">3 months</time> after randomisation .</s>
+    <s id="8" section="results">The intervention cost 1183 euros ( 848 pounds sterling , $1738 ) ( 95 % confidence interval 1128 euros ( 808 pounds sterling , $1657 ) to 1239 euros ( 888 pounds sterling , $1820) ) per patient and primary care giver unit at <time id="0">3 months</time> .</s>
+    <s id="9" section="results">Visits to general practitioners and hospital doctors cost the same in both groups but <outcome id="0" type="bad">total mean costs</outcome> were 1748 euros (1279 pounds sterling, $2621) lower in the intervention group, with the main cost savings in informal care.</s>
+    <s id="10" section="results">There was a significant difference in proportions of <outcome id="1" type="good">successful treatments</outcome> of 36 % at <time id="0">3 months</time> .</s>
+    <s id="11" section="results">The number needed to treat for successful treatment at <time id="0">3 months</time> was 2.8 ( 2.7 to 2.9 ) .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the cost effectiveness of community based occupational therapy compared with usual care in older patients with dementia and their care givers from a societal viewpoint. 
+DESIGN: Cost effectiveness study alongside a single blind randomised controlled trial. 
+SETTING: Memory clinic, day clinic of a geriatrics department, and participants' homes. 
+Patients 135 patients aged &gt; or =65 with mild to moderate dementia living in the community and their primary care givers. 
+INTERVENTION: 10 sessions of occupational therapy over five weeks, including cognitive and behavioural interventions, to train patients in the use of aids to compensate for cognitive decline and care givers in coping behaviours and supervision. 
+MAIN OUTCOME MEASURES: Incremental cost effectiveness ratio expressed as the difference in mean total care costs per successful treatment (that is, a combined patient and care giver outcome measure of clinically relevant improvement on process, performance, and competence scales) at three months after randomisation. 
+Bootstrap methods used to determine confidence intervals for these measures. 
+RESULTS: The intervention cost 1183 euros (848 pounds sterling, $1738) (95% confidence interval 1128 euros (808 pounds sterling, $1657) to 1239 euros (888 pounds sterling, $1820)) per patient and primary care giver unit at three months. 
+Visits to general practitioners and hospital doctors cost the same in both groups but total mean costs were 1748 euros (1279 pounds sterling, $2621) lower in the intervention group, with the main cost savings in informal care. 
+There was a significant difference in proportions of successful treatments of 36% at three months. 
+The number needed to treat for successful treatment at three months was 2.8 (2.7 to 2.9). 
+CONCLUSIONS: Community occupational therapy intervention for patients with dementia and their care givers is successful and cost effective, especially in terms of informal care giving.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the cost effectiveness of community based occupational therapy compared with usual care in older patients with dementia and their care givers from a societal viewpoint.</s>
+    <s id="2" section="design">Cost effectiveness study alongside a single blind randomised controlled trial.</s>
+    <s id="3" section="setting">Memory clinic, day clinic of a geriatrics department, and participants' homes.</s>
+    <s id="7" section="main outcome measures">Bootstrap methods used to determine confidence intervals for these measures.</s>
+    <s id="12" section="conclusions">Community occupational therapy intervention for patients with dementia and their care givers is successful and cost effective, especially in terms of informal care giving.</s>
+  </ignored>
+</abstract>
+

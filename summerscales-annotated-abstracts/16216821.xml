@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16216821">
+  <title>
+    <s id="0" section="title">
+      <group id="0">
+        <short>Self  management</short>
+        of  oral  anticoagulation
+      </group>
+      : randomised trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>617</ps>
+      patients aged over 18 and receiving warfarin randomised to
+      <group id="0">intervention</group>
+      ( n =
+      <gs group="0">337</gs>
+      ) and
+      <group id="1">routine  care</group>
+      ( n = from 2470 invited ; 193 / 337 ( 57 % ) completed the
+      <time id="0">12  month</time>
+      intervention .
+    </s>
+    <s id="7" section="results">
+      No significant differences were found in
+      <outcome id="0">
+        percentage  of
+        <short>time  in  the  therapeutic  range</short>
+      </outcome>
+      between
+      <group id="0">self  management</group>
+      and
+      <group id="1">routine  care</group>
+      ( 70 % v 68 % ) .
+    </s>
+    <s id="9" section="results">
+      <on group="0" outcome="1">9</on>
+      patients ( 2.8 / 100 patient years ) had
+      <outcome id="1" type="bad">serious  adverse  events</outcome>
+      in the
+      <group id="0">self  managed  group</group>
+      , compared with
+      <on group="1" outcome="1">7</on>
+      ( 2.7 / 100 patient years ) in the
+      <group id="1">routine  care  arm</group>
+      ( chi2 ( df = 1) = 0.02 , P = 0.89 ) .
+    </s>
+    <s id="12" section="conclusion">Trial registration ISRCTN 19313375 .</s>
+  </annotated>
+  <fulltext>Self management of oral anticoagulation : randomised trial . To determine the clinical effectiveness of self management compared with routine care in patients on long term oral anticoagulants . Multicentre open randomised controlled trial . Midlands region of the UK . 617 patients aged over 18 and receiving warfarin randomised to intervention ( n = 337 ) and routine care ( n = from 2470 invited ; 193 / 337 ( 57 % ) completed the 12 month intervention . Intervention patients used a point of care device to measure international normalised ratio twice a week and a simple dosing chart to interpret their dose of warfarin . Percentage of time spent within the therapeutic range of international normalised ratio . No significant differences were found in percentage of time in the therapeutic range between self management and routine care ( 70 % v 68 % ) . Self managed patients with poor control before the study showed an improvement in control that was not seen in the routine care group . 9 patients ( 2.8 / 100 patient years ) had serious adverse events in the self managed group , compared with 7 ( 2.7 / 100 patient years ) in the routine care arm ( chi2 ( df = 1) = 0.02 , P = 0.89 ) . With appropriate training , self management is safe and reliable for a sizeable proportion of patients receiving oral anticoagulation treatment . It may improve the time spent the therapeutic range for patients with initially poor control . Trial registration ISRCTN 19313375 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine the clinical effectiveness of
+      <group id="0">self  management</group>
+      compared with
+      <group id="1">routine  care</group>
+      in patients on long term oral anticoagulants .
+    </s>
+    <s id="2" section="design">Multicentre open randomised controlled trial .</s>
+    <s id="3" section="setting">Midlands region of the UK .</s>
+    <s id="5" section="intervention">
+      <group id="0">Intervention  patients</group>
+      used a
+      <group id="0">point  of  care  device  to  measure  international  normalised  ratio  twice  a  week  and  a  simple  dosing  chart  to  interpret  their  dose  of  warfarin</group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="0">
+        Percentage  of
+        <short>time  spent  within  the  therapeutic  range</short>
+        of  international  normalised  ratio
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <group id="0">Self  managed  patients</group>
+      with poor control before the study showed an improvement in control that was not seen in the
+      <group id="1">routine  care  group</group>
+      .
+    </s>
+    <s id="10" section="conclusion">
+      With appropriate training ,
+      <group id="0">self  management</group>
+      is safe and reliable for a sizeable proportion of patients receiving oral anticoagulation treatment .
+    </s>
+    <s id="11" section="conclusion">
+      It may improve the
+      <outcome id="0">time  spent  the  therapeutic  range</outcome>
+      for patients with initially poor control .
+    </s>
+  </ignored>
+</abstract>
+

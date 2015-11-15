@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18765450">
+  <title>
+    <s id="0">Paracetamol plus ibuprofen for the treatment of fever in children (PITCH): randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="2" section="design">Individually randomised , blinded , 3 arm trial .</s>
+    <s id="4" section="participants">Children aged between 6 months and 6 years with axillary temperatures of at least 37.8 degrees C and up to 41.0 degrees C.</s>    
+    <s id="6" section="main outcome measures">Primary outcomes were the time without fever ( &lt;37.2 degrees C ) in the first 4 hours after the first dose was given and the proportion of children reported as being normal on the discomfort scale at 48 hours .</s>
+    <s id="7" section="main outcome measures">Secondary outcomes were time to first occurrence of normal temperature (fever clearance), time without fever over 24 hours, fever associated symptoms, and adverse effects.</s>
+    <s id="8" section="results">On an intention to treat basis , <group id="0" role="experiment">paracetamol plus ibuprofen</group> were superior to <group id="1" role="control">paracetamol</group> for less <outcome id="0" type="bad">time with fever</outcome> in the <time id="0">first 4 hours</time> ( adjusted difference 55 minutes , 95 % confidence interval 33 to 77 ; P &lt; 0.001 ) and may have been as good as <group id="2" role="control">ibuprofen</group> ( 16 minutes , - 7 to 39 ; P = 0.2 ) .</s>
+    <s id="9" section="results">For less <outcome id="0" type="bad">time with fever</outcome> <time id="1">over 24 hours</time>, <group id="0" role="experiment">paracetamol plus ibuprofen</group> were superior to <group id="1" role="control">paracetamol</group> (4.4 hours, 2.4 to 6.3; P&lt;0.001) and to <group id="2" role="control">ibuprofen</group> (2.5 hours, 0.6 to 4.4; P=0.008).</s>
+    <s id="10" section="results"><group id="0" role="experiment">Combined therapy</group> <outcome id="8" type="good">cleared fever</outcome> 23 minutes (2 to 45; P=0.025) faster than <group id="1" role="control">paracetamol alone</group> but no faster than <group id="2" role="control">ibuprofen alone</group> (-3 minutes, 18 to -24; P=0.8).</s>
+    <s id="13" section="conclusion">Parents, nurses, pharmacists, and doctors wanting to use medicines to supplement physical measures to maximise the time that children spend without fever should use <group id="2" role="control">ibuprofen</group> first and consider the relative benefits and risks of using <group id="0" role="experiment"><short>paracetamol plus ibuprofen</short> over 24 hours</group>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To investigate whether paracetamol (acetaminophen) plus ibuprofen are superior to either drug alone for increasing time without fever and the relief of fever associated discomfort in febrile children managed at home. 
+DESIGN: Individually randomised, blinded, three arm trial. 
+SETTING: Primary care and households in England. 
+PARTICIPANTS: Children aged between 6 months and 6 years with axillary temperatures of at least 37.8 degrees C and up to 41.0 degrees C. INTERVENTION: Advice on physical measures to reduce temperature and the provision of, and advice to give, paracetamol plus ibuprofen, paracetamol alone, or ibuprofen alone. 
+MAIN OUTCOME MEASURES: Primary outcomes were the time without fever (&lt;37.2 degrees C) in the first four hours after the first dose was given and the proportion of children reported as being normal on the discomfort scale at 48 hours. 
+Secondary outcomes were time to first occurrence of normal temperature (fever clearance), time without fever over 24 hours, fever associated symptoms, and adverse effects. 
+RESULTS: On an intention to treat basis, paracetamol plus ibuprofen were superior to paracetamol for less time with fever in the first four hours (adjusted difference 55 minutes, 95% confidence interval 33 to 77; P&lt;0.001) and may have been as good as ibuprofen (16 minutes, -7 to 39; P=0.2). 
+For less time with fever over 24 hours, paracetamol plus ibuprofen were superior to paracetamol (4.4 hours, 2.4 to 6.3; P&lt;0.001) and to ibuprofen (2.5 hours, 0.6 to 4.4; P=0.008). 
+Combined therapy cleared fever 23 minutes (2 to 45; P=0.025) faster than paracetamol alone but no faster than ibuprofen alone (-3 minutes, 18 to -24; P=0.8). 
+No benefit was found for discomfort or other symptoms, although power was low for these outcomes. 
+Adverse effects did not differ between groups. 
+CONCLUSION: Parents, nurses, pharmacists, and doctors wanting to use medicines to supplement physical measures to maximise the time that children spend without fever should use ibuprofen first and consider the relative benefits and risks of using paracetamol plus ibuprofen over 24 hours. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN26362730.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To investigate whether paracetamol (acetaminophen) plus ibuprofen are superior to either drug alone for increasing time without fever and the relief of fever associated discomfort in febrile children managed at home.</s>
+    <s id="3" section="setting">Primary care and households in England.</s>
+    <s id="5" section="intervention">: Advice on physical measures to reduce temperature and the provision of, and advice to give, paracetamol plus ibuprofen, paracetamol alone, or ibuprofen alone.</s>    
+    <s id="11" section="results">No benefit was found for discomfort or other symptoms, although power was low for these outcomes.</s>
+    <s id="12" section="results">Adverse effects did not differ between groups.</s>
+    <s id="14" section="trial registration">Current Controlled Trials ISRCTN26362730.</s>
+  </ignored>
+</abstract>
+

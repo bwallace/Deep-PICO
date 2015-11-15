@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16740528">
+  <title>
+    <s id="0" section="title">Pressure relieving support surfaces ( PRESSURE ) trial : cost effectiveness analysis .</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">11 hospitals in 6 UK NHS trusts .</s>
+    <s id="4" section="participants">Intention to treat population comprising 1971 participants .</s>
+    <s id="6" section="results">
+      <group id="0">Alternating  pressure  mattresses</group>
+      were associated with lower
+      <outcome id="1">overall  costs</outcome>
+      ( 283.6 pounds sterling per patient on average , 95 % confidence interval -- 377.59 pounds sterling to 976.79 pounds sterling ) mainly due to
+      <outcome id="2">reduced  length  of  stay  in  hospital</outcome>
+      , and
+      <outcome id="0">greater  benefits</outcome>
+      ( a
+      <outcome id="0">
+        delay  in
+        <short>time  to  ulceration</short>
+      </outcome>
+      of 10.64 days on average , --24.40 to 3.09 ) .
+    </s>
+    <s id="7" section="results">
+      The differences in
+      <outcome id="0">health  benefits</outcome>
+      and
+      <outcome id="1">total  costs</outcome>
+      for hospital stay between
+      <group id="0">alternating  pressure  mattresses</group>
+      and
+      <group id="1">alternating  pressure  overlays</group>
+      were not statistically significant ; however , a
+      <outcome id="3">cost  effectiveness  acceptability  curve</outcome>
+      indicated that on average
+      <group id="0">alternating  pressure  mattresses</group>
+      compared with
+      <group id="1">alternating  pressure  overlays</group>
+      were associated with an 80 % probability of being cost saving .
+    </s>
+  </annotated>
+  <fulltext>Pressure relieving support surfaces ( PRESSURE ) trial : cost effectiveness analysis . To assess the cost effectiveness of alternating pressure mattresses compared with alternating pressure overlays for the prevention of pressure ulcers in patients admitted to hospital . Cost effectiveness analysis carried out alongside the pressure relieving support surfaces ( PRESSURE ) trial ; a multicentre UK based pragmatic randomised controlled trial . 11 hospitals in 6 UK NHS trusts . Intention to treat population comprising 1971 participants . Kaplan Meier estimates of restricted mean time to development of pressure ulcers and total costs for treatment in hospital . Alternating pressure mattresses were associated with lower overall costs ( 283.6 pounds sterling per patient on average , 95 % confidence interval -- 377.59 pounds sterling to 976.79 pounds sterling ) mainly due to reduced length of stay in hospital , and greater benefits ( a delay in time to ulceration of 10.64 days on average , --24.40 to 3.09 ) . The differences in health benefits and total costs for hospital stay between alternating pressure mattresses and alternating pressure overlays were not statistically significant ; however , a cost effectiveness acceptability curve indicated that on average alternating pressure mattresses compared with alternating pressure overlays were associated with an 80 % probability of being cost saving . Alternating pressure mattresses for the prevention of pressure ulcers are more likely to be cost effective and are more acceptable to patients than alternating pressure overlays .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the cost effectiveness of
+      <group id="0">alternating  pressure  mattresses</group>
+      compared with
+      <group id="1">alternating  pressure  overlays</group>
+      for the prevention of pressure ulcers in patients admitted to hospital .
+    </s>
+    <s id="2" section="design">Cost effectiveness analysis carried out alongside the pressure relieving support surfaces ( PRESSURE ) trial ; a multicentre UK based pragmatic randomised controlled trial .</s>
+    <s id="5" section="main_outcome_measures">
+      Kaplan Meier estimates of
+      <outcome id="0">
+        restricted  mean  time  to  development  of
+        <short>pressure  ulcers</short>
+      </outcome>
+      and
+      <outcome id="1">
+        <short>total  costs</short>
+        for  treatment  in  hospital
+      </outcome>
+      .
+    </s>
+    <s id="8" section="conclusion">
+      <group id="0">Alternating  pressure  mattresses</group>
+      for the prevention of pressure ulcers are more likely to be cost effective and are more acceptable to patients than
+      <group id="1">alternating  pressure  overlays</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

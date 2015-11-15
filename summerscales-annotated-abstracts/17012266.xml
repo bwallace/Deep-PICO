@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="17012266">
+  <title>
+    <s id="0" section="title">
+      Mobilisation with
+      <group id="0">movement  and  exercise</group>
+      ,
+      <group id="1">corticosteroid  injection</group>
+      , or
+      <group id="2">wait  and  see</group>
+      for tennis elbow : randomised trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">
+      To investigate the efficacy of
+      <group id="0">physiotherapy</group>
+      compared with a
+      <group id="2">wait  and  see  approach</group>
+      or
+      <group id="1">corticosteroid  injections</group>
+      over 52 weeks in tennis elbow .
+    </s>
+    <s id="4" section="participants">198 participants aged 18 to 65 years with a clinical diagnosis of tennis elbow of a minimum 6 weeks ' duration , who had not received any other active treatment by a health practitioner in the previous 6 months .</s>
+    <s id="5" section="interventions">
+      <group id="0">
+        8  sessions  of
+        <short>physiotherapy</short>
+      </group>
+      ;
+      <group id="1">corticosteroid  injections</group>
+      ; or
+      <group id="2">wait  and  see</group>
+      .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Global  improvement</outcome>
+      ,
+      <outcome id="1">grip  force</outcome>
+      , and
+      <outcome id="2">assessor  's  rating  of  severity</outcome>
+      measured at
+      <time id="0">baseline</time>
+      ,
+      <time id="1">6  weeks</time>
+      , and
+      <time id="2">52  weeks</time>
+      .
+    </s>
+    <s id="7" section="results">
+      <group id="1">Corticosteroid  injection</group>
+      showed significantly better effects at
+      <time id="1">6  weeks</time>
+      but with high
+      <outcome id="3">recurrence  rates</outcome>
+      thereafter ( 47 / 65 of successes subsequently regressed ) and significantly poorer outcomes in the long term compared with
+      <group id="0">physiotherapy</group>
+      .
+    </s>
+    <s id="8" section="results">
+      <group id="0">Physiotherapy</group>
+      was superior to
+      <group id="2">wait  and  see</group>
+      in the short term ; no difference was seen at
+      <time id="2">52  weeks</time>
+      , when most participants in both groups reported a successful outcome .
+    </s>
+    <s id="10" section="conclusion">
+      <group id="0">
+        <short>Physiotherapy</short>
+        combining  elbow  manipulation  and  exercise
+      </group>
+      has a superior benefit to
+      <group id="2">wait  and  see</group>
+      in
+      <time id="1">the  first  6  weeks</time>
+      and to
+      <group id="1">corticosteroid  injections</group>
+      after
+      <time id="1">6  weeks</time>
+      , providing a reasonable alternative to injections in the mid to long term .
+    </s>
+    <s id="11" section="conclusion">
+      The significant short term benefits of
+      <group id="1">corticosteroid  injection</group>
+      are paradoxically reversed after
+      <time id="0">6  weeks</time>
+      , with high
+      <outcome id="3">recurrence  rates</outcome>
+      , implying that this treatment should be used with caution in the management of tennis elbow .
+    </s>
+  </annotated>
+  <fulltext>Mobilisation with movement and exercise , corticosteroid injection , or wait and see for tennis elbow : randomised trial . To investigate the efficacy of physiotherapy compared with a wait and see approach or corticosteroid injections over 52 weeks in tennis elbow . Single blind randomised controlled trial . Community setting , Brisbane , Australia . 198 participants aged 18 to 65 years with a clinical diagnosis of tennis elbow of a minimum 6 weeks ' duration , who had not received any other active treatment by a health practitioner in the previous 6 months . 8 sessions of physiotherapy ; corticosteroid injections ; or wait and see . Global improvement , grip force , and assessor 's rating of severity measured at baseline , 6 weeks , and 52 weeks . Corticosteroid injection showed significantly better effects at 6 weeks but with high recurrence rates thereafter ( 47 / 65 of successes subsequently regressed ) and significantly poorer outcomes in the long term compared with physiotherapy . Physiotherapy was superior to wait and see in the short term ; no difference was seen at 52 weeks , when most participants in both groups reported a successful outcome . Participants who had physiotherapy sought less additional treatment , such as non - steroidal anti - inflammatory drugs , than did participants who had wait and see or injections . Physiotherapy combining elbow manipulation and exercise has a superior benefit to wait and see in the first 6 weeks and to corticosteroid injections after 6 weeks , providing a reasonable alternative to injections in the mid to long term . The significant short term benefits of corticosteroid injection are paradoxically reversed after 6 weeks , with high recurrence rates , implying that this treatment should be used with caution in the management of tennis elbow .</fulltext>
+  <ignored>
+    <s id="2" section="design">Single blind randomised controlled trial .</s>
+    <s id="3" section="setting">Community setting , Brisbane , Australia .</s>
+    <s id="9" section="results">
+      <group id="0">Participants  who  had  physiotherapy</group>
+      sought less additional treatment , such as non - steroidal anti - inflammatory drugs , than did
+      <group id="2">participants  who  had  wait  and  see</group>
+      or
+      <group id="1">injections</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16195288">
+  <title>
+    <s id="0" section="title">
+      Cluster randomised trial of
+      <group id="0">intermittent  preventive  treatment</group>
+      for
+      <outcome id="0">malaria</outcome>
+      in infants in area of high , seasonal transmission in Ghana .
+    </s>
+  </title>
+  <annotated>
+    <s id="2" section="design">
+      Cluster randomised placebo controlled trial , with 96 clusters allocated randomly to
+      <group id="0">sulfadoxine  -pyrimethamine</group>
+      or
+      <group id="1">placebo</group>
+      in blocks of 8 .
+    </s>
+    <s id="3" section="interventions">
+      Children received
+      <group id="0">sulfadoxine  -pyrimethamine</group>
+      or
+      <group id="1">placebo</group>
+      and 1 month of iron supplementation when they received DPT-2 , DPT-3 , or measles vaccinations and at 12 months of age .
+    </s>
+    <s id="5" section="results">
+      89 % ( 1103 /
+      <gs group="1">1242</gs>
+      ) of children in the
+      <group id="1">placebo  group</group>
+      and 88 % ( 1088 /
+      <gs group="0">1243</gs>
+      ) in the
+      <group id="0">IPTi  group</group>
+      completed follow - up to
+      <time id="0">24  months</time>
+      of age .
+    </s>
+    <s id="6" section="results">
+      The protective efficacy of
+      <group id="0">IPTi</group>
+      against
+      <outcome id="0">
+        all  episodes  of
+        <short>malaria</short>
+      </outcome>
+      was 24.8 % ( 95 % confidence interval 14.3 % to 34.0 % ) up to
+      <time id="2">15  months</time>
+      of age .
+    </s>
+    <s id="7" section="results">
+      <group id="0">IPTi</group>
+      had no protective effect against
+      <outcome id="0">malaria</outcome>
+      between
+      <time id="1">16</time>
+      and
+      <time id="0">24  months</time>
+      of age ( protective efficacy - 4.9 % , - 21.3 % to 9.3 % ) .
+    </s>
+    <s id="8" section="results">
+      The
+      <outcome id="0">
+        incidence  of  high  parasite  density
+        <short>malaria</short>
+      </outcome>
+      ( &gt; or = 5000 parasites / mul) was higher in the
+      <group id="0">IPTi  group</group>
+      than in the
+      <group id="1">placebo  group</group>
+      between
+      <time id="1">16</time>
+      and
+      <time id="0">24  months</time>
+      of age ( protective efficacy - 19.5 % , - 39.8 % to - 2.2 % ) .
+    </s>
+    <s id="9" section="results">
+      <group id="0">IPTi</group>
+      reduced
+      <outcome id="1">
+        hospital  admissions  with
+        <short>anaemia</short>
+      </outcome>
+      by 35.1 % ( 10.5 % to 52.9 % ) up to
+      <time id="2">15  months</time>
+      of age .
+    </s>
+    <s id="10" section="results">
+      <group id="0">IPTi</group>
+      had no significant effect on
+      <outcome id="1">anaemia</outcome>
+      between
+      <time id="1">16</time>
+      and
+      <time id="0">24  months</time>
+      of age ( protective efficacy - 6.4 % , - 76.8 % to 35.9 % ) .
+    </s>
+    <s id="11" section="results">
+      The
+      <outcome id="2">relative  risk  of  death</outcome>
+      up to
+      <time id="2">15  months</time>
+      of age in the
+      <group id="0">IPTi  group</group>
+      was 1.26 ( 95 % confidence interval 0.81 to 1.96 ; P = 0.31 ) , and from
+      <time id="1">16</time>
+      to
+      <time id="0">24  months</time>
+      it was 1.28 ( 0.77 to 2.14 ; P = 0.35 ) .
+    </s>
+  </annotated>
+  <fulltext>Cluster randomised trial of intermittent preventive treatment for malaria in infants in area of high , seasonal transmission in Ghana . To evaluate the effects of intermittent preventive treatment for malaria in infants ( IPTi ) with sulfadoxine -pyrimethamine in an area of intense , seasonal transmission . Cluster randomised placebo controlled trial , with 96 clusters allocated randomly to sulfadoxine -pyrimethamine or placebo in blocks of 8 . Children received sulfadoxine -pyrimethamine or placebo and 1 month of iron supplementation when they received DPT-2 , DPT-3 , or measles vaccinations and at 12 months of age . Incidence of malaria and of anaemia determined through passive case detection . 89 % ( 1103 / 1242 ) of children in the placebo group and 88 % ( 1088 / 1243 ) in the IPTi group completed follow - up to 24 months of age . The protective efficacy of IPTi against all episodes of malaria was 24.8 % ( 95 % confidence interval 14.3 % to 34.0 % ) up to 15 months of age . IPTi had no protective effect against malaria between 16 and 24 months of age ( protective efficacy - 4.9 % , - 21.3 % to 9.3 % ) . The incidence of high parasite density malaria ( &gt; or = 5000 parasites / mul) was higher in the IPTi group than in the placebo group between 16 and 24 months of age ( protective efficacy - 19.5 % , - 39.8 % to - 2.2 % ) . IPTi reduced hospital admissions with anaemia by 35.1 % ( 10.5 % to 52.9 % ) up to 15 months of age . IPTi had no significant effect on anaemia between 16 and 24 months of age ( protective efficacy - 6.4 % , - 76.8 % to 35.9 % ) . The relative risk of death up to 15 months of age in the IPTi group was 1.26 ( 95 % confidence interval 0.81 to 1.96 ; P = 0.31 ) , and from 16 to 24 months it was 1.28 ( 0.77 to 2.14 ; P = 0.35 ) . Intermittent preventive treatment for malaria with sulfadoxine -pyrimethamine can reduce malaria and anaemia in infants even in seasonal , high transmission areas , but concern exists about possible rebound in the incidence of malaria in the second year of life .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effects of
+      <group id="0">
+        intermittent  preventive  treatment  for  malaria  in  infants  (  IPTi  )  with
+        <short>sulfadoxine  -pyrimethamine</short>
+      </group>
+      in an area of intense , seasonal transmission .
+    </s>
+    <s id="4" section="main_outcome_measures">
+      <outcome id="0">
+        Incidence  of
+        <short>malaria</short>
+      </outcome>
+      and of
+      <outcome id="1">anaemia</outcome>
+      determined through passive case detection .
+    </s>
+    <s id="12" section="conclusions">
+      <group id="0">
+        Intermittent  preventive  treatment  for  malaria  with
+        <short>sulfadoxine  -pyrimethamine</short>
+      </group>
+      can reduce
+      <outcome id="0">malaria</outcome>
+      and
+      <outcome id="1">anaemia</outcome>
+      in infants even in seasonal , high transmission areas , but concern exists about possible rebound in the
+      <outcome id="0">
+        incidence  of
+        <short>malaria</short>
+      </outcome>
+      in the second year of life .
+    </s>
+  </ignored>
+</abstract>
+

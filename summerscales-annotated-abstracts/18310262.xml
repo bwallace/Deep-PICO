@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18310262">
+  <title>
+    <s id="0">Helicobacter pylori test and treat versus proton pump inhibitor in initial management of dyspepsia in primary care: multicentre randomised controlled trial (MRC-CUBE trial).</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">80 general practices in the United Kingdom.</s>
+    <s id="4" section="participants">699 patients aged 18-65 who presented to their general practitioner with epigastric pain, heartburn, or both without "alarm symptoms" for malignancy.</s>
+    <s id="5" section="intervention">H pylori 13C urea breath test plus 1 week of eradication treatment if positive or proton pump inhibitor alone ; subsequent management at general practitioner 's discretion .</s>
+    <s id="6" section="main outcome measures"><outcome id="0" type="good"><short>Cost effectiveness</short> in cost per quality adjusted life year ( QALY ) ( EQ-5D )</outcome> and <outcome id="1" type="good">effect on dyspeptic symptoms</outcome> at <time id="0">1 year</time> measured with short form Leeds dyspepsia questionnaire .</s>
+    <s id="7" section="results">343 patients were randomised to testing for H pylori, and 100 were positive.</s>
+    <s id="8" section="results">The successful <outcome id="2" type="good">eradication rate</outcome> was 78%.</s>
+    <s id="9" section="results">356 patients received proton pump inhibitor for 28 days.</s>
+    <s id="10" section="results">At <time id="0">12 months</time> no significant differences existed between the 2 groups in <outcome id="0" type="bad">QALYs</outcome> , costs , or <outcome id="1" type="good">dyspeptic symptoms</outcome>.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine the cost effectiveness of Helicobacter pylori "test and treat" compared with empirical acid suppression in the initial management of patients with dyspepsia in primary care. 
+DESIGN: Randomised controlled trial. 
+SETTING: 80 general practices in the United Kingdom. 
+PARTICIPANTS: 699 patients aged 18-65 who presented to their general practitioner with epigastric pain, heartburn, or both without "alarm symptoms" for malignancy. 
+INTERVENTION: H pylori 13C urea breath test plus one week of eradication treatment if positive or proton pump inhibitor alone; subsequent management at general practitioner's discretion. 
+MAIN OUTCOME MEASURES: Cost effectiveness in cost per quality adjusted life year (QALY) (EQ-5D) and effect on dyspeptic symptoms at one year measured with short form Leeds dyspepsia questionnaire. 
+RESULTS: 343 patients were randomised to testing for H pylori, and 100 were positive. 
+The successful eradication rate was 78%. 
+356 patients received proton pump inhibitor for 28 days. 
+At 12 months no significant differences existed between the two groups in QALYs, costs, or dyspeptic symptoms. 
+Minor reductions in costly resource use over the year in the test and treat group "paid back" the initial cost of the intervention. 
+CONCLUSIONS: Test and treat and acid suppression are equally cost effective in the initial management of dyspepsia. 
+Empirical acid suppression is an appropriate initial strategy. 
+As costs are similar overall, general practitioners should discuss with patients at which point to consider H pylori testing. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN87644265.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine the cost effectiveness of Helicobacter pylori "test and treat" compared with empirical acid suppression in the initial management of patients with dyspepsia in primary care.</s>
+    <s id="2" section="design">Randomised controlled trial.</s>
+    <s id="11" section="results">Minor reductions in costly resource use over the year in the test and treat group "paid back" the initial cost of the intervention.</s>
+    <s id="12" section="conclusions">Test and treat and acid suppression are equally cost effective in the initial management of dyspepsia.</s>
+    <s id="13" section="conclusions">Empirical acid suppression is an appropriate initial strategy.</s>
+    <s id="14" section="conclusions">As costs are similar overall, general practitioners should discuss with patients at which point to consider H pylori testing.</s>
+    <s id="15" section="trial registration">Current Controlled Trials ISRCTN87644265.</s>
+  </ignored>
+</abstract>
+

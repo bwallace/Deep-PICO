@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16520326">
+  <title>
+    <s id="0" section="title">Are some people sensitive to mobile phone signals ?</s>
+    <s id="1" section="title">Within participants double blind randomised provocation study .</s>
+  </title>
+  <annotated>
+    <s id="4" section="setting">Dedicated suite of offices at King 's College London , between September 2003 and June 2005 .</s>
+    <s id="5" section="participants">60 " sensitive " people who reported often getting headache - like symptoms within 20 minutes of using a global system for mobile communication ( GSM ) mobile phone and 60 " control " participants who did not report any such symptoms .</s>
+    <s id="6" section="intervention">
+      Participants were exposed to 3 conditions : a
+      <group id="0">
+        900  MHz  GSM
+        <short>mobile  phone  signal</short>
+      </group>
+      , a
+      <group id="2">non  -  pulsing  carrier  wave  signal</group>
+      , and a
+      <group id="1">sham  condition  with  no  signal  present</group>
+      .
+    </s>
+    <s id="7" section="intervention">Each exposure lasted for 50 minutes .</s>
+    <s id="8" section="main_outcome_measures">
+      The principal outcome measure was
+      <outcome id="0">
+        <short>headache  severity</short>
+        assessed  with  a  0-  100  visual  analogue  scale
+      </outcome>
+      .
+    </s>
+    <s id="9" section="main_outcome_measures">
+      Other outcomes included
+      <outcome id="1">6  other  subjective  symptoms</outcome>
+      and
+      <outcome id="2">participants  '  ability  to  judge  whether  a  signal  was  present</outcome>
+      .
+    </s>
+    <s id="12" section="results">Nor did evidence of any differential effect of condition between the 2 groups exist .</s>
+    <s id="13" section="results">
+      The
+      <outcome id="2">proportion  of  sensitive  participants  who  believed  a  signal  was  present</outcome>
+      during
+      <group id="0">GSM  exposure</group>
+      ( 60 % ) was similar to the
+      <outcome id="2">proportion  who  believed  1  was  present</outcome>
+      during
+      <group id="1">sham  exposure</group>
+      ( 63 % ) .
+    </s>
+  </annotated>
+  <fulltext>Are some people sensitive to mobile phone signals ? Within participants double blind randomised provocation study . To test whether people who report being sensitive to mobile phone signals have more symptoms when exposed to a pulsing mobile signal than when exposed to a sham signal or a non - pulsing signal . Double blind , randomised , within participants provocation study . Dedicated suite of offices at King 's College London , between September 2003 and June 2005 . 60 " sensitive " people who reported often getting headache - like symptoms within 20 minutes of using a global system for mobile communication ( GSM ) mobile phone and 60 " control " participants who did not report any such symptoms . Participants were exposed to 3 conditions : a 900 MHz GSM mobile phone signal , a non - pulsing carrier wave signal , and a sham condition with no signal present . Each exposure lasted for 50 minutes . The principal outcome measure was headache severity assessed with a 0- 100 visual analogue scale . Other outcomes included 6 other subjective symptoms and participants ' ability to judge whether a signal was present . Headache severity increased during exposure and decreased immediately afterwards . However , no strong evidence was found of any difference between the conditions in terms of symptom severity . Nor did evidence of any differential effect of condition between the 2 groups exist . The proportion of sensitive participants who believed a signal was present during GSM exposure ( 60 % ) was similar to the proportion who believed 1 was present during sham exposure ( 63 % ) . No evidence was found to indicate that people with self reported sensitivity to mobile phone signals are able to detect such signals or that they react to them with increased symptom severity . As sham exposure was sufficient to trigger severe symptoms in some participants , psychological factors may have an important role in causing this condition . ISRCTN81432775 .</fulltext>
+  <ignored>
+    <s id="2" section="objective">
+      To test whether people who report being sensitive to mobile phone signals have more symptoms when exposed to a
+      <group id="0">pulsing  mobile  signal</group>
+      than when exposed to a
+      <group id="1">sham  signal</group>
+      or a
+      <group id="2">non  -  pulsing  signal</group>
+      .
+    </s>
+    <s id="3" section="design">Double blind , randomised , within participants provocation study .</s>
+    <s id="10" section="results">
+      <outcome id="0">Headache  severity</outcome>
+      increased
+      <time id="0">during  exposure</time>
+      and decreased
+      <time id="1">immediately  afterwards</time>
+      .
+    </s>
+    <s id="11" section="results">
+      However , no strong evidence was found of any difference between the conditions in terms of
+      <outcome id="0">symptom  severity</outcome>
+      .
+    </s>
+    <s id="14" section="conclusions">No evidence was found to indicate that people with self reported sensitivity to mobile phone signals are able to detect such signals or that they react to them with increased symptom severity .</s>
+    <s id="15" section="conclusions">
+      As
+      <group id="1">sham  exposure</group>
+      was sufficient to trigger
+      <outcome id="0">severe  symptoms</outcome>
+      in some participants , psychological factors may have an important role in causing this condition .
+    </s>
+    <s id="16" section="trial_registration">ISRCTN81432775 .</s>
+  </ignored>
+</abstract>
+

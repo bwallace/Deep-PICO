@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16093252">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Cognitive  behaviour  therapy</group>
+      in addition to
+      <group id="1">antispasmodic  treatment</group>
+      for irritable bowel syndrome in primary care : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">10 general practices in London .</s>
+    <s id="4" section="participants">
+      <ps>149</ps>
+      patients with moderate or severe irritable bowel syndrome resistant to the antispasmodic mebeverine .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        <short>Cognitive  behaviour  therapy</short>
+        delivered  by  trained  primary  care  nurses  plus  270  mg  mebeverine  taken  thrice  daily
+      </group>
+      compared with
+      <group id="1">mebeverine  treatment  alone</group>
+      .
+    </s>
+    <s id="8" section="results">
+      Of 334 referred patients ,
+      <gs group="0">72</gs>
+      were randomised to
+      <group id="0">
+        mebeverine  plus
+        <short>cognitive  behaviour  therapy</short>
+      </group>
+      and
+      <gs group="1">77</gs>
+      to
+      <group id="1">mebeverine  alone</group>
+      .
+    </s>
+    <s id="9" section="results">
+      <group id="0">Cognitive  behaviour  therapy</group>
+      had considerable initial benefit on
+      <outcome id="0">symptom  severity</outcome>
+      compared with
+      <group id="1">mebeverine  alone</group>
+      , with a mean reduction in score of 68 points ( 95 % confidence interval 103 to 33 ) , with the benefit persisting at
+      <time id="0">3  months</time>
+      and
+      <time id="1">6  months  after  therapy</time>
+      ( mean reductions 71 points ( 109 to 32 ) and 11 points ( 20 to 3) ) but not later .
+    </s>
+    <s id="10" section="results">
+      <group id="0">Cognitive  behaviour  therapy</group>
+      also showed significant benefit on the
+      <outcome id="1">work  and  social  adjustment  scale</outcome>
+      that was still present
+      <time id="2">12  months  after  therapy</time>
+      ( mean reduction 2.8 points ( 5.2 to 0.4 ) ) , but had an inconsistent effect on the
+      <outcome id="2">hospital  anxiety  and  depression  scale</outcome>
+      .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">
+        <short>Cognitive  behaviour  therapy</short>
+        delivered  by  primary  care  nurses
+      </group>
+      offered additional benefit over
+      <group id="1">mebeverine  alone</group>
+      up to
+      <time id="1">6  months</time>
+      , although the effect had waned by
+      <time id="3">12  months</time>
+      .
+    </s>
+  </annotated>
+  <fulltext>Cognitive behaviour therapy in addition to antispasmodic treatment for irritable bowel syndrome in primary care : randomised controlled trial . To assess the efficacy of cognitive behaviour therapy delivered in primary care for treating irritable bowel syndrome . Randomised controlled trial . 10 general practices in London . 149 patients with moderate or severe irritable bowel syndrome resistant to the antispasmodic mebeverine . Cognitive behaviour therapy delivered by trained primary care nurses plus 270 mg mebeverine taken thrice daily compared with mebeverine treatment alone . Primary measures were patients ' scores on the irritable bowel syndrome symptom severity scale . Secondary measures were scores on the work and social adjustment scale and the hospital anxiety and depression scale . Of 334 referred patients , 72 were randomised to mebeverine plus cognitive behaviour therapy and 77 to mebeverine alone . Cognitive behaviour therapy had considerable initial benefit on symptom severity compared with mebeverine alone , with a mean reduction in score of 68 points ( 95 % confidence interval 103 to 33 ) , with the benefit persisting at 3 months and 6 months after therapy ( mean reductions 71 points ( 109 to 32 ) and 11 points ( 20 to 3) ) but not later . Cognitive behaviour therapy also showed significant benefit on the work and social adjustment scale that was still present 12 months after therapy ( mean reduction 2.8 points ( 5.2 to 0.4 ) ) , but had an inconsistent effect on the hospital anxiety and depression scale . Cognitive behaviour therapy delivered by primary care nurses offered additional benefit over mebeverine alone up to 6 months , although the effect had waned by 12 months . Such therapy may be useful for certain patients with irritable bowel syndrome in primary care .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the efficacy of
+      <group id="0">cognitive  behaviour  therapy</group>
+      delivered in primary care for treating irritable bowel syndrome .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="6" section="main_outcome_measures">
+      Primary measures were
+      <outcome id="0">
+        patients  '  scores  on  the  irritable  bowel  syndrome
+        <short>symptom  severity</short>
+        scale
+      </outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Secondary measures were
+      <outcome id="1">
+        scores  on  the
+        <short>work  and  social  adjustment  scale</short>
+      </outcome>
+      and the
+      <outcome id="2">hospital  anxiety  and  depression  scale</outcome>
+      .
+    </s>
+    <s id="12" section="conclusion">Such therapy may be useful for certain patients with irritable bowel syndrome in primary care .</s>
+  </ignored>
+</abstract>
+

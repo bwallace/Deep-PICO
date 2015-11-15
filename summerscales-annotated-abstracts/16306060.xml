@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16306060">
+  <title>
+    <s id="0" section="title">
+      Randomised study of effect of
+      <group id="0">different  doses  of  vitamin  A</group>
+      on
+      <outcome id="1">childhood  morbidity</outcome>
+      and
+      <outcome id="0">mortality</outcome>
+      .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>4983</ps>
+      children aged 6 months to 5 years .
+    </s>
+    <s id="5" section="interventions">
+      1 of 2 doses of vitamin A (
+      <group id="1">recommended</group>
+      and
+      <group id="0">half</group>
+      ) ; oral polio vaccine .
+    </s>
+    <s id="6" section="main_outcome_measures">
+      <outcome id="0">Mortality</outcome>
+      and
+      <outcome id="1">morbidity</outcome>
+      at
+      <time id="0">6</time>
+      and
+      <time id="1">9  months</time>
+      .
+    </s>
+    <s id="7" section="results">
+      <outcome id="0">Mortality</outcome>
+      was lower in the
+      <group id="0">children  who  took  half  the  recommended  dose  of  vitamin  A</group>
+      compared with the
+      <group id="1">full  dose</group>
+      at both
+      <time id="0">6  months</time>
+      ( mortality rate ratio 0.69 , 95 % confidence interval 0.36 to 1.35 ) and
+      <time id="1">9  months</time>
+      ( 0.62 , 0.36 to 1.06 ) of follow - up .
+    </s>
+  </annotated>
+  <fulltext>Randomised study of effect of different doses of vitamin A on childhood morbidity and mortality . To determine whether the dose of vitamin A currently recommended by the World Health Organization or half this dose gives better protection against childhood morbidity and mortality . Randomised study . A combined oral polio vaccine and vitamin A supplementation campaign in Guinea-Bissau , Africa . 4983 children aged 6 months to 5 years . 1 of 2 doses of vitamin A ( recommended and half ) ; oral polio vaccine . Mortality and morbidity at 6 and 9 months . Mortality was lower in the children who took half the recommended dose of vitamin A compared with the full dose at both 6 months ( mortality rate ratio 0.69 , 95 % confidence interval 0.36 to 1.35 ) and 9 months ( 0.62 , 0.36 to 1.06 ) of follow - up . There was a significant interaction between sex and dose , the lower dose being associated with significantly reduced mortality in girls ( 0.19 , 0.06 to 0.66 ) but not in boys ( 1.98 , 0.74 to 5.29 ) . The lower dose of vitamin A was consistently associated with lower hospital case fatality in girls ( 0.19 , 0.02 to 1.45 ) . Paradoxically , in children aged 6-18 months , the low dose was associated with slightly higher morbidity . Half the dose of vitamin A currently recommended by WHO may provide equally good or better protection against mortality but not against morbidity .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To determine whether the
+      <group id="1">dose  of  vitamin  A  currently  recommended  by  the  World  Health  Organization</group>
+      or
+      <group id="0">half  this  dose</group>
+      gives better protection against
+      <outcome id="1">childhood  morbidity</outcome>
+      and
+      <outcome id="0">mortality</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised study .</s>
+    <s id="3" section="setting">A combined oral polio vaccine and vitamin A supplementation campaign in Guinea-Bissau , Africa .</s>
+    <s id="8" section="results">
+      There was a significant interaction between sex and dose , the
+      <group id="0">lower  dose</group>
+      being associated with significantly reduced
+      <outcome id="0">mortality</outcome>
+      in girls ( 0.19 , 0.06 to 0.66 ) but not in boys ( 1.98 , 0.74 to 5.29 ) .
+    </s>
+    <s id="9" section="results">
+      The
+      <group id="0">lower  dose  of  vitamin  A</group>
+      was consistently associated with lower
+      <outcome id="3">hospital  case  fatality</outcome>
+      in girls ( 0.19 , 0.02 to 1.45 ) .
+    </s>
+    <s id="10" section="results">
+      Paradoxically , in children aged 6-18 months , the
+      <group id="0">low  dose  was  associated</group>
+      with slightly higher
+      <outcome id="1">morbidity</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">Half  the  dose  of  vitamin  A  currently  recommended  by  WHO</group>
+      may provide equally good or better protection against
+      <outcome id="0">mortality</outcome>
+      but not against
+      <outcome id="1">morbidity</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

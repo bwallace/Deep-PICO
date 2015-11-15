@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16679331">
+  <title>
+    <s id="0" section="title">
+      Effect of
+      <group id="0">family  style  mealtimes</group>
+      on
+      <outcome id="0">quality  of  life</outcome>
+      ,
+      <outcome id="1">physical  performance</outcome>
+      , and
+      <outcome id="2">body  weight</outcome>
+      of nursing home residents : cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">5 Dutch nursing homes .</s>
+    <s id="4" section="participants">
+      <ps>178</ps>
+      residents ( mean age 77 years ) .
+    </s>
+    <s id="5" section="participants">
+      2 wards in each home were randomised to
+      <group id="0">intervention</group>
+      (
+      <gs group="0">95</gs>
+      participants ) or
+      <group id="1">control</group>
+      groups (
+      <gs group="1">83</gs>
+      ) .
+    </s>
+    <s id="6" section="intervention">
+      During 6 months the
+      <group id="0">intervention  group  took  their  meals  family  style</group>
+      and the
+      <group id="1">control  group</group>
+      received the
+      <group id="1">usual  individual  pre  -  plated  service</group>
+      .
+    </s>
+    <s id="8" section="results">
+      The difference in change between the groups was significant for
+      <outcome id="0">overall  quality  of  life</outcome>
+      ( 6.1 units , 95 % confidence interval 2.1 to 10.3 ) ,
+      <outcome id="1">fine  motor  function</outcome>
+      ( 1.8 units , 0.6 to 3.0 ) , and
+      <outcome id="2">body  weight</outcome>
+      ( 1.5 kg , 0.6 to 2.4 ) .
+    </s>
+  </annotated>
+  <fulltext>Effect of family style mealtimes on quality of life , physical performance , and body weight of nursing home residents : cluster randomised controlled trial . To assess the effect of family style mealtimes on quality of life , physical performance , and body weight of nursing home residents without dementia . Cluster randomised trial . 5 Dutch nursing homes . 178 residents ( mean age 77 years ) . 2 wards in each home were randomised to intervention ( 95 participants ) or control groups ( 83 ) . During 6 months the intervention group took their meals family style and the control group received the usual individual pre - plated service . Quality of life ( perceived safety ; autonomy ; and sensory , physical , and psychosocial functioning ) , gross and fine motor function , and body weight . The difference in change between the groups was significant for overall quality of life ( 6.1 units , 95 % confidence interval 2.1 to 10.3 ) , fine motor function ( 1.8 units , 0.6 to 3.0 ) , and body weight ( 1.5 kg , 0.6 to 2.4 ) . Family style mealtimes maintain quality of life , physical performance , and body weight of nursing home residents without dementia . Clinical trials NCT00114582 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To assess the effect of
+      <group id="0">family  style  mealtimes</group>
+      on
+      <outcome id="0">quality  of  life</outcome>
+      ,
+      <outcome id="1">physical  performance</outcome>
+      , and
+      <outcome id="2">body  weight</outcome>
+      of nursing home residents without dementia .
+    </s>
+    <s id="2" section="design">Cluster randomised trial .</s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">
+        <short>Quality  of  life</short>
+        (  perceived  safety  ;  autonomy  ;  and  sensory  ,  physical  ,  and  psychosocial  functioning  )
+      </outcome>
+      ,
+      <outcome id="1">gross  and  fine  motor  function</outcome>
+      , and
+      <outcome id="2">body  weight</outcome>
+      .
+    </s>
+    <s id="9" section="conclusion">
+      <group id="0">Family  style  mealtimes</group>
+      maintain
+      <outcome id="0">quality  of  life</outcome>
+      ,
+      <outcome id="1">physical  performance</outcome>
+      , and
+      <outcome id="2">body  weight</outcome>
+      of nursing home residents without dementia .
+    </s>
+    <s id="10" section="trial_registration">Clinical trials NCT00114582 .</s>
+  </ignored>
+</abstract>
+

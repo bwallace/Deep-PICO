@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15911537">
+  <title>
+    <s id="0" section="title">
+      Randomised controlled trial to compare
+      <group id="0">
+        <short>surgical  stabilisation</short>
+        of  the  lumbar  spine
+      </group>
+      with an
+      <group id="1">
+        intensive
+        <short>rehabilitation  programme</short>
+      </group>
+      for patients with chronic low back pain : the MRC spine stabilisation trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">15 secondary care orthopaedic and rehabilitation centres across the United Kingdom .</s>
+    <s id="4" section="participants">
+      <ps>349</ps>
+      participants aged 18 - 55 with chronic low back pain of at least 1 year 's duration who were considered candidates for spinal fusion .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      The primary outcomes were the
+      <outcome id="0">Oswestry  disability  index</outcome>
+      and the
+      <outcome id="1">shuttle  walking  test</outcome>
+      measured at
+      <time id="0">baseline</time>
+      and
+      <time id="1">2  years</time>
+      after randomisation .
+    </s>
+    <s id="8" section="results">
+      <gs group="0">176</gs>
+      participants were assigned to
+      <group id="0">surgery</group>
+      and
+      <gs group="1">173</gs>
+      to
+      <group id="1">rehabilitation</group>
+      .
+    </s>
+    <s id="9" section="results">
+      284 ( 81 % ) provided follow - up data at
+      <time id="1">24  months</time>
+      .
+    </s>
+    <s id="11" section="results">
+      The estimated mean difference between the groups was - 4.1 ( 95 % confidence interval - 8.1 to - 0.1 , P = 0.045 ) in favour of
+      <group id="0">surgery</group>
+      .
+    </s>
+    <s id="13" section="conclusions">
+      Both groups reported reductions in
+      <outcome id="0">disability</outcome>
+      during
+      <time id="1">2  years</time>
+      of follow - up , possibly unrelated to the interventions .
+    </s>
+    <s id="14" section="conclusions">The statistical difference between treatment groups in 1 of the 2 primary outcome measures was marginal and only just reached the predefined minimal clinical difference , and the potential risk and additional cost of surgery also need to be considered .</s>
+  </annotated>
+  <fulltext>Randomised controlled trial to compare surgical stabilisation of the lumbar spine with an intensive rehabilitation programme for patients with chronic low back pain : the MRC spine stabilisation trial . To assess the clinical effectiveness of surgical stabilisation ( spinal fusion ) compared with intensive rehabilitation for patients with chronic low back pain . Multicentre randomised controlled trial . 15 secondary care orthopaedic and rehabilitation centres across the United Kingdom . 349 participants aged 18 - 55 with chronic low back pain of at least 1 year 's duration who were considered candidates for spinal fusion . Lumbar spine fusion or an intensive rehabilitation programme based on principles of cognitive behaviour therapy . The primary outcomes were the Oswestry disability index and the shuttle walking test measured at baseline and 2 years after randomisation . The SF-36 instrument was used as a secondary outcome measure . 176 participants were assigned to surgery and 173 to rehabilitation . 284 ( 81 % ) provided follow - up data at 24 months . The mean Oswestry disability index changed favourably from 46.5 ( SD 14.6 ) to 34.0 ( SD 21.1 ) in the surgery group and from 44.8 ( SD14.8 ) to 36.1 ( SD 20.6 ) in the rehabilitation group . The estimated mean difference between the groups was - 4.1 ( 95 % confidence interval - 8.1 to - 0.1 , P = 0.045 ) in favour of surgery . No significant differences between the treatment groups were observed in the shuttle walking test or any of the other outcome measures . Both groups reported reductions in disability during 2 years of follow - up , possibly unrelated to the interventions . The statistical difference between treatment groups in 1 of the 2 primary outcome measures was marginal and only just reached the predefined minimal clinical difference , and the potential risk and additional cost of surgery also need to be considered . No clear evidence emerged that primary spinal fusion surgery was any more beneficial than intensive rehabilitation .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To assess the clinical effectiveness of
+      <group id="0">
+        <short>surgical  stabilisation</short>
+        (  spinal  fusion  )
+      </group>
+      compared with
+      <group id="1">intensive  rehabilitation</group>
+      for patients with chronic low back pain .
+    </s>
+    <s id="2" section="design">Multicentre randomised controlled trial .</s>
+    <s id="5" section="intervention">
+      <group id="0">Lumbar  spine  fusion</group>
+      or an
+      <group id="1">
+        intensive
+        <short>rehabilitation  programme</short>
+        based  on  principles  of  cognitive  behaviour  therapy
+      </group>
+      .
+    </s>
+    <s id="7" section="main_outcome_measure">The SF-36 instrument was used as a secondary outcome measure .</s>
+    <s id="10" section="results">
+      The
+      <outcome id="0">mean  Oswestry  disability  index</outcome>
+      changed favourably from 46.5 ( SD 14.6 ) to 34.0 ( SD 21.1 ) in the
+      <group id="0">surgery  group</group>
+      and from 44.8 ( SD14.8 ) to 36.1 ( SD 20.6 ) in the
+      <group id="1">rehabilitation  group</group>
+      .
+    </s>
+    <s id="12" section="results">
+      No significant differences between the treatment groups were observed in the
+      <outcome id="1">shuttle  walking  test</outcome>
+      or any of the
+      <outcome id="2">other  outcome  measures</outcome>
+      .
+    </s>
+    <s id="15" section="conclusions">
+      No clear evidence emerged that
+      <group id="0">primary  spinal  fusion  surgery</group>
+      was any more beneficial than
+      <group id="1">intensive  rehabilitation</group>
+      .
+    </s>
+  </ignored>
+</abstract>
+

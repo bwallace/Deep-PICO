@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19815583">
+  <title>
+    <s id="0">Effect of "collaborative requesting" on consent rate for organ donation: randomised controlled trial (ACRE trial).</s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">79 general, neuroscience, and paediatric intensive care units in the United Kingdom.</s>
+    <s id="4" section="participants">201 relatives of patients meeting criteria for brain stem death.</s>
+    <s id="8" section="results"><gs group="0">101</gs> relatives were randomised to <group id="0" role="control">routine requesting</group> and <gs group="1">100</gs> to <group id="1" role="experiment">collaborative requesting</group>.</s>
+    <s id="10" section="results">In the <group id="0" role="control"><short>routine requesting</short> group</group>, <on group="0" outcome="0">62</on> <outcome id="0" type="good">relatives <short>consented</short> to organ donation</outcome>.</s>
+    <s id="11" section="results">In the collaborative requesting group, <on group="1" outcome="0">57</on> <outcome id="0" type="good">relatives <short>consented</short></outcome>.</s>
+    <s id="12" section="results">After correction for the ethnicity, age, and sex of the potential donors the risk adjusted ratio of the odds of consent in the <group id="1" role="experiment">collaborative requesting group</group> relative to the <group id="0" role="control">routine group</group> was 0.80 (95% confidence interval 0.43 to 1.53), with a P value of 0.49 adjusted for interim analysis and trial over-running.</s>
+    <s id="13" section="results">The <outcome id="1" type="good">conversion rate</outcome> (donors with consent from whom any organs were retrieved) was 92% (<on group="0" outcome="1">57</on>/<gs group="0">62</gs>) in the <group id="0" role="control">routine requesting group</group> and 79% (<on group="1" outcome="1">45</on>/<gs group="1">57</gs>) in the <group id="1" role="experiment">collaborative requesting group</group> (P=0.043).</s>
+    <s id="14" section="results">There were 140 approaches to relatives in the per protocol analysis, leading to 60.3% (44/73) consent after routine and 67.2% (45/67) after collaborative requesting (risk adjusted odds ratio of consent 1.47, 0.67 to 3.20, P=0.33).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To determine whether collaborative requesting increases consent for organ donation from the relatives of patients declared dead by criteria for brain stem death. 
+DESIGN: Unblinded multicentre randomised controlled trial using a sequential design. 
+Centralised 24 hour telephone randomisation based on randomised permuted blocks of 10. SETTING: 79 general, neuroscience, and paediatric intensive care units in the United Kingdom. 
+PARTICIPANTS: 201 relatives of patients meeting criteria for brain stem death. 
+Relatives were blind to the intervention and to the trial; all other participants were necessarily unblinded. 
+INTERVENTIONS: Collaborative requesting for consent for organ donation by the potential donor's clinician and a donor transplant coordinator (organ procurement officer) compared with routine requesting by the clinical team alone. 
+MAIN OUTCOME MEASURE: Proportion of relatives consenting to organ donation. 
+RESULTS: 101 relatives were randomised to routine requesting and 100 to collaborative requesting. 
+All were analysed on an intention to treat basis. 
+In the routine requesting group, 62 relatives consented to organ donation. 
+In the collaborative requesting group, 57 relatives consented. 
+After correction for the ethnicity, age, and sex of the potential donors the risk adjusted ratio of the odds of consent in the collaborative requesting group relative to the routine group was 0.80 (95% confidence interval 0.43 to 1.53), with a P value of 0.49 adjusted for interim analysis and trial over-running. 
+The conversion rate (donors with consent from whom any organs were retrieved) was 92% (57/62) in the routine requesting group and 79% (45/57) in the collaborative requesting group (P=0.043). 
+There were 140 approaches to relatives in the per protocol analysis, leading to 60.3% (44/73) consent after routine and 67.2% (45/67) after collaborative requesting (risk adjusted odds ratio of consent 1.47, 0.67 to 3.20, P=0.33). 
+CONCLUSION: There is no increase in consent rates for organ donation when collaborative requesting is used in place of routine requesting by the patient's clinician. 
+TRIAL REGISTRATION: ISRCTN01169903.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To determine whether collaborative requesting increases consent for organ donation from the relatives of patients declared dead by criteria for brain stem death.</s>
+    <s id="2" section="design">Unblinded multicentre randomised controlled trial using a sequential design.</s>
+    <s id="5" section="participants">Relatives were blind to the intervention and to the trial; all other participants were necessarily unblinded.</s>
+    <s id="6" section="interventions">Collaborative requesting for consent for organ donation by the potential donor's clinician and a donor transplant coordinator (organ procurement officer) compared with routine requesting by the clinical team alone.</s>
+    <s id="7" section="main outcome measure">Proportion of relatives consenting to organ donation.</s>
+    <s id="9" section="results">All were analysed on an intention to treat basis.</s>
+    <s id="15" section="conclusion">There is no increase in consent rates for organ donation when collaborative requesting is used in place of routine requesting by the patient's clinician.</s>
+    <s id="16" section="trial registration">ISRCTN01169903.</s>
+  </ignored>
+</abstract>
+

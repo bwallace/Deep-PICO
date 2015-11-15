@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16790460">
+  <title>
+    <s id="0" section="title">
+      Effect on
+      <outcome id="0">weight  gain</outcome>
+      of routinely giving
+      <group id="0">albendazole</group>
+      to preschool children during child health days in Uganda : cluster randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">48 parishes participating in a new programme for child health : 24 offered children an additional service of anthelmintic treatment .</s>
+    <s id="6" section="intervention">
+      Treatment of children aged between 1 and 7 years with
+      <group id="0">
+        400  mg
+        <short>albendazole</short>
+        added  to  standard  services
+      </group>
+      offered during child health days over a 3 year period .
+    </s>
+    <s id="8" section="results">
+      The provision of
+      <group id="0">periodic  anthelmintic  treatment</group>
+      as a part of child health services in Uganda resulted in an increase in
+      <outcome id="0">weight  gain</outcome>
+      of about 10 % ( 166 g per child per year , 95 % confidence interval 16 to 316 ) above expected weight gain when treatments were given twice a year , and an increase of 5 % when the
+      <group id="0">treatment</group>
+      was given annually .
+    </s>
+  </annotated>
+  <fulltext>Effect on weight gain of routinely giving albendazole to preschool children during child health days in Uganda : cluster randomised controlled trial . To estimate the effectiveness of delivering an anthelmintic through a community child health programme on the weight gain of preschool children in Uganda . Cluster randomised controlled trial . Eastern Uganda . 48 parishes participating in a new programme for child health : 24 offered children an additional service of anthelmintic treatment . The outcome is based on measurements from 27,995 children . Treatment of children aged between 1 and 7 years with 400 mg albendazole added to standard services offered during child health days over a 3 year period . Weight gain . The provision of periodic anthelmintic treatment as a part of child health services in Uganda resulted in an increase in weight gain of about 10 % ( 166 g per child per year , 95 % confidence interval 16 to 316 ) above expected weight gain when treatments were given twice a year , and an increase of 5 % when the treatment was given annually . Deworming of preschool children in Uganda as part of regularly scheduled health services seems practical and associated with increased weight gain .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To estimate the effectiveness of delivering an
+      <group id="0">
+        <short>anthelmintic</short>
+        through  a  community  child  health  programme
+      </group>
+      on the
+      <outcome id="0">weight  gain</outcome>
+      of preschool children in Uganda .
+    </s>
+    <s id="2" section="design">Cluster randomised controlled trial .</s>
+    <s id="3" section="setting">Eastern Uganda .</s>
+    <s id="5" section="participants">
+      The outcome is based on measurements from
+      <ps>27,995</ps>
+      children .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      <outcome id="0">Weight  gain</outcome>
+      .
+    </s>
+    <s id="9" section="conclusion">
+      <group id="0">Deworming</group>
+      of preschool children in Uganda as part of regularly scheduled health services seems practical and associated with increased
+      <outcome id="0">weight  gain</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

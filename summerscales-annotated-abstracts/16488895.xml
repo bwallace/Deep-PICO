@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16488895">
+  <title>
+    <s id="0" section="title">
+      Treatment of low back pain by
+      <group id="0">acupressure</group>
+      and
+      <group id="1">physical  therapy</group>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>129</ps>
+      patients with chronic low back pain .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">Acupressure</group>
+      or
+      <group id="1">physical  therapy</group>
+      for
+      <time id="1">1  month</time>
+      .
+    </s>
+    <s id="6" section="main__outcome_measures">
+      Self administered Chinese versions of
+      <outcome id="0">
+        standard  outcome  measures  for
+        <short>low  back  pain</short>
+      </outcome>
+      ( primary outcome :
+      <outcome id="0">
+        Roland  and  Morris
+        <short>disability</short>
+        questionnaire
+      </outcome>
+      ) at
+      <time id="0">baseline</time>
+      ,
+      <time id="1">after  treatment</time>
+      , and at
+      <time id="2">6  month  follow  -  up</time>
+      .
+    </s>
+    <s id="7" section="results">
+      The
+      <outcome id="0">
+        mean  total  Roland  and  Morris
+        <short>disability</short>
+        questionnaire  score
+      </outcome>
+      <time id="1">after  treatment</time>
+      was significantly lower in the
+      <group id="0">acupressure  group</group>
+      than in the
+      <group id="1">physical  therapy  group</group>
+      regardless of the difference in absolute score ( - 3.8 , 95 % confidence interval - 5.7 to - 1.9 ) or mean change from
+      <time id="0">the  baseline</time>
+      ( - 4.64 , - 6.39 to - 2.89 ) .
+    </s>
+    <s id="8" section="results">
+      <group id="0">Acupressure</group>
+      conferred an 89 % ( 95 % confidence interval 61 % to 97 % ) reduction in
+      <outcome id="1">significant  disability</outcome>
+      compared with
+      <group id="1">physical  therapy</group>
+      .
+    </s>
+    <s id="9" section="results">
+      The improvement in
+      <outcome id="0">disability  score</outcome>
+      in the
+      <group id="0">acupressure  group</group>
+      compared with the
+      <group id="1">physical  group</group>
+      remained at
+      <time id="2">6  month  follow  -  up</time>
+      .
+    </s>
+    <s id="10" section="results">
+      Statistically significant differences also occurred between the 2 groups for
+      <outcome id="4">all  6  domains  of  the  core  outcome</outcome>
+      ,
+      <outcome id="2">pain  visual  scale</outcome>
+      , and
+      <outcome id="5">modified  Oswestry  disability  questionnaire</outcome>
+      <time id="1">after  treatment</time>
+      and at
+      <time id="2">6  month  follow  -  up</time>
+      .
+    </s>
+    <s id="12" section="conclusions">The benefit was sustained for 6 months .</s>
+  </annotated>
+  <fulltext>Treatment of low back pain by acupressure and physical therapy : randomised controlled trial . To evaluate the effectiveness of acupressure in terms of disability , pain scores , and functional status . Randomised controlled trial . Orthopaedic clinic in Kaohsiung , Taiwan . 129 patients with chronic low back pain . Acupressure or physical therapy for 1 month . Self administered Chinese versions of standard outcome measures for low back pain ( primary outcome : Roland and Morris disability questionnaire ) at baseline , after treatment , and at 6 month follow - up . The mean total Roland and Morris disability questionnaire score after treatment was significantly lower in the acupressure group than in the physical therapy group regardless of the difference in absolute score ( - 3.8 , 95 % confidence interval - 5.7 to - 1.9 ) or mean change from the baseline ( - 4.64 , - 6.39 to - 2.89 ) . Acupressure conferred an 89 % ( 95 % confidence interval 61 % to 97 % ) reduction in significant disability compared with physical therapy . The improvement in disability score in the acupressure group compared with the physical group remained at 6 month follow - up . Statistically significant differences also occurred between the 2 groups for all 6 domains of the core outcome , pain visual scale , and modified Oswestry disability questionnaire after treatment and at 6 month follow - up . Acupressure was effective in reducing low back pain in terms of disability , pain scores , and functional status . The benefit was sustained for 6 months .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the effectiveness of
+      <group id="0">acupressure</group>
+      in terms of
+      <outcome id="0">disability</outcome>
+      ,
+      <outcome id="2">pain  scores</outcome>
+      , and
+      <outcome id="3">functional  status</outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">Orthopaedic clinic in Kaohsiung , Taiwan .</s>
+    <s id="11" section="conclusions">
+      <group id="0">Acupressure</group>
+      was effective in reducing low back pain in terms of
+      <outcome id="0">disability</outcome>
+      ,
+      <outcome id="2">pain  scores</outcome>
+      , and
+      <outcome id="3">functional  status</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+

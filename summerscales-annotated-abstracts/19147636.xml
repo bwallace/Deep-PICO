@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19147636">
+  <title>
+    <s id="0">Clinical effectiveness of health visitor training in psychologically informed approaches for depression in postnatal women: pragmatic cluster randomised trial in primary care.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate benefits for postnatal women of 2 psychologically informed interventions by health visitors .</s>
+    <s id="2" section="design">Prospective cluster trial randomised by general practice, with <time id="0">18 months</time> follow-up.</s>
+    <s id="3" section="setting">101 general practices in Trent, England.</s>
+    <s id="4" section="participants"><gs group="0">2749</gs> women allocated to <group id="0" role="experiment">intervention</group>, <gs group="1">1335</gs> to <group id="1" role="control">control</group>.</s>
+    <s id="5" section="intervention">Health visitors ( n = 8963 clusters ) were trained to identify depressive symptoms at 6 to 8 weeks postnatally using the Edinburgh postnatal depression scale ( EPDS ) and clinical assessment and also trained in providing psychologically informed sessions based on cognitive behavioural or person centred principles for an hour a week for 8 weeks.</s>
+    <s id="6" section="intervention">Health visitors in the <group id="1" role="control"><short>control</short> group</group> (n=4938 clusters) provided usual care.</s>
+    <s id="7" section="main outcome measures">Score &gt; or = 12 on the Edinburgh postnatal depression scale at <time id="1">6 months</time>.</s>
+    <s id="8" section="main outcome measures">Secondary outcomes were mean Edinburgh postnatal depression scale , clinical outcomes in routine evaluation -outcome measure ( CORE-OM ) , state - trait anxiety inventory ( STAI ) , SF-12 , and parenting stress index short form ( PSI-SF ) scores at <time id="1" units="months">6</time> , <time id="2" units="months">12</time> , 18 months .</s>
+    <s id="9" section="results">4084 eligible women consented and 595 women had a 6 week EPDS score &gt; or = 12 .</s>
+    <s id="10" section="results">Of these , 418 had EPDS scores available at 6 weeks and 6 months .</s>
+    <s id="11" section="results">At <time id="1">6 months</time> , 34 % women ( <on group="0" outcome="0" time="1">93</on> / <gs group="0">271</gs> ) in the <group id="0" role="experiment"><short>intervention</short> group</group> and 46 % ( <on group="1" outcome="0" time="1">67</on> / <gs group="1">147</gs> ) in the <group id="1" role="control"><short>control</short> group</group> had an <outcome id="0" type="bad">EPDS score &gt; or = 12</outcome>.</s>
+    <s id="12" section="results">The odds ratio for <outcome id="0" type="bad">score &gt; or = 12</outcome> at <time id="1">6 months</time> was 0.62 ( 95 % confidence interval 0.40 to 0.97 , P = 0.036 ) for women in the <group id="0" role="experiment"><short>intervention</short> group</group> compared with women in the <group id="1" role="control"><short>control</short> group</group> .</s>
+    <s id="14" section="results">At <time id="1">6 months</time> , 12.4 % ( <on group="0" outcome="0" time="1">234</on> / <gs group="0">1880</gs> ) of all women in the <group id="0" role="experiment"><short>intervention</short> group</group> and 16.7 % ( <on group="1" outcome="0" time="1">166</on> / <gs group="1">995</gs> ) of all women in the <group id="1" role="control"><short>control</short> group</group> had <outcome id="0" type="bad">scores &gt; or = 12</outcome> ( 0.67 , 0.51 to 0.87 , P = 0.003 ) .</s>
+    <s id="15" section="results">Benefit for women in the <group id="0" role="experiment"><short>intervention</short> group</group> with a 6 week <outcome id="0" type="bad">EPDS score &gt; or = 12</outcome> and for all women was maintained at 12 months postnatally .</s>
+    <s id="17" section="conclusion">Training health visitors to assess women , identify symptoms of postnatal depression , and deliver psychologically informed sessions was clinically effective at 6 and 12 months postnatally compared with usual care .</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate benefits for postnatal women of two psychologically informed interventions by health visitors. 
+DESIGN: Prospective cluster trial randomised by general practice, with 18 month follow-up. 
+SETTING: 101 general practices in Trent, England. 
+PARTICIPANTS: 2749 women allocated to intervention, 1335 to control. 
+INTERVENTION: Health visitors (n=89 63 clusters) were trained to identify depressive symptoms at six to eight weeks postnatally using the Edinburgh postnatal depression scale (EPDS) and clinical assessment and also trained in providing psychologically informed sessions based on cognitive behavioural or person centred principles for an hour a week for eight weeks. 
+Health visitors in the control group (n=49 38 clusters) provided usual care. 
+MAIN OUTCOME MEASURES: Score &gt;or=12 on the Edinburgh postnatal depression scale at six months. 
+Secondary outcomes were mean Edinburgh postnatal depression scale, clinical outcomes in routine evaluation-outcome measure (CORE-OM), state-trait anxiety inventory (STAI), SF-12, and parenting stress index short form (PSI-SF) scores at six, 12, 18 months. 
+RESULTS: 4084 eligible women consented and 595 women had a six week EPDS score &gt;or=12. 
+Of these, 418 had EPDS scores available at six weeks and six months. 
+At six months, 34% women (93/271) in the intervention group and 46% (67/147) in the control group had an EPDS score &gt;or=12. 
+The odds ratio for score &gt;or=12 at six months was 0.62 (95% confidence interval 0.40 to 0.97, P=0.036) for women in the intervention group compared with women in the control group. 
+After adjustment for covariates, the odds ratio was 0.60 (0.38 to 0.95, P=0.028). 
+At six months, 12.4% (234/1880) of all women in the intervention group and 16.7% (166/995) of all women in the control group had scores &gt;or=12 (0.67, 0.51 to 0.87, P=0.003). 
+Benefit for women in the intervention group with a six week EPDS score &gt;or=12 and for all women was maintained at 12 months postnatally. 
+There was no differential benefit for either psychological approach over the other. 
+CONCLUSION: Training health visitors to assess women, identify symptoms of postnatal depression, and deliver psychologically informed sessions was clinically effective at six and 12 months postnatally compared with usual care. 
+TRIAL REGISTRATION: ISRCTN92195776.</fulltext>
+  <ignored>
+    <s id="13" section="results">After adjustment for covariates, the odds ratio was 0.60 (0.38 to 0.95, P=0.028).</s>
+    <s id="16" section="results">There was no differential benefit for either psychological approach over the other.</s>
+    <s id="18" section="trial registration">ISRCTN92195776.</s>
+  </ignored>
+</abstract>
+

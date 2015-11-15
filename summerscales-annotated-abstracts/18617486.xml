@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18617486">
+  <title>
+    <s id="0">Role of co-trimoxazole prophylaxis in reducing mortality in HIV infected adults being treated for tuberculosis: randomised clinical trial.</s>
+  </title>
+  <annotated>
+    <s id="3" section="participants">2 groups of antiretroviral treatment naive adults with HIV infection : patients newly diagnosed as having tuberculosis and receiving tuberculosis treatment either for the first time or for retreatment after relapse ; previously treated patients not receiving treatment .</s>
+    <s id="6" section="results">1003 patients were randomised: 835 (416 <group id="0" role="experiment">co-trimoxazole</group>, 419 <group id="1" role="control">placebo</group>) were receiving treatment for tuberculosis, 762 (376 <group id="0" role="experiment">co-trimoxazole</group>, 386 <group id="1" role="control">placebo)</group> of them newly diagnosed previously untreated patients and 73 (40 <group id="0" role="experiment">co-trimoxazole</group>, 33 <group id="1" role="control">placebo</group>) receiving a retreatment regimen; 168 (84 <group id="0" role="experiment">co-trimoxazole</group>, 84 <group id="1" role="control">placebo)</group> were not on treatment but had received treatment in the past.</s>
+    <s id="7" section="results">Of 835 participants receiving tuberculosis treatment, follow-up information was available for 757, with a total of 1012.6 person years of follow-up.</s>
+    <s id="8" section="results">A total of 310 (<on group="0" outcome="0">147</on> <group id="0" role="experiment">co-trimoxazole</group>, <on group="1" outcome="0">163</on> <group id="1" role="control">placebo</group>) participants <outcome id="0" type="bad">died</outcome>, corresponding to death rates of 27.3 and 34.4 per 100 person years.</s>
+    <s id="9" section="results">In the Cox regression analysis, the hazard ratio for death (<group id="0" role="experiment">co-trimoxazole</group>:<group id="1" role="control">placebo</group>) was 0.79 (95% confidence interval 0.63 to 0.99).</s>
+    <s id="10" section="results">The effect of <group id="0" role="experiment">co-trimoxazole</group> waned with time, possibly owing to falling adherence levels; in a per protocol analysis based on patients who spent at least 90% of their time at risk supplied with study drug, the hazard ratio was 0.65 (0.45 to 0.93).</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To assess the impact of prophylactic oral co-trimoxazole in reducing mortality in HIV positive Zambian adults being treated for pulmonary tuberculosis. 
+DESIGN: Double blind placebo controlled randomised clinical trial. 
+PARTICIPANTS: Two groups of antiretroviral treatment naive adults with HIV infection: patients newly diagnosed as having tuberculosis and receiving tuberculosis treatment either for the first time or for retreatment after relapse; previously treated patients not receiving treatment. 
+INTERVENTION: Oral co-trimoxazole or matching placebo daily. 
+Primary outcome measures Time to death and occurrence of serious adverse events related to study drug. 
+RESULTS: 1003 patients were randomised: 835 (416 co-trimoxazole, 419 placebo) were receiving treatment for tuberculosis, 762 (376 co-trimoxazole, 386 placebo) of them newly diagnosed previously untreated patients and 73 (40 co-trimoxazole, 33 placebo) receiving a retreatment regimen; 168 (84 co-trimoxazole, 84 placebo) were not on treatment but had received treatment in the past. 
+Of 835 participants receiving tuberculosis treatment, follow-up information was available for 757, with a total of 1012.6 person years of follow-up. 
+A total of 310 (147 co-trimoxazole, 163 placebo) participants died, corresponding to death rates of 27.3 and 34.4 per 100 person years. 
+In the Cox regression analysis, the hazard ratio for death (co-trimoxazole:placebo) was 0.79 (95% confidence interval 0.63 to 0.99). 
+The effect of co-trimoxazole waned with time, possibly owing to falling adherence levels; in a per protocol analysis based on patients who spent at least 90% of their time at risk supplied with study drug, the hazard ratio was 0.65 (0.45 to 0.93). 
+CONCLUSIONS: Prophylaxis with co-trimoxazole reduces mortality in HIV infected adults with pulmonary tuberculosis. 
+Co-trimoxazole was generally safe and well tolerated. 
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN15281875.</fulltext>
+  <ignored>
+    <s id="1" section="objective">To assess the impact of prophylactic oral co-trimoxazole in reducing mortality in HIV positive Zambian adults being treated for pulmonary tuberculosis.</s>
+    <s id="2" section="design">Double blind placebo controlled randomised clinical trial.</s>
+    <s id="4" section="intervention">Oral co-trimoxazole or matching placebo daily.</s>
+    <s id="5" section="intervention">Primary outcome measures Time to death and occurrence of serious adverse events related to study drug.</s>
+    <s id="11" section="conclusions">Prophylaxis with co-trimoxazole reduces mortality in HIV infected adults with pulmonary tuberculosis.</s>
+    <s id="12" section="conclusions">Co-trimoxazole was generally safe and well tolerated.</s>
+    <s id="13" section="trial registration">Current Controlled Trials ISRCTN15281875.</s>
+  </ignored>
+</abstract>
+

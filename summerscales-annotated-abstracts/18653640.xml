@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="18653640">
+  <title>
+    <s id="0">Protective efficacy of standard Edmonston-Zagreb measles vaccination in infants aged 4.5 months: interim analysis of a randomised clinical trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To examine the protective efficacy of measles vaccination in infants in a low income country before 9 months of age.</s>
+    <s id="3" section="participants">1333 infants aged 4.5 months: <gs group="0">441</gs> in <group id="0" role="experiment">treatment group</group> and <gs group="1">892</gs> in <group id="1" role="control">control group</group>.</s>
+    <s id="6" section="main outcome measures">Vaccine efficacy against measles infection, admission to hospital for measles, and measles mortality before standard vaccination at 9 months of age.</s>
+    <s id="7" section="results">28% of the children tested at 4.5 months of age had protective levels of maternal antibodies against measles at enrolment.</s>
+    <s id="8" section="results">After early vaccination against measles 92% <outcome id="0" type="good">had measles antibodies</outcome> at <time id="0">9 months of age</time>.</s>
+    <s id="10" section="results">During the outbreak, 96 children <outcome id="1" type="bad">developed measles</outcome>; 19% of <group id="1" role="control">unvaccinated children</group> had measles before <time id="0">9 months</time> of age.</s>
+    <s id="11" section="results">The monthly incidence of measles among the <gs group="0">441</gs> children enrolled in  <group id="0" role="experiment">the treatment arm</group> was 0.7% and among the <gs group="1">892</gs> enrolled in <group id="1" role="control">the control arm</group> was 3.1%.</s>
+    <s id="12" section="results">Early vaccination with the Edmonston-Zagreb measles vaccine prevented infection; <outcome id="2" type="good"><short>vaccine efficacy</short> for children with serologically confirmed measles and definite clinical measles</outcome> was 94% (95% confidence interval 77% to 99%), for <outcome id="3" type="bad">admissions to hospital for measles</outcome> was 100% (46% to 100%), and for <outcome id="4" type="bad">measles mortality</outcome> was 100% (-42% to 100%).</s>
+    <s id="13" section="results">The number needed to treat to prevent 1 case of measles between ages 4.5 months and 9 months during the epidemic was 7.2 ( 6.8 to 9.2 ) .</s>
+    <s id="15" section="conclusions">In low income countries, maternal antibody levels against measles may be low and severe outbreaks of measles can occur in infants before the recommended age of vaccination at 9 months.</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To examine the protective efficacy of measles vaccination in infants in a low income country before 9 months of age. 
+DESIGN: Randomised clinical trial. 
+PARTICIPANTS: 1333 infants aged 4.5 months: 441 in treatment group and 892 in control group. 
+SETTING: Urban area in Guinea-Bissau. 
+INTERVENTION: Measles vaccination using standard titre Edmonston-Zagreb vaccine at 4.5 months of age. 
+MAIN OUTCOME MEASURES: Vaccine efficacy against measles infection, admission to hospital for measles, and measles mortality before standard vaccination at 9 months of age. 
+RESULTS: 28% of the children tested at 4.5 months of age had protective levels of maternal antibodies against measles at enrolment. 
+After early vaccination against measles 92% had measles antibodies at 9 months of age. 
+A measles outbreak offered a unique situation for testing the efficacy of early measles vaccination. 
+During the outbreak, 96 children developed measles; 19% of unvaccinated children had measles before 9 months of age. 
+The monthly incidence of measles among the 441 children enrolled in the treatment arm was 0.7% and among the 892 enrolled in the control arm was 3.1%. 
+Early vaccination with the Edmonston-Zagreb measles vaccine prevented infection; vaccine efficacy for children with serologically confirmed measles and definite clinical measles was 94% (95% confidence interval 77% to 99%), for admissions to hospital for measles was 100% (46% to 100%), and for measles mortality was 100% (-42% to 100%). 
+The number needed to treat to prevent one case of measles between ages 4.5 months and 9 months during the epidemic was 7.2 (6.8 to 9.2). 
+The treatment group tended to have lower overall mortality (mortality rate ratio 0.18, 0.02 to 1.36) although this was not significant. 
+CONCLUSIONS: In low income countries, maternal antibody levels against measles may be low and severe outbreaks of measles can occur in infants before the recommended age of vaccination at 9 months. 
+Outbreaks of measles may be curtailed by measles vaccination using the Edmonston-Zagreb vaccine as early as 4.5 months of age. 
+TRIAL REGISTRATION CLINICAL TRIALS: NCT00168558 [ClinicalTrials.gov].</fulltext>
+  <ignored>
+    <s id="2" section="design">Randomised clinical trial.</s>
+    <s id="4" section="setting">Urban area in Guinea-Bissau.</s>
+    <s id="5" section="intervention">Measles vaccination using standard titre Edmonston-Zagreb vaccine at 4.5 months of age.</s>
+    <s id="9" section="results">A measles outbreak offered a unique situation for testing the efficacy of early measles vaccination.</s>
+    <s id="14" section="results">The treatment group tended to have lower overall mortality (mortality rate ratio 0.18, 0.02 to 1.36) although this was not significant.</s>
+    <s id="16" section="conclusions">Outbreaks of measles may be curtailed by measles vaccination using the Edmonston-Zagreb vaccine as early as 4.5 months of age.</s>
+    <s id="17" section="trial registration clinical trials">NCT00168558 [ClinicalTrials.gov].</s>
+  </ignored>
+</abstract>
+

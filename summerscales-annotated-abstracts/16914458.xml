@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16914458">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Joint  crisis  plans</group>
+      for people with psychosis : economic evaluation of a randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">8 community mental health teams in southern England .</s>
+    <s id="4" section="participants">
+      <ps>160</ps>
+      people with a diagnosis of psychotic illness or non - psychotic bipolar disorder who had been admitted to hospital at least once within the previous 2 years .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      <outcome id="0">Admission  to  hospital</outcome>
+      ;
+      <outcome id="1">
+        <short>service  use</short>
+        over  15  months
+      </outcome>
+      .
+    </s>
+    <s id="9" section="results">
+      <outcome id="2">Total  costs</outcome>
+      during follow - up were 7264 pounds sterling ( 10, 616 euros , 13,560 dollars ) for
+      <group id="0">each  participant  with  a  joint  crisis  plan</group>
+      and 8359 pounds sterling ( 12,217 euros , 15,609 dollars ) for
+      <group id="1">each  participant  with  standardised  service  information</group>
+      ( mean difference 1095 pounds sterling ; 95 % confidence interval - 2814 to 5004 ) .
+    </s>
+    <s id="10" section="results">
+      Cost effectiveness acceptability curves , used to explore uncertainty in estimates of costs and effects , suggest there is a greater than 78 % probability that
+      <group id="0">joint  crisis  plans</group>
+      are more cost effective than
+      <group id="1">standardised  service  information</group>
+      in reducing the
+      <outcome id="0">
+        proportion  of
+        <short>patients  admitted  to  hospital</short>
+      </outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Joint crisis plans for people with psychosis : economic evaluation of a randomised controlled trial . To investigate the cost effectiveness of joint crisis plans , a form of advance agreement for people with severe mental illness . Single blind randomised controlled trial . 8 community mental health teams in southern England . 160 people with a diagnosis of psychotic illness or non - psychotic bipolar disorder who had been admitted to hospital at least once within the previous 2 years . Joint crisis plan formulated by the patient , care coordinator , psychiatrist , and project worker containing contact information , details of illnesses , treatments , relapse indicators , and advance statements of preferences for care for future relapses . Control group was standardised service information . Admission to hospital ; service use over 15 months . Use of a joint crisis plan was associated with less service use and lower costs on average than in the standardised service information group , but differences were not significant . Total costs during follow - up were 7264 pounds sterling ( 10, 616 euros , 13,560 dollars ) for each participant with a joint crisis plan and 8359 pounds sterling ( 12,217 euros , 15,609 dollars ) for each participant with standardised service information ( mean difference 1095 pounds sterling ; 95 % confidence interval - 2814 to 5004 ) . Cost effectiveness acceptability curves , used to explore uncertainty in estimates of costs and effects , suggest there is a greater than 78 % probability that joint crisis plans are more cost effective than standardised service information in reducing the proportion of patients admitted to hospital . Joint crisis plans produced a non - significant decrease in admissions and total costs . Though the cost estimates had wide confidence intervals , the associated uncertainty suggests there is a relatively high probability of the plans being more cost effective than standardised service information for people with psychotic disorders .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To investigate the cost effectiveness of
+      <group id="0">joint  crisis  plans</group>
+      , a form of advance agreement for people with severe mental illness .
+    </s>
+    <s id="2" section="design">Single blind randomised controlled trial .</s>
+    <s id="5" section="intervention">
+      <group id="0">
+        <short>Joint  crisis  plan</short>
+        formulated  by  the  patient  ,  care  coordinator  ,  psychiatrist  ,  and  project  worker  containing  contact  information  ,  details  of  illnesses  ,  treatments  ,  relapse  indicators  ,  and  advance  statements  of  preferences  for  care  for  future  relapses
+      </group>
+      .
+    </s>
+    <s id="6" section="intervention">
+      <group id="1">Control  group</group>
+      was
+      <group id="1">standardised  service  information</group>
+      .
+    </s>
+    <s id="8" section="results">
+      Use of a
+      <group id="0">joint  crisis  plan</group>
+      was associated with less
+      <outcome id="0">service  use</outcome>
+      and lower
+      <outcome id="2">costs</outcome>
+      on average than in the
+      <group id="1">standardised  service  information  group</group>
+      , but differences were not significant .
+    </s>
+    <s id="11" section="conclusion">
+      <group id="0">Joint  crisis  plans</group>
+      produced a non - significant decrease in
+      <outcome id="0">admissions</outcome>
+      and
+      <outcome id="2">total  costs</outcome>
+      .
+    </s>
+    <s id="12" section="conclusion">
+      Though the cost estimates had wide confidence intervals , the associated uncertainty suggests there is a relatively high probability of the
+      <group id="0">plans</group>
+      being more cost effective than
+      <group id="1">standardised  service  information</group>
+      for people with psychotic disorders .
+    </s>
+  </ignored>
+</abstract>
+

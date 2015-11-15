@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16807257">
+  <title>
+    <s id="0" section="title">
+      Effectiveness and acceptability of
+      <group id="0">lidocaine  spray</group>
+      in reducing
+      <outcome id="0">
+        <short>perineal  pain</short>
+        during  spontaneous  vaginal  delivery
+      </outcome>
+      : randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="4" section="participants">
+      <ps>185</ps>
+      women who had a spontaneous vaginal delivery without epidural analgesia .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        Topically  applied
+        <short>local  anaesthetic  spray</short>
+      </group>
+      (
+      <gs group="0">93</gs>
+      women ) and
+      <group id="1">placebo  spray</group>
+      (
+      <gs group="1">92</gs>
+      women ) .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      Primary outcome measure was
+      <outcome id="0">
+        <short>pain</short>
+        during  delivery
+      </outcome>
+      ( 0 - 100 scale ) .
+    </s>
+    <s id="7" section="main_outcome_measure">
+      The 16 secondary outcome measures included
+      <outcome id="1">
+        second  degree
+        <short>perineal  trauma</short>
+        during  delivery
+      </outcome>
+      ,
+      <outcome id="2">trauma  of  the  genital  tract</outcome>
+      , and
+      <outcome id="3">
+        <short>dyspareunia</short>
+        by
+        <time id="0">2  months</time>
+      </outcome>
+      .
+    </s>
+    <s id="8" section="results">
+      <group id="0">Lidocaine  spray</group>
+      did not reduce
+      <outcome id="0">
+        <short>pain</short>
+        during  spontaneous  vaginal  delivery
+      </outcome>
+      : mean 77 and 72 on a scale of 0- 100 in the
+      <group id="0">lidocaine</group>
+      and
+      <group id="1">placebo</group>
+      groups , respectively ( difference between means 4.8 , 95 % confidence interval - 1.7 to 11.2 ) .
+    </s>
+  </annotated>
+  <fulltext>Effectiveness and acceptability of lidocaine spray in reducing perineal pain during spontaneous vaginal delivery : randomised controlled trial . To evaluate the effectiveness and acceptability of a lidocaine spray in reducing perineal pain during spontaneous vaginal delivery . Randomised controlled trial . Consultant led obstetric unit . 185 women who had a spontaneous vaginal delivery without epidural analgesia . Topically applied local anaesthetic spray ( 93 women ) and placebo spray ( 92 women ) . Primary outcome measure was pain during delivery ( 0 - 100 scale ) . The 16 secondary outcome measures included second degree perineal trauma during delivery , trauma of the genital tract , and dyspareunia by 2 months . Lidocaine spray did not reduce pain during spontaneous vaginal delivery : mean 77 and 72 on a scale of 0- 100 in the lidocaine and placebo groups , respectively ( difference between means 4.8 , 95 % confidence interval - 1.7 to 11.2 ) . Lidocaine spray may reduce genital tract trauma during delivery , in particular second degree perineal trauma . The intervention was highly acceptable to the women and midwives . Although lidocaine spray applied to the perineum during spontaneous vaginal delivery did not reduce perineal pain , it was acceptable to both the women and the midwives . Current controlled trials ISRCTN99732966 [ controlled - trials .com ] .</fulltext>
+  <ignored>
+    <s id="1" section="objectives">
+      To evaluate the effectiveness and acceptability of a
+      <group id="0">lidocaine  spray</group>
+      in reducing
+      <outcome id="0">
+        <short>perineal  pain</short>
+        during  spontaneous  vaginal  delivery
+      </outcome>
+      .
+    </s>
+    <s id="2" section="design">Randomised controlled trial .</s>
+    <s id="3" section="setting">Consultant led obstetric unit .</s>
+    <s id="9" section="results">
+      <group id="0">Lidocaine  spray</group>
+      may reduce
+      <outcome id="2">
+        <short>genital  tract  trauma</short>
+        during  delivery
+      </outcome>
+      , in particular
+      <outcome id="1">
+        second  degree
+        <short>perineal  trauma</short>
+      </outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      The
+      <group id="0">intervention</group>
+      was highly acceptable to the women and midwives .
+    </s>
+    <s id="11" section="conclusions">
+      Although
+      <group id="0">
+        <short>lidocaine  spray</short>
+        applied  to  the  perineum  during  spontaneous  vaginal  delivery
+      </group>
+      did not reduce
+      <outcome id="0">perineal  pain</outcome>
+      , it was acceptable to both the women and the midwives .
+    </s>
+    <s id="12" section="trial_registration">Current controlled trials ISRCTN99732966 [ controlled - trials .com ] .</s>
+  </ignored>
+</abstract>
+

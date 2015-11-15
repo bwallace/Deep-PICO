@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="16467348">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Oral  protein  energy  supplements</group>
+      for children with cystic fibrosis : CALICO multicentre randomised controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">7 specialist paediatric cystic fibrosis centres and their associated shared care clinics and 7 smaller paediatric cystic fibrosis clinics .</s>
+    <s id="4" section="participants">
+      <ps>102</ps>
+      children with cystic fibrosis , aged between 2 and 15 years , who were moderately malnourished .
+    </s>
+    <s id="5" section="interventions">
+      <group id="0">
+        <short>Oral  protein  energy  supplements</short>
+        in  addition  to  usual  dietary  advice
+      </group>
+      compared with
+      <group id="1">dietary  advice  alone</group>
+      , for
+      <time id="0">12  months</time>
+      .
+    </s>
+    <s id="6" section="main_outcome_measure">
+      <outcome id="2">
+        Change  in
+        <short>body  mass  index  centile</short>
+      </outcome>
+      over
+      <time id="0">1  year</time>
+      .
+    </s>
+    <s id="7" section="results">
+      <group id="0">Use  of  supplements</group>
+      was not associated with a
+      <outcome id="2">
+        change  in
+        <short>body  mass  index  centile</short>
+      </outcome>
+      ( mean difference 2.99 centile points , 95 % confidence interval - 2.70 to 8.68 ) or
+      <outcome id="0">other  nutritional</outcome>
+      and
+      <outcome id="1">spirometric  outcomes</outcome>
+      in this group of children .
+    </s>
+    <s id="10" section="trial_registration">ISRCTN : 95744468 .</s>
+  </annotated>
+  <fulltext>Oral protein energy supplements for children with cystic fibrosis : CALICO multicentre randomised controlled trial . To determine whether oral protein energy supplements , used long term in children with cystic fibrosis who are moderately malnourished , improve nutritional and other outcomes . Multicentre randomised controlled trial . 7 specialist paediatric cystic fibrosis centres and their associated shared care clinics and 7 smaller paediatric cystic fibrosis clinics . 102 children with cystic fibrosis , aged between 2 and 15 years , who were moderately malnourished . Oral protein energy supplements in addition to usual dietary advice compared with dietary advice alone , for 12 months . Change in body mass index centile over 1 year . Use of supplements was not associated with a change in body mass index centile ( mean difference 2.99 centile points , 95 % confidence interval - 2.70 to 8.68 ) or other nutritional and spirometric outcomes in this group of children . Long term use of oral protein energy supplements did not result in an improvement in nutritional status or other clinical outcomes in children with cystic fibrosis who were moderately malnourished . Oral protein energy supplements should not be regarded as an essential part of the management of this group of children . ISRCTN : 95744468 .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To determine whether
+      <group id="0">oral  protein  energy  supplements</group>
+      , used long term in children with cystic fibrosis who are moderately malnourished , improve
+      <outcome id="0">nutritional</outcome>
+      and
+      <outcome id="1">other  outcomes</outcome>
+      .
+    </s>
+    <s id="2" section="design">Multicentre randomised controlled trial .</s>
+    <s id="8" section="conclusions">
+      Long term use of
+      <group id="0">oral  protein  energy  supplements</group>
+      did not result in an improvement in
+      <outcome id="0">nutritional  status</outcome>
+      or
+      <outcome id="1">other  clinical  outcomes</outcome>
+      in children with cystic fibrosis who were moderately malnourished .
+    </s>
+    <s id="9" section="conclusions">
+      <group id="0">Oral  protein  energy  supplements</group>
+      should not be regarded as an essential part of the management of this group of children .
+    </s>
+  </ignored>
+</abstract>
+

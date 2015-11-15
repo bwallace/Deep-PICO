@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="19477893">
+  <title>
+    <s id="0">Video decision support tool for advance care planning in dementia: randomised controlled trial.</s>
+  </title>
+  <annotated>
+    <s id="1" section="objective">To evaluate the effect of a video decision support tool on the preferences for future medical care in older people if they develop advanced dementia , and the stability of those preferences after <time id="0">6 weeks</time> .</s>
+    <s id="2" section="design">Randomised controlled trial conducted between 1 September 2007 and 30 May 2008.</s>
+    <s id="3" section="design">Setting 4 primary care clinics ( 2 geriatric and 2 adult medicine ) affiliated with 3 academic medical centres in Boston .</s>
+    <s id="4" section="participants">Convenience sample of 200 older people ( &gt; or = 65 years ) living in the community with previously scheduled appointments at 1 of the clinics .</s>
+    <s id="5" section="participants">Mean age was 75 and 58% were women.</s>
+    <s id="6" section="intervention"><group id="0" role="control"><short>Verbal narrative</short> alone</group> (n=<gs group="0">106</gs>) or <group id="1" role="experiment">with a <short>video</short> decision support tool</group> (n=<gs group="1">94</gs>).</s>
+    <s id="8" section="main outcome measures">Preferences after 6 weeks .</s>
+    <s id="10" section="results">Among <group id="0" role="control">participants receiving the <short>verbal narrative</short> alone</group>, <on group="0" outcome="0">68</on> ( 64 % ) <outcome id="0" type="good">chose comfort care</outcome>, <on group="0" outcome="1">20</on> ( 19 % ) <outcome id="1" type="good">chose limited care</outcome> , <on group="2" outcome="0">15</on> ( 14 % ) <outcome id="2" type="good">chose life prolonging care</outcome> , and <on group="3" outcome="0">3</on> ( 3 % ) were <outcome id="3" type="good">uncertain</outcome> .</s>
+    <s id="11" section="results">In the <group id="1" role="experiment"><short>video</short> group</group> , <on group="1" outcome="0">81</on> ( 86 % ) <outcome id="0" type="good">chose comfort care</outcome> , <on group="1" outcome="1">8</on> ( 9 % ) <outcome id="1" type="good">chose limited care</outcome> , <on group="1" outcome="2">4</on> ( 4 % ) <outcome id="2" type="good">chose life prolonging care</outcome> , and <on group="1" outcome="3">1</on> ( 1 % ) was <outcome id="3" type="good">uncertain</outcome> ( chi(2) = 13.0 , df = 3 , P = 0.003 ) .</s>
+    <s id="13" section="results">In multivariable analysis, participants in <group id="1" role="experiment">the video group</group> were more likely to prefer comfort care than those in <group id="0" role="control">the verbal group</group> (adjusted odds ratio 3.9, 95% confidence interval 1.8 to 8.6).</s>
+    <s id="14" section="results">Participants were re - interviewed after 6 weeks .</s>
+    <s id="15" section="results">Among the 94/106 (89%) participants re-interviewed in <group id="0" role="control">the verbal group</group>, <on group="0" outcome="4">27</on> (29%) <outcome id="4" type="good">changed their preferences</outcome> (kappa=0.35).</s>
+    <s id="16" section="results">Among the 84 / 94 ( 89 % ) participants re - interviewed in <group id="1" role="experiment">the video group</group> , <on group="1" outcome="4">5</on> ( 6 % ) <outcome id="4" type="good">changed their preferences</outcome> ( kappa = 0.79 )</s>
+  </annotated>
+  <fulltext>OBJECTIVE: To evaluate the effect of a video decision support tool on the preferences for future medical care in older people if they develop advanced dementia, and the stability of those preferences after six weeks. 
+DESIGN: Randomised controlled trial conducted between 1 September 2007 and 30 May 2008. 
+Setting Four primary care clinics (two geriatric and two adult medicine) affiliated with three academic medical centres in Boston. 
+PARTICIPANTS: Convenience sample of 200 older people (&gt;or=65 years) living in the community with previously scheduled appointments at one of the clinics. 
+Mean age was 75 and 58% were women. 
+INTERVENTION: Verbal narrative alone (n=106) or with a video decision support tool (n=94). 
+MAIN OUTCOME MEASURES: Preferred goal of care: life prolonging care (cardiopulmonary resuscitation, mechanical ventilation), limited care (admission to hospital, antibiotics, but not cardiopulmonary resuscitation), or comfort care (treatment only to relieve symptoms). 
+Preferences after six weeks. 
+The principal category for analysis was the difference in proportions of participants in each group who preferred comfort care. 
+RESULTS: Among participants receiving the verbal narrative alone, 68 (64%) chose comfort care, 20 (19%) chose limited care, 15 (14%) chose life prolonging care, and three (3%) were uncertain. 
+In the video group, 81 (86%) chose comfort care, eight (9%) chose limited care, four (4%) chose life prolonging care, and one (1%) was uncertain (chi(2)=13.0, df=3, P=0.003). 
+Among all participants the factors associated with a greater likelihood of opting for comfort care were being a college graduate or higher, good or better health status, greater health literacy, white race, and randomisation to the video arm. 
+In multivariable analysis, participants in the video group were more likely to prefer comfort care than those in the verbal group (adjusted odds ratio 3.9, 95% confidence interval 1.8 to 8.6). 
+Participants were re-interviewed after six weeks. 
+Among the 94/106 (89%) participants re-interviewed in the verbal group, 27 (29%) changed their preferences (kappa=0.35). 
+Among the 84/94 (89%) participants re-interviewed in the video group, five (6%) changed their preferences (kappa=0.79) 
+(P&lt;0.001 for difference). 
+CONCLUSION: Older people who view a video depiction of a patient with advanced dementia after hearing a verbal description of the condition are more likely to opt for comfort as their goal of care compared with those who solely listen to a verbal description. 
+They also have more stable preferences over time. 
+TRIAL REGISTRATION: Clinicaltrials.gov 
+NCT00704886.</fulltext>
+  <ignored>
+    <s id="7" section="main outcome measures">Preferred goal of care: life prolonging care (cardiopulmonary resuscitation, mechanical ventilation), limited care (admission to hospital, antibiotics, but not cardiopulmonary resuscitation), or comfort care (treatment only to relieve symptoms).</s>
+    <s id="9" section="main outcome measures">The principal category for analysis was the difference in proportions of participants in each group who preferred comfort care.</s>
+    <s id="12" section="results">Among all participants the factors associated with a greater likelihood of opting for comfort care were being a college graduate or higher, good or better health status, greater health literacy, white race, and randomisation to the video arm.</s>
+    <s id="17" section="results">(P&lt;0.001 for difference).</s>
+    <s id="18" section="conclusion">Older people who view a video depiction of a patient with advanced dementia after hearing a verbal description of the condition are more likely to opt for comfort as their goal of care compared with those who solely listen to a verbal description.</s>
+    <s id="19" section="conclusion">They also have more stable preferences over time.</s>
+    <s id="20" section="trial registration">Clinicaltrials.gov</s>
+    <s id="21" section="trial registration">NCT00704886.</s>
+  </ignored>
+</abstract>
+

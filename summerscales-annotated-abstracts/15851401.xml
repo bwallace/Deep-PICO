@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="15851401">
+  <title>
+    <s id="0" section="title">
+      <group id="0">Antioxidant  supplementation</group>
+      for the prevention of
+      <outcome id="0" type="bad">kwashiorkor</outcome>
+      in Malawian children : randomised , double blind , placebo controlled trial .
+    </s>
+  </title>
+  <annotated>
+    <s id="3" section="setting">8 villages in rural southern Malawi .</s>
+    <s id="4" section="participants">
+      <ps>2372</ps>
+      children in 2156 households aged 1-4 years were enrolled ; 2332 completed the trial .
+    </s>
+    <s id="5" section="intervention">
+      <group id="0">
+        Daily  supplementation  with  an
+        <short>antioxidant  powder</short>
+        containing  riboflavin  ,  vitamin  E  ,  selenium  ,  and  N-acetylcysteine  in  a  dose  that  provided  about  3  times  the  recommended  dietary  allowance  of  each  nutrient
+      </group>
+      or
+      <group id="1">placebo</group>
+      for
+      <time id="0">20  weeks</time>
+      .
+    </s>
+    <s id="8" section="results">
+      62 children developed
+      <outcome id="0" type="bad">
+        <short>kwashiorkor</short>
+        (  defined  by  the  <short>presence  of  oedema</short>  )
+      </outcome>
+      ;
+      <on group="0" outcome="0">39</on>
+      /
+      <gs group="0">1184</gs>
+      ( 3.3 % ) were in the
+      <group id="0">antioxidant  group</group>
+      and
+      <on group="1" outcome="0">23</on>
+      /
+      <gs group="1">1188</gs>
+      ( 1.9 % ) were in the
+      <group id="1">placebo  group</group>
+      ( relative risk 1.70 , 95 % confidence interval 0.98 to 2.42 ) .
+    </s>
+    <s id="9" section="results">
+      The 2 groups did not differ in
+      <outcome id="1">rates  of  weight  or  height  gain</outcome>
+      .
+    </s>
+  </annotated>
+  <fulltext>Antioxidant supplementation for the prevention of kwashiorkor in Malawian children : randomised , double blind , placebo controlled trial . To evaluate the efficacy of antioxidant supplementation in preventing kwashiorkor in a population of Malawian children at high risk of developing kwashiorkor . Prospective , double blind , placebo controlled trial randomised by household . 8 villages in rural southern Malawi . 2372 children in 2156 households aged 1-4 years were enrolled ; 2332 completed the trial . Daily supplementation with an antioxidant powder containing riboflavin , vitamin E , selenium , and N-acetylcysteine in a dose that provided about 3 times the recommended dietary allowance of each nutrient or placebo for 20 weeks . The primary outcome was the incidence of oedema . Secondary outcomes were the rates of change for weight and length and the number of days of infectious symptoms . 62 children developed kwashiorkor ( defined by the presence of oedema ) ; 39 / 1184 ( 3.3 % ) were in the antioxidant group and 23 / 1188 ( 1.9 % ) were in the placebo group ( relative risk 1.70 , 95 % confidence interval 0.98 to 2.42 ) . The 2 groups did not differ in rates of weight or height gain . Children who received antioxidant supplementation did not experience less fever , cough , or diarrhoea . Antioxidant supplementation at the dose provided did not prevent the onset of kwashiorkor . This finding does not support the hypothesis that depletion of vitamin E , selenium , cysteine , or riboflavin has a role in the development of kwashiorkor .</fulltext>
+  <ignored>
+    <s id="1" section="objective">
+      To evaluate the efficacy of
+      <group id="0">antioxidant  supplementation</group>
+      in preventing
+      <outcome id="0" type="bad">kwashiorkor</outcome>
+      in a population of Malawian children at high risk of developing
+      <outcome id="0" type="bad">kwashiorkor</outcome>
+      .
+    </s>
+    <s id="2" section="design">Prospective , double blind , placebo controlled trial randomised by household .</s>
+    <s id="6" section="main_outcome_measures">
+      The primary outcome was the
+      <outcome id="0" type="bad">
+        incidence  of
+        <short>oedema</short>
+      </outcome>
+      .
+    </s>
+    <s id="7" section="main_outcome_measures">
+      Secondary outcomes were the
+      <outcome id="1">rates  of  change  for  weight  and  length</outcome>
+      and the
+      <outcome id="2">number  of  days  of  infectious  symptoms</outcome>
+      .
+    </s>
+    <s id="10" section="results">
+      Children who received
+      <group id="0">antioxidant  supplementation</group>
+      did not experience less
+      <outcome id="2">fever  ,  cough  ,  or  diarrhoea</outcome>
+      .
+    </s>
+    <s id="11" section="conclusions">
+      <group id="0">
+        <short>Antioxidant  supplementation</short>
+        at  the  dose  provided
+      </group>
+      did not prevent the onset of
+      <outcome id="0" type="bad">kwashiorkor</outcome>
+      .
+    </s>
+    <s id="12" section="conclusions">
+      This finding does not support the hypothesis that depletion of vitamin E , selenium , cysteine , or riboflavin has a role in the development of
+      <outcome id="0" type="bad">kwashiorkor</outcome>
+      .
+    </s>
+  </ignored>
+</abstract>
+
