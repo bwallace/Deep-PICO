@@ -1,2 +1,3 @@
-# CNN-PICO
-Using CNNs to identify PICO elements in abstracts
+# Deep-PICO
+
+Experiments in deep (OK, shallow, but using embeddings) for PICO identification. 
