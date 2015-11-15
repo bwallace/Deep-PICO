@@ -8,7 +8,7 @@ Annotated data is courtesy of Rodney Sumerscales.
 Sample use: 
 
     > import LSTM_extraction
-    > LSTM_extraction.
+    > LSTM_extraction.LSTM_exp() # assumes *-w2v.bin file exists!!!
 
 Requires keras, sklearn and associated dependencies. 
 
@@ -53,9 +53,11 @@ from sklearn.metrics import roc_curve, auc
 
 import parse_summerscales 
 
-def load_trained_w2v_model(path="PubMed-w2v.bin"):
+#"PubMed-w2v.bin"
+def load_trained_w2v_model(path="PubMed-and-PMC-w2v.bin"):
     m = Word2Vec.load_word2vec_format(path, binary=True)
     return m 
+
 
 
 '''
