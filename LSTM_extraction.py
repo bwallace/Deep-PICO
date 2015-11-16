@@ -54,7 +54,7 @@ from sklearn.metrics import roc_curve, auc
 import parse_summerscales 
 
 #"PubMed-w2v.bin"
-def load_trained_w2v_model(path="PubMed-and-PMC-w2v.bin"):
+def load_trained_w2v_model(path="PubMed-w2v.bin"):
     m = Word2Vec.load_word2vec_format(path, binary=True)
     return m 
 
@@ -62,12 +62,10 @@ def load_trained_w2v_model(path="PubMed-and-PMC-w2v.bin"):
 
 '''
 note: this is for groups right now. the ranking performance is reasonable,
-        if not great (~.7 AUC). the next step should entail predicting
-        exactly two groups for each unique citation (so pick highest)
-        scoring contiguous tokens somehow??
+        if not great (~.7 AUC). 
 '''
-def LSTM_exp(wv=None, wv_dim=200, p_test=.2, n_epochs=10):
-    if wv is None:
+def LSTM_exp(wv=None, wv_dim=200, p_test=.25, n_epochs=10, use_w2v=True):
+    if wv is None and use_w2v:
         print("loading embeddings...")
         wv = load_trained_w2v_model() 
         print("ok!")
@@ -78,26 +76,35 @@ def LSTM_exp(wv=None, wv_dim=200, p_test=.2, n_epochs=10):
     v_size = len(vectorizer.vocabulary_)
 
     init_vectors = []
-    for t in vectorizer.vocabulary_:
-        try:
-            init_vectors.append(wv[t])
-        except:
-            init_vectors.append(unknown_words_to_vecs[t])
-    init_vectors = np.vstack(init_vectors)
+    if use_w2v:
+        #pdb.set_trace()
+        #for t in vectorizer.vocabulary_:
+        for token_idx, t in enumerate(vectorizer.vocabulary):
+            try:
+                init_vectors.append(wv[t])
+            except:
+                init_vectors.append(unknown_words_to_vecs[t])
+        init_vectors = np.vstack(init_vectors)
 
-
+    #pdb.set_trace()
     ''' build model; this should probably be factored out! '''
     print("constructing model...")
     model = Sequential()
     # embedding layer; map token indices to vector representations
-    embedding_layer = Embedding(v_size, wv_dim, weights=[init_vectors])
+
+    if use_w2v:
+        embedding_layer = Embedding(v_size, wv_dim, weights=[init_vectors])
+    else:
+        print ("no initial embeddings!!")
+        embedding_layer = Embedding(v_size, wv_dim)
+
     model.add(embedding_layer)
 
     model.add(LSTM(output_dim=128, 
         activation='sigmoid', inner_activation='hard_sigmoid'))
     
     # @TODO! tune
-    model.add(Dropout(0.25))
+    #model.add(Dropout(0.25))
     model.add(Dense(1))
     model.add(Activation('sigmoid')) 
 
@@ -137,9 +144,6 @@ def LSTM_exp(wv=None, wv_dim=200, p_test=.2, n_epochs=10):
 
 
 
-#def build_model(vectorizer, wv, wv_dim=200):
-
-
 
 def get_X_y(wv, wv_dim):
 
@@ -176,6 +180,8 @@ def get_X_y(wv, wv_dim):
             try:
                 v = wv[t]
             except:
+                print("%s not known!" % t)
+
                 # or maybe use 0s???
                 if not t in unknown_words_to_vecs:
                     v = np.random.uniform(-1,1,wv_dim)
