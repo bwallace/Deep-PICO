@@ -12,17 +12,15 @@ from sklearn.feature_extraction.text import CountVectorizer
 def _just_the_txt(s):
     return " ".join(s.findAll(text=True)).strip()
 
-##
-# fix this. a potential solution!!!
-# http://stackoverflow.com/questions/2957013/beautifulsoup-just-get-inside-of-a-tag-no-matter-how-many-enclosing-tags-there
 def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts", 
-                            start_and_stop_tokens=True): 
+                            start_and_stop_tokens=True, make_pmids_dict=False): 
     
     stop_token =  "STOPSTOPSTOP"
     start_token = "STARTSTARTSTART"
 
     pmids, docs, lbls = [], [], []
-    
+    pmids_dict = {}
+
     for f in _get_xml_file_names(annotated_data_path):
         soup = bs.BeautifulSoup(open(f).read())
         pmid = soup.find("abstract")['id']
@@ -73,15 +71,16 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
             doc_sentence_tokens.append(sent_tokenized)
 
 
-
         if start_and_stop_tokens:
             doc_sentence_lbls.append([-1])
             doc_sentence_tokens.append([stop_token])
             #pmids.append([pmid])
 
+        if make_pmids_dict:
+            pmids_dict[pmid] = (doc_sentence_tokens, doc_sentence_lbls)
+        
         docs.extend(doc_sentence_tokens)
         lbls.extend(doc_sentence_lbls)
-        #b.set_trace()
         pmids.extend([pmid]*len(doc_sentence_lbls))
 
             
@@ -97,7 +96,10 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
     texts = [" ".join(doc) for doc in docs]
     v.fit([" ".join(doc) for doc in docs])
 
-    return pmids, docs, lbls, v
+    if make_pmids_dict:
+        return pmids_dict, pmids, docs, lbls, v
+    else:
+        return pmids, docs, lbls, v
 
 
 
