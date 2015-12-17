@@ -20,15 +20,14 @@ stopwords = stopwords.words('english')
 # interventions specifically
 stopwords.extend(["either", "time", "patients", "or"])
 
-def annotate():
-    bviewer = BiViewer()
+def distantly_annotate(n=None):
+    '''
+    e.g., 
 
-    # start with non-drug trials that us the 'vs' 
-    # construction, e.g., "exercise vs diet"
-    # note that this explicitly does not consider
-    # drug trials
-    versus_studies = _find_vs(bviewer)
-    tag_versus_studies(versus_studies)
+    > tagged_pmids, tagged_abstracts, tokens_and_lbls, intervention_texts = distant_intervention_tag.distantly_annotate(500)
+    '''
+    bviewer = BiViewer()
+    return ds_interventions_abstracts(bviewer, num_studies=n) 
 
 def _tag_drugs(study):
     intervention_text = _iv_for_study(study)
@@ -71,7 +70,9 @@ def _find_token(seq, t):
     indices = []
     for i, t_j in enumerate(seq):
         if t_j.lower() == t:
-            indices.append((i, i, t))
+            # bcw: flipping this to be consistent
+            #indices.append((i, i, t))
+            indices.append((t, i, i))
     return indices
 
 def _iv_for_study(study):
@@ -206,6 +207,9 @@ def tag_versus_studies(versus_studies):
 
 def ds_interventions_abstracts(bviewer, num_studies=None):
     tagged_pmids, tagged_abstracts, tagged_iv_texts, abstracts = [], [], [], []
+    tokenized_abstracts, lbls = [], []
+    tokens_and_lbls = []
+    intervention_texts = []
     count = 0
     for study in bviewer:
         if count > num_studies:
@@ -216,7 +220,7 @@ def ds_interventions_abstracts(bviewer, num_studies=None):
         abstract = study.pubmed['abstract']
         intervention_cdsr = _iv_for_study(study)
         '''
-        ## first, is the 
+
         intervention_text = _iv_for_study(study)
         abstract_text = _abstract_for_study(study)
         if intervention_text is None or abstract_text == "":
@@ -235,14 +239,32 @@ def ds_interventions_abstracts(bviewer, num_studies=None):
 
             
             if len(tagged) > 0:
+                # note that this is a bit efficient/redundant
+                tokenized_abstract = nltk.word_tokenize(_abstract_for_study(study))
+                cur_lbls = [-1 for _ in range(len(tokenized_abstract))]
+                
+                for tag_span in tagged: 
+                    tag_word, start, stop = tag_span
+                    try:
+                        stop+1
+                    except:
+                        pdb.set_trace()
+
+                    for j in range(start, stop+1):
+                        cur_lbls[j] = 1
+
+                #pdb.set_trace()
+                tokenized_abstracts.append(tokenized_abstract)
+                lbls.append(cur_lbls)
                 tagged_abstracts.append(tagged)
                 abstracts.append(abstract_text)
                 tagged_pmids.append(cur_pmid)
                 tagged_iv_texts.append(intervention_text)
+                tokens_and_lbls.append(zip(tokenized_abstract, cur_lbls))
+                intervention_texts.append(intervention_text)
                 count += 1
 
-    pdb.set_trace()
-    return tagged_pmids, tagged_abstracts
+    return tagged_pmids, tagged_abstracts, tokens_and_lbls, intervention_texts
 
 def longest_common_substrings(s1, s2, return_spans=False):
     m = [[0] * (1 + len(s2)) for i in xrange(1 + len(s1))]
