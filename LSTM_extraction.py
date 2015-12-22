@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 '''
 Byron C. Wallace 
@@ -16,6 +17,11 @@ notes to self:
 
     * run in python 2.x 
     * this is only groups at the moment (using LSTM)
+
+@TODO 
+    
+    * implement BoW CRFs as a baseline 
+
 '''
 
 
@@ -61,7 +67,6 @@ def load_trained_w2v_model(path="PubMed-w2v.bin"):
 
 
 def build_model(use_w2v, v_size, wv_dim, init_vectors=None):
-
     ''' build, compile and return model '''
     print("constructing model...")
     model = Sequential()
@@ -79,7 +84,7 @@ def build_model(use_w2v, v_size, wv_dim, init_vectors=None):
         activation='sigmoid', inner_activation='hard_sigmoid'))
     
     # @TODO! tune
-    #model.add(Dropout(0.25))
+    model.add(Dropout(0.25))
     model.add(Dense(1))
     model.add(Activation('sigmoid')) 
 
@@ -122,20 +127,173 @@ def _get_threshold_func(theta):
     return vec_map_f
 
 
-def _tune_theta(raw_preds, y):
-    theta_vals = np.linspace(0,1,100)
+def _get_tokens():
+    pass 
+
+def _lax_match(true_idx_star, true_tokens, pred_indices, pred_spans):
+    # as per summerscales
+    ignore_these = ["a", "an", "the", "of", "had", "group", "groups", "arm"]
+
+    ### 
+    # any overlap?
+    overlapping_indices, overlapping_tokens = None, None
+    for indices, tokens in zip(pred_indices, pred_spans): 
+        overlapping_indices, overlapping_tokens = [], []
+        for j, idx in enumerate(indices): 
+            if (idx in true_idx_star) and (not tokens[j] in ignore_these):
+                overlapping_indices.append(idx)
+                overlapping_tokens = tokens[j]
+                pred_span = indices 
+
+        #overlapping_indices = [
+        #    idx for j, idx in enumerate(indices) if idx in true_idx_star and 
+        #        not tokens[j] in ignore_these]
+
+        if len(overlapping_indices) > 0:
+            break 
+
+    if len(overlapping_indices) == 0:
+        # no overlap
+        return False 
+
+    # here, overlapping_indices refers to the subset of indices
+    # in the *predicted set* that matches the indices in the
+    # specified true set
+    return (overlapping_indices, overlapping_tokens, pred_span)
+
+
+
+def _evaluate_detection(y_true, y_hat, X, vectorizer):
+    '''
+    Summerscales PhD thesis, 2013 
+    Page 100-101
+
+    This is the approach used for evaluating detected mentions. A detected mention is 
+    considered a match for an annotated mention if they consist of the same set of words 
+    (ignoring “a”, “an”, “the”, “of”, “had”, “group(s)”, and “arm”) or if the detected 
+    mention overlaps the annotated one and the overlap is not a symbol or stop
+    100 word. If a detected mention overlaps multiple annotated mentions, it is 
+    considered to be a false positive.
+    '''
+    #stop_words = 
+    # @TODO implement more forgiving metric.. plus let's 
+    # look at false negative/positives
+
+    true_pos_seqs = _contiguous_pos_indices(y_true) 
+    pred_pos_seqs = _contiguous_pos_indices(y_hat)
+
+    true_spans = _get_text_spans(X, true_pos_seqs, vectorizer)
+    pred_spans = _get_text_spans(X, pred_pos_seqs, vectorizer)
+
+    tps, fps = 0, 0
+
+    tp_overlapping_tokens = []
+    fp_tokens = []
+    # keep track of the indices already matched
+    already_matched_indices = []
+    for idx, true_pos_seq in enumerate(true_pos_seqs):
+        matched = _lax_match(true_pos_seqs[idx], true_spans, pred_pos_seqs, pred_spans)
+        if matched:
+            # overlapping indices is the set of *target* indices that 
+            # match the predicted tokens
+
+            overlapping_indices, overlapping_tokens, pred_span = matched 
+
+            if not pred_span in already_matched_indices:
+                already_matched_indices.append(pred_span)
+                #true_pos_overlapping.append((overlapping_indices, overlapping_tokens))
+                tps += 1
+                tp_overlapping_tokens.append(overlapping_tokens)
+            else: 
+                fps += 1
+
+    ###
+    # now count up predictions that were not matched
+    # with any true positives
+    ###
+    for idx, pred_pos_seq in enumerate(pred_pos_seqs):
+        # then this sequence didn't match any of the 
+        # true_pos_seq entries!
+        if not pred_pos_seq in already_matched_indices: 
+            fps += 1
+            #pdb.set_trace()
+
+    recall = float(tps) / float(len(true_pos_seqs))
+    precision = float(tps) / float(tps + fps) #float(len(pred_pos_seqs))
+    #pdb.set_trace()
+    '''
+    # now precision! 
+    fps = 0
+    pred_pos_overlapping = []
+    for idx, pred_pos_seq in enumerate(pred_pos_seqs):
+        matched = _lax_match(pred_pos_seqs[idx], pred_spans, true_pos_seqs, true_spans)
+        if not matched:
+            # because no match for this predicted positive!
+            fps += 1
+    precision = float(tps) / float()
+    '''
+    return recall, precision, tp_overlapping_tokens
+    #pdb.set_trace()
+
+
+'''
+        overlapping_indices = [idx for j, idx in enumerate(indices) if idx in true_pos_seqs[idx]]
+'''
+def _tune_theta(y, raw_preds, X, vectorizer):
+    theta_vals = np.linspace(0,.5,200)
     best_theta = None 
     best_score = -np.inf
     for theta in theta_vals:
         vec_map_f = _get_threshold_func(theta)
         y_hat = vec_map_f(raw_preds)
-        cur_score = f1_score(y, y_hat)
-        if cur_score > best_score:
+        #cur_score = f1_score(y, y_hat)
+        r, p, tp_overlapping_tokens = _evaluate_detection(y, y_hat, X, vectorizer)
+
+        cur_score = (2 * p * r) / (p + r)
+        #pdb.set_trace()
+        if cur_score >= best_score:
             best_score = cur_score
             best_theta = theta 
 
     return best_theta, best_score
     
+
+def _contiguous_pos_indices(y):
+    groups, cur_group = [], []
+    last_y = None
+    for idx, y_i in enumerate(list(y)):
+        if y_i == last_y == 1:
+            cur_group.append(idx)
+        elif y_i == 1: 
+            # then last_y was -1, but this is 1.
+            cur_group = [idx]
+        elif last_y == 1: 
+            groups.append(cur_group)
+            cur_group = []
+        last_y = y_i
+    groups.append(cur_group)
+    return groups
+
+
+def _get_text_spans(X, index_seqs, vectorizer):
+    spans = []
+    for idx_seq in index_seqs:
+        cur_tokens = [vectorizer.vocabulary[X[idx]] for idx in idx_seq]
+        spans.append(cur_tokens)
+    return spans 
+
+def _error_report(y_hat, y_true, vectorizer, X):
+    true_pos_seqs = _contiguous_pos_indices(y_true) 
+    pred_pos_seqs = _contiguous_pos_indices(y_hat)
+
+    true_spans = _get_text_spans(X, true_pos_seqs, vectorizer)
+    pred_spans = _get_text_spans(X, pred_pos_seqs, vectorizer)
+
+    return true_spans, pred_spans
+
+
+#def find_pos_spans(x):
+
 
 def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
     
@@ -156,7 +314,6 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
 
 
     v_size = len(vectorizer.vocabulary_)
-    #pdb.set_trace()
 
 
     ''' train / test '''
@@ -182,45 +339,33 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
         model = build_model(use_w2v, v_size, wv_dim, init_vectors)
         model.fit(train_X, train_y, nb_epoch=n_epochs)
         train_preds = model.predict(train_X)
-        theta, score = _tune_theta(train_preds, train_y)
+        #theta, score = _tune_theta(train_preds, train_y)
+
+        theta, score = _tune_theta(train_y, train_preds, train_X, vectorizer)
+        # _evaluate_detection(test_y, binary_preds, test_X, vectorizer))
         print("best theta is: %s with score: %s" % (theta, score))
 
         preds = model.predict(test_X)
         vec_map_f = _get_threshold_func(theta)        
-        binary_preds = vec_map_f(preds)
-        fold_score = f1_score(test_y, binary_preds)
-        print("fold %s score: %s" % (fold_idx, fold_score))
-        fold_metrics.append(fold_score)
+        binary_preds = [x[0] for x in vec_map_f(preds)]
+        
+        pred_pos_indices = [idx for idx in range(len(binary_preds)) if binary_preds[idx]>0]
+        intervention_preds =  [vectorizer.vocabulary[test_X[j]] for j in pred_pos_indices]
+        
+
+        true_pos_indices = [idx for idx in range(test_y.shape[0]) if test_y[idx]>0]
+        intervention_annotations = [vectorizer.vocabulary[test_X[j]] for j in true_pos_indices]
+
+
+        fold_score = _evaluate_detection(test_y, binary_preds, test_X, vectorizer)
+        p, r, tp_overlapping_tokens = fold_score
+        f1 = (2 * p * r) / (p + r)
+        #fold_score = f1_score(test_y, binary_preds)
+        print("fold %s. precision: %s; recall: %s; f1: %s" % (fold_idx, p, r, f1))
+        pdb.set_trace()
+        fold_metrics.append((p, r, f1))
 
     return fold_metrics
-        ### tune 
-    # @TODO! be sure to split at start of a pmid 
-    #   (i.e., do not split midway through and abstract!)
-    '''
-    N = X_tokens.shape[0]
-    test_n = int(p_test*N)
-
-    X_tokens_train = X_tokens[:-test_n]
-    X_tokens_test  = X_tokens[-test_n:]
-    y_train  = y[:-test_n]
-    y_test   = y[-test_n:]
-    pmids_train = pmids[:-test_n]
-    pmids_test  = pmids[-test_n:]
-
-    print("training!")
-    model.fit(X_tokens_train, y_train, nb_epoch=n_epochs)
-
-    print("ok. predicting...")
-    preds = model.predict(X_tokens_test)
-
-    fpr, tpr, thresholds = roc_curve(y_test, preds)
-    cur_auc = auc(fpr, tpr)
-    print("auc: %s" % cur_auc)
-
-    ### note to self: to inspect features you can do something like:
-    ### words = [vectorizer.vocabulary[j] for j in X_tokens_test[180:200]]
-    return model, preds, y_test
-    '''
 
 
 def get_PMIDs_to_X_y(wv, wv_dim):
@@ -228,6 +373,7 @@ def get_PMIDs_to_X_y(wv, wv_dim):
     pmids_dict, pmids, sentences, lbls, vectorizer = \
                 parse_summerscales.get_tokens_and_lbls(make_pmids_dict=True)
 
+   
     # see: https://github.com/fchollet/keras/issues/233
     # num_sentences x 1 x max_token_len x wv_dim
     # number of sequences x 1 x max number of tokens (padded to max len) x word vector size
@@ -284,7 +430,6 @@ def get_X_y(wv, wv_dim):
     X_embedded, X_tokens = [], [] # here a sequence associated with each doc/abstract
     y = []
     
-
     #X_tokens = []
     cur_pmid = pmids[0]
    
@@ -381,6 +526,20 @@ def load_bin_vec(fname, vocab):
                 f.read(binary_len)
     return word_vecs
 
+'''
+A detected mention is considered a match for an annotated mention if they 
+consist of the same set of words (ignoring "a", "an", "the", "of", "group(s)",
+and "arm") or if the detected mention overlaps the annotated 
+one and the overlap is not a symbol or stop word. If a detected 
+mention overlaps multiple annotated mentions, it is considered to be 
+a false positive. If multiple detected mentions overlap the same annotated 
+mention the detected mention with the most overlapping tokens (not counting 
+symbols and stop words) is considered to be a true positive and the 
+others are counted as false positives. Annotated mentions that do not 
+match detected mentions are considered to be false negatives.
+ -- summerscales, p100-101
+'''
+
 
 
 
@@ -429,7 +588,7 @@ def LSTM_exp(wv=None, wv_dim=200, p_test=.25, n_epochs=10, use_w2v=True):
         activation='sigmoid', inner_activation='hard_sigmoid'))
     
     # @TODO! tune
-    #model.add(Dropout(0.25))
+    model.add(Dropout(0.5))
     model.add(Dense(1))
     model.add(Activation('sigmoid')) 
 
