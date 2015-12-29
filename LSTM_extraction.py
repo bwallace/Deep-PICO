@@ -30,6 +30,7 @@ from __future__ import print_function
 
 import sys
 import pdb 
+import copy 
 
 import numpy as np
 np.random.seed(1337)  # for reproducibility
@@ -40,6 +41,7 @@ import pandas as pd
 import gensim 
 from gensim.models import Word2Vec
 
+import keras
 from keras.preprocessing import sequence
 from keras.optimizers import RMSprop
 from keras.models import Sequential
@@ -59,6 +61,7 @@ from sklearn.metrics import roc_curve, auc, f1_score
 from sklearn.cross_validation import KFold
 
 import parse_summerscales 
+import distant_intervention_tag 
 
 #"PubMed-w2v.bin"
 def load_trained_w2v_model(path="PubMed-w2v.bin"):
@@ -205,8 +208,9 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
                 tps += 1
                 tp_overlapping_tokens.append(overlapping_tokens)
             else: 
+                fp_tokens.append(overlapping_tokens)
                 fps += 1
-
+       
     ###
     # now count up predictions that were not matched
     # with any true positives
@@ -215,8 +219,10 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
         # then this sequence didn't match any of the 
         # true_pos_seq entries!
         if not pred_pos_seq in already_matched_indices: 
+            fp_tokens.append(pred_spans[idx])
             fps += 1
-            #pdb.set_trace()
+
+            
 
     recall = float(tps) / float(len(true_pos_seqs))
     precision = float(tps) / float(tps + fps) #float(len(pred_pos_seqs))
@@ -232,25 +238,26 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
             fps += 1
     precision = float(tps) / float()
     '''
-    return recall, precision, tp_overlapping_tokens
-    #pdb.set_trace()
+    pdb.set_trace()
+    return recall, precision, tp_overlapping_tokens, fp_tokens
+    
 
 
 '''
         overlapping_indices = [idx for j, idx in enumerate(indices) if idx in true_pos_seqs[idx]]
 '''
 def _tune_theta(y, raw_preds, X, vectorizer):
-    theta_vals = np.linspace(0,.5,200)
+    theta_vals = np.linspace(0,.25,200)
     best_theta = None 
     best_score = -np.inf
     for theta in theta_vals:
         vec_map_f = _get_threshold_func(theta)
         y_hat = vec_map_f(raw_preds)
         #cur_score = f1_score(y, y_hat)
-        r, p, tp_overlapping_tokens = _evaluate_detection(y, y_hat, X, vectorizer)
+        r, p, tp_overlapping_tokens, fp_tokens = _evaluate_detection(y, y_hat, X, vectorizer)
 
         cur_score = (2 * p * r) / (p + r)
-        #pdb.set_trace()
+        
         if cur_score >= best_score:
             best_score = cur_score
             best_theta = theta 
@@ -271,7 +278,9 @@ def _contiguous_pos_indices(y):
             groups.append(cur_group)
             cur_group = []
         last_y = y_i
-    groups.append(cur_group)
+    
+    if len(cur_group) > 0:
+        groups.append(cur_group)
     return groups
 
 
@@ -292,22 +301,28 @@ def _error_report(y_hat, y_true, vectorizer, X):
     return true_spans, pred_spans
 
 
-#def find_pos_spans(x):
-
-
-def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
+def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True, 
+                n_folds=5, distant_pretrain=False):
     
+
     if wv is None and use_w2v:
         print("loading embeddings...")
         wv = load_trained_w2v_model() 
         print("ok!")
 
+
     # pmids_X_y_d maps pubmed identifiers to threeples of
     # tokens, embedded vectors and corresponding labels
-    pmids_X_y_d, vectorizer, unknown_words_to_vecs = get_PMIDs_to_X_y(
-                                wv=wv, wv_dim=wv_dim)
+    if distant_pretrain:
+        pmids_X_y_d, vectorizer, unknown_words_to_vecs, X_DS_embedded, X_DS_tokens, y_DS = get_PMIDs_to_X_y(
+                                    wv=wv, wv_dim=wv_dim, distant=True, n=5000)
+        #X_DS_tokens = np.array([np.array(token_idx) for token_idx in X_DS_tokens])
+        X_DS_tokens = np.vstack(X_DS_tokens)
+        y_DS = np.array(y_DS)
+    else:
+        pmids_X_y_d, vectorizer, unknown_words_to_vecs = get_PMIDs_to_X_y(
+                                    wv=wv, wv_dim=wv_dim, distant=False)
 
-    
     init_vectors = None
     if use_w2v:
         init_vectors = _get_init_vectors(vectorizer, wv, unknown_words_to_vecs)
@@ -315,7 +330,7 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
 
     v_size = len(vectorizer.vocabulary_)
 
-
+    
     ''' train / test '''
     '''
         * CV on PMIDs 
@@ -325,6 +340,12 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
     n = len(all_pmids)
     kf = KFold(n, random_state=1337, shuffle=True, n_folds=n_folds)
     
+    if distant_pretrain:
+        DS_model = build_model(use_w2v, v_size, wv_dim, init_vectors)
+        print("pretraining!")
+        DS_model.fit(X_DS_tokens, y_DS, nb_epoch=n_epochs)
+        DS_model_wts = DS_model.get_weights() 
+
     fold_metrics = []
     for fold_idx, (train, test) in enumerate(kf):
         print("on fold %s" % fold_idx)
@@ -335,11 +356,19 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
 
         train_X, train_y = _assemble_X_y_for_pmids(pmids_X_y_d, train_pmids)
         test_X, test_y   = _assemble_X_y_for_pmids(pmids_X_y_d, test_pmids)
-
-        model = build_model(use_w2v, v_size, wv_dim, init_vectors)
+            
+        if distant_pretrain:
+            model = keras.models.model_from_yaml(DS_model.to_yaml())
+            model.set_weights(DS_model_wts)
+        else: 
+            model = build_model(use_w2v, v_size, wv_dim, init_vectors)
+    
         model.fit(train_X, train_y, nb_epoch=n_epochs)
         train_preds = model.predict(train_X)
         #theta, score = _tune_theta(train_preds, train_y)
+
+        '''
+        pdb.set_trace()
 
         theta, score = _tune_theta(train_y, train_preds, train_X, vectorizer)
         # _evaluate_detection(test_y, binary_preds, test_X, vectorizer))
@@ -348,7 +377,9 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
         preds = model.predict(test_X)
         vec_map_f = _get_threshold_func(theta)        
         binary_preds = [x[0] for x in vec_map_f(preds)]
-        
+        '''
+        binary_preds = list(model.predict_classes(test_X))
+
         pred_pos_indices = [idx for idx in range(len(binary_preds)) if binary_preds[idx]>0]
         intervention_preds =  [vectorizer.vocabulary[test_X[j]] for j in pred_pos_indices]
         
@@ -357,23 +388,71 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=5, use_w2v=True, n_folds=5):
         intervention_annotations = [vectorizer.vocabulary[test_X[j]] for j in true_pos_indices]
 
 
-        fold_score = _evaluate_detection(test_y, binary_preds, test_X, vectorizer)
-        p, r, tp_overlapping_tokens = fold_score
-        f1 = (2 * p * r) / (p + r)
+        p, r, tp_overlapping_tokens, fp_tokens = _evaluate_detection(test_y, binary_preds, test_X, vectorizer)
+
+        if p+r == 0:
+            f1 = None 
+        else:
+            f1 = (2 * p * r) / (p + r)
         #fold_score = f1_score(test_y, binary_preds)
         print("fold %s. precision: %s; recall: %s; f1: %s" % (fold_idx, p, r, f1))
-        pdb.set_trace()
+        #pdb.set_trace()
         fold_metrics.append((p, r, f1))
 
     return fold_metrics
 
 
-def get_PMIDs_to_X_y(wv, wv_dim):
+def _get_distantly_lbled_tokens(n, wv, wv_dim):
+    X_DS_embedded, y_DS = [], []
+    # keep track of unique tokens in DS because 
+    # we'll want to hand these off to our vectorizer
+    tokens_DS = []
+    unknown_words_to_vecs = {}
+    tagged_pmids, tagged_abstracts, tokens_and_lbls, intervention_texts = \
+                distant_intervention_tag.distantly_annotate(n=n)
+    for abs_idx, abs_tokens_and_lbls in enumerate(tokens_and_lbls):
+        for token_idx, token_and_lbl in enumerate(abs_tokens_and_lbls):
+            t, lbl = token_and_lbl
+            try:
+                v = wv[t]
+            except:
+                if not t in unknown_words_to_vecs:
+                    v = np.random.uniform(-1,1,wv_dim)
+                    unknown_words_to_vecs[t] = v 
+                v = unknown_words_to_vecs[t]
+            X_DS_embedded.append(v)
+            y_DS.append(lbl)
+            tokens_DS.append(t)
+            tokens_DS = list(set(tokens_DS))
+    
+    return tokens_and_lbls, X_DS_embedded, y_DS, tokens_DS, unknown_words_to_vecs
 
+
+def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
+    
+    unknown_words_to_vecs = {}
+    tokens_DS = None 
+
+    if distant:
+        tokens_and_lbls, X_DS_embedded, y_DS, tokens_DS, unknown_words_to_vecs = \
+                _get_distantly_lbled_tokens(n=n, wv=wv, wv_dim=wv_dim)
+
+    # we pass tokens_DS -- the unique tokens in the DS
+    # data -- to go into our vectorizer!
     pmids_dict, pmids, sentences, lbls, vectorizer = \
-                parse_summerscales.get_tokens_and_lbls(make_pmids_dict=True)
+                parse_summerscales.get_tokens_and_lbls(
+                        make_pmids_dict=True, other_words=tokens_DS)
 
-   
+    ###
+    # now loop through and get X_tokens representation!
+    if distant:
+        # really token_indices maybe more correct
+        X_DS_tokens = []
+        for abs_idx, abs_tokens_and_lbls in enumerate(tokens_and_lbls):
+            for token_idx, token_and_lbl in enumerate(abs_tokens_and_lbls):
+                t, lbl = token_and_lbl
+                X_DS_tokens.append(vectorizer.vocabulary_[t])
+
     # see: https://github.com/fchollet/keras/issues/233
     # num_sentences x 1 x max_token_len x wv_dim
     # number of sequences x 1 x max number of tokens (padded to max len) x word vector size
@@ -383,7 +462,7 @@ def get_PMIDs_to_X_y(wv, wv_dim):
     #X_embedded = np.zeros((num_sentences, wv_dim))
     X_embedded, X_tokens = [], [] # here a sequence associated with each doc/abstract
 
-    unknown_words_to_vecs = {}
+    #unknown_words_to_vecs = {}
     pmids_to_X_y = {}
     for pmid in pmids_dict:
         pmid_sentences, pmid_lbls = pmids_dict[pmid]
@@ -396,7 +475,6 @@ def get_PMIDs_to_X_y(wv, wv_dim):
                 try:
                     v = wv[t]
                 except:
-
                     # or maybe use 0s???
                     if not t in unknown_words_to_vecs:
                         print("word '%s' not known!" % t)
@@ -412,13 +490,24 @@ def get_PMIDs_to_X_y(wv, wv_dim):
 
         pmids_to_X_y[pmid] = (np.vstack(X_embedded), np.vstack(X_tokens), np.hstack(y))
 
+    if distant:
+        return pmids_to_X_y, vectorizer, unknown_words_to_vecs, X_DS_embedded, X_DS_tokens, y_DS
+
     return pmids_to_X_y, vectorizer, unknown_words_to_vecs
     
 
 
-def get_X_y(wv, wv_dim):
+def get_X_y(wv, wv_dim, vectorizer=None, distant=False, n=None):
 
-    pmids, sentences, lbls, vectorizer = parse_summerscales.get_tokens_and_lbls()
+    pmids, sentences, lbls, vectorizer = [None]*4
+    if distant: 
+        #pmids, sentences, lbls, vectorizer = distant_intervention_tag.get_tokens_and_lbls(N=N)
+        pmids, tagged_abstracts, tokens_and_lbls, intervention_texts = \
+                distant_intervention_tag.distantly_annotate(n=n)
+    else:
+        pmids, sentences, lbls, vectorizer = parse_summerscales.get_tokens_and_lbls()
+
+    pdb.set_trace()
 
     # see: https://github.com/fchollet/keras/issues/233
     # num_sentences x 1 x max_token_len x wv_dim
@@ -555,6 +644,7 @@ def LSTM_exp(wv=None, wv_dim=200, p_test=.25, n_epochs=10, use_w2v=True):
         wv = load_trained_w2v_model() 
         print("ok!")
 
+
     X_embedded, X_tokens, y, vectorizer, unknown_words_to_vecs, pmids = get_X_y(
             wv=wv, wv_dim=wv_dim)
 
@@ -588,7 +678,7 @@ def LSTM_exp(wv=None, wv_dim=200, p_test=.25, n_epochs=10, use_w2v=True):
         activation='sigmoid', inner_activation='hard_sigmoid'))
     
     # @TODO! tune
-    model.add(Dropout(0.5))
+    model.add(Dropout(0.25))
     model.add(Dense(1))
     model.add(Activation('sigmoid')) 
 

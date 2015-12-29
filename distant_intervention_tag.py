@@ -206,6 +206,9 @@ def tag_versus_studies(versus_studies):
             pass 
 
 def ds_interventions_abstracts(bviewer, num_studies=None):
+    stop_token =  "STOPSTOPSTOP"
+    start_token = "STARTSTARTSTART"
+
     tagged_pmids, tagged_abstracts, tagged_iv_texts, abstracts = [], [], [], []
     tokenized_abstracts, lbls = [], []
     tokens_and_lbls = []
@@ -241,6 +244,8 @@ def ds_interventions_abstracts(bviewer, num_studies=None):
             if len(tagged) > 0:
                 # note that this is a bit efficient/redundant
                 tokenized_abstract = nltk.word_tokenize(_abstract_for_study(study))
+                tokenized_abstract.insert(0, start_token)
+                tokenized_abstract.append(stop_token)
                 cur_lbls = [-1 for _ in range(len(tokenized_abstract))]
                 
                 for tag_span in tagged: 
