@@ -13,11 +13,15 @@ def _just_the_txt(s):
     return " ".join(s.findAll(text=True)).strip()
 
 def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts", 
-                            start_and_stop_tokens=True, make_pmids_dict=False): 
+                            start_and_stop_tokens=True, make_pmids_dict=False,
+                            other_words=None): 
     
     stop_token =  "STOPSTOPSTOP"
     start_token = "STARTSTARTSTART"
 
+    if other_words is None: 
+        other_words = []
+        
     pmids, docs, lbls = [], [], []
     pmids_dict = {}
 
@@ -85,13 +89,18 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
 
             
     
-    ## just use sklearn to get indices for vocab
+    ###
+    # just use sklearn to get indices for vocab
     V = []
     for d in docs:
         V.extend(d)
 
     # will probably blow up if you introduce more data... 
     vocab = list(set(V))
+    vocab.extend(other_words)
+    vocab = list(set(vocab))
+
+    #vocab.append("unknownword") # unk
     v = CountVectorizer(ngram_range=(1,1), vocabulary=vocab, binary=True)
     texts = [" ".join(doc) for doc in docs]
     v.fit([" ".join(doc) for doc in docs])
