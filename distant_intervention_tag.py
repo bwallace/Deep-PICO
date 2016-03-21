@@ -1,18 +1,18 @@
 import pdb 
 import string 
 
-import cochranenlp
-from cochranenlp.readers.biviewer import BiViewer
-from cochranenlp.textprocessing.drugbank import Drugbank
+#import cochranenlp
+#from cochranenlp.readers.biviewer import BiViewer
+#from cochranenlp.textprocessing.drugbank import Drugbank
 
 import nltk
 from nltk.corpus import stopwords 
 
 from noaho import NoAho
 
-import fuzzywuzzy
+#import fuzzywuzzy
 
-drugbank = Drugbank()
+#drugbank = Drugbank()
 stopwords = stopwords.words('english')
 # hand-crafted and intended for targeting interventions!
 # some of these are just words that are likely to be shared
@@ -47,6 +47,7 @@ def _match_placebo(abstract_tokens, intervention_tokens):
         return abstract_placebo
     return -1
 
+"
 def get_drugs(abstract_tokens, interventions_tokens, add_placebo=True):
     abstract_drugs = drugbank._find_longest_token_matches(abstract_tokens)
     cdsr_drugs = drugbank._find_longest_token_matches(interventions_tokens)
@@ -65,6 +66,7 @@ def get_drugs(abstract_tokens, interventions_tokens, add_placebo=True):
             matched_indices.extend(matched_placebo)
 
     return matched_indices
+
 
 def _find_token(seq, t):
     indices = []
@@ -85,11 +87,13 @@ def _is_drug_trial(study):
     # do both the iv text and abstract mention a drug??
     intervention_text = _iv_for_study(study)
     abstract_text = study.pubmed['abstract']
-
+    """
     is_drug_trial = drugbank.contains_drug(intervention_text.lower()) and \
                     drugbank.contains_drug(abstract_text.lower())
 
     return is_drug_trial
+    """
+    return None
 
 def _find_vs(bviewer, include_drug_trials=False):
     studies = []

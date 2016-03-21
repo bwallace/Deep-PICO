@@ -25,11 +25,14 @@ notes to self:
 '''
 
 
+
+
+
 from __future__ import absolute_import
 from __future__ import print_function
 
 import sys
-import pdb 
+#import pdb
 import copy 
 
 import numpy as np
@@ -48,8 +51,17 @@ from keras.models import Sequential
 from keras.layers.recurrent import LSTM
 from keras.layers.core import Dense, Dropout, Activation, Flatten
 from keras.layers.embeddings import Embedding
+
 from keras.layers.convolutional import Convolution1D, MaxPooling1D
 from keras.datasets import imdb
+
+from keras.optimizers import Adam
+
+
+from keras.preprocessing.sequence import pad_sequences
+
+from keras.callbacks import ModelCheckpoint
+from keras.callbacks import Callback
 
 import nltk 
 
@@ -57,11 +69,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 
 import sklearn
-from sklearn.metrics import roc_curve, auc, f1_score
+from sklearn.metrics import roc_curve, auc, f1_score, accuracy_score
 from sklearn.cross_validation import KFold
 
 import parse_summerscales 
-import distant_intervention_tag 
+# @TODO Add this
+#import distant_intervention_tag
+
 
 #"PubMed-w2v.bin"
 def load_trained_w2v_model(path="PubMed-w2v.bin"):
@@ -69,55 +83,84 @@ def load_trained_w2v_model(path="PubMed-w2v.bin"):
     return m 
 
 
-def build_model(use_w2v, v_size, wv_dim, init_vectors=None):
+def build_model(use_w2v, v_size, wv_dim, max_length, init_vectors=None):
     ''' build, compile and return model '''
     print("constructing model...")
     model = Sequential()
     # embedding layer; map token indices to vector representations
 
     if use_w2v:
-        embedding_layer = Embedding(v_size, wv_dim, weights=[init_vectors])
+        embedding_layer = Embedding(v_size, wv_diDm, weights=[init_vectors], input_length=max_length)
     else:
         print ("no initial embeddings!!")
         embedding_layer = Embedding(v_size, wv_dim)
 
     model.add(embedding_layer)
+    model.add(LSTM(output_dim=128, return_sequences=False, inner_activation='relu'))
+    model.add(Dropout(.2))
+    model.add(Dense(max_length))
+    model.add(Activation('softmax'))
+    model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
 
-    model.add(LSTM(output_dim=128, 
-        activation='sigmoid', inner_activation='hard_sigmoid'))
-    
+    """
     # @TODO! tune
-    model.add(Dropout(0.25))
+    model.add(Dropout(0.5))
+    model.add(LSTM(output_dim=128, activation='sigmoid', inner_activation='tanh'))
+    model.add(Dropout(0.5))
     model.add(Dense(1))
-    model.add(Activation('sigmoid')) 
+    model.add(Activation('sigmoid'))
 
     model.compile(loss='binary_crossentropy',
               optimizer='adam',
               class_mode="binary")
+    """
     print("model compiled.")
     return model 
 
 
 def _get_init_vectors(vectorizer, wv, unknown_words_to_vecs):
     init_vectors = []
+
     for token_idx, t in enumerate(vectorizer.vocabulary):
         try:
             init_vectors.append(wv[t])
         except:
             init_vectors.append(unknown_words_to_vecs[t])
     init_vectors = np.vstack(init_vectors)
+
     return init_vectors
 
-def _assemble_X_y_for_pmids(pmids_X_y_d, pmids):
+def _assemble_X_y_for_pmids(pmids_X_y_d, pmids, groups_map, max_size, vocab_map=None):
     X, y = [], []
+    if not vocab_map:
+        vocab_map = {}
+    i = 0
+    """
     for pmid in pmids:
         X_i_vec, X_i, y_i = pmids_X_y_d[pmid]
-        X.extend(X_i)
-        y.extend(y_i)
 
-    X = np.vstack(X)
-    y = np.hstack(y)
-    return X, y 
+        for x_i in range(i, i + len(X_i_vec)):
+
+            vocab_map[x_i] = groups_map[pmid]
+            i+=1
+
+        X.append(X_i)
+        y.append(y_i)
+    """
+
+    for i, pmid in enumerate(pmids):
+        X_i_vec, X_i, y_i = pmids_X_y_d[pmid]
+        vocab_map[i] = pmid
+        X.append(X_i)
+        y.append(y_i)
+    X = pad_sequences(X, maxlen=max_size)
+
+
+   #     X.extend(X_i)
+     #   y.extend(y_i)
+   # X = np.vstack(X)
+    y = np.vstack(y)
+    return X, y, vocab_map
       
 def _get_threshold_func(theta):
     def map_f(x):
@@ -139,7 +182,7 @@ def _lax_match(true_idx_star, true_tokens, pred_indices, pred_spans):
 
     ### 
     # any overlap?
-    overlapping_indices, overlapping_tokens = None, None
+    overlapping_indices, overlapping_tokens = [], []
     for indices, tokens in zip(pred_indices, pred_spans): 
         overlapping_indices, overlapping_tokens = [], []
         for j, idx in enumerate(indices): 
@@ -164,9 +207,90 @@ def _lax_match(true_idx_star, true_tokens, pred_indices, pred_spans):
     # specified true set
     return (overlapping_indices, overlapping_tokens, pred_span)
 
+def _crf_evaluate_detection(ground_truth, predicted, X, vectorizer):
+    '''
+    Summerscales PhD thesis, 2013
+    Page 100-101
+
+    This is the approach used for evaluating detected mentions. A detected mention is
+    considered a match for an annotated mention if they consist of the same set of words
+    (ignoring “a”, “an”, “the”, “of”, “had”, “group(s)”, and “arm”) or if the detected
+    mention overlaps the annotated one and the overlap is not a symbol or stop
+    100 word. If a detected mention overlaps multiple annotated mentions, it is
+    considered to be a false positive.
+    '''
+    #stop_words =
+    # @TODO implement more forgiving metric.. plus let's
+    # look at false negative/positives
+    tps, fps = 0, 0
+
+    for y_true, y_hat in zip(ground_truth, predicted):
+
+        true_pos_seqs = _contiguous_pos_indices(y_true)
+        print('true_pos_seqs: {}'.format(true_pos_seqs))
+        pred_pos_seqs = _contiguous_pos_indices(y_hat)
+
+        true_spans = _get_text_spans(X, true_pos_seqs, vectorizer)
+        pred_spans = _get_text_spans(X, pred_pos_seqs, vectorizer)
+
+        tp_overlapping_tokens = []
+        fp_tokens = []
+        # keep track of the indices already matched
+        already_matched_indices = []
+        for idx, true_pos_seq in enumerate(true_pos_seqs):
+            matched = _lax_match(true_pos_seqs[idx], true_spans, pred_pos_seqs, pred_spans)
+            if matched:
+                # overlapping indices is the set of *target* indices that
+                # match the predicted tokens
+
+                overlapping_indices, overlapping_tokens, pred_span = matched
+
+                if not pred_span in already_matched_indices:
+                    already_matched_indices.append(pred_span)
+                    #true_pos_overlapping.append((overlapping_indices, overlapping_tokens))
+                    tps += 1
+                    tp_overlapping_tokens.append(overlapping_tokens)
+                else:
+                    fp_tokens.append(overlapping_tokens)
+                    fps += 1
+
+    ###
+    # now count up predictions that were not matched
+    # with any true positives
+    ###
+    for idx, pred_pos_seq in enumerate(pred_pos_seqs):
+        # then this sequence didn't match any of the
+        # true_pos_seq entries!
+        if not pred_pos_seq in already_matched_indices:
+            fp_tokens.append(pred_spans[idx])
+            fps += 1
+    if true_pos_seqs is None:
+        recall = 0
+    elif len(true_pos_seqs) > 0:
+        recall = float(tps) / float(len(true_pos_seqs))
+    else:
+        recall = 0
+    precision = float(tps) / float(tps + fps) #float(len(pred_pos_seqs))
+    #pdb.set_trace()
+    '''
+    # now precision!
+    fps = 0
+    pred_pos_overlapping = []
+    for idx, pred_pos_seq in enumerate(pred_pos_seqs):
+        matched = _lax_match(pred_pos_seqs[idx], pred_spans, true_pos_seqs, true_spans)
+        if not matched:
+            # because no match for this predicted positive!
+            fps += 1
+    precision = float(tps) / float()
+    '''
+   # pdb.set_trace()
+    accuracy = accuracy_score(y_true, y_hat)
+    return recall, precision, tp_overlapping_tokens, fp_tokens, accuracy
 
 
 def _evaluate_detection(y_true, y_hat, X, vectorizer):
+    print('Y true: {}'.format(y_true))
+    print('Y hat: {}'.format(y_hat))
     '''
     Summerscales PhD thesis, 2013 
     Page 100-101
@@ -182,7 +306,8 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
     # @TODO implement more forgiving metric.. plus let's 
     # look at false negative/positives
 
-    true_pos_seqs = _contiguous_pos_indices(y_true) 
+    true_pos_seqs = _contiguous_pos_indices(y_true)
+    print('true_pos_seqs: {}'.format(true_pos_seqs))
     pred_pos_seqs = _contiguous_pos_indices(y_hat)
 
     true_spans = _get_text_spans(X, true_pos_seqs, vectorizer)
@@ -221,10 +346,12 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
         if not pred_pos_seq in already_matched_indices: 
             fp_tokens.append(pred_spans[idx])
             fps += 1
-
-            
-
-    recall = float(tps) / float(len(true_pos_seqs))
+    if true_pos_seqs is None:
+        recall = 0
+    elif len(true_pos_seqs) > 0:
+        recall = float(tps) / float(len(true_pos_seqs))
+    else:
+        recall = 0
     precision = float(tps) / float(tps + fps) #float(len(pred_pos_seqs))
     #pdb.set_trace()
     '''
@@ -238,8 +365,9 @@ def _evaluate_detection(y_true, y_hat, X, vectorizer):
             fps += 1
     precision = float(tps) / float()
     '''
-    pdb.set_trace()
-    return recall, precision, tp_overlapping_tokens, fp_tokens
+   # pdb.set_trace()
+    accuracy = accuracy_score(y_true, y_hat)
+    return recall, precision, tp_overlapping_tokens, fp_tokens, accuracy
     
 
 
@@ -269,6 +397,7 @@ def _contiguous_pos_indices(y):
     groups, cur_group = [], []
     last_y = None
     for idx, y_i in enumerate(list(y)):
+        y_i = int(y_i)
         if y_i == last_y == 1:
             cur_group.append(idx)
         elif y_i == 1: 
@@ -286,6 +415,7 @@ def _contiguous_pos_indices(y):
 
 def _get_text_spans(X, index_seqs, vectorizer):
     spans = []
+
     for idx_seq in index_seqs:
         cur_tokens = [vectorizer.vocabulary[X[idx]] for idx in idx_seq]
         spans.append(cur_tokens)
@@ -297,19 +427,21 @@ def _error_report(y_hat, y_true, vectorizer, X):
 
     true_spans = _get_text_spans(X, true_pos_seqs, vectorizer)
     pred_spans = _get_text_spans(X, pred_pos_seqs, vectorizer)
+    print("true spans: {}".format(true_spans))
+    print('pred spans: {}'.format(pred_spans))
 
     return true_spans, pred_spans
 
 
-def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True, 
-                n_folds=5, distant_pretrain=False):
+def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True,
+                n_folds=5, distant_pretrain=False, model_name="LSTM_exp2.h5py"):
     
 
     if wv is None and use_w2v:
         print("loading embeddings...")
-        wv = load_trained_w2v_model() 
+        wv = load_trained_w2v_model(path='wikipedia-pubmed-and-PMC-w2v.bin')
         print("ok!")
-
+    max_l = 400
 
     # pmids_X_y_d maps pubmed identifiers to threeples of
     # tokens, embedded vectors and corresponding labels
@@ -320,13 +452,12 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True,
         X_DS_tokens = np.vstack(X_DS_tokens)
         y_DS = np.array(y_DS)
     else:
-        pmids_X_y_d, vectorizer, unknown_words_to_vecs = get_PMIDs_to_X_y(
-                                    wv=wv, wv_dim=wv_dim, distant=False)
+        pmids_X_y_d, vectorizer, unknown_words_to_vecs, groups_map, pmids_dict = get_PMIDs_to_X_y(
+                                    wv=wv, wv_dim=wv_dim, distant=False, max_length=max_l)
 
     init_vectors = None
     if use_w2v:
         init_vectors = _get_init_vectors(vectorizer, wv, unknown_words_to_vecs)
-
 
     v_size = len(vectorizer.vocabulary_)
 
@@ -338,12 +469,12 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True,
     '''
     all_pmids = pmids_X_y_d.keys()
     n = len(all_pmids)
+
     kf = KFold(n, random_state=1337, shuffle=True, n_folds=n_folds)
-    
     if distant_pretrain:
         DS_model = build_model(use_w2v, v_size, wv_dim, init_vectors)
         print("pretraining!")
-        DS_model.fit(X_DS_tokens, y_DS, nb_epoch=n_epochs)
+        DS_model.fit(X_DS_tokens, y_DS, nb_epoch=n_epochs, verbose=2)
         DS_model_wts = DS_model.get_weights() 
 
     fold_metrics = []
@@ -354,16 +485,18 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True,
         # sanity check
         assert(len(set(train_pmids).intersection(set(test_pmids)))) == 0
 
-        train_X, train_y = _assemble_X_y_for_pmids(pmids_X_y_d, train_pmids)
-        test_X, test_y   = _assemble_X_y_for_pmids(pmids_X_y_d, test_pmids)
-            
+        train_X, train_y, _ = _assemble_X_y_for_pmids(pmids_X_y_d, train_pmids, groups_map, max_size=max_l)
+        test_X, test_y, _vocab_map   = _assemble_X_y_for_pmids(pmids_X_y_d, test_pmids, groups_map, max_size=max_l)
+
         if distant_pretrain:
             model = keras.models.model_from_yaml(DS_model.to_yaml())
             model.set_weights(DS_model_wts)
-        else: 
-            model = build_model(use_w2v, v_size, wv_dim, init_vectors)
-    
-        model.fit(train_X, train_y, nb_epoch=n_epochs)
+        else:
+
+            model = build_model(use_w2v, v_size, wv_dim, max_l, init_vectors)
+
+        checkpointer = ModelCheckpoint(filepath=model_name, verbose=1, save_best_only=True)
+        history = model.fit(train_X, train_y, batch_size=48, nb_epoch=n_epochs, callbacks=[checkpointer])
         train_preds = model.predict(train_X)
         #theta, score = _tune_theta(train_preds, train_y)
 
@@ -378,27 +511,86 @@ def LSTM_exp2(wv=None, wv_dim=200, n_epochs=10, use_w2v=True,
         vec_map_f = _get_threshold_func(theta)        
         binary_preds = [x[0] for x in vec_map_f(preds)]
         '''
-        binary_preds = list(model.predict_classes(test_X))
+
+        test_pred = model.predict_classes(test_X)
+        predictions = model.predict(test_X)
+
+        pred_list = list(test_pred)
+
+        """
 
         pred_pos_indices = [idx for idx in range(len(binary_preds)) if binary_preds[idx]>0]
-        intervention_preds =  [vectorizer.vocabulary[test_X[j]] for j in pred_pos_indices]
-        
+        intervention_preds = [vectorizer.vocabulary[test_X[j]] for j in pred_pos_indices]
 
         true_pos_indices = [idx for idx in range(test_y.shape[0]) if test_y[idx]>0]
+        """
+        g_i = []
+
+        for i, pmid in enumerate(test_pmids):
+            print(pmid)
+            prob_predictions = predictions[i, :]
+
+            idxs = np.argpartition(prob_predictions, -2)[-2:]
+            sorted_idxs = idxs[np.argsort(prob_predictions[idxs])]
+
+            vocab = groups_map[pmid]
+            orig_text = pmids_dict[pmid][0]
+            count = 0
+            pred_words = []
+
+            for i in range(sorted_idxs.shape[0]):
+                x = sorted_idxs[i]
+
+                if len(orig_text) < max_l and x - (max_l - len(orig_text)) > 0:
+                     x = x - (max_l - len(orig_text))
+                word = orig_text[x]
+                pred_words.append(word)
+
+                for v_word in vocab:
+
+
+                    if word in v_word:
+                        count += 1
+
+            print(pred_words, vocab)
+            """
+            print(orig_text[x])
+
+            count = 0
+            for word in vocab:
+                if x in word:
+                    count += 1
+
+            """
+            if len(vocab) == 0:
+                continue
+            g_i1 = float(count)/float(len(vocab))
+            g_i.append(g_i1)
+        avg_g_i = float(0)
+
+        for x in g_i:
+            avg_g_i += x
+        avg_g_i = avg_g_i/len(g_i)
+
+        print('g_i: ', avg_g_i)
+
+        """
         intervention_annotations = [vectorizer.vocabulary[test_X[j]] for j in true_pos_indices]
 
-
-        p, r, tp_overlapping_tokens, fp_tokens = _evaluate_detection(test_y, binary_preds, test_X, vectorizer)
+        p, r, tp_overlapping_tokens, fp_tokens, accuracy = _evaluate_detection(test_y, binary_preds, test_X, vectorizer)
 
         if p+r == 0:
             f1 = None 
         else:
             f1 = (2 * p * r) / (p + r)
         #fold_score = f1_score(test_y, binary_preds)
-        print("fold %s. precision: %s; recall: %s; f1: %s" % (fold_idx, p, r, f1))
+        print("fold %s. precision: %s; recall: %s; f1: %s; accuracy: %s" % (fold_idx, p, r, f1, accuracy))
         #pdb.set_trace()
         fold_metrics.append((p, r, f1))
+        """
 
+
+        sys.exit()
     return fold_metrics
 
 
@@ -428,7 +620,7 @@ def _get_distantly_lbled_tokens(n, wv, wv_dim):
     return tokens_and_lbls, X_DS_embedded, y_DS, tokens_DS, unknown_words_to_vecs
 
 
-def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
+def get_PMIDs_to_X_y(wv, wv_dim, max_length=None, distant=False, n=200):
     
     unknown_words_to_vecs = {}
     tokens_DS = None 
@@ -439,10 +631,14 @@ def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
 
     # we pass tokens_DS -- the unique tokens in the DS
     # data -- to go into our vectorizer!
-    pmids_dict, pmids, sentences, lbls, vectorizer = \
+    """
+    pmids_dict, pmids, sentences, lbls, vectorizer, groups_map = \
                 parse_summerscales.get_tokens_and_lbls(
-                        make_pmids_dict=True, other_words=tokens_DS)
-
+                        make_pmids_dict=True)
+    """
+    pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
+        parse_summerscales.get_tokens_and_lbls(
+                make_pmids_dict=True, sen=True)
     ###
     # now loop through and get X_tokens representation!
     if distant:
@@ -456,7 +652,7 @@ def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
     # see: https://github.com/fchollet/keras/issues/233
     # num_sentences x 1 x max_token_len x wv_dim
     # number of sequences x 1 x max number of tokens (padded to max len) x word vector size
-    num_sentences = len(sentences)
+   # num_sentences = len(sentences)
     #max_token_len = max([len(s) for s in sentences])
 
     #X_embedded = np.zeros((num_sentences, wv_dim))
@@ -464,12 +660,43 @@ def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
 
     #unknown_words_to_vecs = {}
     pmids_to_X_y = {}
+
     for pmid in pmids_dict:
-        pmid_sentences, pmid_lbls = pmids_dict[pmid]
+       # pmid_sentences, pmid_lbls = pmids_dict[pmid]
+        abstract_tokens, abstract_output_labels, _ = pmids_dict[pmid]
         # for this sentence
         X_embedded = [] 
         X_tokens   = []
         y = []
+
+
+        for w_i, word_token in enumerate(abstract_tokens):
+            try:
+                v = wv[word_token]
+            except:
+                # or maybe use 0s???
+                if word_token not in unknown_words_to_vecs:
+                    print("word '%s' not known!" % word_token)
+                    v = np.random.uniform(-1,1,wv_dim)
+                    unknown_words_to_vecs[word_token] = v
+
+                v = unknown_words_to_vecs[word_token]
+            X_embedded.append(v)
+            X_tokens.append(vectorizer.vocabulary_[word_token])
+
+        #pmids_to_X_y[pmid] = (np.vstack(X_embedded), np.vstack(X_tokens), np.hstack(y))
+
+        if len(abstract_output_labels) > max_length:
+            abstract_output_labels = abstract_output_labels[:max_length]
+        elif len(abstract_output_labels) < max_length:
+            padding = []
+            for i in range(max_length - len(abstract_output_labels)):
+                padding.append(0)
+            abstract_output_labels = padding + abstract_output_labels
+        assert len(abstract_output_labels) == max_length, 'Must be same size'
+
+        pmids_to_X_y[pmid] = (X_embedded, X_tokens, abstract_output_labels)
+        """
         for sent_idx, s in enumerate(pmid_sentences):
             for j, t in enumerate(s): 
                 try:
@@ -489,11 +716,11 @@ def get_PMIDs_to_X_y(wv, wv_dim, distant=False, n=200):
             y.extend(pmid_lbls[sent_idx])
 
         pmids_to_X_y[pmid] = (np.vstack(X_embedded), np.vstack(X_tokens), np.hstack(y))
-
+    """
     if distant:
         return pmids_to_X_y, vectorizer, unknown_words_to_vecs, X_DS_embedded, X_DS_tokens, y_DS
 
-    return pmids_to_X_y, vectorizer, unknown_words_to_vecs
+    return pmids_to_X_y, vectorizer, unknown_words_to_vecs, groups_map, pmids_dict
     
 
 
@@ -507,7 +734,7 @@ def get_X_y(wv, wv_dim, vectorizer=None, distant=False, n=None):
     else:
         pmids, sentences, lbls, vectorizer = parse_summerscales.get_tokens_and_lbls()
 
-    pdb.set_trace()
+    #pdb.set_trace()
 
     # see: https://github.com/fchollet/keras/issues/233
     # num_sentences x 1 x max_token_len x wv_dim
