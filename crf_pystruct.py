@@ -18,63 +18,192 @@ from pystruct.models import ChainCRF
 from pystruct.learners import FrankWolfeSSVM
 
 
-def abstract2features(pmid_dict, pmids, vectorizer, one_hot, dicts,  w2v=None):
+# i: postion
+# word_i: index of where in abstract it is
+def get_features(word_i, i, abstract, tagged_sentences, feature_dict, type, shallow_parse, w2v, w2v_size=128):
+    postion = None
+    if type == 'before':
+        postion = '-'
+    elif type == 'after':
+        postion = '+'
+    else:
+        postion = ''
 
-    X = []
-    y = []
-    pos_dict_len = len(dicts['pos'])
-    chunk_dict_len = len(dicts['chunk'])
-    ne_dict_len = len(dicts['ne'])
+    if shallow_parse:
+        word = abstract[word_i]
+
+        pos, chunk, ne = tagged_sentences[word_i]
+
+        feature_dict['word[{}{}]'.format(postion, i)] = abstract[word_i]
+        feature_dict['pos[{}{}]'.format(postion, i)] = pos
+        feature_dict['chunk[{}{}]'.format(postion, i)] = chunk
+        feature_dict['ne[{}{}]'.format(postion, i)] = ne
+        feature_dict['isupper[{}{}]'.format(postion, i)] = word.isupper()
+        feature_dict['istitle[{}{}]'.format(postion, i)] = word.istitle()
+
+        """
+            R.L. Summerscales. Automatic summarization of clinical abstracts for evidence-based medicine.
+            Ph.D. Thesis, Illinois Institute of Technology, 2013
+            Numeric. Features that capture the characteristics of the token if it is a number.
+            Is the number a percentage, integer, or floating point value?
+            Is the number negative?
+            Is it a small integer (< 10)?
+        """
+
+        is_digit = word.isdigit()
+
+        if is_digit:
+            int_from_string = int(word)
+            int_is_neg = False
+            int_is_small = False
+
+            if int_from_string < 0:
+                int_is_neg = True
+
+            if int_from_string < 10:
+                int_is_small = True
+
+            feature_dict['isdigit[{}{}]'.format(postion, i)] = word.isdigit()
+            feature_dict['isneg[{}{}]'.format(postion, i)] = int_is_neg
+            feature_dict['issmall[{}{}]'.format(postion, i)] = int_is_small
+
+
+        # @TODO Add closest parent verb and that third thing
+        """
+        Syntactic context. These features capture the syntactic context of the token in question.
+        Is the token inside parentheses?
+        The closest parent verb in the parse tree. Starting at the token in question travel up the parse tree until a verb
+          phrase is reached. Then return the main verb (the first word) in the verb phrase.
+        Dependency features. These features are based on a collapsed typed de- pendency parse of the sentence.
+        They consist of the token and semantic
+        66
+
+        features for each governor and dependent token and the type of relation- ship. For the number classifiers,
+        only features for the governor tokens are used; any dependent tokens of number are ignored.
+        """
+
+        is_token_paren = False
+
+        if i > 0 and i < len(abstract):
+            if abstract[word_i-1] == '(' and abstract[word_i + 1] == ')':
+                is_token_paren = True
+
+        feature_dict['paren'] = is_token_paren
+
+    if w2v:
+        if word_i > i:
+            word = abstract[word_i]
+
+            try:
+                w2v_word = w2v[word]
+                found_word = True
+            except:
+                w2v_word = None
+                found_word = False
+
+            for n in range(w2v_size):
+                if found_word:
+                    feature_dict["w2v[{}{}][{}]".format(postion, i, n)] = w2v_word[n]
+                else:
+                    feature_dict["w2v[{}{}][{}]".format(postion, i, n)] = 0
+            if i > 0:
+                try:
+                    cosine_simil = w2v.similarity(abstract[word_i-1], abstract[word_i])
+                except:
+                    cosine_simil = 0
+                feature_dict['cos'] = cosine_simil
+
+    return feature_dict
+
+
+def get_feature_window(n_before, n_after, abstract, tagged_sentences, feature_dict, word_i, shallow_parse, w2v):
+
+    for i in range(1, n_before + 1):
+
+        if word_i - i >= 0:
+            feature_dict = get_features(word_i - i, i, abstract, tagged_sentences, feature_dict, 'before', shallow_parse, w2v)
+
+    for i in range(1, n_after + 1):
+        if word_i + i <= (len(abstract) - 1):
+            feature_dict = get_features(word_i + i, i, abstract, tagged_sentences, feature_dict, 'after', shallow_parse, w2v)
+
+
+    return feature_dict
+
+
+def get_w2v(n_before, n_after, abstract, feature_dict, word_i, w2v, w2v_size):
+
+    for i in range(n_before):
+        found_word = True
+
+        if word_i > i:
+            word = abstract[word_i - i]
+
+            try:
+                w2v_word = w2v[word]
+            except:
+                w2v_word = None
+                found_word = False
+
+            for n in range(w2v_size):
+                if found_word:
+                    feature_dict["w2v[-{}][{}]".format(i, n)] = w2v_word[n]
+                else:
+                    feature_dict["w2v[-{}][{}]".format(i, n)] = 0
+
+    for i in range(n_after):
+        if word_i < (len(abstract) - i):
+            found_word = True
+
+            word = abstract[word_i - i]
+
+            try:
+                w2v_word = w2v[word]
+            except:
+                w2v_word = None
+                found_word = False
+
+            for n in range(w2v_size):
+                if found_word:
+                    feature_dict["w2v[+{}][{}]".format(i, n)] = w2v_word[n]
+                else:
+                    feature_dict["w2v[+{}][{}]".format(i, n)] = 0
+
+    return feature_dict
+
+
+#def get_cosine_features(abstract, feature_dict, word_i):
+
+def abstract2features(pmid_dict, pmids, words_before, words_after, w2v, shallow_parse, w2v_size=128):
+    x, y = [], []
 
     for pmid in pmids:
-        abstract, labels, tagged_abstract = pmid_dict[pmid]
+        abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
+        string_labels = []
+        features = []
 
-        x = np.zeros((len(abstract) , 400 + pos_dict_len + chunk_dict_len + ne_dict_len))
-        previous_w2v = None
-        previous_pos_tags = None
-        for i, (word, label, tags) in enumerate(zip(abstract, labels, tagged_abstract)):
+        for i, (word, label, tags) in enumerate(zip(abstract, labels, tagged_sentences)):
 
-            if previous_w2v:
-                x[i, :200] = previous_w2v
+            feature_dict = {}
+            # Get features for current word
+            feature_dict = get_features(i, 0, abstract, tagged_sentences, feature_dict, '', shallow_parse, w2v)
 
-            if previous_pos_tags:
-                x[i, 400:pos_dict_len] = pos_tag
-                x[i, 400 + pos_dict_len + 1:chunk_dict_len] = chunk_tag
-                x[i, 400 + pos_dict_len + chunk_dict_len + 1:] = ne_tag
+            # Get features for words around the current word
+            feature_dict = get_feature_window(words_before, words_after, abstract, tagged_sentences, feature_dict, i,
+                                              shallow_parse, w2v)
 
-            pos_tag, chunk_tag, ne_tag = tags
-            one_hot_pos = np.zeros(pos_dict_len)
-            one_hot_chunk = np.zeros(chunk_dict_len)
-            one_hot_ne = np.zeros(ne_dict_len)
+            features.append(feature_dict)
 
-            one_hot_pos[pos_tag] = 1
-            one_hot_chunk[chunk_tag] = 1
-            one_hot_ne[ne_tag] = 1
+            string_labels.append(str(label))
+        x.append(features)
+        y.append(string_labels)
 
-            previous_pos_tags = (one_hot_pos, one_hot_chunk, one_hot_ne)
-
-            # Add the POS one hot vectors as features
-            x[i, 400:pos_dict_len] = pos_tag
-            x[i, 400 + pos_dict_len + 1:chunk_dict_len] = chunk_tag
-            x[i, 400 + pos_dict_len + chunk_dict_len + 1:] = ne_tag
-
-
-            if w2v:
-                try:
-                    w2v_word = w2v[word]
-                except:
-                    w2v_word = np.zeros(200)
-                previous_w2v = w2v_word
-                x[i, 200 + 1: 400] = w2v_word
-                X.append(x)
-                y.append(np.array(labels))
-
-
-    return X, y
+    return x, y
 
 
 
-def pystruct_crf(w2v):
+
+def run_crf(w2v, words_before, words_after, shallow_parse):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
@@ -99,12 +228,13 @@ def pystruct_crf(w2v):
         train_pmids = [all_pmids[pmid_idx] for pmid_idx in train]
         test_pmids  = [all_pmids[pmid_idx] for pmid_idx in test]
         print('loading data...')
-        train_x, train_y = abstract2features(pmids_dict, train_pmids, vectorizer, one_hot, dicts,  w2v)
-        test_x, test_y = abstract2features(pmids_dict, test_pmids, vectorizer, one_hot, dicts, w2v)
+        train_x, train_y = abstract2features(pmids_dict, words_before, w2v, shallow_parse)
+        test_x, test_y = abstract2features(pmids_dict, words_after, w2v, shallow_parse)
 
         print('loaded data...')
         print 'training...'
         ssvm.fit(train_x, train_y)
+
         print ssvm.score(test_x, test_y)
 
         for i, (pmid, x, y) in enumerate(zip(test_pmids, test_x, test_y)):
@@ -143,9 +273,13 @@ def run():
     l2 = 1e-3
     iters = 200
     wiki = True
+    words_before = 4
+    words_after = 4
+    shallow_parse = True
 
     try:
-        opts, args = getopt.getopt(sys.argv[1:], 'w:i:c:l:', ['w2v=', 'iters=', 'l1=', 'l2=', 'wiki=','pystruct='])
+        opts, args = getopt.getopt(sys.argv[1:], 'w:i:c:l:', ['w2v=', 'iters=', 'l1=', 'l2=', 'wiki=',
+                                                              'words_before=', 'words_after=', 'shallow_parse='])
     except getopt.GetoptError as e:
         print(e)
         sys.exit(2)
@@ -168,11 +302,17 @@ def run():
 
             if option == 0:
                 wiki = False
-        elif opt == '--pystruct':
+        elif opt == '--words_before':
+            words_before = int(arg)
+        elif opt == '--words_after':
+            words_after = int(arg)
+        elif opt == 'shallow_parse':
             option = int(arg)
 
             if option == 0:
-                is_pystruct = False
+                shallow_parse = False
+
+
         else:
             sys.exit(2)
     if w2v:
@@ -186,9 +326,11 @@ def run():
         print('Loaded word2vec model')
     else:
         w2v = None
-    pystruct_crf(w2v)
+    run_crf(w2v, words_before, words_after, shallow_parse)
+
 
 def main():
     run()
+
 if __name__ == '__main__':
     main()

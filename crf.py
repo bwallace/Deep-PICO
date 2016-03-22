@@ -88,7 +88,7 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
 
 
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, ):
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
@@ -116,53 +116,61 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, ):
         print('loaded data...')
         for x, y in zip(train_x, train_y):
             model.append(x, y)
-        trainer = pycrfsuite.Trainer(verbose=False)
 
-        model.set_params({
-            'c1': l1,   # coefficient for L1 penalty
-            'c2': l2,  # coefficient for L2 penalty
-            'max_iterations': iters,  # stop earlier
+        if grid_search:
+            model.set_params({
+                'c1': l1,   # coefficient for L1 penalty
+                'c2': l2,  # coefficient for L2 penalty
+                'max_iterations': iters,  # stop earlier
 
-            # include transitions that are possible, but not observed
-            'feature.possible_transitions': True
-        })
-        crf = sklearn_crfsuite.CRF(
-            algorithm='lbfgs',
-            c1=l1,
-            c2=l2,
-            max_iterations=iters,
-            all_possible_transitions=False
-        )
-        #crf.fit(train_x, train_y)
-        params_space = {
-            'c1': scipy.stats.expon(scale=0.5),
-            'c2': scipy.stats.expon(scale=0.05),
-        }
+                # include transitions that are possible, but not observed
+                'feature.possible_transitions': True
+            })
 
-        # use the same metric for evaluation
-        f1_scorer = make_scorer(metrics.flat_f1_score,
-                                average='weighted', labels=test_y)
+            crf = sklearn_crfsuite.CRF(
+                algorithm='lbfgs',
+                c1=l1,
+                c2=l2,
+                max_iterations=iters,
+                all_possible_transitions=False
+            )
 
-        """
-        # search
-        rs = RandomizedSearchCV(crf, params_space,
-                                cv=3,
-                                verbose=1,
-                                n_jobs=-1,
-                                n_iter=50,
-                                scoring=f1_scorer)
-        rs.fit(train_x, train_y)
-        """
+            params_space = {
+                'c1': scipy.stats.expon(scale=0.5),
+                'c2': scipy.stats.expon(scale=0.05),
+            }
 
-        model_name = 'model {}'.format(fold_idx)
-        print('training model...')
-        model.train(model_name)
-        print('done...')
-        tagger = pycrfsuite.Tagger()
-        tagger.open(model_name)
+            # use the same metric for evaluation
+            f1_scorer = make_scorer(metrics.flat_f1_score,
+                                    average='weighted', labels=test_y)
 
 
-        info = tagger.info()
+            # search
+            rs = RandomizedSearchCV(crf, params_space,
+                                    cv=3,
+                                    verbose=1,
+                                    n_jobs=-1,
+                                    n_iter=50,
+                                    scoring=f1_scorer)
+            rs.fit(train_x, train_y)
+            info = rs.best_estimator_.tagger_.info()
+        else:
+            model.set_params({
+                'c1': l1,   # coefficient for L1 penalty
+                'c2': l2,  # coefficient for L2 penalty
+                'max_iterations': iters,  # stop earlier
+
+                # include transitions that are possible, but not observed
+                'feature.possible_transitions': True
+            })
+            model_name = 'model {}'.format(fold_idx)
+            print('training model...')
+            model.train(model_name)
+            print('done...')
+            tagger = pycrfsuite.Tagger()
+            tagger.open(model_name)
+
+            info = tagger.info()
 
         def print_transitions(trans_features):
             for (label_from, label_to), weight in trans_features:
@@ -400,6 +408,7 @@ def get_features(word_i, i, abstract, tagged_sentences, feature_dict, type, shal
 
             try:
                 w2v_word = w2v[word]
+                found_word = True
             except:
                 w2v_word = None
                 found_word = False
@@ -511,11 +520,13 @@ def run():
     shallow_parse = True
     words_before = 2
     words_after = 2
+    grid_search = True
+
 
     try:
         opts, args = getopt.getopt(sys.argv[1:], 'w:i:c:l:',
                                    ['w2v=', 'iters=', 'l1=', 'l2=', 'wiki=', 'shallow_parse=', 'words_before=',
-                                    'words_after='])
+                                    'words_after=', 'grid_search='])
     except getopt.GetoptError as e:
         print(e)
         sys.exit(2)
@@ -542,6 +553,11 @@ def run():
 
             if option == 0:
                 shallow_parse = False
+        elif opt == '--grid_search':
+            option = int(arg)
+
+            if option == 0:
+                grid_search = False
         elif opt == '--words_before':
             words_before = int(arg)
         elif opt == '--words_after':
@@ -562,7 +578,7 @@ def run():
     else:
         w2v = False
 
-    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after)
+    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search)
 
 
 def main():

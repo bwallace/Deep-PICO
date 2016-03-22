@@ -24,7 +24,7 @@ from keras import backend as K
 import numpy
 
 # Taken from https://gist.github.com/jerheff/8cf06fe1df0695806456
-
+# @TODO Maybe look into this more http://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf
 def binary_crossentropy_with_ranking(y_true, y_pred):
     """ Trying to combine ranking loss with numeric precision"""
     # first get the log loss like normal
