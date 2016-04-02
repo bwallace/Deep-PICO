@@ -227,7 +227,7 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
         """
         abstracts_as_tokens.append(abstract_words)
         abstract_output_labels.append(abstract_labels)
-        pmids_dict[pmid] = (abstract_words, abstract_labels, tagged_abstract, groups_dict, abstract_groups)
+        pmids_dict[pmid] = [abstract_words, abstract_labels, tagged_abstract, groups_dict, abstract_groups]
 
         """
         doc_labels.append(sen_labels)

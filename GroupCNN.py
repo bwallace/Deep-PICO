@@ -9,6 +9,7 @@ from keras.layers.core import Flatten
 
 from keras.layers.core import Activation
 
+from keras.layers.convolutional import Convolution1D
 from keras.layers.convolutional import Convolution2D
 from keras.layers.convolutional import MaxPooling2D
 
@@ -17,11 +18,10 @@ from keras.optimizers import Adam
 
 from keras.layers.containers import Merge
 
-from sklearn.metrics import accuracy_score
-
 from keras import backend as K
 
 import numpy
+import sklearn.metrics as metrics
 
 # Taken from https://gist.github.com/jerheff/8cf06fe1df0695806456
 # @TODO Maybe look into this more http://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf
@@ -60,11 +60,12 @@ def binary_crossentropy_with_ranking(y_true, y_pred):
 class GroupCNN:
     def __init__(self, window_size, n_feature_maps, k_output, word_vector_size=200, activation_function='relu',
                  filter_sizes=[2,3,5], dense_layer_sizes=[200], input_dropout_rate=.2,
-                 hidden_dropout_rate=.5, dropout=True):
+                 hidden_dropout_rate=.5, dropout=True, conv_type=2):
         self.model = self.build_model(window_size, n_feature_maps, word_vector_size, activation_function,
                                       filter_sizes, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
                                       dropout, k_output)
         self.k_output = k_output
+        self.window_size = window_size
 
     def build_model(self, window_size, n_feature_maps, word_vector_size, activation_function,
         filter_sizes, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate, dropout, k_output):
@@ -74,17 +75,15 @@ class GroupCNN:
         print "Word vector size: {}".format(word_vector_size)
 
         model = Graph()
-        model_two = Graph()
 
-
-        model.add_input('data', input_shape=(1, window_size, word_vector_size))
+        model.add_input('data', input_shape=(1, window_size * 2 + 1, word_vector_size))
 
         for filter_size in filter_sizes:
             conv_layer = containers.Sequential()
             conv_layer.add(Convolution2D(n_feature_maps, filter_size, word_vector_size,
-                                         input_shape=(1, window_size, word_vector_size)))
+                                         input_shape=(1, window_size * 2 + 1, word_vector_size)))
             conv_layer.add(Activation(activation_function))
-            conv_layer.add(MaxPooling2D(pool_size=(window_size - filter_size + 1, 1)))
+            conv_layer.add(MaxPooling2D(pool_size=(window_size * 2 + 1 - filter_size + 1, 1)))
             conv_layer.add(Flatten())
 
             model.add_node(conv_layer, name='filter_unit_' + str(filter_size), input='data')
@@ -124,6 +123,7 @@ class GroupCNN:
 
     def test(self, x, y):
         truth = []
+#        if self.k_output == self.window_size:
 
         predictions = self.predict_classes(x)
 
@@ -140,11 +140,14 @@ class GroupCNN:
         print "Predictions: {}".format(predictions)
         print "True: {}".format(y)
 
+        accuracy = metrics.accuracy_score(truth, predictions)
+        f1_score = metrics.f1_score(truth, predictions)
+        precision = metrics.precision_score(truth, predictions)
+        auc = metrics.roc_auc_score(truth, predictions)
+        recall = metrics.recall_score(truth, predictions)
 
 
-        accuracy = accuracy_score(truth, predictions)
-
-        return accuracy
+        return accuracy, f1_score, precision, auc, recall
 
     # Graph model uses a dictionary as input so wrap the Keras function to makes it easier to
     # use!

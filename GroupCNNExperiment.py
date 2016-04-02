@@ -3,6 +3,7 @@ import sys
 import parse_summerscales
 import itertools
 import numpy
+from GroupNN import GroupNN
 
 from gensim.models import Word2Vec
 from GroupCNN import GroupCNN
@@ -14,12 +15,12 @@ def main():
     try:
         opts, args = getopt.getopt(sys.argv[1:], '', ['window_size=', 'wiki=', 'n_feature_maps=', 'epochs=',
                                                       'undersample=', 'n_feature_maps=', 'criterion=',
-                                                      'optimizer='])
+                                                      'optimizer=', 'model='])
     except getopt.GetoptError as error:
         print error
         sys.exit(2)
-
-    window_size = 5
+    model_type = 'nn'
+    window_size = 3
     wiki = True
     n_feature_maps = 100
     epochs = 20
@@ -28,7 +29,6 @@ def main():
     criterion = 'categorical_crossentropy'
     optimizer = 'adam'
     k = 2
-
 
     for opt, arg in opts:
         if opt == '--window_size':
@@ -52,6 +52,8 @@ def main():
             criterion = arg
         elif opt == '--optimizer':
             optimizer = arg
+        elif opt == '--model':
+            model_type = arg
         else:
             print "Option {} is not valid!".format(opt)
 
@@ -83,9 +85,13 @@ def main():
         test_pmids  = [all_pmids[pmid_idx] for pmid_idx in test]
         print train_pmids
         print('loading data...')
-        X_train, y_train = prep_data(train_pmids, pmids_dict, w2v, window_size, binary_ce=binary_cross_entropy)
-        X_test, y_test = prep_data(test_pmids, pmids_dict, w2v, window_size, binary_ce=binary_cross_entropy)
 
+        if model_type == 'cnn':
+            X_train, y_train = _prep_data(train_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
+            X_test, y_test = _prep_data(test_pmids, pmids_dict, w2v, window_size, model_type,  binary_ce=binary_cross_entropy)
+        elif model_type == 'nn':
+            X_train, y_train = _prep_data(train_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
+            X_test, y_test = _prep_data(test_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
 
         if undersample:
             # Undersample the non group tags at random....probably a bad idea...
@@ -102,12 +108,20 @@ def main():
             y_train = numpy.vstack((y_train_postive, y_train_negative))
 
         print('loaded data...')
-        model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k)
+
+        if model_type == 'cnn':
+            model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k)
+        elif model_type == 'nn':
+            model = GroupNN(2)
         model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion)
 
-        accuracy = model.test(X_test, y_test)
+        accuracy, f1_score, precision, auc, recall = model.test(X_test, y_test)
 
         print "Accuracy: {}".format(accuracy)
+        print "F1: {}".format(f1_score)
+        print "Precision: {}".format(precision)
+        print "AUC: {}".format(auc)
+        print "Recall: {}".format(recall)
 
 
         sys.exit()
@@ -124,7 +138,73 @@ def _get_word_vector(word, word2vec, w2v_size=200):
     return word_vector
 
 
-def prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=False):
+def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200, binary_ce=False):
+    n_examples = 0
+    feature_size = (window_size * 2 + 1) * w2v_size
+
+
+
+    # Get sizes and padding before procssing to make things fastert
+    for pmid in pmids:
+        abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
+
+        n = len(abstract)
+        padding = []
+
+        for i in range(window_size):
+            padding.append("PADDING")
+        pmid_dict[pmid][0] = padding + abstract + padding
+
+        n_examples += n
+    if model_type == 'nn':
+        X = numpy.zeros((n_examples, feature_size))
+    elif model_type == 'cnn':
+        X = numpy.zeros((n_examples, 1, window_size * 2 + 1, w2v_size))
+
+
+    if binary_ce:
+        y = numpy.zeros(n_examples)
+    else:
+        y = numpy.zeros((n_examples, 2))
+
+    example_i = 0
+    for abstract_i, pmid in enumerate(pmids):
+        abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
+
+        n = len(abstract)
+
+        for i_abstract, i in enumerate(range(window_size, n - window_size)):
+
+            if model_type == 'nn':
+                example = numpy.zeros(feature_size)
+            elif model_type == 'cnn':
+                example = numpy.zeros((1, window_size * 2 + 1, w2v_size))
+
+            for window_i, word_i in enumerate(range(i - window_size, i + window_size)):
+                word = abstract[word_i]
+
+                if model_type == 'nn':
+                    example[window_i * w2v_size: (window_i+1) * w2v_size] = _get_word_vector(word, word2vec)
+                elif model_type == 'cnn':
+                    example[:, window_i, :] = _get_word_vector(word, word2vec)
+
+            if model_type == 'nn':
+                X[example_i, :] = example
+            elif model_type =='cnn':
+                X[example_i, :, :, :] = example
+
+            label = labels[i_abstract]
+
+            y[example_i, label] = 1
+            example_i += 1
+
+
+    print "X shape: {}".format(X.shape)
+    print "Y.shape: {}".format(y.shape)
+    print "Example_i: {} | n_examples: {}".format(example_i, n_examples)
+    return X, y
+
+def _cnn_prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=False):
     n_examples = 0
 
     # Get sizes and padding before procssing to make things fastert
@@ -183,6 +263,8 @@ def prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=F
 
                         if label == 1:
                             target[:, 1] = 1
+                        else:
+                            target[:, 0] = 1
 
                         y[example_count + i, :] = target
 
@@ -193,9 +275,6 @@ def prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=F
                 target_window = []
     print "X shape: {}".format(X.shape)
     print "Y.shape: {}".format(y.shape)
-
-
-
 
     return X, y
 
