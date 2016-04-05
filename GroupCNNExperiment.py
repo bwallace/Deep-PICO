@@ -20,7 +20,7 @@ def main():
         print error
         sys.exit(2)
     model_type = 'nn'
-    window_size = 3
+    window_size = 5
     wiki = True
     n_feature_maps = 100
     epochs = 20
@@ -83,6 +83,7 @@ def main():
         print("on fold %s" % fold_idx)
         train_pmids = [all_pmids[pmid_idx] for pmid_idx in train]
         test_pmids  = [all_pmids[pmid_idx] for pmid_idx in test]
+
         print train_pmids
         print('loading data...')
 
@@ -112,7 +113,7 @@ def main():
         if model_type == 'cnn':
             model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k)
         elif model_type == 'nn':
-            model = GroupNN(2)
+            model = GroupNN(window_size=window_size, k=k)
         model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion)
 
         accuracy, f1_score, precision, auc, recall = model.test(X_test, y_test)
@@ -194,8 +195,10 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
                 X[example_i, :, :, :] = example
 
             label = labels[i_abstract]
-
-            y[example_i, label] = 1
+            if binary_ce:
+                y[example_i] = label
+            else:
+                y[example_i, label] = 1
             example_i += 1
 
 

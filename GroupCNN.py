@@ -78,6 +78,7 @@ class GroupCNN:
 
         model.add_input('data', input_shape=(1, window_size * 2 + 1, word_vector_size))
 
+
         for filter_size in filter_sizes:
             conv_layer = containers.Sequential()
             conv_layer.add(Convolution2D(n_feature_maps, filter_size, word_vector_size,
@@ -116,7 +117,6 @@ class GroupCNN:
         if criterion == 'binary_crossentropy':
             criterion = binary_crossentropy_with_ranking
 
-
         self.model.compile(loss={'nn_output': criterion}, optimizer=optim_algo)
 
         self.model.fit({'data': x, 'nn_output': y}, nb_epoch=n_epochs)
@@ -145,7 +145,6 @@ class GroupCNN:
         precision = metrics.precision_score(truth, predictions)
         auc = metrics.roc_auc_score(truth, predictions)
         recall = metrics.recall_score(truth, predictions)
-
 
         return accuracy, f1_score, precision, auc, recall
 

@@ -15,13 +15,13 @@ import numpy
 
 class GroupNN:
     def __init__(self, window_size, word_vector_size=200, activation_function='relu',
-                 dense_layer_sizes=[], input_dropout_rate=.2, hidden_dropout_rate=.5, dropout=True):
+                 dense_layer_sizes=[], input_dropout_rate=.2, hidden_dropout_rate=.5, dropout=True, k=2):
         self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
-                                      dropout)
+                                      dropout, k_output=k)
         self.window_size = window_size
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate,
-                    hidden_dropout_rate, dropout):
+                    hidden_dropout_rate, dropout, k_output):
 
         model = Sequential()
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
@@ -35,7 +35,7 @@ class GroupNN:
             if dropout:
                 model.add(Dropout(hidden_dropout_rate))
 
-        model.add(Dense(2))
+        model.add(Dense(k_output))
         model.add(Activation('softmax'))
 
         return model
