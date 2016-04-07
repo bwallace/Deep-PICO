@@ -55,6 +55,7 @@ class GroupNN:
         self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
                                       dropout, k_output=k)
         self.window_size = window_size
+        self.k_output = k
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate,
                     hidden_dropout_rate, dropout, k_output):
@@ -66,6 +67,7 @@ class GroupNN:
         model = Sequential()
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
         model.add(Activation(activation_function))
+
         if dropout:
             model.add(Dropout(input_dropout_rate))
 
@@ -95,7 +97,9 @@ class GroupNN:
 
     def test(self, x, y):
         predictions = self.model.predict_classes(x)
-        truth = numpy.argmax(y, axis=1)
+
+        if not self.k_output == 1:
+            truth = numpy.argmax(y, axis=1)
         print "Predictions: {}".format(predictions)
         print "True: {}".format(y)
 

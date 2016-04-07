@@ -107,7 +107,7 @@ class GroupCNN:
 
         return model
 
-    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy'):
+    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy', save_model=True):
 
         if optim_algo == 'adam':
             optim_algo = Adam()
@@ -122,6 +122,8 @@ class GroupCNN:
         self.model.compile(loss={'nn_output': criterion}, optimizer=optim_algo)
 
         self.model.fit({'data': x, 'nn_output': y}, nb_epoch=n_epochs)
+
+        self.model.save
 
     def test(self, x, y):
         truth = []
