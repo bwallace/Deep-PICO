@@ -100,6 +100,9 @@ class GroupNN:
 
         if not self.k_output == 1:
             truth = numpy.argmax(y, axis=1)
+        else:
+            truth = predictions
+
         print "Predictions: {}".format(predictions)
         print "True: {}".format(y)
 
