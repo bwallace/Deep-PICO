@@ -114,6 +114,8 @@ class GroupCNN:
         else:
             optim_algo = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
 
+        print criterion
+
         if criterion == 'binary_crossentropy':
             criterion = binary_crossentropy_with_ranking
 
