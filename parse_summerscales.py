@@ -15,18 +15,21 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.feature_extraction import DictVectorizer
 from geniatagger import *
 import sys
-#nltk.data.path.append('/work/03186/ericr/nltk_data/')
 
 def _just_the_txt(s):
     return " ".join(s.findAll(text=True)).strip()
 
 def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
                         start_and_stop_tokens=False, make_pmids_dict=False, classify=False, sen=False,
-                        tagger_path='', parse_for_cnn=False, window_size=5, use_genia=False):
+                        tagger_path='', parse_for_cnn=False, window_size=5, use_genia=False, using_tacc=False):
 
     if use_genia:
-        #tagger = GeniaTagger('/home1/03186/ericr/code/geniatagger-3.0.1/geniatagger')
-        tagger = GeniaTagger('/Users/ericrincon/Downloads/geniatagger-3.0.2/geniatagger')
+        if using_tacc:
+            tagger = GeniaTagger('/home1/03186/ericr/code/geniatagger-3.0.1/geniatagger')
+        else:
+            tagger = GeniaTagger('/Users/ericrincon/Downloads/geniatagger-3.0.2/geniatagger')
+    if using_tacc:
+        nltk.data.path.append('/work/03186/ericr/nltk_data/')
     stop_token =  "STOPSTOPSTOP"
     start_token = "STARTSTARTSTART"
     sentence_docs = []
