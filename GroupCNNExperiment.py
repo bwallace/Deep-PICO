@@ -15,7 +15,7 @@ def main():
     try:
         opts, args = getopt.getopt(sys.argv[1:], '', ['window_size=', 'wiki=', 'n_feature_maps=', 'epochs=',
                                                       'undersample=', 'n_feature_maps=', 'criterion=',
-                                                      'optimizer=', 'model='])
+                                                      'optimizer=', 'model=', 'genia='])
     except getopt.GetoptError as error:
         print error
         sys.exit(2)
@@ -29,6 +29,7 @@ def main():
     criterion = 'categorical_crossentropy'
     optimizer = 'adam'
     k = 2
+    use_genia = False
 
     for opt, arg in opts:
         if opt == '--window_size':
@@ -54,6 +55,9 @@ def main():
             optimizer = arg
         elif opt == '--model':
             model_type = arg
+        elif opt == '--genia':
+            if int(arg) == 1:
+                use_genia= True
         else:
             print "Option {} is not valid!".format(opt)
 
@@ -74,7 +78,7 @@ def main():
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
-                make_pmids_dict=True, sen=True)
+                make_pmids_dict=True, sen=True, use_genia=use_genia)
     all_pmids = pmids_dict.keys()
     n = len(all_pmids)
     kf = KFold(n, random_state=1337, shuffle=True, n_folds=n_folds)

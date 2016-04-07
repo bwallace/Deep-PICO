@@ -22,10 +22,11 @@ def _just_the_txt(s):
 
 def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
                         start_and_stop_tokens=False, make_pmids_dict=False, classify=False, sen=False,
-                        tagger_path='', parse_for_cnn=False, window_size=5):
+                        tagger_path='', parse_for_cnn=False, window_size=5, use_genia=False):
 
-    #tagger = GeniaTagger('/home1/03186/ericr/code/geniatagger-3.0.1/geniatagger')
-    tagger = GeniaTagger('/Users/ericrincon/Downloads/geniatagger-3.0.2/geniatagger')
+    if use_genia:
+        #tagger = GeniaTagger('/home1/03186/ericr/code/geniatagger-3.0.1/geniatagger')
+        tagger = GeniaTagger('/Users/ericrincon/Downloads/geniatagger-3.0.2/geniatagger')
     stop_token =  "STOPSTOPSTOP"
     start_token = "STARTSTARTSTART"
     sentence_docs = []
@@ -69,8 +70,10 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
         abstract_ids = []
         abstract_labels = []
         abstract_words = []
-        tagged_abstract = []
-
+        if use_genia:
+            tagged_abstract = []
+        else:
+            tagged_abstract = None
         abstract_groups = []
         abstract_outcomes = []
         abstract_conditions = []
@@ -139,14 +142,17 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
                             groups_abs.append(group_tag.text)
                             sentence_groups.append(group.text)
                     """
-            tagged_sentence = tagger.parse(cleaned_sent)
-            cleaned_tags = []
-            for tag in tagged_sentence:
-                tags = (tag[2], tag[3], tag[4])
-                cleaned_tags.append(tags)
+            if use_genia:
+                tagged_sentence = tagger.parse(cleaned_sent)
+                cleaned_tags = []
+                for tag in tagged_sentence:
+                    tags = (tag[2], tag[3], tag[4])
+                    cleaned_tags.append(tags)
 
-            tagged_abstract.extend(cleaned_tags)
-            group_counts.append(len(sentence_ids))
+                tagged_abstract.extend(cleaned_tags)
+                group_counts.append(len(sentence_ids))
+            else:
+                tagged_abstract
             # stripped of tags; just the text
             ordered_sentences_clean.append(cleaned_sent)
             tokenized_sentence = nltk.word_tokenize(cleaned_sent)
