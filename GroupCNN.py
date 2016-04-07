@@ -60,11 +60,12 @@ def binary_crossentropy_with_ranking(y_true, y_pred):
 class GroupCNN:
     def __init__(self, window_size, n_feature_maps, k_output, word_vector_size=200, activation_function='relu',
                  filter_sizes=[2,3,5], dense_layer_sizes=[200], input_dropout_rate=.2,
-                 hidden_dropout_rate=.5, dropout=True, conv_type=2):
+                 hidden_dropout_rate=.5, dropout=True, conv_type=2, name='CNNModel'):
         self.model = self.build_model(window_size, n_feature_maps, word_vector_size, activation_function,
                                       filter_sizes, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
                                       dropout, k_output)
         self.k_output = k_output
+        self.model_name = name
         self.window_size = window_size
 
     def build_model(self, window_size, n_feature_maps, word_vector_size, activation_function,
@@ -123,7 +124,8 @@ class GroupCNN:
 
         self.model.fit({'data': x, 'nn_output': y}, nb_epoch=n_epochs)
 
-        self.model.save
+        if save_model:
+            self.model.save_weights(self.model_name)
 
     def test(self, x, y):
         truth = []

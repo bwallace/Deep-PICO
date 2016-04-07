@@ -51,11 +51,12 @@ def binary_crossentropy_with_ranking(y_true, y_pred):
 
 class GroupNN:
     def __init__(self, window_size, word_vector_size=200, activation_function='relu',
-                 dense_layer_sizes=[], input_dropout_rate=.2, hidden_dropout_rate=.5, dropout=True, k=2):
+                 dense_layer_sizes=[], input_dropout_rate=.2, hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5'):
         self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
                                       dropout, k_output=k)
         self.window_size = window_size
         self.k_output = k
+        self.model_name = name
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate,
                     hidden_dropout_rate, dropout, k_output):
@@ -82,7 +83,7 @@ class GroupNN:
 
         return model
 
-    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy'):
+    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy', save=True):
 
         if optim_algo == 'adam':
             optim_algo = Adam()
@@ -94,6 +95,9 @@ class GroupNN:
 
         self.model.compile(loss=criterion, optimizer=optim_algo)
         self.model.fit(x, y, nb_epoch=n_epochs)
+
+        if save:
+            self.model.save_weights(self.model_name)
 
     def test(self, x, y):
         predictions = self.model.predict_classes(x)
@@ -118,3 +122,4 @@ class GroupNN:
         predicted_classes = self.model.predict_classes(x)
 
         return predicted_classes
+
