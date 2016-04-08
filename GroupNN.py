@@ -11,9 +11,11 @@ from keras.optimizers import Adam
 
 
 import sklearn.metrics as metrics
-import numpy
+
 from keras import backend as K
 
+import numpy
+import pickle
 
 # Taken from https://gist.github.com/jerheff/8cf06fe1df0695806456
 # @TODO Maybe look into this more http://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf
@@ -57,6 +59,14 @@ class GroupNN:
         self.window_size = window_size
         self.k_output = k
         self.model_name = name
+        self.model_info = {}
+
+        self.model_info['window_size'] = window_size
+        self.model_info['activation_function'] = activation_function
+        self.model_info['input_dropout_rate'] = input_dropout_rate
+        self.model_info['k_output'] = k
+        self.model_info['dropout'] = dropout
+        self.model_info['hidden_dropout_rate'] = hidden_dropout_rate
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate,
                     hidden_dropout_rate, dropout, k_output):
@@ -66,11 +76,13 @@ class GroupNN:
         print "Dropout: {}".format(dropout)
 
         model = Sequential()
+
+        if dropout:
+            model.add(Dropout(input_dropout_rate, input_dim=(window_size * 2 + 1) * word_vector_size))
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
         model.add(Activation(activation_function))
 
-        if dropout:
-            model.add(Dropout(input_dropout_rate))
+
 
         for layer_size in dense_layer_sizes:
             model.add(Dense(layer_size))
@@ -97,6 +109,7 @@ class GroupNN:
         self.model.fit(x, y, nb_epoch=n_epochs)
 
         if save:
+            pickle.dump(self.model_info, open(self.model_name + '.p', 'wb'))
             self.model.save_weights(self.model_name)
 
     def test(self, x, y):
@@ -122,4 +135,12 @@ class GroupNN:
         predicted_classes = self.model.predict_classes(x)
 
         return predicted_classes
+
+    def load_model(self):
+        self.model
+
+    def transform(self):
+        for layer in self.model.layers:
+            print layer.get_weights
+
 

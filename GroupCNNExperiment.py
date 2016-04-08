@@ -87,6 +87,12 @@ def main():
     n = len(all_pmids)
     kf = KFold(n, random_state=1337, shuffle=True, n_folds=n_folds)
 
+    accuracies = []
+    recalls = []
+    precisions = []
+    f1_scores = []
+    aucs = []
+
     for fold_idx, (train, test) in enumerate(kf):
         print("on fold %s" % fold_idx)
         train_pmids = [all_pmids[pmid_idx] for pmid_idx in train]
@@ -132,8 +138,27 @@ def main():
         print "AUC: {}".format(auc)
         print "Recall: {}".format(recall)
 
+        accuracies.append(accuracy)
+        f1_scores.append(f1_score)
+        precisions.append(precision)
+        aucs.append(auc)
+        recalls.append(recall)
+
+
 
         sys.exit()
+
+    mean_accuracy = numpy.mean(accuracies)
+    mean_f1_score = numpy.mean(f1_scores)
+    mean_precision = numpy.mean(precisions)
+    mean_auc_score = numpy.mean(aucs)
+    mean_recall = numpy.mean(recalls)
+
+    print "Mean Accuracy: {}".format(accuracy)
+    print "Mean F1: {}".format(f1_score)
+    print "Mean Precision: {}".format(precision)
+    print "Mean AUC: {}".format(auc)
+    print "Mean Recall: {}".format(recall)
 def _get_word_vector(word, word2vec, w2v_size=200):
     if word == "PADDING":
         word_vector = numpy.zeros((1, w2v_size))
