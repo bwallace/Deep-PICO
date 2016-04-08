@@ -53,8 +53,8 @@ def binary_crossentropy_with_ranking(y_true, y_pred):
 
 class GroupNN:
     def __init__(self, window_size, word_vector_size=200, activation_function='relu',
-                 dense_layer_sizes=[], input_dropout_rate=.2, hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5'):
-        self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate, hidden_dropout_rate,
+                 dense_layer_sizes=[], hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5'):
+        self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, hidden_dropout_rate,
                                       dropout, k_output=k)
         self.window_size = window_size
         self.k_output = k
@@ -63,12 +63,11 @@ class GroupNN:
 
         self.model_info['window_size'] = window_size
         self.model_info['activation_function'] = activation_function
-        self.model_info['input_dropout_rate'] = input_dropout_rate
         self.model_info['k_output'] = k
         self.model_info['dropout'] = dropout
         self.model_info['hidden_dropout_rate'] = hidden_dropout_rate
 
-    def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes, input_dropout_rate,
+    def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes,
                     hidden_dropout_rate, dropout, k_output):
 
         print "Window size: {}".format(window_size)
@@ -76,13 +75,8 @@ class GroupNN:
         print "Dropout: {}".format(dropout)
 
         model = Sequential()
-
-        if dropout:
-            model.add(Dropout(input_dropout_rate, input_dim=(window_size * 2 + 1) * word_vector_size))
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
         model.add(Activation(activation_function))
-
-
 
         for layer_size in dense_layer_sizes:
             model.add(Dense(layer_size))
@@ -137,7 +131,7 @@ class GroupNN:
         return predicted_classes
 
     def load_model(self):
-        self.model
+        self.modelthats
 
     def transform(self):
         for layer in self.model.layers:

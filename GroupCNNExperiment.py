@@ -143,9 +143,6 @@ def main():
         precisions.append(precision)
         aucs.append(auc)
         recalls.append(recall)
-
-
-
         sys.exit()
 
     mean_accuracy = numpy.mean(accuracies)
@@ -154,11 +151,12 @@ def main():
     mean_auc_score = numpy.mean(aucs)
     mean_recall = numpy.mean(recalls)
 
-    print "Mean Accuracy: {}".format(accuracy)
-    print "Mean F1: {}".format(f1_score)
-    print "Mean Precision: {}".format(precision)
-    print "Mean AUC: {}".format(auc)
-    print "Mean Recall: {}".format(recall)
+    print "Mean Accuracy: {}".format(mean_accuracy)
+    print "Mean F1: {}".format(mean_f1_score)
+    print "Mean Precision: {}".format(mean_precision)
+    print "Mean AUC: {}".format(mean_auc_score)
+    print "Mean Recall: {}".format(mean_recall)
+
 def _get_word_vector(word, word2vec, w2v_size=200):
     if word == "PADDING":
         word_vector = numpy.zeros((1, w2v_size))
