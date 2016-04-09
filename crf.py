@@ -26,6 +26,11 @@ import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
 
+import GroupNN
+import GroupCNNExperiment
+import theano.tensor as T
+
+
 def _transform_to_string(words, stop_words):
     words_string = ""
 
@@ -73,9 +78,6 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
                     false_negatives += 1
 
 
-
-
-
     print "false negatives: {}".format(false_negatives)
     print "true postitives: {}".format(true_positives)
     recall = float(true_positives)/float((true_positives + false_negatives))
@@ -87,12 +89,38 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
     return recall, precision, f1_score
 
 
+def transform_features(nn_model, X):
+    transformed_X = []
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search):
+    for x in X:
+        transformed_x = nn_model.transform(x)
+        feature_dict = {}
+
+        for i, value in enumerate(transformed_x):
+            feature_dict['{}'.format(i)] = value
+
+        transformed_X.append(feature_dict)
+
+    return transformed_X
+
+
+def _labels_to_str(labels):
+    str_labels = []
+
+    for abstract_labels in labels:
+        str_abstract_label = []
+
+        for label in abstract_labels:
+            str_abstract_label.append(str(label))
+        str_labels.append(str_abstract_label)
+
+    return str_labels
+
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, transfer_learning=True):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
-                make_pmids_dict=True, sen=True)
+                make_pmids_dict=True, sen=True, use_genia=False)
 
     model = pycrfsuite.Trainer(verbose=False)
     all_pmids = pmids_dict.keys()
@@ -103,19 +131,38 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
     recall_scores = []
     precision_scores = []
     f1_scores = []
+    model_type = 'nn'
+    binary_cross_entropy = True
 
     for fold_idx, (train, test) in enumerate(kf):
         print("on fold %s" % fold_idx)
         train_pmids = [all_pmids[pmid_idx] for pmid_idx in train]
         test_pmids  = [all_pmids[pmid_idx] for pmid_idx in test]
         print('loading data...')
-        train_x, train_y = abstracts2features(pmids_dict, train_pmids, words_before, words_after, w2v, shallow_parse)
 
-        test_x, test_y = abstracts2features(pmids_dict, test_pmids, words_before, words_after, w2v, shallow_parse)
+        if transfer_learning:
+            nn_model = GroupNN.load_model(model_path='NNModel.hdf5', model_info_path='NNModel.hdf5.p')
+            window_size = nn_model.model_info['window_size']
+
+            train_x, train_y = GroupCNNExperiment._prep_data(train_pmids, pmids_dict, w2v, window_size, model_type,
+                                                             binary_ce=binary_cross_entropy, crf=True)
+            test_x, test_y = GroupCNNExperiment._prep_data(test_pmids, pmids_dict, w2v, window_size, model_type,
+                                                           binary_ce=binary_cross_entropy, crf=True)
+
+            train_x = transform_features(nn_model, train_x)
+            test_x = transform_features(nn_model, test_x)
+
+            train_y = _labels_to_str(train_y)
+            test_y = _labels_to_str(test_y)
+        else:
+
+            train_x, train_y = abstracts2features(pmids_dict, train_pmids, words_before, words_after, w2v, shallow_parse)
+            test_x, test_y = abstracts2features(pmids_dict, test_pmids, words_before, words_after, w2v, shallow_parse)
 
         print('loaded data...')
         for x, y in zip(train_x, train_y):
             model.append(x, y)
+
 
         if grid_search:
             model.set_params({

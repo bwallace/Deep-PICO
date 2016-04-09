@@ -143,6 +143,8 @@ def main():
         precisions.append(precision)
         aucs.append(auc)
         recalls.append(recall)
+
+        model.transform(X_train)
         sys.exit()
 
     mean_accuracy = numpy.mean(accuracies)
@@ -170,7 +172,7 @@ def _get_word_vector(word, word2vec, w2v_size=200):
     return word_vector
 
 
-def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200, binary_ce=False):
+def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200, binary_ce=False, crf=False):
     n_examples = 0
     feature_size = (window_size * 2 + 1) * w2v_size
 
@@ -188,22 +190,29 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
         pmid_dict[pmid][0] = padding + abstract + padding
 
         n_examples += n
-    if model_type == 'nn':
-        X = numpy.zeros((n_examples, feature_size))
-    elif model_type == 'cnn':
-        X = numpy.zeros((n_examples, 1, window_size * 2 + 1, w2v_size))
-
-
-    if binary_ce:
-        y = numpy.zeros(n_examples)
+    if crf:
+        X = []
+        y = []
     else:
-        y = numpy.zeros((n_examples, 2))
+        if model_type == 'nn':
+            X = numpy.zeros((n_examples, feature_size))
+        elif model_type == 'cnn':
+            X = numpy.zeros((n_examples, 1, window_size * 2 + 1, w2v_size))
+
+
+        if binary_ce:
+            y = numpy.zeros(n_examples)
+        else:
+            y = numpy.zeros((n_examples, 2))
 
     example_i = 0
+
     for abstract_i, pmid in enumerate(pmids):
         abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
 
         n = len(abstract)
+        abstract_features = []
+        abstract_labels = []
 
         for i_abstract, i in enumerate(range(window_size, n - window_size)):
 
@@ -220,22 +229,27 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
                 elif model_type == 'cnn':
                     example[:, window_i, :] = _get_word_vector(word, word2vec)
 
-            if model_type == 'nn':
-                X[example_i, :] = example
-            elif model_type =='cnn':
-                X[example_i, :, :, :] = example
-
             label = labels[i_abstract]
-            if binary_ce:
-                y[example_i] = label
+
+            if crf:
+                abstract_features.append(example)
+                abstract_labels.append(label)
             else:
-                y[example_i, label] = 1
+                if model_type == 'nn':
+                    X[example_i, :] = example
+                elif model_type =='cnn':
+                    X[example_i, :, :, :] = example
+
+
+                if binary_ce:
+                    y[example_i] = label
+                else:
+                    y[example_i, label] = 1
             example_i += 1
+        if crf:
+            X.append(abstract_features)
+            y.append(abstract_labels)
 
-
-    print "X shape: {}".format(X.shape)
-    print "Y.shape: {}".format(y.shape)
-    print "Example_i: {} | n_examples: {}".format(example_i, n_examples)
     return X, y
 
 def _cnn_prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=False):

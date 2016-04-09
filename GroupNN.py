@@ -1,21 +1,19 @@
 from keras.models import Sequential
 
-
 from keras.layers.core import Dropout
 from keras.layers.core import Dense
 from keras.layers.core import Activation
 
-
 from keras.optimizers import SGD
 from keras.optimizers import Adam
 
-
-import sklearn.metrics as metrics
-
 from keras import backend as K
 
+import sklearn.metrics as metrics
 import numpy
 import pickle
+import theano
+import theano.tensor as T
 
 # Taken from https://gist.github.com/jerheff/8cf06fe1df0695806456
 # @TODO Maybe look into this more http://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf
@@ -50,29 +48,46 @@ def binary_crossentropy_with_ranking(y_true, y_pred):
     # return (rankloss + 1) * logloss - an alternative to try
     return rankloss + logloss
 
+# @TODO fix this crappy naming
+def load_model(model_info_path, model_path):
+    model_info = pickle.load(open(model_info_path))
+    model = GroupNN(build_model=False)
+    model.build_model(window_size=model_info['window_size'],
+                      word_vector_size=200,
+                      activation_function=model_info['activation_function'],
+                      dense_layer_sizes=model_info['dense_layer_sizes'],
+                      dropout=model_info['dropout'],
+                      k_output=model_info['k_output'],
+                      hidden_dropout_rate=model_info['hidden_dropout_rate'],
+                      name='nn')
+    model.model.compile(optimizer=Adam(), loss='categorical_crossentropy')
+
+    model.model.load_weights(model_path)
+
+    return model
+
 
 class GroupNN:
-    def __init__(self, window_size, word_vector_size=200, activation_function='relu',
-                 dense_layer_sizes=[], hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5'):
-        self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes, hidden_dropout_rate,
-                                      dropout, k_output=k)
-        self.window_size = window_size
-        self.k_output = k
-        self.model_name = name
+    def __init__(self, window_size=5, word_vector_size=200, activation_function='relu',
+                 dense_layer_sizes=[], hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5',
+                 build_model=True):
+        if build_model:
+            self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes,
+                                          hidden_dropout_rate, dropout, k_output=k, name=name)
+
+    def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes,
+                    hidden_dropout_rate, dropout, k_output, name):
+
         self.model_info = {}
 
         self.model_info['window_size'] = window_size
         self.model_info['activation_function'] = activation_function
-        self.model_info['k_output'] = k
+        self.model_info['k_output'] = k_output
         self.model_info['dropout'] = dropout
         self.model_info['hidden_dropout_rate'] = hidden_dropout_rate
-
-    def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes,
-                    hidden_dropout_rate, dropout, k_output):
-
-        print "Window size: {}".format(window_size)
-        print "K output: {}".format(k_output)
-        print "Dropout: {}".format(dropout)
+        self.model_info['dense_layer_sizes'] = dense_layer_sizes
+        self.model_info['name'] = name
+        self.model_info['word_vector_size'] = word_vector_size
 
         model = Sequential()
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
@@ -87,6 +102,8 @@ class GroupNN:
         model.add(Dense(k_output))
         model.add(Activation('softmax'))
 
+        self.model = model
+
         return model
 
     def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy', save=True):
@@ -99,17 +116,20 @@ class GroupNN:
         if criterion == 'binary_crossentropy':
             criterion = binary_crossentropy_with_ranking
 
+        self.model_info['criterion'] = criterion
+        self.model_info['optimizer'] = optim_algo
+
         self.model.compile(loss=criterion, optimizer=optim_algo)
         self.model.fit(x, y, nb_epoch=n_epochs)
 
         if save:
-            pickle.dump(self.model_info, open(self.model_name + '.p', 'wb'))
-            self.model.save_weights(self.model_name)
+            pickle.dump(self.model_info, open(self.model_info['name'] + '.p', 'wb'))
+            self.model.save_weights(self.model_info['name'])
 
     def test(self, x, y):
         predictions = self.model.predict_classes(x)
 
-        if not self.k_output == 1:
+        if not self.model_info['k_output'] == 1:
             truth = numpy.argmax(y, axis=1)
         else:
             truth = predictions
@@ -130,11 +150,36 @@ class GroupNN:
 
         return predicted_classes
 
-    def load_model(self):
-        self.modelthats
+    def transform(self, x):
+        a_function = self.model_info['activation_function']
 
-    def transform(self):
-        for layer in self.model.layers:
-            print layer.get_weights
+        if a_function == 'relu':
+            a_function = K.relu
+        elif a_function == 'tanh':
+            a_function = K.tanh
+
+        output = x
+
+        weights = self.model.layers[0].get_weights()
+        W = weights[0]
+        b = weights[1]
+
+        return a_function(K.dot(output, W) + b).eval()
+        # @TODO Generalize this to more than one layer!
+        """
+
+        for layer_i, layer in enumerate(self.model.layers):
+            if not type(layer) is Dense:
+                continue
+
+            weights = layer.get_weights()
+
+            W = weights[0]
+            b = weights[1]
+
+            output = a_function(K.dot(output, W) + b).eval()
+            break
 
 
+        return output
+        """
