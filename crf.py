@@ -163,7 +163,6 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
         for x, y in zip(train_x, train_y):
             model.append(x, y)
 
-
         if grid_search:
             model.set_params({
                 'c1': l1,   # coefficient for L1 penalty

@@ -15,7 +15,7 @@ def main():
     try:
         opts, args = getopt.getopt(sys.argv[1:], '', ['window_size=', 'wiki=', 'n_feature_maps=', 'epochs=',
                                                       'undersample=', 'n_feature_maps=', 'criterion=',
-                                                      'optimizer=', 'model=', 'genia=', 'tacc='])
+                                                      'optimizer=', 'model=', 'genia=', 'tacc=', 'layers='])
     except getopt.GetoptError as error:
         print error
         sys.exit(2)
@@ -31,6 +31,7 @@ def main():
     k = 2
     use_genia = False
     using_tacc = False
+    layer_sizes = []
 
     for opt, arg in opts:
         if opt == '--window_size':
@@ -40,6 +41,8 @@ def main():
                 wiki = False
         elif opt == '--epochs':
             epochs = int(arg)
+        elif opt == '--layers':
+            layer_sizes = arg.split(',')
         elif opt == '--n_feature_maps':
             n_feature_maps = int(arg)
         elif opt == '--undersample':
