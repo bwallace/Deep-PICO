@@ -245,7 +245,7 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
                     example[window_i * w2v_size: (window_i+1) * w2v_size] = _get_word_vector(word, word2vec)
                 elif model_type == 'cnn':
                     example[:, window_i, :] = _get_word_vector(word, word2vec)
-
+            print 'i_abstract: {}'.format(i_abstract)
             label = labels[i_abstract]
 
             if crf:
