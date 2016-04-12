@@ -113,14 +113,29 @@ def main():
 
         if undersample:
             # Undersample the non group tags at random....probably a bad idea...
-            idx_undersample = numpy.where(y_train[:, 1] == 0)[0]
-            idx_postive = numpy.where(y_train[:, 1] == 1)[0]
+            if binary_cross_entropy:
+                idx_undersample = numpy.where(y_train == 0)[0]
+                idx_postive = numpy.where(y_train == 1)[0]
+            else:
+                idx_undersample = numpy.where(y_train[:, 1] == 0)[0]
+                idx_postive = numpy.where(y_train[:, 1] == 1)[0]
             random_negative_sample = numpy.random.choice(idx_undersample, idx_postive.shape[0])
-            X_train_postive = X_train[idx_postive, :, :, :]
-            y_train_postive = y_train[idx_postive, :]
 
-            X_train_negative = X_train[random_negative_sample, :, :, :]
-            y_train_negative = y_train[random_negative_sample, :]
+            if model_type == 'nn':
+                X_train_postive = X_train[idx_postive, :]
+                X_train_negative = X_train[random_negative_sample, :]
+            else:
+                X_train_postive = X_train[idx_postive, :, :, :]
+
+                X_train_negative = X_train[random_negative_sample, :, :, :]
+
+            if binary_cross_entropy:
+                y_train_postive = y_train[idx_postive]
+                y_train_negative = y_train[random_negative_sample]
+            else:
+                y_train_postive = y_train[idx_postive, :]
+                y_train_negative = y_train[random_negative_sample, :]
+
 
             X_train = numpy.vstack((X_train_postive, X_train_negative))
             y_train = numpy.vstack((y_train_postive, y_train_negative))
@@ -148,7 +163,6 @@ def main():
         recalls.append(recall)
 
         model.transform(X_train)
-        sys.exit()
 
     mean_accuracy = numpy.mean(accuracies)
     mean_f1_score = numpy.mean(f1_scores)

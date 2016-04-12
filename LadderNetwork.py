@@ -3,8 +3,16 @@ import tensorflow as tf
 # An implementation of a Ladder Network
 # Paper link: http://arxiv.org/pdf/1507.02672v2.pdf
 
+def batch_norm(x, h):
+    mean, variance = tf.nn.moments(x, axes=[0])
+
+
+
+
+
 
 class LadderNetworkMLP():
+
     def __init__(self):
         self.model = self.build_model()
         self.layers = []
@@ -12,6 +20,11 @@ class LadderNetworkMLP():
     def build_model(self, layers_sizes, input_size, output_size, activation):
         X = tf.placeholder(tf.float32, shape=[None, input_size])
         y = tf.placeholder(tf.float32, shape=[None, output_size])
+
+        # Parameters to learn for batch normalization
+        beta = tf.Variable()
+        gamma = tf.Variable()
+
 
         # Create the layers for the network
 
@@ -41,6 +54,13 @@ class LadderNetworkMLP():
 
             # Calculate current layer
             layer_mat_mul = tf.matmul(self.layers[layer_i - 1], W) + b
+
+            # Batch normalization
+
+            mean, variance = tf.nn.moments(layer_mat_mul)
+
+
+
             layer_activation = tf.nn.relu(layer_mat_mul)
 
             # Save the weights and bias variables
@@ -66,5 +86,7 @@ class LadderNetworkMLP():
         output = tf.nn.softmax(output_mat_mul)
 
         return output
+
+
 
 
