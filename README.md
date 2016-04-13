@@ -38,11 +38,11 @@ geniatagger
 ```
 sklearn_crfsuite
 ```bash
-    $ pip install theano
+    $ pip install sklearn_crfsuite
 ```
 pycrfsuite
 ```bash
-    $ pip install theano
+    $ pip install pycrfsuite
 ```
 
 
@@ -73,11 +73,11 @@ Installing tensorflow
 
 ###Command line arguments 
 ```bash
-    --w2v       # 1 or 0 whether to use word vectors or not as features
-    --iters     # number of iterations to train on    
-    --l1        # l1 regulerzation term
-    --l2        # l2 regulerzation term
-    --wiki      # 1 or 0 whether to use the word vectors trained on wikipedia and pubmed 
+    --w2v               # 1 or 0 whether to use word vectors or not as features
+    --iters             # number of iterations to train on    
+    --l1                # l1 regulerzation term
+    --l2                # l2 regulerzation term
+    --wiki              # 1 or 0 whether to use the word vectors trained on wikipedia and pubmed 
     --shallow_parse     # 1 or 0 whether to use standerd POS features
     --words_before      # number of words to use as features that come before each token
     --words_after       # number of words to use as features that come after each token
