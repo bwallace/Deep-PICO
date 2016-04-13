@@ -138,7 +138,12 @@ def main():
 
 
             X_train = numpy.vstack((X_train_postive, X_train_negative))
-            y_train = numpy.vstack((y_train_postive, y_train_negative))
+
+            if binary_cross_entropy:
+                y_train = numpy.hstack((y_train_postive, y_train_negative))
+
+            else:
+                y_train = numpy.vstack((y_train_postive, y_train_negative))
 
         print('loaded data...')
 
