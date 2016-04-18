@@ -66,9 +66,6 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
 
                     if already_overlapped:
                         false_positives += 1
-
-                        print "Pred: {}".format(mention)
-                        print "Truth: {}".format(true_mention)
                     else:
 
                         true_positives += 1
@@ -78,8 +75,8 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
                     false_negatives += 1
 
 
-    print "false negatives: {}".format(false_negatives)
-    print "true postitives: {}".format(true_positives)
+    #print "false negatives: {}".format(false_negatives)
+    #print "true postitives: {}".format(true_positives)
     recall = float(true_positives)/float((true_positives + false_negatives))
     precision = float(true_positives) / float(true_positives + false_positives)
 
@@ -116,11 +113,11 @@ def _labels_to_str(labels):
 
     return str_labels
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, transfer_learning=True):
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, transfer_learning=False):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
-                make_pmids_dict=True, sen=True, use_genia=False)
+                make_pmids_dict=True, sen=True, use_genia=shallow_parse)
 
     model = pycrfsuite.Trainer(verbose=False)
     all_pmids = pmids_dict.keys()
@@ -200,6 +197,7 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
                                     scoring=f1_scorer)
             rs.fit(train_x, train_y)
             info = rs.best_estimator_.tagger_.info()
+            tagger = rs.best_estimator_.tagger_
         else:
             model.set_params({
                 'c1': l1,   # coefficient for L1 penalty
@@ -293,9 +291,18 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
         precision_scores.append(fold_precision)
         f1_scores.append(fold_f1_score)
 
-        print "Fold recall: {}".format(fold_recall)
-        print "Fold precision: {}".format(fold_precision)
-        print "Fold F1 Score: {}".format(fold_f1_score)
+        fold_recall_results = "Fold recall: {}".format(fold_recall)
+        fold_precision_results = "Fold precision: {}".format(fold_precision)
+        fold_f1_results = "Fold F1 Score: {}".format(fold_f1_score)
+        print fold_recall_results
+        print fold_precision_results
+        print fold_f1_results
+
+        file = open('results.txt', 'w+')
+
+        file.write(fold_recall_results + '\n')
+        file.write(fold_precision_results + '\n')
+        file.write(fold_f1_results + '\n')
 
        # avg_g_i = float(0)
         """

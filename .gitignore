@@ -1,0 +1,38 @@
+
+*.xml
+
+*.pyc
+
+.idea/Deep-PICO.iml
+
+.idea/.name
+
+ParseSummerscales.py
+
+PubMed-w2v.bin
+
+*.hdf5
+
+NNModel.hdf5.p
+
+wikipedia-pubmed-and-PMC-w2v.bin
+
+LSTMExperiment.py
+
+KerasTest.py
+
+iParse.py
+
+histo.png
+
+model 0
+
+model 1
+
+model 2
+
+model 3
+
+model 4
+
+CNNModel
