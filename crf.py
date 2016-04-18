@@ -113,11 +113,11 @@ def _labels_to_str(labels):
 
     return str_labels
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, transfer_learning=False):
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search,tacc, transfer_learning=False):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
-                make_pmids_dict=True, sen=True, use_genia=shallow_parse)
+                make_pmids_dict=True, sen=True, use_genia=shallow_parse, using_tacc=tacc)
 
     model = pycrfsuite.Trainer(verbose=False)
     all_pmids = pmids_dict.keys()
@@ -574,12 +574,12 @@ def run():
     words_before = 2
     words_after = 2
     grid_search = True
-
+    tacc = False
 
     try:
         opts, args = getopt.getopt(sys.argv[1:], 'w:i:c:l:',
                                    ['w2v=', 'iters=', 'l1=', 'l2=', 'wiki=', 'shallow_parse=', 'words_before=',
-                                    'words_after=', 'grid_search='])
+                                    'words_after=', 'grid_search=', 'tacc='])
     except getopt.GetoptError as e:
         print(e)
         sys.exit(2)
@@ -615,6 +615,9 @@ def run():
             words_before = int(arg)
         elif opt == '--words_after':
             words_after = int(arg)
+        elif opt == '--tacc':
+            if int(arg) == 1:
+                tacc = True
         else:
             sys.exit(2)
     if w2v:
@@ -631,7 +634,7 @@ def run():
     else:
         w2v = False
 
-    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search)
+    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, tacc)
 
 
 def main():
