@@ -3,6 +3,7 @@ import sys
 import parse_summerscales
 import itertools
 import numpy
+import crf
 from GroupNN import GroupNN
 
 from gensim.models import Word2Vec
@@ -15,7 +16,8 @@ def main():
     try:
         opts, args = getopt.getopt(sys.argv[1:], '', ['window_size=', 'wiki=', 'n_feature_maps=', 'epochs=',
                                                       'undersample=', 'n_feature_maps=', 'criterion=',
-                                                      'optimizer=', 'model=', 'genia=', 'tacc=', 'layers='])
+                                                      'optimizer=', 'model=', 'genia=', 'tacc=', 'layers=',
+                                                      'hyperopt='])
     except getopt.GetoptError as error:
         print error
         sys.exit(2)
@@ -32,6 +34,7 @@ def main():
     use_genia = False
     using_tacc = False
     layer_sizes = []
+    hyperopt = False
 
     for opt, arg in opts:
         if opt == '--window_size':
@@ -65,6 +68,9 @@ def main():
         elif opt == '--tacc':
             if int(arg) == 1:
                 using_tacc = True
+        elif opt == '--hyperopt':
+            if int(arg) == 1:
+                hyperopt = True
         else:
             print "Option {} is not valid!".format(opt)
 
@@ -150,9 +156,21 @@ def main():
         if model_type == 'cnn':
             model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k)
         elif model_type == 'nn':
-            model = GroupNN(window_size=window_size, k=k)
-        model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion)
+            model = GroupNN(window_size=window_size, k=k, hyperparameter_search=hyperopt)
 
+        if hyperopt:
+            model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion, X_test=X_test,
+                        y_test=y_test)
+        else:
+            model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion)
+
+        words = []
+        for pmid in train_pmids:
+            words.extend(pmids_dict[pmid][0])
+        predictions = model.predict_classes(X_test)
+
+        words = crf.output2words(predictions, words)
+        print words
         accuracy, f1_score, precision, auc, recall = model.test(X_test, y_test)
 
         print "Accuracy: {}".format(accuracy)
@@ -181,6 +199,7 @@ def main():
     print "Mean AUC: {}".format(mean_auc_score)
     print "Mean Recall: {}".format(mean_recall)
 
+
 def _get_word_vector(word, word2vec, w2v_size=200):
     if word == "PADDING":
         word_vector = numpy.zeros((1, w2v_size))
@@ -197,8 +216,6 @@ def _get_word_vector(word, word2vec, w2v_size=200):
 def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200, binary_ce=False, crf=False):
     n_examples = 0
     feature_size = (window_size * 2 + 1) * w2v_size
-
-
 
     # Get sizes and padding before procssing to make things fastert
     for pmid in pmids:
@@ -250,7 +267,6 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
                     example[window_i * w2v_size: (window_i+1) * w2v_size] = _get_word_vector(word, word2vec)
                 elif model_type == 'cnn':
                     example[:, window_i, :] = _get_word_vector(word, word2vec)
-            print 'i_abstract: {}'.format(i_abstract)
             label = labels[i_abstract]
 
             if crf:

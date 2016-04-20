@@ -9,11 +9,14 @@ from keras.optimizers import Adam
 
 from keras import backend as K
 
+from hyperas.distributions import uniform
+from hyperas import optim
+from hyperopt import Trials, STATUS_OK, tpe
+
 import sklearn.metrics as metrics
 import numpy
 import pickle
-import theano
-import theano.tensor as T
+
 
 # Taken from https://gist.github.com/jerheff/8cf06fe1df0695806456
 # @TODO Maybe look into this more http://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf
@@ -70,13 +73,14 @@ def load_model(model_info_path, model_path):
 class GroupNN:
     def __init__(self, window_size=5, word_vector_size=200, activation_function='relu',
                  dense_layer_sizes=[], hidden_dropout_rate=.5, dropout=True, k=2, name='NNModel.hdf5',
-                 build_model=True):
+                 build_model=True, hyperparameter_search=False):
         if build_model:
             self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes,
-                                          hidden_dropout_rate, dropout, k_output=k, name=name)
+                                          hidden_dropout_rate, dropout, k_output=k, name=name,
+                                          hyperparameter_search=hyperparameter_search)
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes,
-                    hidden_dropout_rate, dropout, k_output, name):
+                    hidden_dropout_rate, dropout, k_output, name, hyperparameter_search=False):
 
         self.model_info = {}
 
@@ -88,6 +92,7 @@ class GroupNN:
         self.model_info['dense_layer_sizes'] = dense_layer_sizes
         self.model_info['name'] = name
         self.model_info['word_vector_size'] = word_vector_size
+        self.model_info['hyperparameter_search'] = hyperparameter_search
 
         model = Sequential()
         model.add(Dense(100, input_dim=(window_size * 2 + 1) * word_vector_size))
@@ -95,8 +100,9 @@ class GroupNN:
 
         for layer_size in dense_layer_sizes:
             model.add(Dense(layer_size))
-
             if dropout:
+                if hyperparameter_search:
+                    hidden_dropout_rate = {{uniform(0, 1)}}
                 model.add(Dropout(hidden_dropout_rate))
 
         model.add(Dense(k_output))
@@ -106,25 +112,55 @@ class GroupNN:
 
         return model
 
-    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy', save=True):
 
-        if optim_algo == 'adam':
-            optim_algo = Adam()
+
+
+    def train(self, x, y, n_epochs, optim_algo='adam', criterion='categorical_crossentropy', save=True, X_test=None,
+              y_test=None):
+        def _train(x, y, n_epochs, optim_algo, criterion):
+            if optim_algo == 'adam':
+                optim_algo = Adam()
+            else:
+                optim_algo = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
+
+            if criterion == 'binary_crossentropy':
+                criterion = binary_crossentropy_with_ranking
+
+            self.model_info['criterion'] = criterion
+            self.model_info['optimizer'] = optim_algo
+
+            self.model.compile(loss=criterion, optimizer=optim_algo)
+            self.model.fit(x, y, nb_epoch=n_epochs)
+
+
+
+            if self.model_info['hyperparameter_search']:
+                accuracy, f1_score, precision, auc, recall = self.test(X_test, y_test)
+                return {'loss': -f1_score, 'status': STATUS_OK, 'model': self.model}
+
+        def data():
+            return x, y, X_test, y_test
+
+        if self.model_info['hyperparameter_search']:
+            print "X_test {}".format(X_test)
+            print "y_test {}".format(y_test)
+            
+            assert not X_test == None and not y_test == None, 'Make sure to define X_test, and y_test'
+
+            best_run, best_model = optim.minimize(model=_train(x, y, n_epochs, optim_algo, criterion),
+                                          data=data,
+                                          algo=tpe.suggest,
+                                          max_evals=5,
+                                          trials=Trials())
+            self.model = best_model
         else:
-            optim_algo = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
-
-        if criterion == 'binary_crossentropy':
-            criterion = binary_crossentropy_with_ranking
-
-        self.model_info['criterion'] = criterion
-        self.model_info['optimizer'] = optim_algo
-
-        self.model.compile(loss=criterion, optimizer=optim_algo)
-        self.model.fit(x, y, nb_epoch=n_epochs)
-
+            _train(x, y, n_epochs, optim_algo, criterion)
         if save:
             pickle.dump(self.model_info, open(self.model_info['name'] + '.p', 'wb'))
             self.model.save_weights(self.model_info['name'])
+
+
+
 
     def test(self, x, y):
         predictions = self.model.predict_classes(x)
@@ -164,6 +200,8 @@ class GroupNN:
         W = weights[0]
         b = weights[1]
 
+
+
         return a_function(K.dot(output, W) + b).eval()
         # @TODO Generalize this to more than one layer!
         """
@@ -183,3 +221,4 @@ class GroupNN:
 
         return output
         """
+

@@ -36,3 +36,7 @@ model 3
 model 4
 
 CNNModel
+
+results_gridsearch.txt
+
+results.txt
