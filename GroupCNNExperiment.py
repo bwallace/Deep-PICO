@@ -209,11 +209,26 @@ def main():
     mean_auc_score = numpy.mean(aucs)
     mean_recall = numpy.mean(recalls)
 
-    print "Mean Accuracy: {}".format(mean_accuracy)
-    print "Mean F1: {}".format(mean_f1_score)
-    print "Mean Precision: {}".format(mean_precision)
-    print "Mean AUC: {}".format(mean_auc_score)
-    print "Mean Recall: {}".format(mean_recall)
+    mean_accuracy_string = "Mean Accuracy: {}".format(mean_accuracy)
+    mean_f1_score_string = "Mean F1: {}".format(mean_f1_score)
+    mean_precision_string = "Mean Precision: {}".format(mean_precision)
+    mean_auc_score_string = "Mean AUC: {}".format(mean_auc_score)
+    mean_recall_string = "Mean Recall: {}".format(mean_recall)
+
+    print mean_accuracy_string
+    print mean_f1_score_string
+    print mean_precision_string
+    print mean_auc_score_string
+    print mean_recall_string
+
+    results = open('{}_fold_results'.format(model.model_name))
+    results.write(mean_accuracy_string)
+    results.write(mean_f1_score_string)
+    results.write(mean_precision_string)
+    results.write(mean_auc_score_string)
+    results.write(mean_recall_string)
+
+
 
 
 def _get_word_vector(word, word2vec, w2v_size=200):
