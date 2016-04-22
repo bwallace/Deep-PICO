@@ -200,9 +200,6 @@ def main():
         precisions.append(precision)
         aucs.append(auc)
         recalls.append(recall)
-
-        model.transform(X_train)
-
     mean_accuracy = numpy.mean(accuracies)
     mean_f1_score = numpy.mean(f1_scores)
     mean_precision = numpy.mean(precisions)
