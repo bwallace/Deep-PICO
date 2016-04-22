@@ -1,7 +1,6 @@
 import getopt
 import sys
 import parse_summerscales
-import itertools
 import numpy
 import crf
 from GroupNN import GroupNN
@@ -10,6 +9,12 @@ from gensim.models import Word2Vec
 from GroupCNN import GroupCNN
 
 from sklearn.cross_validation import KFold
+
+from hyperas import optim
+from hyperopt import Trials, STATUS_OK, tpe
+
+
+model = None
 
 def main():
     n_folds = 5
@@ -102,6 +107,8 @@ def main():
     f1_scores = []
     aucs = []
 
+    global model
+
     for fold_idx, (train, test) in enumerate(kf):
         print("on fold %s" % fold_idx)
         train_pmids = [all_pmids[pmid_idx] for pmid_idx in train]
@@ -159,19 +166,28 @@ def main():
             model = GroupNN(window_size=window_size, k=k, hyperparameter_search=hyperopt)
 
         if hyperopt:
-            model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion, X_test=X_test,
-                        y_test=y_test)
+            best_run, best_model = optim.minimize(model=_model,
+                                          data=_data,
+                                          algo=tpe.suggest,
+                                          max_evals=5,
+                                          trials=Trials())
+            model.model = best_model
+
         else:
             model.train(X_train, y_train, epochs, optim_algo=optimizer, criterion=criterion)
 
         words = []
-        for pmid in train_pmids:
+        for pmid in test_pmids:
             words.extend(pmids_dict[pmid][0])
+
         predictions = model.predict_classes(X_test)
 
-        words = crf.output2words(predictions, words)
-        print words
+        predicted_words = crf.output2words(predictions, words)
+        y_test_arg_max = numpy.argmax(y_test, axis=1)
+        true_words = crf.output2words(y_test_arg_max, words)
+
         accuracy, f1_score, precision, auc, recall = model.test(X_test, y_test)
+        recall, precision, f1_score = crf.eveluate(predicted_words, true_words)
 
         print "Accuracy: {}".format(accuracy)
         print "F1: {}".format(f1_score)
@@ -222,11 +238,16 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
         abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
 
         n = len(abstract)
-        padding = []
 
-        for i in range(window_size):
-            padding.append("PADDING")
-        pmid_dict[pmid][0] = padding + abstract + padding
+        # You might wonder why check if the first word in the abstract is "padding"
+        # well if I don't check then when going through the folds some abstracts will have twice the amount of padding
+        # because the abstract will be modified twice.
+        if not abstract[0] == "PADDING":
+            padding = []
+
+            for i in range(window_size):
+                padding.append("PADDING")
+            pmid_dict[pmid][0] = padding + abstract + padding
 
         n_examples += n
     if crf:
@@ -363,6 +384,29 @@ def _cnn_prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary
     print "Y.shape: {}".format(y.shape)
 
     return X, y
+
+def _model(X_train, y_train, X_test, y_test):
+    global model
+
+    model.compile(loss='categorical_crossentropy', optimizer={{choice(['rmsprop', 'adam', 'sgd'])}})
+
+    model.fit(X_train, Y_train,
+              batch_size={{choice([64, 128])}},
+              nb_epoch=1,
+              show_accuracy=True,
+              verbose=2,
+              validation_data=(X_test, Y_test))
+    score, acc = model.evaluate(X_test, Y_test, show_accuracy=True, verbose=0)
+    print('Test accuracy:', acc)
+
+    return {'loss': -acc, 'status': STATUS_OK, 'model': model}
+
+def _data(X_train, y_train, X_test, y_test):
+    return
+
+
+
+
 
 if __name__ == '__main__':
     main()
