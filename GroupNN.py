@@ -77,6 +77,7 @@ class GroupNN:
             self.model = self.build_model(window_size, word_vector_size, activation_function, dense_layer_sizes,
                                           hidden_dropout_rate, dropout, k_output=k, name=name,
                                           hyperparameter_search=hyperparameter_search)
+            self.model_name = name
 
     def build_model(self, window_size, word_vector_size, activation_function, dense_layer_sizes,
                     hidden_dropout_rate, dropout, k_output, name, hyperparameter_search=False):
