@@ -79,7 +79,6 @@ class GroupCNN:
 
         model.add_input('data', input_shape=(1, window_size * 2 + 1, word_vector_size))
 
-
         for filter_size in filter_sizes:
             conv_layer = containers.Sequential()
             conv_layer.add(Convolution2D(n_feature_maps, filter_size, word_vector_size,
