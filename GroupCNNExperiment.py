@@ -218,7 +218,7 @@ def main():
     print mean_auc_score_string
     print mean_recall_string
 
-    results = open('{}_fold_results'.format(model.model_name))
+    results = open('{}_fold_results'.format(model.model_name), 'w+')
     results.write(mean_accuracy_string)
     results.write(mean_f1_score_string)
     results.write(mean_precision_string)
