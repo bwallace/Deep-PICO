@@ -1,22 +1,17 @@
-from keras.models import Sequential
 from keras.models import Graph
-
-from keras.layers import containers
 
 from keras.layers.core import Dropout
 from keras.layers.core import Dense
 from keras.layers.core import Flatten
 
 from keras.layers.core import Activation
+from keras.models import Sequential
 
-from keras.layers.convolutional import Convolution1D
 from keras.layers.convolutional import Convolution2D
 from keras.layers.convolutional import MaxPooling2D
 
 from keras.optimizers import SGD
 from keras.optimizers import Adam
-
-from keras.layers.containers import Merge
 
 from keras import backend as K
 
@@ -80,7 +75,7 @@ class GroupCNN:
         model.add_input('data', input_shape=(1, window_size * 2 + 1, word_vector_size))
 
         for filter_size in filter_sizes:
-            conv_layer = containers.Sequential()
+            conv_layer = Sequential()
             conv_layer.add(Convolution2D(n_feature_maps, filter_size, word_vector_size,
                                          input_shape=(1, window_size * 2 + 1, word_vector_size)))
             conv_layer.add(Activation(activation_function))
@@ -89,7 +84,7 @@ class GroupCNN:
 
             model.add_node(conv_layer, name='filter_unit_' + str(filter_size), input='data')
 
-        fully_connected_nn = containers.Sequential()
+        fully_connected_nn = Sequential()
 
         fully_connected_nn.add(Dense(n_feature_maps * len(filter_sizes),
                                      input_dim=n_feature_maps * len(filter_sizes)))

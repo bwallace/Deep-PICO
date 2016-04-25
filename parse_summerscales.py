@@ -21,7 +21,8 @@ def _just_the_txt(s):
 
 def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
                         start_and_stop_tokens=False, make_pmids_dict=False, classify=False, sen=False,
-                        tagger_path='', parse_for_cnn=False, window_size=5, use_genia=False, using_tacc=False):
+                        tagger_path='', parse_for_cnn=False, window_size=5, use_genia=False, using_tacc=False,
+                        data_augmentation=True):
 
     if use_genia:
         if using_tacc:
@@ -83,6 +84,8 @@ def get_tokens_and_lbls(annotated_data_path="summerscales-annotated-abstracts",
         mentions = []
         groups_dict = {}
         groups_dicts = []
+        abstract_augment = []
+
         for i, s_id in enumerate(sorted(d.keys())):
             cur_s = d[s_id]
             cleaned_sent = _just_the_txt(cur_s)
