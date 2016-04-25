@@ -42,7 +42,7 @@ def _transform_to_string(words, stop_words):
     return words_string
 
 
-def eveluate(predicted_mentions, true_mentions, groups_dict):
+def eveluate(predicted_mentions, true_mentions):
     false_positives = 0
     true_positives = 0
     false_negatives = 0
@@ -77,10 +77,22 @@ def eveluate(predicted_mentions, true_mentions, groups_dict):
 
     #print "false negatives: {}".format(false_negatives)
     #print "true postitives: {}".format(true_positives)
-    recall = float(true_positives)/float((true_positives + false_negatives))
-    precision = float(true_positives) / float(true_positives + false_positives)
+    if not (true_positives + false_negatives) == 0:
+        recall = float(true_positives)/float((true_positives + false_negatives))
+    else:
+        recall = 0
+        print 'Error: divide by zero default to 0 for recall '
+    if not true_positives + false_positives == 0:
+        precision = float(true_positives) / float(true_positives + false_positives)
+    else:
+        precision = 0
+        print 'Error: divide by zero default to 0 for precision'
 
-    f1_score = float(2 * precision * recall) / float(precision + recall)
+    if not precision + recall == 0:
+        f1_score = float(2 * precision * recall) / float(precision + recall)
+    else:
+        f1_score = 0
+        print 'Error: divide by zero default to 0 for f1'
 
 
     return recall, precision, f1_score
@@ -249,8 +261,9 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
 
             count = 0
             pred_labels = tagger.tag(x)
-            pred_mentions = output2words(pred_labels, vectorizer, w2v, abstract_words)
-            true_mentions = output2words(abstract_labels, vectorizer, w2v, abstract_words)
+            pred_mentions = output2words(pred_labels, abstract_words)
+            true_mentions = output2words(abstract_labels, abstract_words)
+
             print "Predicted: {}".format(pred_mentions)
             print "True: {}".format(true_mentions)
             print '\n'
@@ -286,7 +299,7 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
             """
             abstract_predicted_mentions.append(pred_mentions)
             true_abstract_mentions.append(true_mentions)
-        fold_recall, fold_precision, fold_f1_score = eveluate(abstract_predicted_mentions, true_abstract_mentions, groups_dict)
+        fold_recall, fold_precision, fold_f1_score = eveluate(abstract_predicted_mentions, true_abstract_mentions)
         recall_scores.append(fold_recall)
         precision_scores.append(fold_precision)
         f1_scores.append(fold_f1_score)
@@ -362,7 +375,7 @@ def _compute_average(scores):
     return average
 
 
-def output2words(labels, vectorizer, w2v, words):
+def output2words(labels, words):
     predicted_mention = []
     predicted_mentions = []
     stop_words = ['a', 'an', 'the', 'of', 'had', 'group', 'groups', 'arm', ',']
