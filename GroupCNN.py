@@ -14,6 +14,7 @@ from keras.optimizers import SGD
 from keras.optimizers import Adam
 
 from keras import backend as K
+from keras.models import Model
 
 import numpy
 import sklearn.metrics as metrics
@@ -119,7 +120,7 @@ class GroupCNN:
         self.model.fit({'data': x, 'nn_output': y}, nb_epoch=n_epochs)
 
         if save_model:
-            self.model.save_weights(self.model_name)
+            self.model.save_weights(self.model_name + '.h5', overwrite=True)
 
     def test(self, x, y):
         truth = []
