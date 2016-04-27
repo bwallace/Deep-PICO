@@ -125,7 +125,7 @@ def _labels_to_str(labels):
 
     return str_labels
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search,tacc, transfer_learning=False):
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search,tacc, model_name, transfer_learning=False):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
@@ -219,7 +219,7 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
                 # include transitions that are possible, but not observed
                 'feature.possible_transitions': True
             })
-            model_name = 'model {}'.format(fold_idx)
+            model_name += model_name + '_model {}'.format(fold_idx)
             print('training model...')
             model.train(model_name)
             print('done...')
@@ -311,7 +311,7 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
         print fold_precision_results
         print fold_f1_results
 
-        file = open('results.txt', 'w+')
+        file = open(model_name + '_results.txt', 'w+')
 
         file.write(fold_recall_results + '\n')
         file.write(fold_precision_results + '\n')
@@ -588,11 +588,12 @@ def run():
     words_after = 5
     grid_search = True
     tacc = False
+    model_name = 'crf'
 
     try:
         opts, args = getopt.getopt(sys.argv[1:], 'w:i:c:l:',
                                    ['w2v=', 'iters=', 'l1=', 'l2=', 'wiki=', 'shallow_parse=', 'words_before=',
-                                    'words_after=', 'grid_search=', 'tacc='])
+                                    'words_after=', 'grid_search=', 'tacc=', 'model_name='])
     except getopt.GetoptError as e:
         print(e)
         sys.exit(2)
@@ -631,6 +632,8 @@ def run():
         elif opt == '--tacc':
             if int(arg) == 1:
                 tacc = True
+        elif opt == '--model_name':
+            model_name = arg
         else:
             sys.exit(2)
     if w2v:
@@ -647,7 +650,7 @@ def run():
     else:
         w2v = False
 
-    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, tacc)
+    run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search, tacc, model_name)
 
 
 def main():
