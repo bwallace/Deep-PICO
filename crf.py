@@ -125,7 +125,7 @@ def _labels_to_str(labels):
 
     return str_labels
 
-def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search,tacc, model_name, transfer_learning=False):
+def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_search,tacc, name, transfer_learning=False):
 
     pmids_dict, pmids, abstracts, lbls, vectorizer, groups_map, one_hot, dicts = \
         parse_summerscales.get_tokens_and_lbls(
@@ -219,7 +219,7 @@ def run_crf(w2v, l2, l1, iters, shallow_parse, words_before, words_after, grid_s
                 # include transitions that are possible, but not observed
                 'feature.possible_transitions': True
             })
-            model_name += model_name + '_model {}'.format(fold_idx)
+            model_name = name + '_model {}'.format(fold_idx)
             print('training model...')
             model.train(model_name)
             print('done...')
