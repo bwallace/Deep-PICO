@@ -22,7 +22,7 @@ def main():
         opts, args = getopt.getopt(sys.argv[1:], '', ['window_size=', 'wiki=', 'n_feature_maps=', 'epochs=',
                                                       'undersample=', 'n_feature_maps=', 'criterion=',
                                                       'optimizer=', 'model=', 'genia=', 'tacc=', 'layers=',
-                                                      'hyperopt='])
+                                                      'hyperopt=', 'model_name='])
     except getopt.GetoptError as error:
         print error
         sys.exit(2)
@@ -40,6 +40,7 @@ def main():
     using_tacc = False
     layer_sizes = []
     hyperopt = False
+    model_name = 'model'
 
     for opt, arg in opts:
         if opt == '--window_size':
@@ -76,6 +77,8 @@ def main():
         elif opt == '--hyperopt':
             if int(arg) == 1:
                 hyperopt = True
+        elif opt == '--model_name':
+            model_name = arg
         else:
             print "Option {} is not valid!".format(opt)
 
@@ -161,9 +164,9 @@ def main():
         print('loaded data...')
 
         if model_type == 'cnn':
-            model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k)
+            model = GroupCNN(window_size=window_size, n_feature_maps=n_feature_maps, k_output=k, name=model_name)
         elif model_type == 'nn':
-            model = GroupNN(window_size=window_size, k=k, hyperparameter_search=hyperopt)
+            model = GroupNN(window_size=window_size, k=k, hyperparameter_search=hyperopt, name=model_name)
 
         if hyperopt:
             best_run, best_model = optim.minimize(model=_model,
