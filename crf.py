@@ -584,8 +584,8 @@ def run():
     iters = 200
     wiki = True
     shallow_parse = True
-    words_before = 2
-    words_after = 2
+    words_before = 5
+    words_after = 5
     grid_search = True
     tacc = False
 
