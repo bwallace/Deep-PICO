@@ -377,10 +377,6 @@ def read_unlabeled_data(n_examples, window_size, w2v_size, word2vec):
 
                     example = numpy.zeros((1, window_size, w2v_size))
         i +=1
-        if i == n_examples - 1:
-            break
-
-    return X
 
 def add_padding(abstract, window_size, n, labels=None):
     if n % window_size != 0:
@@ -483,9 +479,15 @@ def _model(X_train, y_train, X_test, y_test):
 
 
 
-def parse_multiple_files(xml_path, output_file_name='output.txt', save=False):
+def parse_multiple_files(xml_path, output_file_name='output.txt', save=False, window_size=5, w2v_size=200,
+                         word2vec=None, create_data=False, n_examples=10):
     if save:
         file = open(output_file_name, 'w')
+
+    if create_data:
+        X = numpy.zeros((n_examples * window_size, 1, window_size, w2v_size))
+        i = 0
+
     files = [os.path.join(xml_path,o) for o in os.listdir(xml_path) if os.path.isfile(os.path.join(xml_path,o))]
     files.pop(0)
 
@@ -512,6 +514,38 @@ def parse_multiple_files(xml_path, output_file_name='output.txt', save=False):
                                         for abstract_ele in ele.iterchildren():
                                             if abstract_ele.tag == 'AbstractText':
                                                 abstract = abstract_ele.text
+                                                abstract = nltk.word_tokenize(abstract)
+
+                                                n = len(abstract)
+
+                                                add_padding(abstract, window_size, n)
+
+                                                word_counter = 0
+
+                                                example = numpy.zeros((1, window_size, w2v_size))
+                                                example_count = 0
+
+                                                for word in abstract:
+                                                    word_vector = _get_word_vector(word, word2vec)
+
+                                                    if word_counter < window_size:
+                                                        example[:, word_counter, :] = word_vector
+                                                        word_counter += 1
+
+                                                    else:
+                                                        for i in range(word_counter):
+                                                            X[example_count + i, :, :, :] = example
+
+                                                        example_count += 1
+                                                        word_counter = 0
+
+                                                        example = numpy.zeros((1, window_size, w2v_size))
+
+                                                        i += 1
+
+                                                        if example_count == n_examples - 1:
+                                                            return X
+
 
                             if c.tag == 'OtherAbstract' and abstract is not None:
                                 for abstract_ele in c.iterchildren():
@@ -522,9 +556,13 @@ def parse_multiple_files(xml_path, output_file_name='output.txt', save=False):
                             if save:
                                 file.write(title + ' || ' + abstract + ' || ')
 
+
                     element.clear()
 
 
+
+    if create_data:
+        return X
 def process_save_data(limit, target_dict, path='', abstract_path='', pre=False):
     abstracts = []
     mesh_list = []
