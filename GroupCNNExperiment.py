@@ -4,6 +4,8 @@ import parse_summerscales
 import numpy
 import crf
 import zipfile
+import nltk
+import fileinput
 
 from GroupNN import GroupNN
 
@@ -135,6 +137,9 @@ def main():
         elif model_type == 'nn':
             X_train, y_train = _prep_data(train_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
             X_test, y_test = _prep_data(test_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
+        elif model_type == 'ladder':
+            X_train, y_train = _prep_data(train_pmids, pmids_dict, w2v, window_size, model_type, binary_ce=binary_cross_entropy)
+            X_test, y_test = _prep_data(test_pmids, pmids_dict, w2v, window_size, model_type,  binary_ce=binary_cross_entropy)
 
         if undersample:
             # Undersample the non group tags at random....probably a bad idea...
@@ -257,7 +262,7 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
     n_examples = 0
     feature_size = (window_size * 2 + 1) * w2v_size
 
-    # Get sizes and padding before procssing to make things fastert
+    # Get sizes and padding before processing to make things faster
     for pmid in pmids:
         abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
 
@@ -335,23 +340,70 @@ def _prep_data(pmids, pmid_dict, word2vec, window_size, model_type, w2v_size=200
 
     return X, y
 
+def read_unlabeled_data(n_examples, window_size, w2v_size, word2vec):
+    X = numpy.zeros((n_examples * window_size, 1, window_size, w2v_size))
+    i = 0
+
+    for line in fileinput.input(['output.txt']):
+        split_line = line.split('||')
+
+        if len(split_line) == 2:
+            title, abstract = split_line
+
+            abstract = nltk.word_tokenize(abstract)
+
+            n = len(abstract)
+
+            add_padding(abstract, window_size, n)
+
+            word_counter = 0
+
+            example = numpy.zeros((1, window_size, w2v_size))
+            example_count = 0
+
+            for word in abstract:
+                word_vector = _get_word_vector(word, word2vec)
+
+                if word_counter < window_size:
+                    example[:, word_counter, :] = word_vector
+                    word_counter += 1
+
+                else:
+                    for i in range(word_counter):
+                        X[example_count + i, :, :, :] = example
+
+                    example_count += 1
+                    word_counter = 0
+
+                    example = numpy.zeros((1, window_size, w2v_size))
+        i +=1
+        if i == n_examples - 1:
+            break
+
+    return X
+
+def add_padding(abstract, window_size, n, labels=None):
+    if n % window_size != 0:
+        n_padding = (window_size - (n % window_size))
+
+        n += n_padding
+
+        for i in range(n_padding):
+            abstract.append("PADDING")
+
+            if labels is not None:
+                labels.append(0)
+
+
 def _cnn_prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary_ce=False):
     n_examples = 0
 
     # Get sizes and padding before procssing to make things fastert
     for pmid in pmids:
         abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
-
         n = len(abstract)
 
-        if n % window_size != 0:
-            n_padding = (window_size - (n % window_size))
-
-            n += n_padding
-
-            for i in range(n_padding):
-                abstract.append("PADDING")
-                labels.append(0)
+        add_padding(abstract, window_size, n, labels=labels)
         n_examples += n
 
     X = numpy.zeros((n_examples * window_size, 1, window_size, w2v_size))
@@ -364,50 +416,54 @@ def _cnn_prep_data(pmids, pmid_dict, word2vec, window_size, w2v_size=200, binary
     for pmid in pmids:
         abstract, labels, tagged_sentences, _, _ = pmid_dict[pmid]
 
-        word_counter = 0
+        transform_date(X, y, window_size, w2v_size, abstract, labels, word2vec, binary_ce)
 
-        example = numpy.zeros((1, window_size, w2v_size))
-        example_count = 0
-        n = len(abstract)
 
-        target_window = []
-
-        print '\nNumber of Examples in abstract {}: {} | {} words per example'.format(pmid, n, window_size)
-
-        for word, label in zip(abstract, labels):
-            word_vector = _get_word_vector(word, word2vec)
-
-            if word_counter < window_size:
-                example[:, word_counter, :] = word_vector
-
-                target_window.append(label)
-                word_counter += 1
-            else:
-                for i, label in enumerate(target_window):
-                    X[example_count + i, :, :, :] = example
-
-                    if binary_ce:
-                        y[example_count + i] = label
-                    else:
-
-                        target = numpy.zeros((1, 2))
-
-                        if label == 1:
-                            target[:, 1] = 1
-                        else:
-                            target[:, 0] = 1
-
-                        y[example_count + i, :] = target
-
-                example_count += 1
-                word_counter = 0
-
-                example = numpy.zeros((1, window_size, w2v_size))
-                target_window = []
     print "X shape: {}".format(X.shape)
     print "Y.shape: {}".format(y.shape)
 
     return X, y
+
+
+def transform_date(X, y, window_size, w2v_size, abstract, labels, word2vec, binary_ce):
+
+    word_counter = 0
+
+    example = numpy.zeros((1, window_size, w2v_size))
+    example_count = 0
+
+    target_window = []
+
+    for word, label in zip(abstract, labels):
+        word_vector = _get_word_vector(word, word2vec)
+
+        if word_counter < window_size:
+            example[:, word_counter, :] = word_vector
+
+            target_window.append(label)
+            word_counter += 1
+        else:
+            for i, label in enumerate(target_window):
+                X[example_count + i, :, :, :] = example
+
+                if binary_ce:
+                    y[example_count + i] = label
+                else:
+
+                    target = numpy.zeros((1, 2))
+
+                    if label == 1:
+                        target[:, 1] = 1
+                    else:
+                        target[:, 0] = 1
+
+                    y[example_count + i, :] = target
+
+            example_count += 1
+            word_counter = 0
+
+            example = numpy.zeros((1, window_size, w2v_size))
+            target_window = []
 
 def _model(X_train, y_train, X_test, y_test):
     global model
