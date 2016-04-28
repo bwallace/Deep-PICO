@@ -3,6 +3,8 @@ import sys
 import parse_summerscales
 import numpy
 import crf
+import zipfile
+
 from GroupNN import GroupNN
 
 from gensim.models import Word2Vec
@@ -13,8 +15,15 @@ from sklearn.cross_validation import KFold
 from hyperas import optim
 from hyperopt import Trials, STATUS_OK, tpe
 
+import h5py
+from random import sample
+from lxml import etree
 
+import os
 model = None
+
+#Number of abstracts in dataset
+total_documents = 21850751
 
 def main():
     n_folds = 5
@@ -416,10 +425,109 @@ def _model(X_train, y_train, X_test, y_test):
 
     return {'loss': -acc, 'status': STATUS_OK, 'model': model}
 
-def _data(X_train, y_train, X_test, y_test):
-    return
 
 
+def parse_multiple_files(xml_path, output_file_name='output.txt', save=False):
+    if save:
+        file = open(output_file_name, 'w')
+    files = [os.path.join(xml_path,o) for o in os.listdir(xml_path) if os.path.isfile(os.path.join(xml_path,o))]
+    files.pop(0)
+
+    for zip in files:
+        archive = zipfile.ZipFile(zip, 'r')
+        file_name_parts = zip.split('.')
+        file_name = file_name_parts[0] + '.' + file_name_parts[1]
+        file_name = '../zip/' + file_name.split('/')[-1]
+        xml = archive.open(file_name)
+
+        for out_event, out_element in etree.iterparse(xml):
+            if out_event == 'end' and out_element.tag == 'MedlineCitationSet':
+                for element in out_element.iterchildren():
+                    if element.tag == 'MedlineCitation':
+                        abstract = None
+
+                        for c in element.iterchildren():
+                            if c.tag == 'Article':
+                                for ele in c.iterchildren():
+                                    if ele.tag == 'ArticleTitle':
+                                        if ele.text is not None:
+                                            title = ele.text
+                                    if ele.tag == 'Abstract':
+                                        for abstract_ele in ele.iterchildren():
+                                            if abstract_ele.tag == 'AbstractText':
+                                                abstract = abstract_ele.text
+
+                            if c.tag == 'OtherAbstract' and abstract is not None:
+                                for abstract_ele in c.iterchildren():
+                                    if abstract_ele.tag == "AbstractText":
+                                        if abstract_ele.text is not None:
+                                            abstract = abstract_ele.text
+                        if (abstract and title) is not None:
+                            if save:
+                                file.write(title + ' || ' + abstract + ' || ')
+
+                    element.clear()
+
+
+def process_save_data(limit, target_dict, path='', abstract_path='', pre=False):
+    abstracts = []
+    mesh_list = []
+
+    # sample some extra numbers just in case we dont get to limit
+    lines_to_sample = sample(range(total_documents), limit * 2)
+
+    X_file_name = path + 'X_tfidf_abstracts.h5py'
+    Y_file_name = path + 'Y_mesh_terms.h5py'
+
+    if not os.path.exists(X_file_name):
+        n_features = 50000
+        vectorizer = TfidfVectorizer(min_df=3, max_features=n_features)
+
+        X_train = h5py.File(X_file_name, 'w')
+        Y_train = h5py.File(Y_file_name, 'w')
+
+        assert not abstract_path == '', 'Need a path for data!'
+
+        i = 0
+
+        with open(abstract_path) as file:
+            for n_line, line in enumerate(file):
+                if i == limit:
+                    break
+
+                if n_line not in lines_to_sample:
+                    continue
+
+                split_line = line.split('||')
+
+                if len(split_line) == 3:
+                    title, abstract, mesh = split_line
+                else:
+                    continue
+
+                if not abstract.strip() == 'Abstract available from the publisher.':
+                    text = title + abstract
+                    abstracts.append(text)
+                    mesh_list.append(mesh.split('|'))
+                    i += 1
+
+        #Create h5py dataset for both X and Y
+
+        x = vectorizer.fit_transform(abstracts).todense()
+        y = get_mesh_term_matrix(target_dict, mesh_list, len(mesh_list))
+
+        joblib.dump(vectorizer, 'vectorizer.pkl')
+
+        X_train.create_dataset('data', (limit, x.shape[1]), dtype=numpy.float32, data=x)
+        Y_train.create_dataset('data', (limit, len(target_dict)), dtype=numpy.float32, data=y)
+
+        if not pre:
+            return X_train, Y_train
+    else:
+        X_train = h5py.File(X_file_name, 'r')
+        Y_train = h5py.File(Y_file_name, 'r')
+
+        return X_train, Y_train
 
 
 

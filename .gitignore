@@ -42,3 +42,7 @@ results_gridsearch.txt
 results.txt
 
 ladder/
+
+*.zip
+
+*.txt
